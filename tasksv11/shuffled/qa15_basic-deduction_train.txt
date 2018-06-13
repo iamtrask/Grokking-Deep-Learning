@@ -1,0 +1,3000 @@
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ahxqxdah el t ybdlh.
+3 Wtql txh tsxtea bs lzhhv.
+4 Membmt el t ybdlh.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Mbunhl txh tsxtea bs otql.
+7 Iyeui el t ybdlh.
+8 Hhlleot el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+10 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+11 Mztq el chlleot tsxtea bs?	otq	8 6
+12 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Iyeui el t lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Wtql txh tsxtea bs lzhhv.
+5 Membmt el t lzhhv.
+6 Hhlleot el t ybdlh.
+7 Ahxqxdah el t lzhhv.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el chlleot tsxtea bs?	lzhhv	6 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	5 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+1 Wtql txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Iyeui el t lzhhv.
+4 Ahxqxdah el t lzhhv.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Membmt el t ybdlh.
+8 Hhlleot el t jbus.
+9 Mztq el hyeui tsxtea bs?	ybdlh	3 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 2
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 2
+12 Mztq el jembmt tsxtea bs?	jbus	7 6
+1 Ueoh txh tsxtea bs otql.
+2 Ahxqxdah el t ybdlh.
+3 Iyeui el t ybdlh.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Membmt el t jbus.
+6 Hhlleot el t ybdlh.
+7 Wtql txh tsxtea bs lzhhv.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el chlleot tsxtea bs?	otq	6 1
+10 Mztq el jembmt tsxtea bs?	lzhhv	5 4
+11 Mztq el jembmt tsxtea bs?	lzhhv	5 4
+12 Mztq el hyeui tsxtea bs?	otq	3 1
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Iyeui el t jbus.
+4 Wtql txh tsxtea bs lzhhv.
+5 Ahxqxdah el t jbus.
+6 Ozhhv txh tsxtea bs otql.
+7 Membmt el t jbus.
+8 Hhlleot el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	lzhhv	3 2
+10 Mztq el hyeui tsxtea bs?	lzhhv	3 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 2
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs otql.
+4 Iyeui el t jbus.
+5 Hhlleot el t jbus.
+6 Ahxqxdah el t jbus.
+7 Wtql txh tsxtea bs yeoh.
+8 Membmt el t otq.
+9 Mztq el jembmt tsxtea bs?	ybdlh	8 7
+10 Mztq el jembmt tsxtea bs?	ybdlh	8 7
+11 Mztq el hyeui tsxtea bs?	otq	4 3
+12 Mztq el chlleot tsxtea bs?	otq	5 3
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Ozhhv txh tsxtea bs otql.
+4 Hhlleot el t otq.
+5 Ahxqxdah el t lzhhv.
+6 Membmt el t otq.
+7 Iyeui el t lzhhv.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	otq	5 3
+10 Mztq el rhxqxdah tsxtea bs?	otq	5 3
+11 Mztq el hyeui tsxtea bs?	otq	7 3
+12 Mztq el hyeui tsxtea bs?	otq	7 3
+1 Mbunhl txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Iyeui el t ybdlh.
+4 Wtql txh tsxtea bs jbunhl.
+5 Ahxqxdah el t otq.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Membmt el t ybdlh.
+8 Hhlleot el t otq.
+9 Mztq el chlleot tsxtea bs?	jbus	8 4
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 2
+11 Mztq el rhxqxdah tsxtea bs?	jbus	5 4
+12 Mztq el jembmt tsxtea bs?	lzhhv	7 2
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Membmt el t ybdlh.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Hhlleot el t ybdlh.
+6 Iyeui el t jbus.
+7 Ahxqxdah el t ybdlh.
+8 Wtql txh tsxtea bs yeoh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 1
+10 Mztq el jembmt tsxtea bs?	lzhhv	3 1
+11 Mztq el jembmt tsxtea bs?	lzhhv	3 1
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 1
+1 Ueoh txh tsxtea bs otql.
+2 Iyeui el t ybdlh.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Wtql txh tsxtea bs lzhhv.
+5 Membmt el t otq.
+6 Ozhhv txh tsxtea bs jbunhl.
+7 Hhlleot el t ybdlh.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	otq	7 1
+10 Mztq el hyeui tsxtea bs?	otq	2 1
+11 Mztq el chlleot tsxtea bs?	otq	7 1
+12 Mztq el jembmt tsxtea bs?	lzhhv	5 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs otql.
+4 Ahxqxdah el t lzhhv.
+5 Membmt el t ybdlh.
+6 Iyeui el t jbus.
+7 Wtql txh tsxtea bs lzhhv.
+8 Hhlleot el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	jbus	5 1
+10 Mztq el jembmt tsxtea bs?	jbus	5 1
+11 Mztq el hyeui tsxtea bs?	otq	6 3
+12 Mztq el hyeui tsxtea bs?	otq	6 3
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs jbunhl.
+3 Ahxqxdah el t lzhhv.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Iyeui el t jbus.
+6 Membmt el t otq.
+7 Ueoh txh tsxtea bs jbunhl.
+8 Hhlleot el t jbus.
+9 Mztq el chlleot tsxtea bs?	ybdlh	8 4
+10 Mztq el rhxqxdah tsxtea bs?	jbus	3 1
+11 Mztq el jembmt tsxtea bs?	jbus	6 2
+12 Mztq el chlleot tsxtea bs?	ybdlh	8 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Hhlleot el t ybdlh.
+4 Membmt el t lzhhv.
+5 Ahxqxdah el t ybdlh.
+6 Wtql txh tsxtea bs yeoh.
+7 Iyeui el t otq.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el hyeui tsxtea bs?	ybdlh	7 6
+10 Mztq el rhxqxdah tsxtea bs?	jbus	5 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	5 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	7 6
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Membmt el t lzhhv.
+5 Iyeui el t lzhhv.
+6 Hhlleot el t lzhhv.
+7 Wtql txh tsxtea bs yeoh.
+8 Ahxqxdah el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 3
+10 Mztq el hyeui tsxtea bs?	otq	5 1
+11 Mztq el jembmt tsxtea bs?	otq	4 1
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 3
+1 Ueoh txh tsxtea bs otql.
+2 Iyeui el t ybdlh.
+3 Membmt el t ybdlh.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Ahxqxdah el t lzhhv.
+6 Mbunhl txh tsxtea bs otql.
+7 Wtql txh tsxtea bs lzhhv.
+8 Hhlleot el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	3 1
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 4
+11 Mztq el hyeui tsxtea bs?	otq	2 1
+12 Mztq el hyeui tsxtea bs?	otq	2 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Membmt el t lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Iyeui el t lzhhv.
+5 Mbunhl txh tsxtea bs otql.
+6 Hhlleot el t lzhhv.
+7 Ahxqxdah el t ybdlh.
+8 Wtql txh tsxtea bs lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	4 1
+11 Mztq el hyeui tsxtea bs?	ybdlh	4 1
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Ahxqxdah el t lzhhv.
+5 Membmt el t lzhhv.
+6 Iyeui el t lzhhv.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Hhlleot el t jbus.
+9 Mztq el hyeui tsxtea bs?	ybdlh	6 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	6 3
+11 Mztq el jembmt tsxtea bs?	ybdlh	5 3
+12 Mztq el jembmt tsxtea bs?	ybdlh	5 3
+1 Mbunhl txh tsxtea bs yeoh.
+2 Wtql txh tsxtea bs jbunhl.
+3 Membmt el t jbus.
+4 Iyeui el t jbus.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Hhlleot el t ybdlh.
+8 Ahxqxdah el t otq.
+9 Mztq el chlleot tsxtea bs?	jbus	7 6
+10 Mztq el rhxqxdah tsxtea bs?	jbus	8 2
+11 Mztq el hyeui tsxtea bs?	ybdlh	4 1
+12 Mztq el chlleot tsxtea bs?	jbus	7 6
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs otql.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Iyeui el t jbus.
+5 Wtql txh tsxtea bs yeoh.
+6 Hhlleot el t jbus.
+7 Ahxqxdah el t otq.
+8 Membmt el t jbus.
+9 Mztq el jembmt tsxtea bs?	lzhhv	8 1
+10 Mztq el hyeui tsxtea bs?	lzhhv	4 1
+11 Mztq el hyeui tsxtea bs?	lzhhv	4 1
+12 Mztq el jembmt tsxtea bs?	lzhhv	8 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs yeoh.
+4 Iyeui el t otq.
+5 Membmt el t jbus.
+6 Ozhhv txh tsxtea bs otql.
+7 Hhlleot el t otq.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	otq	8 6
+10 Mztq el rhxqxdah tsxtea bs?	otq	8 6
+11 Mztq el jembmt tsxtea bs?	lzhhv	5 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	4 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Membmt el t jbus.
+3 Wtql txh tsxtea bs jbunhl.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Iyeui el t jbus.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Hhlleot el t ybdlh.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el hyeui tsxtea bs?	lzhhv	5 1
+10 Mztq el jembmt tsxtea bs?	lzhhv	2 1
+11 Mztq el jembmt tsxtea bs?	lzhhv	2 1
+12 Mztq el chlleot tsxtea bs?	jbus	7 4
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Hhlleot el t otq.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Ahxqxdah el t lzhhv.
+7 Iyeui el t jbus.
+8 Membmt el t jbus.
+9 Mztq el hyeui tsxtea bs?	lzhhv	7 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	8 3
+11 Mztq el jembmt tsxtea bs?	lzhhv	8 3
+12 Mztq el jembmt tsxtea bs?	lzhhv	8 3
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Iyeui el t otq.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Hhlleot el t lzhhv.
+7 Ahxqxdah el t otq.
+8 Membmt el t jbus.
+9 Mztq el jembmt tsxtea bs?	ybdlh	8 5
+10 Mztq el chlleot tsxtea bs?	jbus	6 3
+11 Mztq el chlleot tsxtea bs?	jbus	6 3
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Iyeui el t jbus.
+5 Membmt el t ybdlh.
+6 Hhlleot el t ybdlh.
+7 Ahxqxdah el t jbus.
+8 Wtql txh tsxtea bs yeoh.
+9 Mztq el jembmt tsxtea bs?	lzhhv	5 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 1
+11 Mztq el hyeui tsxtea bs?	ybdlh	4 1
+12 Mztq el chlleot tsxtea bs?	lzhhv	6 2
+1 Wtql txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Ueoh txh tsxtea bs otql.
+4 Iyeui el t lzhhv.
+5 Membmt el t otq.
+6 Ahxqxdah el t ybdlh.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Hhlleot el t otq.
+9 Mztq el chlleot tsxtea bs?	jbus	8 1
+10 Mztq el chlleot tsxtea bs?	jbus	8 1
+11 Mztq el hyeui tsxtea bs?	jbus	4 2
+12 Mztq el chlleot tsxtea bs?	jbus	8 1
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Hhlleot el t lzhhv.
+4 Iyeui el t lzhhv.
+5 Ahxqxdah el t ybdlh.
+6 Wtql txh tsxtea bs jbunhl.
+7 Mbunhl txh tsxtea bs otql.
+8 Membmt el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	ybdlh	3 2
+10 Mztq el jembmt tsxtea bs?	ybdlh	8 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	3 2
+12 Mztq el jembmt tsxtea bs?	ybdlh	8 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs otql.
+3 Membmt el t ybdlh.
+4 Wtql txh tsxtea bs jbunhl.
+5 Iyeui el t otq.
+6 Hhlleot el t otq.
+7 Ozhhv txh tsxtea bs jbunhl.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	8 1
+10 Mztq el jembmt tsxtea bs?	jbus	3 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	8 1
+12 Mztq el hyeui tsxtea bs?	jbus	5 4
+1 Wtql txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Iyeui el t lzhhv.
+4 Hhlleot el t otq.
+5 Ahxqxdah el t lzhhv.
+6 Mbunhl txh tsxtea bs yeoh.
+7 Membmt el t otq.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	5 2
+10 Mztq el hyeui tsxtea bs?	jbus	3 2
+11 Mztq el hyeui tsxtea bs?	jbus	3 2
+12 Mztq el jembmt tsxtea bs?	lzhhv	7 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs lzhhv.
+3 Membmt el t otq.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Hhlleot el t lzhhv.
+6 Ahxqxdah el t otq.
+7 Iyeui el t lzhhv.
+8 Mbunhl txh tsxtea bs yeoh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 2
+10 Mztq el hyeui tsxtea bs?	ybdlh	7 4
+11 Mztq el jembmt tsxtea bs?	lzhhv	3 2
+12 Mztq el jembmt tsxtea bs?	lzhhv	3 2
+1 Mbunhl txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs lzhhv.
+4 Iyeui el t jbus.
+5 Hhlleot el t otq.
+6 Ahxqxdah el t otq.
+7 Ueoh txh tsxtea bs jbunhl.
+8 Membmt el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	8 1
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 3
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 3
+12 Mztq el hyeui tsxtea bs?	otq	4 1
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs jbunhl.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Hhlleot el t lzhhv.
+5 Membmt el t jbus.
+6 Ahxqxdah el t otq.
+7 Iyeui el t otq.
+8 Ueoh txh tsxtea bs lzhhv.
+9 Mztq el chlleot tsxtea bs?	ybdlh	4 3
+10 Mztq el hyeui tsxtea bs?	jbus	7 2
+11 Mztq el hyeui tsxtea bs?	jbus	7 2
+12 Mztq el jembmt tsxtea bs?	otq	5 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ahxqxdah el t ybdlh.
+3 Iyeui el t ybdlh.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Wtql txh tsxtea bs yeoh.
+7 Membmt el t jbus.
+8 Hhlleot el t otq.
+9 Mztq el chlleot tsxtea bs?	ybdlh	8 6
+10 Mztq el jembmt tsxtea bs?	ybdlh	7 5
+11 Mztq el hyeui tsxtea bs?	lzhhv	3 1
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	2 1
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Membmt el t lzhhv.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Hhlleot el t lzhhv.
+7 Ahxqxdah el t lzhhv.
+8 Iyeui el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+10 Mztq el chlleot tsxtea bs?	otq	6 1
+11 Mztq el hyeui tsxtea bs?	lzhhv	8 2
+12 Mztq el jembmt tsxtea bs?	otq	4 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Ahxqxdah el t jbus.
+5 Hhlleot el t ybdlh.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Membmt el t jbus.
+8 Iyeui el t otq.
+9 Mztq el jembmt tsxtea bs?	lzhhv	7 1
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 1
+11 Mztq el chlleot tsxtea bs?	lzhhv	5 2
+12 Mztq el hyeui tsxtea bs?	ybdlh	8 3
+1 Mbunhl txh tsxtea bs yeoh.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs otql.
+4 Hhlleot el t lzhhv.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Membmt el t lzhhv.
+7 Iyeui el t lzhhv.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	otq	6 3
+10 Mztq el jembmt tsxtea bs?	otq	6 3
+11 Mztq el chlleot tsxtea bs?	otq	4 3
+12 Mztq el chlleot tsxtea bs?	otq	4 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Membmt el t jbus.
+3 Wtql txh tsxtea bs lzhhv.
+4 Hhlleot el t jbus.
+5 Ozhhv txh tsxtea bs otql.
+6 Iyeui el t lzhhv.
+7 Ueoh txh tsxtea bs jbunhl.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	otq	6 5
+10 Mztq el chlleot tsxtea bs?	lzhhv	4 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	8 7
+12 Mztq el rhxqxdah tsxtea bs?	jbus	8 7
+1 Ozhhv txh tsxtea bs yeoh.
+2 Membmt el t lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Ahxqxdah el t otq.
+5 Iyeui el t lzhhv.
+6 Hhlleot el t otq.
+7 Mbunhl txh tsxtea bs otql.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el hyeui tsxtea bs?	ybdlh	5 1
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Hhlleot el t jbus.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Iyeui el t jbus.
+6 Ahxqxdah el t jbus.
+7 Membmt el t jbus.
+8 Wtql txh tsxtea bs jbunhl.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 1
+10 Mztq el hyeui tsxtea bs?	lzhhv	5 1
+11 Mztq el chlleot tsxtea bs?	lzhhv	2 1
+12 Mztq el hyeui tsxtea bs?	lzhhv	5 1
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Iyeui el t ybdlh.
+4 Membmt el t lzhhv.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Ahxqxdah el t jbus.
+7 Wtql txh tsxtea bs jbunhl.
+8 Hhlleot el t jbus.
+9 Mztq el hyeui tsxtea bs?	jbus	3 1
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 5
+11 Mztq el jembmt tsxtea bs?	jbus	4 2
+12 Mztq el chlleot tsxtea bs?	lzhhv	8 5
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Ozhhv txh tsxtea bs otql.
+4 Ahxqxdah el t ybdlh.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Membmt el t lzhhv.
+7 Hhlleot el t ybdlh.
+8 Iyeui el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+10 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+11 Mztq el jembmt tsxtea bs?	otq	6 3
+12 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+1 Ueoh txh tsxtea bs lzhhv.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Hhlleot el t ybdlh.
+4 Ozhhv txh tsxtea bs otql.
+5 Wtql txh tsxtea bs jbunhl.
+6 Iyeui el t otq.
+7 Membmt el t otq.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	jbus	7 5
+10 Mztq el hyeui tsxtea bs?	jbus	6 5
+11 Mztq el hyeui tsxtea bs?	jbus	6 5
+12 Mztq el chlleot tsxtea bs?	lzhhv	3 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Hhlleot el t ybdlh.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs otql.
+5 Membmt el t jbus.
+6 Ahxqxdah el t lzhhv.
+7 Iyeui el t ybdlh.
+8 Wtql txh tsxtea bs jbunhl.
+9 Mztq el hyeui tsxtea bs?	lzhhv	7 1
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 3
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 3
+12 Mztq el hyeui tsxtea bs?	lzhhv	7 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Membmt el t jbus.
+4 Wtql txh tsxtea bs lzhhv.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Ahxqxdah el t otq.
+7 Hhlleot el t ybdlh.
+8 Iyeui el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+10 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+12 Mztq el chlleot tsxtea bs?	lzhhv	7 5
+1 Wtql txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs otql.
+4 Membmt el t lzhhv.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Ahxqxdah el t jbus.
+7 Hhlleot el t otq.
+8 Iyeui el t jbus.
+9 Mztq el chlleot tsxtea bs?	ybdlh	7 1
+10 Mztq el chlleot tsxtea bs?	ybdlh	7 1
+11 Mztq el jembmt tsxtea bs?	otq	4 3
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs otql.
+3 Wtql txh tsxtea bs lzhhv.
+4 Mbunhl txh tsxtea bs otql.
+5 Ahxqxdah el t otq.
+6 Hhlleot el t lzhhv.
+7 Membmt el t lzhhv.
+8 Iyeui el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	otq	7 2
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 3
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 3
+12 Mztq el chlleot tsxtea bs?	otq	6 2
+1 Wtql txh tsxtea bs jbunhl.
+2 Iyeui el t otq.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Ahxqxdah el t lzhhv.
+7 Membmt el t lzhhv.
+8 Hhlleot el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	6 4
+10 Mztq el rhxqxdah tsxtea bs?	jbus	6 4
+11 Mztq el hyeui tsxtea bs?	jbus	2 1
+12 Mztq el jembmt tsxtea bs?	jbus	7 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ahxqxdah el t ybdlh.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Membmt el t ybdlh.
+5 Hhlleot el t lzhhv.
+6 Mbunhl txh tsxtea bs otql.
+7 Wtql txh tsxtea bs lzhhv.
+8 Iyeui el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+10 Mztq el jembmt tsxtea bs?	jbus	4 1
+11 Mztq el hyeui tsxtea bs?	jbus	8 1
+12 Mztq el hyeui tsxtea bs?	jbus	8 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Iyeui el t lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs otql.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Membmt el t ybdlh.
+7 Ahxqxdah el t otq.
+8 Hhlleot el t jbus.
+9 Mztq el chlleot tsxtea bs?	otq	8 4
+10 Mztq el chlleot tsxtea bs?	otq	8 4
+11 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs otql.
+3 Membmt el t otq.
+4 Ahxqxdah el t jbus.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Iyeui el t lzhhv.
+7 Ueoh txh tsxtea bs jbunhl.
+8 Hhlleot el t otq.
+9 Mztq el jembmt tsxtea bs?	jbus	3 1
+10 Mztq el hyeui tsxtea bs?	jbus	6 5
+11 Mztq el jembmt tsxtea bs?	jbus	3 1
+12 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Wtql txh tsxtea bs lzhhv.
+3 Membmt el t otq.
+4 Hhlleot el t otq.
+5 Ahxqxdah el t lzhhv.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Iyeui el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	4 2
+11 Mztq el jembmt tsxtea bs?	lzhhv	3 2
+12 Mztq el hyeui tsxtea bs?	jbus	8 6
+1 Wtql txh tsxtea bs yeoh.
+2 Ahxqxdah el t otq.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Hhlleot el t otq.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Iyeui el t otq.
+8 Membmt el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	jbus	8 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	7 1
+11 Mztq el jembmt tsxtea bs?	jbus	8 3
+12 Mztq el chlleot tsxtea bs?	ybdlh	4 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Hhlleot el t otq.
+3 Membmt el t otq.
+4 Ozhhv txh tsxtea bs otql.
+5 Iyeui el t lzhhv.
+6 Ahxqxdah el t otq.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el hyeui tsxtea bs?	otq	5 4
+10 Mztq el hyeui tsxtea bs?	otq	5 4
+11 Mztq el chlleot tsxtea bs?	jbus	2 1
+12 Mztq el hyeui tsxtea bs?	otq	5 4
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Hhlleot el t otq.
+5 Membmt el t lzhhv.
+6 Ahxqxdah el t otq.
+7 Iyeui el t lzhhv.
+8 Mbunhl txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	otq	5 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 1
+11 Mztq el hyeui tsxtea bs?	otq	7 2
+12 Mztq el hyeui tsxtea bs?	otq	7 2
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Hhlleot el t jbus.
+5 Membmt el t jbus.
+6 Iyeui el t jbus.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	lzhhv	6 3
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 7
+11 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+12 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Hhlleot el t otq.
+5 Membmt el t otq.
+6 Ahxqxdah el t otq.
+7 Iyeui el t otq.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	jbus	5 1
+10 Mztq el rhxqxdah tsxtea bs?	jbus	6 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	6 1
+12 Mztq el rhxqxdah tsxtea bs?	jbus	6 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs otql.
+4 Wtql txh tsxtea bs yeoh.
+5 Ahxqxdah el t ybdlh.
+6 Membmt el t otq.
+7 Iyeui el t ybdlh.
+8 Hhlleot el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	otq	5 3
+10 Mztq el chlleot tsxtea bs?	ybdlh	8 2
+11 Mztq el hyeui tsxtea bs?	otq	7 3
+12 Mztq el hyeui tsxtea bs?	otq	7 3
+1 Ueoh txh tsxtea bs lzhhv.
+2 Membmt el t ybdlh.
+3 Iyeui el t ybdlh.
+4 Wtql txh tsxtea bs jbunhl.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Ozhhv txh tsxtea bs jbunhl.
+7 Hhlleot el t lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el chlleot tsxtea bs?	jbus	7 6
+10 Mztq el hyeui tsxtea bs?	lzhhv	3 1
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 5
+12 Mztq el chlleot tsxtea bs?	jbus	7 6
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Membmt el t lzhhv.
+3 Ahxqxdah el t lzhhv.
+4 Wtql txh tsxtea bs yeoh.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Mbunhl txh tsxtea bs otql.
+7 Iyeui el t otq.
+8 Hhlleot el t otq.
+9 Mztq el chlleot tsxtea bs?	ybdlh	8 4
+10 Mztq el jembmt tsxtea bs?	jbus	2 1
+11 Mztq el chlleot tsxtea bs?	ybdlh	8 4
+12 Mztq el chlleot tsxtea bs?	ybdlh	8 4
+1 Wtql txh tsxtea bs yeoh.
+2 Hhlleot el t otq.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Ueoh txh tsxtea bs lzhhv.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Iyeui el t otq.
+7 Membmt el t lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el hyeui tsxtea bs?	ybdlh	6 1
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 5
+11 Mztq el hyeui tsxtea bs?	ybdlh	6 1
+12 Mztq el chlleot tsxtea bs?	ybdlh	2 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Iyeui el t jbus.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Wtql txh tsxtea bs jbunhl.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Hhlleot el t ybdlh.
+7 Ahxqxdah el t otq.
+8 Membmt el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	ybdlh	8 3
+10 Mztq el rhxqxdah tsxtea bs?	jbus	7 4
+11 Mztq el rhxqxdah tsxtea bs?	jbus	7 4
+12 Mztq el chlleot tsxtea bs?	lzhhv	6 5
+1 Ueoh txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs otql.
+4 Membmt el t otq.
+5 Ahxqxdah el t ybdlh.
+6 Ozhhv txh tsxtea bs jbunhl.
+7 Iyeui el t ybdlh.
+8 Hhlleot el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	otq	5 1
+10 Mztq el chlleot tsxtea bs?	otq	8 3
+11 Mztq el rhxqxdah tsxtea bs?	otq	5 1
+12 Mztq el jembmt tsxtea bs?	lzhhv	4 2
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs jbunhl.
+3 Ahxqxdah el t jbus.
+4 Ozhhv txh tsxtea bs otql.
+5 Ueoh txh tsxtea bs otql.
+6 Iyeui el t otq.
+7 Membmt el t otq.
+8 Hhlleot el t otq.
+9 Mztq el hyeui tsxtea bs?	jbus	6 2
+10 Mztq el jembmt tsxtea bs?	jbus	7 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	3 1
+12 Mztq el chlleot tsxtea bs?	jbus	8 2
+1 Wtql txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Membmt el t lzhhv.
+4 Hhlleot el t lzhhv.
+5 Ahxqxdah el t otq.
+6 Mbunhl txh tsxtea bs yeoh.
+7 Iyeui el t lzhhv.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	jbus	3 2
+10 Mztq el hyeui tsxtea bs?	jbus	7 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 1
+12 Mztq el hyeui tsxtea bs?	jbus	7 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Iyeui el t lzhhv.
+5 Wtql txh tsxtea bs jbunhl.
+6 Hhlleot el t lzhhv.
+7 Membmt el t otq.
+8 Ahxqxdah el t jbus.
+9 Mztq el jembmt tsxtea bs?	jbus	7 5
+10 Mztq el hyeui tsxtea bs?	ybdlh	4 1
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 3
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs otql.
+3 Membmt el t otq.
+4 Iyeui el t ybdlh.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Hhlleot el t jbus.
+7 Ozhhv txh tsxtea bs otql.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	otq	4 2
+10 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 1
+12 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs jbunhl.
+3 Iyeui el t jbus.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Hhlleot el t otq.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Ahxqxdah el t jbus.
+8 Membmt el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 1
+10 Mztq el jembmt tsxtea bs?	jbus	8 2
+11 Mztq el chlleot tsxtea bs?	jbus	5 2
+12 Mztq el chlleot tsxtea bs?	jbus	5 2
+1 Ozhhv txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Wtql txh tsxtea bs jbunhl.
+5 Hhlleot el t otq.
+6 Membmt el t ybdlh.
+7 Ahxqxdah el t lzhhv.
+8 Iyeui el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+10 Mztq el jembmt tsxtea bs?	jbus	6 3
+11 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+12 Mztq el hyeui tsxtea bs?	jbus	8 3
+1 Mbunhl txh tsxtea bs otql.
+2 Hhlleot el t jbus.
+3 Membmt el t jbus.
+4 Wtql txh tsxtea bs jbunhl.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Ueoh txh tsxtea bs lzhhv.
+7 Iyeui el t lzhhv.
+8 Ahxqxdah el t otq.
+9 Mztq el jembmt tsxtea bs?	otq	3 1
+10 Mztq el chlleot tsxtea bs?	otq	2 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	8 4
+12 Mztq el jembmt tsxtea bs?	otq	3 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Membmt el t jbus.
+3 Hhlleot el t jbus.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Ueoh txh tsxtea bs otql.
+6 Iyeui el t ybdlh.
+7 Wtql txh tsxtea bs lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el hyeui tsxtea bs?	otq	6 5
+10 Mztq el chlleot tsxtea bs?	ybdlh	3 1
+11 Mztq el hyeui tsxtea bs?	otq	6 5
+12 Mztq el hyeui tsxtea bs?	otq	6 5
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs otql.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Iyeui el t ybdlh.
+5 Hhlleot el t ybdlh.
+6 Ahxqxdah el t ybdlh.
+7 Wtql txh tsxtea bs lzhhv.
+8 Membmt el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	otq	8 2
+10 Mztq el jembmt tsxtea bs?	otq	8 2
+11 Mztq el jembmt tsxtea bs?	otq	8 2
+12 Mztq el chlleot tsxtea bs?	otq	5 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Hhlleot el t ybdlh.
+3 Mbunhl txh tsxtea bs otql.
+4 Ahxqxdah el t jbus.
+5 Ozhhv txh tsxtea bs otql.
+6 Iyeui el t ybdlh.
+7 Wtql txh tsxtea bs yeoh.
+8 Membmt el t otq.
+9 Mztq el jembmt tsxtea bs?	ybdlh	8 7
+10 Mztq el hyeui tsxtea bs?	jbus	6 1
+11 Mztq el chlleot tsxtea bs?	jbus	2 1
+12 Mztq el chlleot tsxtea bs?	jbus	2 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Iyeui el t otq.
+5 Hhlleot el t otq.
+6 Membmt el t jbus.
+7 Ozhhv txh tsxtea bs otql.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	ybdlh	4 2
+10 Mztq el chlleot tsxtea bs?	ybdlh	5 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 1
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ahxqxdah el t ybdlh.
+3 Wtql txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Hhlleot el t otq.
+6 Iyeui el t ybdlh.
+7 Membmt el t otq.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el hyeui tsxtea bs?	lzhhv	6 1
+10 Mztq el jembmt tsxtea bs?	ybdlh	7 3
+11 Mztq el chlleot tsxtea bs?	ybdlh	5 3
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	2 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Ahxqxdah el t lzhhv.
+4 Wtql txh tsxtea bs jbunhl.
+5 Hhlleot el t lzhhv.
+6 Iyeui el t otq.
+7 Membmt el t jbus.
+8 Ueoh txh tsxtea bs lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	3 1
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	3 1
+11 Mztq el hyeui tsxtea bs?	jbus	6 4
+12 Mztq el chlleot tsxtea bs?	ybdlh	5 1
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs otql.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Hhlleot el t ybdlh.
+6 Ahxqxdah el t ybdlh.
+7 Membmt el t otq.
+8 Iyeui el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	ybdlh	7 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	5 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 2
+12 Mztq el hyeui tsxtea bs?	lzhhv	8 2
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs otql.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Membmt el t otq.
+5 Ahxqxdah el t otq.
+6 Hhlleot el t lzhhv.
+7 Iyeui el t ybdlh.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el chlleot tsxtea bs?	jbus	6 3
+10 Mztq el hyeui tsxtea bs?	otq	7 2
+11 Mztq el jembmt tsxtea bs?	ybdlh	4 1
+12 Mztq el jembmt tsxtea bs?	ybdlh	4 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Iyeui el t jbus.
+5 Membmt el t jbus.
+6 Ahxqxdah el t otq.
+7 Ozhhv txh tsxtea bs yeoh.
+8 Hhlleot el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	ybdlh	5 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	4 3
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 2
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Membmt el t lzhhv.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Hhlleot el t ybdlh.
+5 Wtql txh tsxtea bs yeoh.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Iyeui el t otq.
+8 Ahxqxdah el t jbus.
+9 Mztq el chlleot tsxtea bs?	jbus	4 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	7 5
+11 Mztq el jembmt tsxtea bs?	ybdlh	2 1
+12 Mztq el jembmt tsxtea bs?	ybdlh	2 1
+1 Wtql txh tsxtea bs lzhhv.
+2 Mbunhl txh tsxtea bs otql.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Ozhhv txh tsxtea bs otql.
+5 Ahxqxdah el t ybdlh.
+6 Iyeui el t jbus.
+7 Membmt el t ybdlh.
+8 Hhlleot el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	lzhhv	8 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 3
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 3
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ueoh txh tsxtea bs otql.
+3 Ahxqxdah el t ybdlh.
+4 Wtql txh tsxtea bs lzhhv.
+5 Hhlleot el t otq.
+6 Iyeui el t ybdlh.
+7 Membmt el t ybdlh.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el chlleot tsxtea bs?	lzhhv	5 4
+10 Mztq el jembmt tsxtea bs?	otq	7 2
+11 Mztq el rhxqxdah tsxtea bs?	otq	3 2
+12 Mztq el hyeui tsxtea bs?	otq	6 2
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Ozhhv txh tsxtea bs otql.
+4 Wtql txh tsxtea bs yeoh.
+5 Iyeui el t jbus.
+6 Hhlleot el t jbus.
+7 Ahxqxdah el t otq.
+8 Membmt el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+11 Mztq el jembmt tsxtea bs?	otq	8 3
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 4
+1 Wtql txh tsxtea bs jbunhl.
+2 Hhlleot el t otq.
+3 Ueoh txh tsxtea bs otql.
+4 Mbunhl txh tsxtea bs otql.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Membmt el t lzhhv.
+7 Iyeui el t lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el hyeui tsxtea bs?	jbus	7 5
+10 Mztq el chlleot tsxtea bs?	jbus	2 1
+11 Mztq el rhxqxdah tsxtea bs?	otq	8 4
+12 Mztq el chlleot tsxtea bs?	jbus	2 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Ahxqxdah el t lzhhv.
+4 Wtql txh tsxtea bs jbunhl.
+5 Membmt el t lzhhv.
+6 Iyeui el t ybdlh.
+7 Mbunhl txh tsxtea bs otql.
+8 Hhlleot el t lzhhv.
+9 Mztq el hyeui tsxtea bs?	lzhhv	6 2
+10 Mztq el jembmt tsxtea bs?	ybdlh	5 1
+11 Mztq el hyeui tsxtea bs?	lzhhv	6 2
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	3 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Membmt el t otq.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Ozhhv txh tsxtea bs otql.
+6 Hhlleot el t jbus.
+7 Iyeui el t lzhhv.
+8 Ahxqxdah el t otq.
+9 Mztq el chlleot tsxtea bs?	lzhhv	6 4
+10 Mztq el jembmt tsxtea bs?	jbus	3 1
+11 Mztq el chlleot tsxtea bs?	lzhhv	6 4
+12 Mztq el rhxqxdah tsxtea bs?	jbus	8 1
+1 Wtql txh tsxtea bs lzhhv.
+2 Ueoh txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Ahxqxdah el t ybdlh.
+5 Membmt el t ybdlh.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Hhlleot el t lzhhv.
+8 Iyeui el t otq.
+9 Mztq el hyeui tsxtea bs?	lzhhv	8 1
+10 Mztq el chlleot tsxtea bs?	ybdlh	7 6
+11 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+12 Mztq el chlleot tsxtea bs?	ybdlh	7 6
+1 Ueoh txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ahxqxdah el t ybdlh.
+4 Membmt el t ybdlh.
+5 Hhlleot el t otq.
+6 Mbunhl txh tsxtea bs otql.
+7 Iyeui el t otq.
+8 Ozhhv txh tsxtea bs jbunhl.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	3 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	5 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	3 1
+12 Mztq el chlleot tsxtea bs?	lzhhv	5 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Ahxqxdah el t lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Iyeui el t ybdlh.
+5 Hhlleot el t ybdlh.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Membmt el t ybdlh.
+8 Wtql txh tsxtea bs jbunhl.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+10 Mztq el hyeui tsxtea bs?	lzhhv	4 3
+11 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+12 Mztq el chlleot tsxtea bs?	lzhhv	5 3
+1 Ueoh txh tsxtea bs otql.
+2 Membmt el t ybdlh.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Mbunhl txh tsxtea bs otql.
+5 Ahxqxdah el t ybdlh.
+6 Iyeui el t ybdlh.
+7 Wtql txh tsxtea bs lzhhv.
+8 Hhlleot el t otq.
+9 Mztq el hyeui tsxtea bs?	otq	6 1
+10 Mztq el jembmt tsxtea bs?	otq	2 1
+11 Mztq el chlleot tsxtea bs?	lzhhv	8 7
+12 Mztq el chlleot tsxtea bs?	lzhhv	8 7
+1 Ueoh txh tsxtea bs lzhhv.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Wtql txh tsxtea bs jbunhl.
+4 Hhlleot el t otq.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Membmt el t jbus.
+7 Ahxqxdah el t otq.
+8 Iyeui el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	jbus	4 3
+10 Mztq el rhxqxdah tsxtea bs?	jbus	7 3
+11 Mztq el jembmt tsxtea bs?	ybdlh	6 2
+12 Mztq el chlleot tsxtea bs?	jbus	4 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Membmt el t jbus.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Wtql txh tsxtea bs jbunhl.
+5 Ahxqxdah el t jbus.
+6 Iyeui el t jbus.
+7 Ozhhv txh tsxtea bs yeoh.
+8 Hhlleot el t otq.
+9 Mztq el chlleot tsxtea bs?	jbus	8 4
+10 Mztq el chlleot tsxtea bs?	jbus	8 4
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 1
+12 Mztq el jembmt tsxtea bs?	lzhhv	2 1
+1 Wtql txh tsxtea bs yeoh.
+2 Ahxqxdah el t otq.
+3 Ozhhv txh tsxtea bs otql.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Membmt el t otq.
+6 Ueoh txh tsxtea bs lzhhv.
+7 Hhlleot el t jbus.
+8 Iyeui el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	lzhhv	7 4
+10 Mztq el hyeui tsxtea bs?	otq	8 3
+11 Mztq el hyeui tsxtea bs?	otq	8 3
+12 Mztq el hyeui tsxtea bs?	otq	8 3
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs otql.
+3 Iyeui el t lzhhv.
+4 Hhlleot el t ybdlh.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Ahxqxdah el t lzhhv.
+7 Wtql txh tsxtea bs jbunhl.
+8 Membmt el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	otq	8 1
+10 Mztq el hyeui tsxtea bs?	otq	3 1
+11 Mztq el chlleot tsxtea bs?	otq	4 2
+12 Mztq el chlleot tsxtea bs?	otq	4 2
+1 Wtql txh tsxtea bs lzhhv.
+2 Mbunhl txh tsxtea bs otql.
+3 Iyeui el t jbus.
+4 Ahxqxdah el t otq.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Ueoh txh tsxtea bs otql.
+7 Membmt el t ybdlh.
+8 Hhlleot el t lzhhv.
+9 Mztq el hyeui tsxtea bs?	otq	3 2
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 1
+11 Mztq el chlleot tsxtea bs?	jbus	8 5
+12 Mztq el hyeui tsxtea bs?	otq	3 2
+1 Wtql txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Hhlleot el t lzhhv.
+5 Membmt el t lzhhv.
+6 Mbunhl txh tsxtea bs yeoh.
+7 Iyeui el t jbus.
+8 Ahxqxdah el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 6
+10 Mztq el chlleot tsxtea bs?	jbus	4 2
+11 Mztq el hyeui tsxtea bs?	ybdlh	7 6
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 6
+1 Mbunhl txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Hhlleot el t ybdlh.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Ahxqxdah el t ybdlh.
+6 Membmt el t jbus.
+7 Wtql txh tsxtea bs yeoh.
+8 Iyeui el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	jbus	3 2
+10 Mztq el jembmt tsxtea bs?	otq	6 1
+11 Mztq el jembmt tsxtea bs?	otq	6 1
+12 Mztq el jembmt tsxtea bs?	otq	6 1
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs jbunhl.
+3 Iyeui el t otq.
+4 Ueoh txh tsxtea bs lzhhv.
+5 Ahxqxdah el t ybdlh.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Hhlleot el t ybdlh.
+8 Membmt el t otq.
+9 Mztq el chlleot tsxtea bs?	lzhhv	7 4
+10 Mztq el hyeui tsxtea bs?	jbus	3 2
+11 Mztq el hyeui tsxtea bs?	jbus	3 2
+12 Mztq el chlleot tsxtea bs?	lzhhv	7 4
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs lzhhv.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Ahxqxdah el t lzhhv.
+6 Membmt el t ybdlh.
+7 Hhlleot el t lzhhv.
+8 Iyeui el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	5 1
+10 Mztq el rhxqxdah tsxtea bs?	jbus	5 1
+11 Mztq el jembmt tsxtea bs?	lzhhv	6 2
+12 Mztq el rhxqxdah tsxtea bs?	jbus	5 1
+1 Ozhhv txh tsxtea bs otql.
+2 Iyeui el t lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Hhlleot el t ybdlh.
+5 Membmt el t ybdlh.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Wtql txh tsxtea bs jbunhl.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+10 Mztq el rhxqxdah tsxtea bs?	otq	8 1
+11 Mztq el chlleot tsxtea bs?	lzhhv	4 3
+12 Mztq el rhxqxdah tsxtea bs?	otq	8 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs otql.
+4 Hhlleot el t lzhhv.
+5 Iyeui el t jbus.
+6 Membmt el t lzhhv.
+7 Ueoh txh tsxtea bs otql.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	ybdlh	6 2
+10 Mztq el jembmt tsxtea bs?	ybdlh	6 2
+11 Mztq el hyeui tsxtea bs?	otq	5 3
+12 Mztq el jembmt tsxtea bs?	ybdlh	6 2
+1 Mbunhl txh tsxtea bs yeoh.
+2 Wtql txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs otql.
+4 Membmt el t ybdlh.
+5 Ahxqxdah el t otq.
+6 Hhlleot el t jbus.
+7 Ozhhv txh tsxtea bs otql.
+8 Iyeui el t lzhhv.
+9 Mztq el hyeui tsxtea bs?	otq	8 7
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+11 Mztq el hyeui tsxtea bs?	otq	8 7
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Hhlleot el t otq.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Iyeui el t jbus.
+6 Membmt el t ybdlh.
+7 Ahxqxdah el t ybdlh.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	otq	6 2
+10 Mztq el chlleot tsxtea bs?	jbus	3 1
+11 Mztq el hyeui tsxtea bs?	lzhhv	5 4
+12 Mztq el jembmt tsxtea bs?	otq	6 2
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs otql.
+3 Hhlleot el t ybdlh.
+4 Membmt el t ybdlh.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Ahxqxdah el t jbus.
+7 Iyeui el t ybdlh.
+8 Wtql txh tsxtea bs jbunhl.
+9 Mztq el chlleot tsxtea bs?	otq	3 2
+10 Mztq el hyeui tsxtea bs?	otq	7 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 5
+12 Mztq el chlleot tsxtea bs?	otq	3 2
+1 Ueoh txh tsxtea bs otql.
+2 Ahxqxdah el t ybdlh.
+3 Wtql txh tsxtea bs jbunhl.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Hhlleot el t otq.
+6 Iyeui el t otq.
+7 Mbunhl txh tsxtea bs lzhhv.
+8 Membmt el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	jbus	5 3
+10 Mztq el chlleot tsxtea bs?	jbus	5 3
+11 Mztq el chlleot tsxtea bs?	jbus	5 3
+12 Mztq el hyeui tsxtea bs?	jbus	6 3
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs lzhhv.
+4 Hhlleot el t lzhhv.
+5 Membmt el t lzhhv.
+6 Ahxqxdah el t ybdlh.
+7 Iyeui el t lzhhv.
+8 Mbunhl txh tsxtea bs yeoh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 1
+10 Mztq el hyeui tsxtea bs?	jbus	7 2
+11 Mztq el hyeui tsxtea bs?	jbus	7 2
+12 Mztq el hyeui tsxtea bs?	jbus	7 2
+1 Wtql txh tsxtea bs lzhhv.
+2 Ahxqxdah el t otq.
+3 Hhlleot el t otq.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Iyeui el t lzhhv.
+7 Mbunhl txh tsxtea bs otql.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	2 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	3 1
+11 Mztq el jembmt tsxtea bs?	jbus	8 4
+12 Mztq el jembmt tsxtea bs?	jbus	8 4
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Membmt el t lzhhv.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Hhlleot el t lzhhv.
+6 Wtql txh tsxtea bs lzhhv.
+7 Ahxqxdah el t jbus.
+8 Iyeui el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	3 2
+10 Mztq el chlleot tsxtea bs?	otq	5 2
+11 Mztq el chlleot tsxtea bs?	otq	5 2
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs otql.
+3 Wtql txh tsxtea bs jbunhl.
+4 Ueoh txh tsxtea bs otql.
+5 Membmt el t otq.
+6 Hhlleot el t lzhhv.
+7 Ahxqxdah el t otq.
+8 Iyeui el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	otq	6 2
+10 Mztq el rhxqxdah tsxtea bs?	jbus	7 3
+11 Mztq el chlleot tsxtea bs?	otq	6 2
+12 Mztq el hyeui tsxtea bs?	otq	8 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Hhlleot el t lzhhv.
+4 Ahxqxdah el t jbus.
+5 Membmt el t jbus.
+6 Wtql txh tsxtea bs lzhhv.
+7 Iyeui el t jbus.
+8 Ueoh txh tsxtea bs lzhhv.
+9 Mztq el hyeui tsxtea bs?	lzhhv	7 2
+10 Mztq el hyeui tsxtea bs?	lzhhv	7 2
+11 Mztq el hyeui tsxtea bs?	lzhhv	7 2
+12 Mztq el jembmt tsxtea bs?	lzhhv	5 2
+1 Wtql txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Ueoh txh tsxtea bs lzhhv.
+5 Hhlleot el t jbus.
+6 Ahxqxdah el t ybdlh.
+7 Iyeui el t otq.
+8 Membmt el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	ybdlh	8 3
+10 Mztq el hyeui tsxtea bs?	jbus	7 1
+11 Mztq el hyeui tsxtea bs?	jbus	7 1
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 4
+1 Wtql txh tsxtea bs yeoh.
+2 Ahxqxdah el t otq.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Hhlleot el t ybdlh.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Iyeui el t ybdlh.
+7 Membmt el t jbus.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el chlleot tsxtea bs?	jbus	4 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 5
+11 Mztq el chlleot tsxtea bs?	jbus	4 3
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	2 1
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Iyeui el t lzhhv.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Hhlleot el t lzhhv.
+7 Membmt el t jbus.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	otq	4 1
+10 Mztq el chlleot tsxtea bs?	otq	6 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	7 5
+12 Mztq el chlleot tsxtea bs?	otq	6 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs otql.
+3 Wtql txh tsxtea bs lzhhv.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Hhlleot el t lzhhv.
+6 Iyeui el t otq.
+7 Membmt el t jbus.
+8 Ahxqxdah el t jbus.
+9 Mztq el hyeui tsxtea bs?	lzhhv	6 3
+10 Mztq el chlleot tsxtea bs?	ybdlh	5 4
+11 Mztq el hyeui tsxtea bs?	lzhhv	6 3
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Iyeui el t jbus.
+4 Ahxqxdah el t otq.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Hhlleot el t otq.
+7 Ozhhv txh tsxtea bs jbunhl.
+8 Membmt el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	4 1
+10 Mztq el hyeui tsxtea bs?	ybdlh	3 2
+11 Mztq el chlleot tsxtea bs?	jbus	6 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	3 2
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Iyeui el t lzhhv.
+5 Hhlleot el t otq.
+6 Mbunhl txh tsxtea bs yeoh.
+7 Ahxqxdah el t jbus.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 6
+10 Mztq el hyeui tsxtea bs?	otq	4 2
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 6
+12 Mztq el chlleot tsxtea bs?	ybdlh	5 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs otql.
+4 Ahxqxdah el t ybdlh.
+5 Hhlleot el t otq.
+6 Ozhhv txh tsxtea bs otql.
+7 Iyeui el t ybdlh.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	4 3
+10 Mztq el jembmt tsxtea bs?	otq	8 3
+11 Mztq el jembmt tsxtea bs?	otq	8 3
+12 Mztq el jembmt tsxtea bs?	otq	8 3
+1 Wtql txh tsxtea bs jbunhl.
+2 Membmt el t otq.
+3 Ueoh txh tsxtea bs otql.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Ahxqxdah el t jbus.
+6 Iyeui el t ybdlh.
+7 Ozhhv txh tsxtea bs jbunhl.
+8 Hhlleot el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	otq	6 3
+10 Mztq el chlleot tsxtea bs?	otq	8 3
+11 Mztq el hyeui tsxtea bs?	otq	6 3
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Wtql txh tsxtea bs jbunhl.
+5 Membmt el t ybdlh.
+6 Ahxqxdah el t jbus.
+7 Iyeui el t ybdlh.
+8 Hhlleot el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 3
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 3
+11 Mztq el chlleot tsxtea bs?	otq	8 2
+12 Mztq el jembmt tsxtea bs?	jbus	5 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs otql.
+4 Wtql txh tsxtea bs yeoh.
+5 Iyeui el t otq.
+6 Hhlleot el t lzhhv.
+7 Membmt el t lzhhv.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	otq	7 3
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 2
+11 Mztq el chlleot tsxtea bs?	otq	6 3
+12 Mztq el chlleot tsxtea bs?	otq	6 3
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ahxqxdah el t ybdlh.
+3 Ozhhv txh tsxtea bs otql.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Hhlleot el t lzhhv.
+6 Membmt el t lzhhv.
+7 Iyeui el t ybdlh.
+8 Wtql txh tsxtea bs lzhhv.
+9 Mztq el chlleot tsxtea bs?	otq	5 3
+10 Mztq el hyeui tsxtea bs?	lzhhv	7 1
+11 Mztq el chlleot tsxtea bs?	otq	5 3
+12 Mztq el hyeui tsxtea bs?	lzhhv	7 1
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ueoh txh tsxtea bs otql.
+4 Ahxqxdah el t otq.
+5 Membmt el t ybdlh.
+6 Ozhhv txh tsxtea bs otql.
+7 Hhlleot el t jbus.
+8 Iyeui el t otq.
+9 Mztq el jembmt tsxtea bs?	otq	5 3
+10 Mztq el hyeui tsxtea bs?	lzhhv	8 2
+11 Mztq el hyeui tsxtea bs?	lzhhv	8 2
+12 Mztq el chlleot tsxtea bs?	otq	7 1
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs jbunhl.
+3 Hhlleot el t otq.
+4 Mbunhl txh tsxtea bs otql.
+5 Iyeui el t otq.
+6 Membmt el t lzhhv.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	jbus	3 2
+10 Mztq el chlleot tsxtea bs?	jbus	3 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 7
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 7
+1 Wtql txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Iyeui el t otq.
+4 Membmt el t otq.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Hhlleot el t lzhhv.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Ahxqxdah el t jbus.
+9 Mztq el hyeui tsxtea bs?	jbus	3 1
+10 Mztq el hyeui tsxtea bs?	jbus	3 1
+11 Mztq el chlleot tsxtea bs?	jbus	6 2
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 7
+1 Wtql txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Ozhhv txh tsxtea bs otql.
+5 Iyeui el t ybdlh.
+6 Hhlleot el t jbus.
+7 Ahxqxdah el t lzhhv.
+8 Membmt el t otq.
+9 Mztq el chlleot tsxtea bs?	lzhhv	6 2
+10 Mztq el rhxqxdah tsxtea bs?	otq	7 4
+11 Mztq el rhxqxdah tsxtea bs?	otq	7 4
+12 Mztq el rhxqxdah tsxtea bs?	otq	7 4
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Ahxqxdah el t ybdlh.
+4 Membmt el t ybdlh.
+5 Iyeui el t lzhhv.
+6 Wtql txh tsxtea bs jbunhl.
+7 Hhlleot el t lzhhv.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el chlleot tsxtea bs?	ybdlh	7 2
+10 Mztq el chlleot tsxtea bs?	ybdlh	7 2
+11 Mztq el rhxqxdah tsxtea bs?	otq	3 1
+12 Mztq el jembmt tsxtea bs?	otq	4 1
+1 Wtql txh tsxtea bs yeoh.
+2 Iyeui el t otq.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Ahxqxdah el t otq.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Ueoh txh tsxtea bs otql.
+7 Membmt el t otq.
+8 Hhlleot el t jbus.
+9 Mztq el chlleot tsxtea bs?	ybdlh	8 3
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 1
+11 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Wtql txh tsxtea bs lzhhv.
+4 Mbunhl txh tsxtea bs otql.
+5 Hhlleot el t otq.
+6 Ahxqxdah el t otq.
+7 Iyeui el t lzhhv.
+8 Membmt el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	8 4
+10 Mztq el hyeui tsxtea bs?	jbus	7 1
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 3
+12 Mztq el jembmt tsxtea bs?	otq	8 4
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Membmt el t lzhhv.
+4 Ueoh txh tsxtea bs otql.
+5 Wtql txh tsxtea bs lzhhv.
+6 Iyeui el t jbus.
+7 Ahxqxdah el t jbus.
+8 Hhlleot el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 2
+11 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs otql.
+3 Wtql txh tsxtea bs jbunhl.
+4 Membmt el t lzhhv.
+5 Ueoh txh tsxtea bs otql.
+6 Hhlleot el t jbus.
+7 Iyeui el t jbus.
+8 Ahxqxdah el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+10 Mztq el chlleot tsxtea bs?	otq	6 2
+11 Mztq el hyeui tsxtea bs?	otq	7 2
+12 Mztq el hyeui tsxtea bs?	otq	7 2
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs yeoh.
+3 Hhlleot el t jbus.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Iyeui el t ybdlh.
+7 Membmt el t otq.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	jbus	6 4
+10 Mztq el chlleot tsxtea bs?	lzhhv	3 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	7 2
+12 Mztq el chlleot tsxtea bs?	lzhhv	3 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs lzhhv.
+3 Hhlleot el t otq.
+4 Iyeui el t otq.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Ahxqxdah el t ybdlh.
+8 Membmt el t jbus.
+9 Mztq el jembmt tsxtea bs?	lzhhv	8 1
+10 Mztq el hyeui tsxtea bs?	lzhhv	4 2
+11 Mztq el rhxqxdah tsxtea bs?	jbus	7 5
+12 Mztq el chlleot tsxtea bs?	lzhhv	3 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ahxqxdah el t lzhhv.
+4 Hhlleot el t jbus.
+5 Wtql txh tsxtea bs yeoh.
+6 Ueoh txh tsxtea bs otql.
+7 Iyeui el t ybdlh.
+8 Membmt el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	3 1
+10 Mztq el chlleot tsxtea bs?	ybdlh	4 2
+11 Mztq el jembmt tsxtea bs?	ybdlh	8 2
+12 Mztq el rhxqxdah tsxtea bs?	jbus	3 1
+1 Wtql txh tsxtea bs lzhhv.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Hhlleot el t otq.
+5 Ahxqxdah el t jbus.
+6 Iyeui el t otq.
+7 Ueoh txh tsxtea bs jbunhl.
+8 Membmt el t otq.
+9 Mztq el chlleot tsxtea bs?	lzhhv	4 1
+10 Mztq el jembmt tsxtea bs?	lzhhv	8 1
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 2
+12 Mztq el jembmt tsxtea bs?	lzhhv	8 1
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs lzhhv.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Hhlleot el t lzhhv.
+6 Ahxqxdah el t lzhhv.
+7 Iyeui el t lzhhv.
+8 Membmt el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	jbus	7 2
+10 Mztq el chlleot tsxtea bs?	jbus	5 2
+11 Mztq el chlleot tsxtea bs?	jbus	5 2
+12 Mztq el rhxqxdah tsxtea bs?	jbus	6 2
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs jbunhl.
+4 Iyeui el t lzhhv.
+5 Ahxqxdah el t otq.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Membmt el t ybdlh.
+8 Hhlleot el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	lzhhv	8 2
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 2
+11 Mztq el jembmt tsxtea bs?	lzhhv	7 2
+12 Mztq el chlleot tsxtea bs?	lzhhv	8 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Membmt el t ybdlh.
+4 Hhlleot el t ybdlh.
+5 Wtql txh tsxtea bs lzhhv.
+6 Ahxqxdah el t otq.
+7 Iyeui el t otq.
+8 Mbunhl txh tsxtea bs lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 5
+10 Mztq el chlleot tsxtea bs?	jbus	4 2
+11 Mztq el jembmt tsxtea bs?	jbus	3 2
+12 Mztq el chlleot tsxtea bs?	jbus	4 2
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Iyeui el t jbus.
+3 Wtql txh tsxtea bs yeoh.
+4 Ueoh txh tsxtea bs otql.
+5 Hhlleot el t ybdlh.
+6 Ozhhv txh tsxtea bs otql.
+7 Membmt el t jbus.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	otq	8 6
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 1
+11 Mztq el chlleot tsxtea bs?	otq	5 4
+12 Mztq el chlleot tsxtea bs?	otq	5 4
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs yeoh.
+3 Hhlleot el t otq.
+4 Ahxqxdah el t otq.
+5 Mbunhl txh tsxtea bs otql.
+6 Iyeui el t lzhhv.
+7 Ueoh txh tsxtea bs otql.
+8 Membmt el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	ybdlh	3 2
+10 Mztq el hyeui tsxtea bs?	jbus	6 1
+11 Mztq el jembmt tsxtea bs?	otq	8 7
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 2
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Membmt el t jbus.
+3 Wtql txh tsxtea bs jbunhl.
+4 Ahxqxdah el t otq.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Hhlleot el t ybdlh.
+7 Iyeui el t jbus.
+8 Ozhhv txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	lzhhv	2 1
+10 Mztq el chlleot tsxtea bs?	jbus	6 5
+11 Mztq el chlleot tsxtea bs?	jbus	6 5
+12 Mztq el rhxqxdah tsxtea bs?	jbus	4 3
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Membmt el t lzhhv.
+5 Ahxqxdah el t otq.
+6 Iyeui el t lzhhv.
+7 Hhlleot el t lzhhv.
+8 Ueoh txh tsxtea bs jbunhl.
+9 Mztq el hyeui tsxtea bs?	jbus	6 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 1
+11 Mztq el hyeui tsxtea bs?	jbus	6 2
+12 Mztq el jembmt tsxtea bs?	jbus	4 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs jbunhl.
+3 Hhlleot el t otq.
+4 Ozhhv txh tsxtea bs otql.
+5 Ahxqxdah el t otq.
+6 Iyeui el t ybdlh.
+7 Membmt el t otq.
+8 Mbunhl txh tsxtea bs otql.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	5 2
+10 Mztq el rhxqxdah tsxtea bs?	jbus	5 2
+11 Mztq el chlleot tsxtea bs?	jbus	3 2
+12 Mztq el rhxqxdah tsxtea bs?	jbus	5 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Wtql txh tsxtea bs yeoh.
+4 Membmt el t jbus.
+5 Hhlleot el t ybdlh.
+6 Ozhhv txh tsxtea bs otql.
+7 Ahxqxdah el t ybdlh.
+8 Iyeui el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	jbus	5 1
+10 Mztq el jembmt tsxtea bs?	ybdlh	4 2
+11 Mztq el chlleot tsxtea bs?	jbus	5 1
+12 Mztq el chlleot tsxtea bs?	jbus	5 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Hhlleot el t jbus.
+5 Membmt el t jbus.
+6 Ahxqxdah el t otq.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Iyeui el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 3
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 3
+11 Mztq el hyeui tsxtea bs?	ybdlh	8 1
+12 Mztq el jembmt tsxtea bs?	lzhhv	5 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Membmt el t lzhhv.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Ahxqxdah el t lzhhv.
+6 Wtql txh tsxtea bs lzhhv.
+7 Hhlleot el t ybdlh.
+8 Iyeui el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 1
+10 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 1
+12 Mztq el chlleot tsxtea bs?	jbus	7 4
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Hhlleot el t otq.
+4 Ahxqxdah el t otq.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Membmt el t ybdlh.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Iyeui el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	jbus	6 5
+10 Mztq el chlleot tsxtea bs?	lzhhv	3 2
+11 Mztq el hyeui tsxtea bs?	otq	8 1
+12 Mztq el hyeui tsxtea bs?	otq	8 1
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Iyeui el t jbus.
+4 Ahxqxdah el t ybdlh.
+5 Wtql txh tsxtea bs jbunhl.
+6 Membmt el t ybdlh.
+7 Ozhhv txh tsxtea bs yeoh.
+8 Hhlleot el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	otq	8 1
+10 Mztq el jembmt tsxtea bs?	otq	6 1
+11 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+12 Mztq el jembmt tsxtea bs?	otq	6 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Iyeui el t ybdlh.
+5 Wtql txh tsxtea bs yeoh.
+6 Ahxqxdah el t otq.
+7 Hhlleot el t otq.
+8 Membmt el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	lzhhv	8 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	8 3
+11 Mztq el jembmt tsxtea bs?	lzhhv	8 3
+12 Mztq el chlleot tsxtea bs?	ybdlh	7 5
+1 Wtql txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Ahxqxdah el t jbus.
+4 Ozhhv txh tsxtea bs otql.
+5 Iyeui el t jbus.
+6 Hhlleot el t lzhhv.
+7 Ueoh txh tsxtea bs otql.
+8 Membmt el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	3 2
+10 Mztq el hyeui tsxtea bs?	lzhhv	5 2
+11 Mztq el jembmt tsxtea bs?	otq	8 4
+12 Mztq el jembmt tsxtea bs?	otq	8 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs otql.
+4 Hhlleot el t otq.
+5 Membmt el t jbus.
+6 Ozhhv txh tsxtea bs otql.
+7 Ahxqxdah el t ybdlh.
+8 Iyeui el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	otq	5 3
+10 Mztq el chlleot tsxtea bs?	lzhhv	4 2
+11 Mztq el jembmt tsxtea bs?	otq	5 3
+12 Mztq el jembmt tsxtea bs?	otq	5 3
+1 Ueoh txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ahxqxdah el t otq.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Hhlleot el t otq.
+7 Iyeui el t ybdlh.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	3 2
+10 Mztq el hyeui tsxtea bs?	otq	7 1
+11 Mztq el jembmt tsxtea bs?	otq	8 1
+12 Mztq el chlleot tsxtea bs?	lzhhv	6 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Membmt el t ybdlh.
+5 Wtql txh tsxtea bs yeoh.
+6 Iyeui el t lzhhv.
+7 Hhlleot el t otq.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	lzhhv	4 2
+10 Mztq el jembmt tsxtea bs?	lzhhv	4 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	7 5
+12 Mztq el jembmt tsxtea bs?	lzhhv	4 2
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Hhlleot el t otq.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Membmt el t otq.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Iyeui el t ybdlh.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+10 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+11 Mztq el jembmt tsxtea bs?	jbus	5 1
+12 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Wtql txh tsxtea bs lzhhv.
+5 Iyeui el t lzhhv.
+6 Hhlleot el t otq.
+7 Ahxqxdah el t jbus.
+8 Membmt el t otq.
+9 Mztq el chlleot tsxtea bs?	lzhhv	6 4
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 3
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 3
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 3
+1 Wtql txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs otql.
+3 Ahxqxdah el t lzhhv.
+4 Ueoh txh tsxtea bs otql.
+5 Hhlleot el t ybdlh.
+6 Iyeui el t lzhhv.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Membmt el t jbus.
+9 Mztq el chlleot tsxtea bs?	otq	5 4
+10 Mztq el jembmt tsxtea bs?	ybdlh	8 7
+11 Mztq el jembmt tsxtea bs?	ybdlh	8 7
+12 Mztq el chlleot tsxtea bs?	otq	5 4
+1 Mbunhl txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs otql.
+3 Iyeui el t lzhhv.
+4 Wtql txh tsxtea bs lzhhv.
+5 Hhlleot el t otq.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Ahxqxdah el t jbus.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	5 4
+11 Mztq el hyeui tsxtea bs?	otq	3 2
+12 Mztq el jembmt tsxtea bs?	jbus	8 6
+1 Wtql txh tsxtea bs lzhhv.
+2 Hhlleot el t otq.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Membmt el t ybdlh.
+7 Iyeui el t jbus.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	lzhhv	2 1
+10 Mztq el hyeui tsxtea bs?	ybdlh	7 4
+11 Mztq el rhxqxdah tsxtea bs?	jbus	8 5
+12 Mztq el rhxqxdah tsxtea bs?	jbus	8 5
+1 Wtql txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ahxqxdah el t jbus.
+4 Ozhhv txh tsxtea bs otql.
+5 Membmt el t lzhhv.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Iyeui el t jbus.
+8 Hhlleot el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	3 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	3 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	8 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	7 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs otql.
+3 Wtql txh tsxtea bs jbunhl.
+4 Mbunhl txh tsxtea bs otql.
+5 Hhlleot el t lzhhv.
+6 Membmt el t lzhhv.
+7 Ahxqxdah el t jbus.
+8 Iyeui el t otq.
+9 Mztq el jembmt tsxtea bs?	otq	6 2
+10 Mztq el hyeui tsxtea bs?	jbus	8 3
+11 Mztq el chlleot tsxtea bs?	otq	5 2
+12 Mztq el hyeui tsxtea bs?	jbus	8 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs lzhhv.
+3 Iyeui el t jbus.
+4 Ozhhv txh tsxtea bs otql.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Ahxqxdah el t lzhhv.
+7 Membmt el t lzhhv.
+8 Hhlleot el t otq.
+9 Mztq el hyeui tsxtea bs?	lzhhv	3 1
+10 Mztq el hyeui tsxtea bs?	lzhhv	3 1
+11 Mztq el jembmt tsxtea bs?	otq	7 4
+12 Mztq el rhxqxdah tsxtea bs?	otq	6 4
+1 Ueoh txh tsxtea bs otql.
+2 Hhlleot el t ybdlh.
+3 Wtql txh tsxtea bs yeoh.
+4 Iyeui el t ybdlh.
+5 Membmt el t otq.
+6 Ahxqxdah el t ybdlh.
+7 Ozhhv txh tsxtea bs otql.
+8 Mbunhl txh tsxtea bs yeoh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	6 1
+10 Mztq el hyeui tsxtea bs?	otq	4 1
+11 Mztq el rhxqxdah tsxtea bs?	otq	6 1
+12 Mztq el hyeui tsxtea bs?	otq	4 1
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Hhlleot el t lzhhv.
+5 Ahxqxdah el t lzhhv.
+6 Ueoh txh tsxtea bs otql.
+7 Iyeui el t ybdlh.
+8 Membmt el t otq.
+9 Mztq el hyeui tsxtea bs?	otq	7 6
+10 Mztq el chlleot tsxtea bs?	jbus	4 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	5 1
+12 Mztq el chlleot tsxtea bs?	jbus	4 1
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs yeoh.
+4 Ahxqxdah el t lzhhv.
+5 Iyeui el t otq.
+6 Hhlleot el t otq.
+7 Mbunhl txh tsxtea bs otql.
+8 Membmt el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	4 2
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+11 Mztq el jembmt tsxtea bs?	jbus	8 2
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs otql.
+3 Iyeui el t jbus.
+4 Hhlleot el t lzhhv.
+5 Wtql txh tsxtea bs yeoh.
+6 Ueoh txh tsxtea bs lzhhv.
+7 Membmt el t lzhhv.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el hyeui tsxtea bs?	lzhhv	3 1
+10 Mztq el chlleot tsxtea bs?	otq	4 2
+11 Mztq el jembmt tsxtea bs?	otq	7 2
+12 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+1 Ueoh txh tsxtea bs lzhhv.
+2 Wtql txh tsxtea bs yeoh.
+3 Hhlleot el t otq.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Membmt el t otq.
+6 Iyeui el t otq.
+7 Ozhhv txh tsxtea bs otql.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	ybdlh	6 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 2
+11 Mztq el jembmt tsxtea bs?	ybdlh	5 2
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 2
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs otql.
+4 Ahxqxdah el t jbus.
+5 Iyeui el t otq.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Hhlleot el t ybdlh.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+11 Mztq el hyeui tsxtea bs?	ybdlh	5 2
+12 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Wtql txh tsxtea bs yeoh.
+4 Ahxqxdah el t jbus.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Membmt el t ybdlh.
+7 Hhlleot el t ybdlh.
+8 Iyeui el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	jbus	6 5
+10 Mztq el chlleot tsxtea bs?	jbus	7 5
+11 Mztq el hyeui tsxtea bs?	jbus	8 5
+12 Mztq el chlleot tsxtea bs?	jbus	7 5
+1 Wtql txh tsxtea bs lzhhv.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Iyeui el t ybdlh.
+4 Ahxqxdah el t otq.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Membmt el t ybdlh.
+7 Ozhhv txh tsxtea bs yeoh.
+8 Hhlleot el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 1
+10 Mztq el jembmt tsxtea bs?	lzhhv	6 2
+11 Mztq el hyeui tsxtea bs?	lzhhv	3 2
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 1
+1 Wtql txh tsxtea bs yeoh.
+2 Iyeui el t otq.
+3 Membmt el t otq.
+4 Ueoh txh tsxtea bs otql.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Hhlleot el t otq.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	8 4
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	2 1
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs lzhhv.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Hhlleot el t ybdlh.
+6 Iyeui el t otq.
+7 Ahxqxdah el t ybdlh.
+8 Membmt el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 1
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 1
+11 Mztq el hyeui tsxtea bs?	lzhhv	6 3
+12 Mztq el jembmt tsxtea bs?	jbus	8 2
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Iyeui el t lzhhv.
+4 Membmt el t lzhhv.
+5 Wtql txh tsxtea bs jbunhl.
+6 Hhlleot el t otq.
+7 Ueoh txh tsxtea bs otql.
+8 Ahxqxdah el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	4 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 1
+11 Mztq el chlleot tsxtea bs?	jbus	6 5
+12 Mztq el jembmt tsxtea bs?	otq	4 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs otql.
+4 Iyeui el t ybdlh.
+5 Hhlleot el t ybdlh.
+6 Membmt el t jbus.
+7 Wtql txh tsxtea bs jbunhl.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el chlleot tsxtea bs?	jbus	5 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+11 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+12 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ozhhv txh tsxtea bs otql.
+4 Ahxqxdah el t ybdlh.
+5 Iyeui el t jbus.
+6 Hhlleot el t lzhhv.
+7 Wtql txh tsxtea bs jbunhl.
+8 Membmt el t jbus.
+9 Mztq el hyeui tsxtea bs?	ybdlh	5 2
+10 Mztq el chlleot tsxtea bs?	otq	6 3
+11 Mztq el jembmt tsxtea bs?	ybdlh	8 2
+12 Mztq el chlleot tsxtea bs?	otq	6 3
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Membmt el t lzhhv.
+4 Ahxqxdah el t lzhhv.
+5 Hhlleot el t ybdlh.
+6 Wtql txh tsxtea bs lzhhv.
+7 Iyeui el t otq.
+8 Mbunhl txh tsxtea bs yeoh.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 2
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 2
+12 Mztq el hyeui tsxtea bs?	lzhhv	7 6
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs yeoh.
+3 Ozhhv txh tsxtea bs otql.
+4 Hhlleot el t otq.
+5 Iyeui el t otq.
+6 Ahxqxdah el t jbus.
+7 Membmt el t otq.
+8 Ueoh txh tsxtea bs jbunhl.
+9 Mztq el hyeui tsxtea bs?	ybdlh	5 2
+10 Mztq el jembmt tsxtea bs?	ybdlh	7 2
+11 Mztq el jembmt tsxtea bs?	ybdlh	7 2
+12 Mztq el chlleot tsxtea bs?	ybdlh	4 2
+1 Ueoh txh tsxtea bs otql.
+2 Membmt el t ybdlh.
+3 Wtql txh tsxtea bs jbunhl.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Iyeui el t lzhhv.
+7 Ahxqxdah el t otq.
+8 Hhlleot el t otq.
+9 Mztq el hyeui tsxtea bs?	ybdlh	6 4
+10 Mztq el jembmt tsxtea bs?	otq	2 1
+11 Mztq el jembmt tsxtea bs?	otq	2 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	6 4
+1 Wtql txh tsxtea bs lzhhv.
+2 Iyeui el t otq.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Hhlleot el t jbus.
+6 Ueoh txh tsxtea bs lzhhv.
+7 Membmt el t ybdlh.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	lzhhv	2 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	5 4
+11 Mztq el jembmt tsxtea bs?	lzhhv	7 6
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 1
+1 Ueoh txh tsxtea bs otql.
+2 Ahxqxdah el t ybdlh.
+3 Wtql txh tsxtea bs yeoh.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Hhlleot el t lzhhv.
+7 Iyeui el t ybdlh.
+8 Membmt el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	ybdlh	6 4
+10 Mztq el hyeui tsxtea bs?	otq	7 1
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 4
+12 Mztq el jembmt tsxtea bs?	otq	8 1
+1 Ueoh txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Wtql txh tsxtea bs yeoh.
+5 Iyeui el t otq.
+6 Hhlleot el t lzhhv.
+7 Membmt el t lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el hyeui tsxtea bs?	ybdlh	5 4
+10 Mztq el jembmt tsxtea bs?	ybdlh	7 3
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 2
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+1 Wtql txh tsxtea bs jbunhl.
+2 Ueoh txh tsxtea bs otql.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Ahxqxdah el t lzhhv.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Membmt el t ybdlh.
+7 Hhlleot el t lzhhv.
+8 Iyeui el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	6 2
+10 Mztq el jembmt tsxtea bs?	otq	6 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	7 3
+12 Mztq el hyeui tsxtea bs?	lzhhv	8 5
+1 Ueoh txh tsxtea bs otql.
+2 Wtql txh tsxtea bs jbunhl.
+3 Membmt el t otq.
+4 Hhlleot el t ybdlh.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Iyeui el t ybdlh.
+7 Ahxqxdah el t lzhhv.
+8 Mbunhl txh tsxtea bs yeoh.
+9 Mztq el jembmt tsxtea bs?	jbus	3 2
+10 Mztq el rhxqxdah tsxtea bs?	jbus	7 5
+11 Mztq el chlleot tsxtea bs?	otq	4 1
+12 Mztq el chlleot tsxtea bs?	otq	4 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs lzhhv.
+4 Ahxqxdah el t jbus.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Iyeui el t jbus.
+7 Membmt el t otq.
+8 Hhlleot el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	lzhhv	7 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 3
+11 Mztq el hyeui tsxtea bs?	ybdlh	6 1
+12 Mztq el chlleot tsxtea bs?	jbus	8 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Hhlleot el t lzhhv.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Wtql txh tsxtea bs lzhhv.
+5 Iyeui el t jbus.
+6 Ahxqxdah el t otq.
+7 Membmt el t jbus.
+8 Ueoh txh tsxtea bs jbunhl.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 4
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 4
+11 Mztq el jembmt tsxtea bs?	lzhhv	7 3
+12 Mztq el chlleot tsxtea bs?	jbus	2 1
+1 Ueoh txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs otql.
+3 Ozhhv txh tsxtea bs otql.
+4 Iyeui el t lzhhv.
+5 Membmt el t lzhhv.
+6 Wtql txh tsxtea bs yeoh.
+7 Ahxqxdah el t otq.
+8 Hhlleot el t otq.
+9 Mztq el hyeui tsxtea bs?	otq	4 3
+10 Mztq el jembmt tsxtea bs?	otq	5 3
+11 Mztq el chlleot tsxtea bs?	ybdlh	8 6
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 6
+1 Mbunhl txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs otql.
+3 Wtql txh tsxtea bs jbunhl.
+4 Hhlleot el t jbus.
+5 Ahxqxdah el t jbus.
+6 Membmt el t ybdlh.
+7 Iyeui el t ybdlh.
+8 Ozhhv txh tsxtea bs jbunhl.
+9 Mztq el hyeui tsxtea bs?	otq	7 2
+10 Mztq el chlleot tsxtea bs?	otq	4 1
+11 Mztq el hyeui tsxtea bs?	otq	7 2
+12 Mztq el chlleot tsxtea bs?	otq	4 1
+1 Ueoh txh tsxtea bs jbunhl.
+2 Hhlleot el t ybdlh.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Iyeui el t jbus.
+5 Membmt el t jbus.
+6 Wtql txh tsxtea bs yeoh.
+7 Ozhhv txh tsxtea bs otql.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el rhxqxdah tsxtea bs?	otq	8 7
+10 Mztq el hyeui tsxtea bs?	lzhhv	4 3
+11 Mztq el hyeui tsxtea bs?	lzhhv	4 3
+12 Mztq el hyeui tsxtea bs?	lzhhv	4 3
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Iyeui el t lzhhv.
+5 Membmt el t ybdlh.
+6 Wtql txh tsxtea bs jbunhl.
+7 Hhlleot el t lzhhv.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	ybdlh	4 3
+10 Mztq el hyeui tsxtea bs?	ybdlh	4 3
+11 Mztq el hyeui tsxtea bs?	ybdlh	4 3
+12 Mztq el hyeui tsxtea bs?	ybdlh	4 3
+1 Ozhhv txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Iyeui el t lzhhv.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Membmt el t jbus.
+7 Hhlleot el t ybdlh.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	jbus	7 5
+10 Mztq el rhxqxdah tsxtea bs?	jbus	8 5
+11 Mztq el rhxqxdah tsxtea bs?	jbus	8 5
+12 Mztq el hyeui tsxtea bs?	otq	4 1
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs otql.
+4 Ueoh txh tsxtea bs lzhhv.
+5 Hhlleot el t jbus.
+6 Ahxqxdah el t otq.
+7 Membmt el t lzhhv.
+8 Iyeui el t otq.
+9 Mztq el hyeui tsxtea bs?	ybdlh	8 1
+10 Mztq el chlleot tsxtea bs?	otq	5 3
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	6 1
+12 Mztq el jembmt tsxtea bs?	otq	7 2
+1 Ueoh txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Iyeui el t ybdlh.
+5 Membmt el t otq.
+6 Hhlleot el t otq.
+7 Ozhhv txh tsxtea bs otql.
+8 Ahxqxdah el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 2
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 2
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 2
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ahxqxdah el t ybdlh.
+3 Ozhhv txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Iyeui el t ybdlh.
+6 Hhlleot el t lzhhv.
+7 Membmt el t jbus.
+8 Wtql txh tsxtea bs jbunhl.
+9 Mztq el hyeui tsxtea bs?	lzhhv	5 1
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	2 1
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+12 Mztq el hyeui tsxtea bs?	lzhhv	5 1
+1 Ueoh txh tsxtea bs jbunhl.
+2 Iyeui el t ybdlh.
+3 Wtql txh tsxtea bs lzhhv.
+4 Ahxqxdah el t ybdlh.
+5 Membmt el t otq.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Hhlleot el t otq.
+8 Ozhhv txh tsxtea bs jbunhl.
+9 Mztq el chlleot tsxtea bs?	lzhhv	7 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+11 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+12 Mztq el hyeui tsxtea bs?	jbus	2 1
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Ahxqxdah el t jbus.
+5 Iyeui el t lzhhv.
+6 Ueoh txh tsxtea bs otql.
+7 Hhlleot el t jbus.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 3
+10 Mztq el jembmt tsxtea bs?	otq	8 6
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 3
+12 Mztq el chlleot tsxtea bs?	lzhhv	7 3
+1 Mbunhl txh tsxtea bs yeoh.
+2 Wtql txh tsxtea bs yeoh.
+3 Ozhhv txh tsxtea bs otql.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Membmt el t otq.
+6 Hhlleot el t otq.
+7 Iyeui el t otq.
+8 Ahxqxdah el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	ybdlh	5 2
+10 Mztq el rhxqxdah tsxtea bs?	otq	8 3
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 2
+12 Mztq el hyeui tsxtea bs?	ybdlh	7 2
+1 Wtql txh tsxtea bs lzhhv.
+2 Mbunhl txh tsxtea bs otql.
+3 Ahxqxdah el t otq.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Membmt el t otq.
+6 Hhlleot el t jbus.
+7 Ozhhv txh tsxtea bs yeoh.
+8 Iyeui el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	3 1
+10 Mztq el chlleot tsxtea bs?	otq	6 2
+11 Mztq el chlleot tsxtea bs?	otq	6 2
+12 Mztq el jembmt tsxtea bs?	lzhhv	5 1
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs otql.
+3 Ahxqxdah el t ybdlh.
+4 Hhlleot el t jbus.
+5 Wtql txh tsxtea bs lzhhv.
+6 Membmt el t ybdlh.
+7 Ozhhv txh tsxtea bs jbunhl.
+8 Iyeui el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	otq	8 1
+10 Mztq el chlleot tsxtea bs?	otq	4 2
+11 Mztq el hyeui tsxtea bs?	otq	8 1
+12 Mztq el chlleot tsxtea bs?	otq	4 2
+1 Ueoh txh tsxtea bs otql.
+2 Hhlleot el t ybdlh.
+3 Membmt el t ybdlh.
+4 Mbunhl txh tsxtea bs otql.
+5 Ahxqxdah el t ybdlh.
+6 Iyeui el t jbus.
+7 Ozhhv txh tsxtea bs otql.
+8 Wtql txh tsxtea bs lzhhv.
+9 Mztq el chlleot tsxtea bs?	otq	2 1
+10 Mztq el jembmt tsxtea bs?	otq	3 1
+11 Mztq el hyeui tsxtea bs?	otq	6 4
+12 Mztq el jembmt tsxtea bs?	otq	3 1
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs otql.
+3 Hhlleot el t otq.
+4 Membmt el t otq.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Mbunhl txh tsxtea bs otql.
+7 Iyeui el t ybdlh.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	otq	7 2
+10 Mztq el hyeui tsxtea bs?	otq	7 2
+11 Mztq el rhxqxdah tsxtea bs?	otq	8 2
+12 Mztq el hyeui tsxtea bs?	otq	7 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs otql.
+3 Ahxqxdah el t jbus.
+4 Hhlleot el t jbus.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Membmt el t lzhhv.
+7 Wtql txh tsxtea bs lzhhv.
+8 Iyeui el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	lzhhv	8 5
+10 Mztq el hyeui tsxtea bs?	lzhhv	8 5
+11 Mztq el hyeui tsxtea bs?	lzhhv	8 5
+12 Mztq el hyeui tsxtea bs?	lzhhv	8 5
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Membmt el t jbus.
+4 Wtql txh tsxtea bs yeoh.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Hhlleot el t lzhhv.
+7 Iyeui el t otq.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	ybdlh	7 4
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 2
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 4
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 4
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Membmt el t jbus.
+4 Ahxqxdah el t jbus.
+5 Hhlleot el t jbus.
+6 Wtql txh tsxtea bs yeoh.
+7 Iyeui el t ybdlh.
+8 Ozhhv txh tsxtea bs yeoh.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 1
+10 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+11 Mztq el rhxqxdah tsxtea bs?	ybdlh	4 1
+12 Mztq el hyeui tsxtea bs?	lzhhv	7 2
+1 Mbunhl txh tsxtea bs otql.
+2 Membmt el t jbus.
+3 Wtql txh tsxtea bs lzhhv.
+4 Iyeui el t otq.
+5 Ahxqxdah el t jbus.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Ueoh txh tsxtea bs otql.
+8 Hhlleot el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	otq	2 1
+10 Mztq el hyeui tsxtea bs?	lzhhv	4 3
+11 Mztq el jembmt tsxtea bs?	otq	2 1
+12 Mztq el chlleot tsxtea bs?	ybdlh	8 6
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Membmt el t jbus.
+3 Ueoh txh tsxtea bs otql.
+4 Iyeui el t ybdlh.
+5 Hhlleot el t jbus.
+6 Ahxqxdah el t jbus.
+7 Ozhhv txh tsxtea bs yeoh.
+8 Wtql txh tsxtea bs yeoh.
+9 Mztq el jembmt tsxtea bs?	lzhhv	2 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	5 1
+11 Mztq el hyeui tsxtea bs?	otq	4 3
+12 Mztq el jembmt tsxtea bs?	lzhhv	2 1
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Membmt el t lzhhv.
+4 Wtql txh tsxtea bs yeoh.
+5 Iyeui el t lzhhv.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Ahxqxdah el t otq.
+8 Hhlleot el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 4
+10 Mztq el hyeui tsxtea bs?	jbus	5 1
+11 Mztq el chlleot tsxtea bs?	jbus	8 6
+12 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 4
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Wtql txh tsxtea bs lzhhv.
+4 Hhlleot el t lzhhv.
+5 Membmt el t otq.
+6 Ahxqxdah el t otq.
+7 Ueoh txh tsxtea bs jbunhl.
+8 Iyeui el t otq.
+9 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+11 Mztq el jembmt tsxtea bs?	lzhhv	5 3
+12 Mztq el chlleot tsxtea bs?	ybdlh	4 2
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs jbunhl.
+3 Ahxqxdah el t jbus.
+4 Membmt el t jbus.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Iyeui el t lzhhv.
+7 Hhlleot el t lzhhv.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	otq	4 1
+10 Mztq el jembmt tsxtea bs?	otq	4 1
+11 Mztq el hyeui tsxtea bs?	ybdlh	6 5
+12 Mztq el rhxqxdah tsxtea bs?	otq	3 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Hhlleot el t jbus.
+5 Ahxqxdah el t ybdlh.
+6 Wtql txh tsxtea bs jbunhl.
+7 Iyeui el t lzhhv.
+8 Membmt el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 3
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 3
+11 Mztq el jembmt tsxtea bs?	ybdlh	8 1
+12 Mztq el hyeui tsxtea bs?	jbus	7 2
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Mbunhl txh tsxtea bs otql.
+4 Iyeui el t ybdlh.
+5 Ozhhv txh tsxtea bs otql.
+6 Hhlleot el t otq.
+7 Ahxqxdah el t jbus.
+8 Membmt el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	8 3
+10 Mztq el rhxqxdah tsxtea bs?	otq	7 3
+11 Mztq el rhxqxdah tsxtea bs?	otq	7 3
+12 Mztq el chlleot tsxtea bs?	ybdlh	6 1
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs otql.
+3 Iyeui el t lzhhv.
+4 Membmt el t ybdlh.
+5 Mbunhl txh tsxtea bs otql.
+6 Ahxqxdah el t jbus.
+7 Hhlleot el t jbus.
+8 Wtql txh tsxtea bs yeoh.
+9 Mztq el jembmt tsxtea bs?	otq	4 1
+10 Mztq el chlleot tsxtea bs?	otq	7 5
+11 Mztq el jembmt tsxtea bs?	otq	4 1
+12 Mztq el hyeui tsxtea bs?	otq	3 2
+1 Ueoh txh tsxtea bs otql.
+2 Ahxqxdah el t ybdlh.
+3 Hhlleot el t ybdlh.
+4 Membmt el t ybdlh.
+5 Mbunhl txh tsxtea bs otql.
+6 Wtql txh tsxtea bs yeoh.
+7 Ozhhv txh tsxtea bs jbunhl.
+8 Iyeui el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	otq	2 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	2 1
+11 Mztq el hyeui tsxtea bs?	otq	8 5
+12 Mztq el hyeui tsxtea bs?	otq	8 5
+1 Wtql txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Membmt el t otq.
+4 Iyeui el t lzhhv.
+5 Ahxqxdah el t lzhhv.
+6 Ueoh txh tsxtea bs otql.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Hhlleot el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+10 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+12 Mztq el jembmt tsxtea bs?	ybdlh	3 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs otql.
+3 Ahxqxdah el t otq.
+4 Hhlleot el t lzhhv.
+5 Mbunhl txh tsxtea bs lzhhv.
+6 Iyeui el t lzhhv.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	3 1
+10 Mztq el jembmt tsxtea bs?	lzhhv	8 7
+11 Mztq el chlleot tsxtea bs?	otq	4 2
+12 Mztq el hyeui tsxtea bs?	otq	6 2
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Iyeui el t ybdlh.
+4 Membmt el t jbus.
+5 Wtql txh tsxtea bs yeoh.
+6 Hhlleot el t ybdlh.
+7 Ozhhv txh tsxtea bs jbunhl.
+8 Ahxqxdah el t otq.
+9 Mztq el jembmt tsxtea bs?	ybdlh	4 2
+10 Mztq el jembmt tsxtea bs?	ybdlh	4 2
+11 Mztq el jembmt tsxtea bs?	ybdlh	4 2
+12 Mztq el chlleot tsxtea bs?	otq	6 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Hhlleot el t lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Mbunhl txh tsxtea bs otql.
+5 Iyeui el t otq.
+6 Membmt el t jbus.
+7 Ahxqxdah el t lzhhv.
+8 Ueoh txh tsxtea bs jbunhl.
+9 Mztq el jembmt tsxtea bs?	otq	6 4
+10 Mztq el jembmt tsxtea bs?	otq	6 4
+11 Mztq el chlleot tsxtea bs?	ybdlh	2 1
+12 Mztq el jembmt tsxtea bs?	otq	6 4
+1 Wtql txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs otql.
+3 Hhlleot el t ybdlh.
+4 Mbunhl txh tsxtea bs otql.
+5 Iyeui el t jbus.
+6 Ahxqxdah el t jbus.
+7 Ozhhv txh tsxtea bs otql.
+8 Membmt el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	otq	3 2
+10 Mztq el chlleot tsxtea bs?	otq	3 2
+11 Mztq el rhxqxdah tsxtea bs?	otq	6 4
+12 Mztq el chlleot tsxtea bs?	otq	3 2
+1 Ozhhv txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs lzhhv.
+4 Membmt el t otq.
+5 Ahxqxdah el t ybdlh.
+6 Mbunhl txh tsxtea bs yeoh.
+7 Iyeui el t jbus.
+8 Hhlleot el t otq.
+9 Mztq el hyeui tsxtea bs?	ybdlh	7 6
+10 Mztq el jembmt tsxtea bs?	lzhhv	4 3
+11 Mztq el jembmt tsxtea bs?	lzhhv	4 3
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 2
+1 Ueoh txh tsxtea bs otql.
+2 Ahxqxdah el t ybdlh.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Mbunhl txh tsxtea bs otql.
+5 Membmt el t jbus.
+6 Hhlleot el t lzhhv.
+7 Wtql txh tsxtea bs lzhhv.
+8 Iyeui el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	otq	8 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	2 1
+11 Mztq el rhxqxdah tsxtea bs?	otq	2 1
+12 Mztq el rhxqxdah tsxtea bs?	otq	2 1
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Iyeui el t lzhhv.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Hhlleot el t ybdlh.
+6 Ahxqxdah el t lzhhv.
+7 Wtql txh tsxtea bs jbunhl.
+8 Membmt el t otq.
+9 Mztq el jembmt tsxtea bs?	jbus	8 7
+10 Mztq el hyeui tsxtea bs?	ybdlh	3 2
+11 Mztq el jembmt tsxtea bs?	jbus	8 7
+12 Mztq el hyeui tsxtea bs?	ybdlh	3 2
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Membmt el t lzhhv.
+6 Hhlleot el t lzhhv.
+7 Ahxqxdah el t ybdlh.
+8 Iyeui el t otq.
+9 Mztq el jembmt tsxtea bs?	jbus	5 4
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 3
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 3
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 3
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs otql.
+3 Membmt el t lzhhv.
+4 Ahxqxdah el t lzhhv.
+5 Wtql txh tsxtea bs yeoh.
+6 Iyeui el t lzhhv.
+7 Hhlleot el t lzhhv.
+8 Ueoh txh tsxtea bs jbunhl.
+9 Mztq el chlleot tsxtea bs?	otq	7 2
+10 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+11 Mztq el rhxqxdah tsxtea bs?	otq	4 2
+12 Mztq el chlleot tsxtea bs?	otq	7 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Ahxqxdah el t ybdlh.
+5 Wtql txh tsxtea bs jbunhl.
+6 Iyeui el t lzhhv.
+7 Hhlleot el t jbus.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	4 3
+10 Mztq el hyeui tsxtea bs?	jbus	6 1
+11 Mztq el rhxqxdah tsxtea bs?	jbus	4 3
+12 Mztq el hyeui tsxtea bs?	jbus	6 1
+1 Ueoh txh tsxtea bs jbunhl.
+2 Wtql txh tsxtea bs jbunhl.
+3 Hhlleot el t ybdlh.
+4 Mbunhl txh tsxtea bs lzhhv.
+5 Ozhhv txh tsxtea bs jbunhl.
+6 Ahxqxdah el t otq.
+7 Membmt el t ybdlh.
+8 Iyeui el t otq.
+9 Mztq el jembmt tsxtea bs?	jbus	7 1
+10 Mztq el rhxqxdah tsxtea bs?	jbus	6 2
+11 Mztq el chlleot tsxtea bs?	jbus	3 1
+12 Mztq el jembmt tsxtea bs?	jbus	7 1
+1 Mbunhl txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Wtql txh tsxtea bs yeoh.
+4 Ozhhv txh tsxtea bs otql.
+5 Ahxqxdah el t lzhhv.
+6 Hhlleot el t otq.
+7 Iyeui el t ybdlh.
+8 Membmt el t ybdlh.
+9 Mztq el jembmt tsxtea bs?	lzhhv	8 2
+10 Mztq el hyeui tsxtea bs?	lzhhv	7 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 3
+12 Mztq el rhxqxdah tsxtea bs?	otq	5 4
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Hhlleot el t lzhhv.
+5 Ahxqxdah el t lzhhv.
+6 Membmt el t lzhhv.
+7 Iyeui el t otq.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	otq	6 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	5 1
+11 Mztq el chlleot tsxtea bs?	otq	4 1
+12 Mztq el chlleot tsxtea bs?	otq	4 1
+1 Mbunhl txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ueoh txh tsxtea bs lzhhv.
+4 Iyeui el t jbus.
+5 Hhlleot el t jbus.
+6 Ozhhv txh tsxtea bs yeoh.
+7 Ahxqxdah el t jbus.
+8 Membmt el t jbus.
+9 Mztq el chlleot tsxtea bs?	otq	5 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+11 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+12 Mztq el rhxqxdah tsxtea bs?	otq	7 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Hhlleot el t lzhhv.
+3 Wtql txh tsxtea bs jbunhl.
+4 Mbunhl txh tsxtea bs yeoh.
+5 Ahxqxdah el t lzhhv.
+6 Iyeui el t jbus.
+7 Membmt el t lzhhv.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 1
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 1
+11 Mztq el hyeui tsxtea bs?	ybdlh	6 4
+12 Mztq el hyeui tsxtea bs?	ybdlh	6 4
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Iyeui el t otq.
+4 Membmt el t otq.
+5 Ahxqxdah el t otq.
+6 Ueoh txh tsxtea bs otql.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Hhlleot el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	5 2
+10 Mztq el hyeui tsxtea bs?	lzhhv	3 2
+11 Mztq el jembmt tsxtea bs?	lzhhv	4 2
+12 Mztq el chlleot tsxtea bs?	lzhhv	8 2
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs otql.
+3 Mbunhl txh tsxtea bs otql.
+4 Iyeui el t lzhhv.
+5 Hhlleot el t lzhhv.
+6 Membmt el t ybdlh.
+7 Wtql txh tsxtea bs lzhhv.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	otq	4 2
+10 Mztq el hyeui tsxtea bs?	otq	4 2
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 1
+12 Mztq el chlleot tsxtea bs?	otq	5 2
+1 Ozhhv txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs yeoh.
+3 Iyeui el t lzhhv.
+4 Wtql txh tsxtea bs lzhhv.
+5 Hhlleot el t jbus.
+6 Membmt el t lzhhv.
+7 Ueoh txh tsxtea bs lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	8 2
+10 Mztq el chlleot tsxtea bs?	ybdlh	5 2
+11 Mztq el chlleot tsxtea bs?	ybdlh	5 2
+12 Mztq el hyeui tsxtea bs?	jbus	3 1
+1 Ueoh txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs otql.
+3 Iyeui el t lzhhv.
+4 Mbunhl txh tsxtea bs otql.
+5 Wtql txh tsxtea bs lzhhv.
+6 Ahxqxdah el t otq.
+7 Hhlleot el t ybdlh.
+8 Membmt el t otq.
+9 Mztq el jembmt tsxtea bs?	lzhhv	8 5
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 5
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 5
+12 Mztq el hyeui tsxtea bs?	otq	3 2
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ueoh txh tsxtea bs jbunhl.
+3 Wtql txh tsxtea bs jbunhl.
+4 Iyeui el t jbus.
+5 Ahxqxdah el t otq.
+6 Hhlleot el t otq.
+7 Ozhhv txh tsxtea bs otql.
+8 Membmt el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	5 3
+10 Mztq el jembmt tsxtea bs?	jbus	8 2
+11 Mztq el hyeui tsxtea bs?	ybdlh	4 1
+12 Mztq el jembmt tsxtea bs?	jbus	8 2
+1 Wtql txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Hhlleot el t jbus.
+5 Membmt el t lzhhv.
+6 Iyeui el t lzhhv.
+7 Ahxqxdah el t otq.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el hyeui tsxtea bs?	ybdlh	6 2
+10 Mztq el chlleot tsxtea bs?	lzhhv	4 3
+11 Mztq el chlleot tsxtea bs?	lzhhv	4 3
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	7 1
+1 Ueoh txh tsxtea bs otql.
+2 Mbunhl txh tsxtea bs otql.
+3 Wtql txh tsxtea bs jbunhl.
+4 Ozhhv txh tsxtea bs yeoh.
+5 Hhlleot el t jbus.
+6 Iyeui el t otq.
+7 Membmt el t otq.
+8 Ahxqxdah el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	8 3
+10 Mztq el rhxqxdah tsxtea bs?	jbus	8 3
+11 Mztq el hyeui tsxtea bs?	jbus	6 3
+12 Mztq el chlleot tsxtea bs?	otq	5 2
+1 Mbunhl txh tsxtea bs yeoh.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Ahxqxdah el t jbus.
+4 Membmt el t jbus.
+5 Wtql txh tsxtea bs jbunhl.
+6 Hhlleot el t lzhhv.
+7 Iyeui el t otq.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el hyeui tsxtea bs?	jbus	7 5
+10 Mztq el hyeui tsxtea bs?	jbus	7 5
+11 Mztq el chlleot tsxtea bs?	ybdlh	6 2
+12 Mztq el jembmt tsxtea bs?	ybdlh	4 1
+1 Ozhhv txh tsxtea bs otql.
+2 Ueoh txh tsxtea bs lzhhv.
+3 Hhlleot el t ybdlh.
+4 Mbunhl txh tsxtea bs otql.
+5 Membmt el t jbus.
+6 Wtql txh tsxtea bs yeoh.
+7 Iyeui el t otq.
+8 Ahxqxdah el t jbus.
+9 Mztq el jembmt tsxtea bs?	otq	5 4
+10 Mztq el hyeui tsxtea bs?	ybdlh	7 6
+11 Mztq el hyeui tsxtea bs?	ybdlh	7 6
+12 Mztq el rhxqxdah tsxtea bs?	otq	8 4
+1 Wtql txh tsxtea bs jbunhl.
+2 Ahxqxdah el t otq.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Ueoh txh tsxtea bs lzhhv.
+6 Membmt el t lzhhv.
+7 Iyeui el t lzhhv.
+8 Hhlleot el t lzhhv.
+9 Mztq el jembmt tsxtea bs?	jbus	6 4
+10 Mztq el hyeui tsxtea bs?	jbus	7 4
+11 Mztq el chlleot tsxtea bs?	jbus	8 4
+12 Mztq el hyeui tsxtea bs?	jbus	7 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Mbunhl txh tsxtea bs otql.
+3 Wtql txh tsxtea bs yeoh.
+4 Iyeui el t jbus.
+5 Ozhhv txh tsxtea bs otql.
+6 Membmt el t otq.
+7 Hhlleot el t lzhhv.
+8 Ahxqxdah el t otq.
+9 Mztq el hyeui tsxtea bs?	otq	4 2
+10 Mztq el hyeui tsxtea bs?	otq	4 2
+11 Mztq el chlleot tsxtea bs?	otq	7 5
+12 Mztq el hyeui tsxtea bs?	otq	4 2
+1 Wtql txh tsxtea bs jbunhl.
+2 Ahxqxdah el t otq.
+3 Ozhhv txh tsxtea bs otql.
+4 Hhlleot el t lzhhv.
+5 Iyeui el t lzhhv.
+6 Ueoh txh tsxtea bs jbunhl.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Membmt el t otq.
+9 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+10 Mztq el chlleot tsxtea bs?	otq	4 3
+11 Mztq el chlleot tsxtea bs?	otq	4 3
+12 Mztq el rhxqxdah tsxtea bs?	jbus	2 1
+1 Wtql txh tsxtea bs jbunhl.
+2 Hhlleot el t otq.
+3 Mbunhl txh tsxtea bs yeoh.
+4 Ueoh txh tsxtea bs jbunhl.
+5 Ozhhv txh tsxtea bs otql.
+6 Iyeui el t ybdlh.
+7 Ahxqxdah el t lzhhv.
+8 Membmt el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	jbus	6 4
+10 Mztq el jembmt tsxtea bs?	jbus	8 4
+11 Mztq el hyeui tsxtea bs?	jbus	6 4
+12 Mztq el jembmt tsxtea bs?	jbus	8 4
+1 Ueoh txh tsxtea bs jbunhl.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Ahxqxdah el t ybdlh.
+4 Membmt el t lzhhv.
+5 Wtql txh tsxtea bs yeoh.
+6 Hhlleot el t lzhhv.
+7 Mbunhl txh tsxtea bs otql.
+8 Iyeui el t jbus.
+9 Mztq el hyeui tsxtea bs?	otq	8 7
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 2
+11 Mztq el hyeui tsxtea bs?	otq	8 7
+12 Mztq el hyeui tsxtea bs?	otq	8 7
+1 Mbunhl txh tsxtea bs otql.
+2 Hhlleot el t jbus.
+3 Iyeui el t jbus.
+4 Ahxqxdah el t jbus.
+5 Ozhhv txh tsxtea bs yeoh.
+6 Membmt el t jbus.
+7 Wtql txh tsxtea bs yeoh.
+8 Ueoh txh tsxtea bs lzhhv.
+9 Mztq el hyeui tsxtea bs?	otq	3 1
+10 Mztq el jembmt tsxtea bs?	otq	6 1
+11 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+12 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+1 Ueoh txh tsxtea bs otql.
+2 Hhlleot el t ybdlh.
+3 Ozhhv txh tsxtea bs otql.
+4 Membmt el t lzhhv.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Wtql txh tsxtea bs lzhhv.
+7 Iyeui el t lzhhv.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	otq	8 1
+10 Mztq el jembmt tsxtea bs?	otq	4 3
+11 Mztq el hyeui tsxtea bs?	otq	7 3
+12 Mztq el rhxqxdah tsxtea bs?	otq	8 1
+1 Ozhhv txh tsxtea bs yeoh.
+2 Membmt el t lzhhv.
+3 Ueoh txh tsxtea bs otql.
+4 Iyeui el t ybdlh.
+5 Wtql txh tsxtea bs jbunhl.
+6 Mbunhl txh tsxtea bs otql.
+7 Ahxqxdah el t ybdlh.
+8 Hhlleot el t jbus.
+9 Mztq el jembmt tsxtea bs?	ybdlh	2 1
+10 Mztq el rhxqxdah tsxtea bs?	otq	7 3
+11 Mztq el hyeui tsxtea bs?	otq	4 3
+12 Mztq el chlleot tsxtea bs?	otq	8 6
+1 Mbunhl txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs otql.
+3 Hhlleot el t jbus.
+4 Iyeui el t jbus.
+5 Wtql txh tsxtea bs yeoh.
+6 Ahxqxdah el t jbus.
+7 Membmt el t otq.
+8 Ueoh txh tsxtea bs jbunhl.
+9 Mztq el hyeui tsxtea bs?	lzhhv	4 1
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	7 5
+12 Mztq el jembmt tsxtea bs?	ybdlh	7 5
+1 Ueoh txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs jbunhl.
+3 Iyeui el t lzhhv.
+4 Wtql txh tsxtea bs yeoh.
+5 Hhlleot el t lzhhv.
+6 Ahxqxdah el t ybdlh.
+7 Mbunhl txh tsxtea bs yeoh.
+8 Membmt el t otq.
+9 Mztq el jembmt tsxtea bs?	ybdlh	8 4
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 1
+11 Mztq el jembmt tsxtea bs?	ybdlh	8 4
+12 Mztq el rhxqxdah tsxtea bs?	lzhhv	6 1
+1 Mbunhl txh tsxtea bs yeoh.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Hhlleot el t otq.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Iyeui el t lzhhv.
+7 Membmt el t otq.
+8 Ahxqxdah el t ybdlh.
+9 Mztq el hyeui tsxtea bs?	jbus	6 3
+10 Mztq el jembmt tsxtea bs?	lzhhv	7 2
+11 Mztq el chlleot tsxtea bs?	lzhhv	4 2
+12 Mztq el hyeui tsxtea bs?	jbus	6 3
+1 Ozhhv txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Hhlleot el t lzhhv.
+4 Ahxqxdah el t lzhhv.
+5 Ueoh txh tsxtea bs jbunhl.
+6 Mbunhl txh tsxtea bs lzhhv.
+7 Iyeui el t jbus.
+8 Membmt el t otq.
+9 Mztq el jembmt tsxtea bs?	lzhhv	8 2
+10 Mztq el rhxqxdah tsxtea bs?	otq	4 1
+11 Mztq el jembmt tsxtea bs?	lzhhv	8 2
+12 Mztq el hyeui tsxtea bs?	lzhhv	7 6
+1 Wtql txh tsxtea bs yeoh.
+2 Mbunhl txh tsxtea bs lzhhv.
+3 Membmt el t jbus.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Hhlleot el t otq.
+6 Ueoh txh tsxtea bs otql.
+7 Ahxqxdah el t otq.
+8 Iyeui el t ybdlh.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	7 1
+10 Mztq el chlleot tsxtea bs?	ybdlh	5 1
+11 Mztq el chlleot tsxtea bs?	ybdlh	5 1
+12 Mztq el chlleot tsxtea bs?	ybdlh	5 1
+1 Wtql txh tsxtea bs lzhhv.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Mbunhl txh tsxtea bs lzhhv.
+4 Ahxqxdah el t otq.
+5 Membmt el t otq.
+6 Iyeui el t lzhhv.
+7 Hhlleot el t otq.
+8 Ueoh txh tsxtea bs otql.
+9 Mztq el jembmt tsxtea bs?	lzhhv	5 1
+10 Mztq el chlleot tsxtea bs?	lzhhv	7 1
+11 Mztq el rhxqxdah tsxtea bs?	lzhhv	4 1
+12 Mztq el hyeui tsxtea bs?	ybdlh	6 2
+1 Ueoh txh tsxtea bs otql.
+2 Wtql txh tsxtea bs lzhhv.
+3 Ozhhv txh tsxtea bs jbunhl.
+4 Membmt el t lzhhv.
+5 Iyeui el t otq.
+6 Hhlleot el t ybdlh.
+7 Mbunhl txh tsxtea bs lzhhv.
+8 Ahxqxdah el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 7
+10 Mztq el rhxqxdah tsxtea bs?	lzhhv	8 7
+11 Mztq el hyeui tsxtea bs?	lzhhv	5 2
+12 Mztq el chlleot tsxtea bs?	otq	6 1
+1 Wtql txh tsxtea bs lzhhv.
+2 Ueoh txh tsxtea bs otql.
+3 Ahxqxdah el t otq.
+4 Ozhhv txh tsxtea bs jbunhl.
+5 Mbunhl txh tsxtea bs yeoh.
+6 Hhlleot el t jbus.
+7 Iyeui el t lzhhv.
+8 Membmt el t ybdlh.
+9 Mztq el chlleot tsxtea bs?	ybdlh	6 5
+10 Mztq el chlleot tsxtea bs?	ybdlh	6 5
+11 Mztq el hyeui tsxtea bs?	jbus	7 4
+12 Mztq el hyeui tsxtea bs?	jbus	7 4
+1 Mbunhl txh tsxtea bs otql.
+2 Ozhhv txh tsxtea bs yeoh.
+3 Ueoh txh tsxtea bs jbunhl.
+4 Wtql txh tsxtea bs jbunhl.
+5 Ahxqxdah el t lzhhv.
+6 Iyeui el t jbus.
+7 Hhlleot el t ybdlh.
+8 Membmt el t jbus.
+9 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 2
+10 Mztq el rhxqxdah tsxtea bs?	ybdlh	5 2
+11 Mztq el jembmt tsxtea bs?	otq	8 1
+12 Mztq el hyeui tsxtea bs?	otq	6 1

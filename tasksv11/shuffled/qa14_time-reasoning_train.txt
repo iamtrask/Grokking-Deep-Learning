@@ -1,0 +1,3372 @@
+1 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+2 Hdueh jhmq qb qzh lozbbu qzel ybxmemr.
+3 Txha jhmq qb qzh vtxk ihlqhxati.
+4 Vhlqhxati Hdueh jhmq qb qzh bsseoh.
+5 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	bsseoh	2 4
+6 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh oemhyt.
+7 Vhlqhxati Utxi qxtnhuuha qb qzh vtxk.
+8 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	bsseoh	2 4
+9 Zeuu jhmq ptok qb qzh lozbbu qzel ybxmemr.
+10 Rzel hnhmemr Hdueh jhmq qb qzh lozbbu.
+11 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	10 6
+12 Txha ybnha qb qzh bsseoh qzel ybxmemr.
+13 Rzel tsqhxmbbm Zeuu jhmq qb qzh vtxk.
+14 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	9 1
+15 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+16 Zeuu ybnha qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	vtxk	16 13
+1 Rzel ybxmemr Txha jhmq qb qzh keqozhm.
+2 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Utxi qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+4 Vhlqhxati Utxi jhmq qb qzh oemhyt.
+5 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	3 4
+6 Rzel ybxmemr Hdueh ybnha qb qzh bsseoh.
+7 Vhlqhxati Hdueh jhmq ptok qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	oemhyt	6 7
+9 Rzel tsqhxmbbm Hdueh ybnha qb qzh phaxbby.
+10 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh oemhyt.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	3 4
+12 Txha jhmq qb qzh keqozhm qzel hnhmemr.
+13 Zeuu qxtnhuuha qb qzh keqozhm ihlqhxati.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	12 10
+15 Hdueh ybnha qb qzh oemhyt qzel hnhmemr.
+16 Rzel ybxmemr Zeuu cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	9 6
+1 Vhlqhxati Hdueh jhmq ptok qb qzh vtxk.
+2 Hdueh jhmq qb qzh phaxbby qzel ybxmemr.
+3 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+4 Rzel ybxmemr Zeuu jhmq ptok qb qzh vtxk.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	4 3
+6 Rzel hnhmemr Hdueh jhmq qb qzh lozbbu.
+7 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh vtxk.
+8 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	2 1
+9 Txha jhmq qb qzh oemhyt ihlqhxati.
+10 Vhlqhxati Utxi ybnha qb qzh keqozhm.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	2 1
+12 Rzel ybxmemr Utxi ybnha qb qzh phaxbby.
+13 Zeuu ybnha qb qzh keqozhm qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	6 7
+15 Rzel tsqhxmbbm Utxi jhmq qb qzh bsseoh.
+16 Txha cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	15 12
+1 Zeuu qxtnhuuha qb qzh lozbbu ihlqhxati.
+2 Vhlqhxati Hdueh ybnha qb qzh lozbbu.
+3 Vhlqhxati Utxi jhmq qb qzh oemhyt.
+4 Zeuu qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+5 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	4 1
+6 Rzel hnhmemr Zeuu qxtnhuuha qb qzh lozbbu.
+7 Zeuu jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+8 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	4 1
+9 Rzel tsqhxmbbm Utxi jhmq qb qzh bsseoh.
+10 Rzel ybxmemr Utxi jhmq qb qzh keqozhm.
+11 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	oemhyt	10 3
+12 Rzel ybxmemr Hdueh ybnha qb qzh bsseoh.
+13 Vhlqhxati Txha jhmq qb qzh oemhyt.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	9 10
+15 Rzel ybxmemr Txha ybnha qb qzh vtxk.
+16 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh oemhyt.
+17 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	bsseoh	16 12
+1 Vhlqhxati Utxi jhmq qb qzh vtxk.
+2 Txha jhmq ptok qb qzh lozbbu ihlqhxati.
+3 Hdueh ybnha qb qzh oemhyt ihlqhxati.
+4 Rzel ybxmemr Utxi qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	vtxk	4 1
+6 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh vtxk.
+7 Vhlqhxati Zeuu cbdxmhiha qb qzh keqozhm.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	vtxk	4 1
+9 Rzel ybxmemr Zeuu qxtnhuuha qb qzh phaxbby.
+10 Txha jhmq qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	6 4
+12 Rzel hnhmemr Txha jhmq ptok qb qzh bsseoh.
+13 Txha ybnha qb qzh phaxbby qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	9 7
+15 Rzel tsqhxmbbm Hdueh jhmq qb qzh lozbbu.
+16 Hdueh qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	9 7
+1 Zeuu cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+2 Txha jhmq ptok qb qzh keqozhm qzel ybxmemr.
+3 Vhlqhxati Txha ybnha qb qzh oemhyt.
+4 Zeuu cbdxmhiha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	2 3
+6 Rzel tsqhxmbbm Txha jhmq qb qzh oemhyt.
+7 Utxi jhmq ptok qb qzh oemhyt ihlqhxati.
+8 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	2 3
+9 Txha ybnha qb qzh lozbbu qzel hnhmemr.
+10 Zeuu jhmq qb qzh phaxbby qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	9 6
+12 Rzel hnhmemr Zeuu jhmq qb qzh lozbbu.
+13 Hdueh jhmq ptok qb qzh oemhyt ihlqhxati.
+14 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	12 10
+15 Hdueh jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+16 Hdueh qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	15 16
+1 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+2 Vhlqhxati Utxi jhmq ptok qb qzh vtxk.
+3 Hdueh ybnha qb qzh vtxk ihlqhxati.
+4 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	1 2
+6 Rzel ybxmemr Txha cbdxmhiha qb qzh bsseoh.
+7 Utxi jhmq qb qzh bsseoh qzel tsqhxmbbm.
+8 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	1 2
+9 Hdueh cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+10 Vhlqhxati Zeuu ybnha qb qzh lozbbu.
+11 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	9 3
+12 Txha jhmq ptok qb qzh lozbbu qzel tsqhxmbbm.
+13 Rzel ybxmemr Zeuu jhmq qb qzh vtxk.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	12 6
+15 Rzel hnhmemr Txha jhmq ptok qb qzh oemhyt.
+16 Utxi qxtnhuuha qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	12 6
+1 Hdueh jhmq qb qzh vtxk qzel ybxmemr.
+2 Hdueh ybnha qb qzh keqozhm ihlqhxati.
+3 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	keqozhm	1 2
+4 Hdueh ybnha qb qzh phaxbby qzel tsqhxmbbm.
+5 Utxi cbdxmhiha qb qzh lozbbu ihlqhxati.
+6 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	4 1
+7 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+8 Vhlqhxati Zeuu qxtnhuuha qb qzh keqozhm.
+9 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	keqozhm	1 2
+10 Rzel ybxmemr Utxi ybnha qb qzh bsseoh.
+11 Rzel hnhmemr Hdueh cbdxmhiha qb qzh keqozhm.
+12 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	11 4
+13 Rzel tsqhxmbbm Utxi ybnha qb qzh oemhyt.
+14 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh keqozhm.
+15 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	14 7
+1 Utxi cbdxmhiha qb qzh phaxbby ihlqhxati.
+2 Hdueh cbdxmhiha qb qzh vtxk ihlqhxati.
+3 Txha qxtnhuuha qb qzh vtxk ihlqhxati.
+4 Rzel ybxmemr Txha cbdxmhiha qb qzh oemhyt.
+5 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	4 3
+6 Rzel tsqhxmbbm Txha jhmq ptok qb qzh bsseoh.
+7 Hdueh jhmq ptok qb qzh bsseoh qzel ybxmemr.
+8 Mzhxh jtl Txha phsbxh qzh bsseoh? 	oemhyt	6 4
+9 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh keqozhm.
+10 Rzel ybxmemr Utxi cbdxmhiha qb qzh oemhyt.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	10 1
+12 Vhlqhxati Zeuu cbdxmhiha qb qzh oemhyt.
+13 Rzel hnhmemr Txha ybnha qb qzh oemhyt.
+14 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	10 1
+15 Rzel hnhmemr Utxi jhmq qb qzh keqozhm.
+16 Utxi jhmq qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	15 16
+1 Rzel ybxmemr Txha cbdxmhiha qb qzh vtxk.
+2 Utxi ybnha qb qzh lozbbu ihlqhxati.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh keqozhm.
+4 Txha qxtnhuuha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	1 4
+6 Txha jhmq ptok qb qzh lozbbu qzel hnhmemr.
+7 Txha ybnha qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	6 7
+9 Rzel ybxmemr Zeuu jhmq ptok qb qzh vtxk.
+10 Rzel ybxmemr Utxi jhmq qb qzh vtxk.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	6 7
+12 Vhlqhxati Hdueh qxtnhuuha qb qzh vtxk.
+13 Rzel tsqhxmbbm Utxi jhmq qb qzh keqozhm.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	9 3
+15 Utxi jhmq qb qzh bsseoh qzel hnhmemr.
+16 Hdueh cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	9 3
+1 Rzel ybxmemr Hdueh qxtnhuuha qb qzh bsseoh.
+2 Vhlqhxati Hdueh jhmq qb qzh vtxk.
+3 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	1 2
+4 Rzel ybxmemr Utxi qxtnhuuha qb qzh keqozhm.
+5 Vhlqhxati Utxi qxtnhuuha qb qzh vtxk.
+6 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	1 2
+7 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh lozbbu.
+8 Hdueh ybnha qb qzh phaxbby qzel tsqhxmbbm.
+9 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	4 5
+10 Rzel ybxmemr Zeuu cbdxmhiha qb qzh keqozhm.
+11 Zeuu cbdxmhiha qb qzh phaxbby ihlqhxati.
+12 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	8 1
+13 Txha qxtnhuuha qb qzh keqozhm ihlqhxati.
+14 Utxi cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+15 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	10 11
+1 Hdueh jhmq qb qzh oemhyt qzel ybxmemr.
+2 Hdueh jhmq ptok qb qzh lozbbu ihlqhxati.
+3 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	1 2
+4 Zeuu qxtnhuuha qb qzh phaxbby ihlqhxati.
+5 Vhlqhxati Utxi jhmq ptok qb qzh oemhyt.
+6 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	1 2
+7 Vhlqhxati Txha cbdxmhiha qb qzh oemhyt.
+8 Rzel ybxmemr Zeuu jhmq ptok qb qzh keqozhm.
+9 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	8 4
+10 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh oemhyt.
+11 Txha qxtnhuuha qb qzh vtxk qzel ybxmemr.
+12 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	8 4
+13 Zeuu ybnha qb qzh phaxbby qzel hnhmemr.
+14 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh bsseoh.
+15 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	13 10
+1 Utxi qxtnhuuha qb qzh oemhyt ihlqhxati.
+2 Vhlqhxati Hdueh qxtnhuuha qb qzh oemhyt.
+3 Rzel ybxmemr Hdueh qxtnhuuha qb qzh phaxbby.
+4 Vhlqhxati Zeuu ybnha qb qzh vtxk.
+5 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	3 2
+6 Utxi ybnha qb qzh lozbbu qzel ybxmemr.
+7 Hdueh ybnha qb qzh keqozhm qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	7 3
+9 Hdueh jhmq ptok qb qzh vtxk qzel hnhmemr.
+10 Rzel ybxmemr Zeuu jhmq ptok qb qzh bsseoh.
+11 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	oemhyt	6 1
+12 Vhlqhxati Txha cbdxmhiha qb qzh oemhyt.
+13 Utxi cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	vtxk	10 4
+15 Txha jhmq ptok qb qzh vtxk qzel ybxmemr.
+16 Utxi jhmq ptok qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	keqozhm	9 7
+1 Vhlqhxati Zeuu ybnha qb qzh oemhyt.
+2 Txha qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+3 Vhlqhxati Hdueh jhmq ptok qb qzh vtxk.
+4 Txha qxtnhuuha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	2 4
+6 Zeuu qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+7 Vhlqhxati Utxi jhmq ptok qb qzh phaxbby.
+8 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	2 4
+9 Rzel ybxmemr Utxi cbdxmhiha qb qzh lozbbu.
+10 Hdueh cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	10 3
+12 Utxi jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+13 Hdueh jhmq qb qzh lozbbu qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	10 3
+15 Hdueh ybnha qb qzh oemhyt qzel hnhmemr.
+16 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh vtxk.
+17 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	15 13
+1 Utxi ybnha qb qzh oemhyt qzel ybxmemr.
+2 Utxi jhmq ptok qb qzh phaxbby ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	1 2
+4 Vhlqhxati Hdueh jhmq ptok qb qzh phaxbby.
+5 Utxi qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+6 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	5 1
+7 Rzel ybxmemr Hdueh ybnha qb qzh keqozhm.
+8 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+9 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	5 1
+10 Utxi jhmq ptok qb qzh lozbbu qzel hnhmemr.
+11 Hdueh qxtnhuuha qb qzh vtxk qzel tsqhxmbbm.
+12 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	10 5
+13 Zeuu qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+14 Rzel ybxmemr Zeuu qxtnhuuha qb qzh vtxk.
+15 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	7 4
+1 Utxi qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+2 Utxi cbdxmhiha qb qzh lozbbu ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	1 2
+4 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh bsseoh.
+5 Zeuu jhmq ptok qb qzh vtxk ihlqhxati.
+6 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	1 2
+7 Vhlqhxati Hdueh jhmq ptok qb qzh lozbbu.
+8 Zeuu qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+9 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	1 2
+10 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh keqozhm.
+11 Rzel ybxmemr Hdueh cbdxmhiha qb qzh bsseoh.
+12 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	lozbbu	11 7
+13 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh oemhyt.
+14 Rzel hnhmemr Utxi jhmq ptok qb qzh oemhyt.
+15 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	14 4
+1 Txha jhmq ptok qb qzh oemhyt qzel ybxmemr.
+2 Utxi qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+3 Vhlqhxati Utxi jhmq ptok qb qzh bsseoh.
+4 Txha qxtnhuuha qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	2 3
+6 Txha jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+7 Utxi jhmq qb qzh bsseoh qzel tsqhxmbbm.
+8 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	1 4
+9 Rzel ybxmemr Hdueh ybnha qb qzh lozbbu.
+10 Hdueh ybnha qb qzh vtxk ihlqhxati.
+11 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	1 4
+12 Txha jhmq qb qzh vtxk qzel hnhmemr.
+13 Rzel hnhmemr Utxi qxtnhuuha qb qzh lozbbu.
+14 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	12 6
+15 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh oemhyt.
+16 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+17 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	15 9
+1 Utxi ybnha qb qzh vtxk qzel ybxmemr.
+2 Txha cbdxmhiha qb qzh oemhyt ihlqhxati.
+3 Vhlqhxati Hdueh qxtnhuuha qb qzh vtxk.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	1 4
+6 Utxi ybnha qb qzh bsseoh qzel tsqhxmbbm.
+7 Rzel ybxmemr Txha jhmq qb qzh keqozhm.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	vtxk	6 1
+9 Hdueh jhmq qb qzh phaxbby qzel ybxmemr.
+10 Rzel tsqhxmbbm Txha jhmq qb qzh oemhyt.
+11 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	10 7
+12 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh lozbbu.
+13 Vhlqhxati Zeuu jhmq qb qzh vtxk.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	10 7
+15 Rzel ybxmemr Zeuu cbdxmhiha qb qzh oemhyt.
+16 Rzel hnhmemr Utxi cbdxmhiha qb qzh lozbbu.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	12 9
+1 Txha jhmq qb qzh oemhyt qzel ybxmemr.
+2 Txha jhmq qb qzh vtxk ihlqhxati.
+3 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	1 2
+4 Rzel tsqhxmbbm Txha jhmq qb qzh keqozhm.
+5 Vhlqhxati Utxi jhmq qb qzh bsseoh.
+6 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	4 1
+7 Rzel ybxmemr Hdueh jhmq ptok qb qzh vtxk.
+8 Hdueh ybnha qb qzh phaxbby ihlqhxati.
+9 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	1 2
+10 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh bsseoh.
+11 Rzel ybxmemr Utxi ybnha qb qzh keqozhm.
+12 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	11 5
+13 Rzel hnhmemr Txha cbdxmhiha qb qzh lozbbu.
+14 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh bsseoh.
+15 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	11 5
+1 Rzel ybxmemr Hdueh cbdxmhiha qb qzh oemhyt.
+2 Utxi ybnha qb qzh oemhyt ihlqhxati.
+3 Rzel tsqhxmbbm Hdueh jhmq qb qzh phaxbby.
+4 Hdueh cbdxmhiha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	bsseoh	1 4
+6 Rzel hnhmemr Hdueh jhmq qb qzh vtxk.
+7 Utxi cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	6 3
+9 Vhlqhxati Txha ybnha qb qzh bsseoh.
+10 Vhlqhxati Zeuu jhmq ptok qb qzh oemhyt.
+11 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	oemhyt	7 2
+12 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh bsseoh.
+13 Txha cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	13 9
+15 Rzel hnhmemr Utxi cbdxmhiha qb qzh oemhyt.
+16 Rzel ybxmemr Zeuu cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	13 9
+1 Utxi jhmq qb qzh keqozhm qzel ybxmemr.
+2 Utxi jhmq ptok qb qzh phaxbby ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	phaxbby	1 2
+4 Rzel hnhmemr Utxi ybnha qb qzh keqozhm.
+5 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh oemhyt.
+6 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	oemhyt	4 5
+7 Vhlqhxati Hdueh cbdxmhiha qb qzh vtxk.
+8 Vhlqhxati Zeuu jhmq ptok qb qzh oemhyt.
+9 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	5 1
+10 Hdueh ybnha qb qzh oemhyt qzel tsqhxmbbm.
+11 Rzel ybxmemr Hdueh jhmq ptok qb qzh bsseoh.
+12 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	11 7
+13 Txha cbdxmhiha qb qzh vtxk ihlqhxati.
+14 Rzel ybxmemr Zeuu cbdxmhiha qb qzh lozbbu.
+15 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	14 8
+1 Vhlqhxati Txha jhmq ptok qb qzh bsseoh.
+2 Txha qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+3 Utxi qxtnhuuha qb qzh keqozhm ihlqhxati.
+4 Rzel ybxmemr Utxi ybnha qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	4 3
+6 Vhlqhxati Zeuu ybnha qb qzh lozbbu.
+7 Utxi cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	4 3
+9 Utxi ybnha qb qzh lozbbu qzel hnhmemr.
+10 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh phaxbby.
+11 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	9 7
+12 Hdueh jhmq qb qzh phaxbby ihlqhxati.
+13 Zeuu jhmq qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	9 7
+15 Txha jhmq ptok qb qzh vtxk qzel hnhmemr.
+16 Hdueh jhmq ptok qb qzh keqozhm qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	9 7
+1 Rzel ybxmemr Hdueh ybnha qb qzh phaxbby.
+2 Vhlqhxati Zeuu ybnha qb qzh keqozhm.
+3 Vhlqhxati Hdueh jhmq qb qzh vtxk.
+4 Vhlqhxati Utxi ybnha qb qzh vtxk.
+5 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	1 3
+6 Rzel ybxmemr Zeuu cbdxmhiha qb qzh oemhyt.
+7 Vhlqhxati Txha ybnha qb qzh lozbbu.
+8 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	6 2
+9 Hdueh cbdxmhiha qb qzh lozbbu qzel tsqhxmbbm.
+10 Utxi ybnha qb qzh phaxbby qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	9 1
+12 Rzel ybxmemr Txha qxtnhuuha qb qzh vtxk.
+13 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh phaxbby.
+14 Mzhxh jtl Txha phsbxh qzh vtxk? 	lozbbu	12 7
+15 Rzel hnhmemr Zeuu jhmq ptok qb qzh keqozhm.
+16 Utxi cbdxmhiha qb qzh lozbbu qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	9 1
+1 Vhlqhxati Utxi cbdxmhiha qb qzh bsseoh.
+2 Rzel ybxmemr Utxi qxtnhuuha qb qzh oemhyt.
+3 Vhlqhxati Hdueh qxtnhuuha qb qzh phaxbby.
+4 Hdueh qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+5 Vhlqhxati Zeuu qxtnhuuha qb qzh keqozhm.
+6 Vhlqhxati Txha qxtnhuuha qb qzh keqozhm.
+7 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	2 1
+8 Rzel ybxmemr Zeuu jhmq ptok qb qzh phaxbby.
+9 Rzel ybxmemr Txha ybnha qb qzh phaxbby.
+10 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	2 1
+11 Rzel tsqhxmbbm Zeuu jhmq qb qzh bsseoh.
+12 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+13 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	11 8
+14 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh lozbbu.
+15 Txha cbdxmhiha qb qzh lozbbu qzel tsqhxmbbm.
+16 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	15 9
+17 Rzel hnhmemr Zeuu qxtnhuuha qb qzh oemhyt.
+18 Utxi cbdxmhiha qb qzh vtxk qzel hnhmemr.
+19 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	11 8
+1 Rzel ybxmemr Hdueh jhmq ptok qb qzh phaxbby.
+2 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+3 Hdueh jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+4 Hdueh cbdxmhiha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	1 4
+6 Rzel ybxmemr Txha jhmq qb qzh keqozhm.
+7 Vhlqhxati Utxi ybnha qb qzh vtxk.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	3 1
+9 Zeuu jhmq ptok qb qzh phaxbby ihlqhxati.
+10 Rzel ybxmemr Utxi qxtnhuuha qb qzh bsseoh.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	6 2
+12 Rzel ybxmemr Zeuu cbdxmhiha qb qzh oemhyt.
+13 Rzel hnhmemr Hdueh ybnha qb qzh lozbbu.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	6 2
+15 Txha ybnha qb qzh phaxbby qzel hnhmemr.
+16 Txha jhmq qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh bsseoh? 	keqozhm	16 6
+1 Zeuu qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+2 Zeuu qxtnhuuha qb qzh oemhyt ihlqhxati.
+3 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	oemhyt	1 2
+4 Zeuu cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+5 Utxi jhmq qb qzh oemhyt ihlqhxati.
+6 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	4 1
+7 Txha jhmq qb qzh bsseoh ihlqhxati.
+8 Rzel hnhmemr Zeuu qxtnhuuha qb qzh oemhyt.
+9 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	4 1
+10 Txha qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+11 Txha jhmq qb qzh vtxk qzel ybxmemr.
+12 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	8 4
+13 Rzel ybxmemr Utxi cbdxmhiha qb qzh phaxbby.
+14 Rzel hnhmemr Txha qxtnhuuha qb qzh vtxk.
+15 Mzhxh jtl Txha phsbxh qzh keqozhm? 	vtxk	10 11
+1 Utxi cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+2 Vhlqhxati Utxi qxtnhuuha qb qzh vtxk.
+3 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	vtxk	1 2
+4 Utxi qxtnhuuha qb qzh vtxk qzel tsqhxmbbm.
+5 Vhlqhxati Hdueh qxtnhuuha qb qzh keqozhm.
+6 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	4 1
+7 Vhlqhxati Zeuu jhmq qb qzh oemhyt.
+8 Utxi jhmq qb qzh lozbbu qzel hnhmemr.
+9 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	vtxk	1 2
+10 Txha cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+11 Vhlqhxati Txha cbdxmhiha qb qzh bsseoh.
+12 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	8 4
+13 Txha jhmq qb qzh bsseoh qzel hnhmemr.
+14 Txha ybnha qb qzh oemhyt qzel tsqhxmbbm.
+15 Mzhxh jtl Txha phsbxh qzh bsseoh? 	oemhyt	13 14
+1 Rzel ybxmemr Zeuu ybnha qb qzh keqozhm.
+2 Hdueh cbdxmhiha qb qzh lozbbu ihlqhxati.
+3 Zeuu ybnha qb qzh lozbbu qzel tsqhxmbbm.
+4 Zeuu cbdxmhiha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	keqozhm	3 1
+6 Zeuu jhmq ptok qb qzh oemhyt qzel hnhmemr.
+7 Vhlqhxati Txha qxtnhuuha qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	1 4
+9 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh vtxk.
+10 Rzel ybxmemr Hdueh jhmq ptok qb qzh bsseoh.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	9 10
+12 Rzel hnhmemr Hdueh jhmq ptok qb qzh keqozhm.
+13 Vhlqhxati Utxi cbdxmhiha qb qzh lozbbu.
+14 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	lozbbu	6 3
+15 Txha qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+16 Utxi ybnha qb qzh phaxbby qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	16 13
+1 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+2 Vhlqhxati Utxi jhmq ptok qb qzh phaxbby.
+3 Vhlqhxati Hdueh qxtnhuuha qb qzh phaxbby.
+4 Zeuu ybnha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	1 2
+6 Utxi jhmq qb qzh oemhyt qzel hnhmemr.
+7 Rzel tsqhxmbbm Utxi jhmq qb qzh keqozhm.
+8 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	7 1
+9 Rzel ybxmemr Txha jhmq qb qzh vtxk.
+10 Txha jhmq qb qzh bsseoh ihlqhxati.
+11 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	1 2
+12 Txha jhmq qb qzh bsseoh qzel hnhmemr.
+13 Txha jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	9 10
+15 Zeuu qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+16 Rzel ybxmemr Zeuu jhmq qb qzh bsseoh.
+17 Mzhxh jtl Txha phsbxh qzh bsseoh? 	oemhyt	12 13
+1 Txha ybnha qb qzh vtxk ihlqhxati.
+2 Rzel ybxmemr Hdueh cbdxmhiha qb qzh phaxbby.
+3 Hdueh jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+4 Hdueh ybnha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	3 2
+6 Zeuu cbdxmhiha qb qzh vtxk qzel ybxmemr.
+7 Zeuu jhmq qb qzh phaxbby ihlqhxati.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	6 7
+9 Utxi cbdxmhiha qb qzh lozbbu ihlqhxati.
+10 Hdueh cbdxmhiha qb qzh lozbbu qzel hnhmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	3 2
+12 Zeuu jhmq qb qzh phaxbby qzel tsqhxmbbm.
+13 Rzel ybxmemr Txha ybnha qb qzh keqozhm.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	12 6
+15 Rzel ybxmemr Utxi qxtnhuuha qb qzh keqozhm.
+16 Txha ybnha qb qzh phaxbby qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	16 13
+1 Zeuu cbdxmhiha qb qzh keqozhm ihlqhxati.
+2 Rzel ybxmemr Hdueh qxtnhuuha qb qzh keqozhm.
+3 Vhlqhxati Hdueh ybnha qb qzh bsseoh.
+4 Vhlqhxati Txha cbdxmhiha qb qzh oemhyt.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	2 3
+6 Hdueh jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+7 Rzel ybxmemr Zeuu ybnha qb qzh bsseoh.
+8 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	7 1
+9 Rzel hnhmemr Hdueh jhmq qb qzh bsseoh.
+10 Vhlqhxati Utxi ybnha qb qzh lozbbu.
+11 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	9 6
+12 Rzel ybxmemr Txha jhmq ptok qb qzh keqozhm.
+13 Zeuu jhmq qb qzh vtxk qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	13 7
+15 Rzel hnhmemr Txha ybnha qb qzh vtxk.
+16 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh lozbbu.
+17 Mzhxh jtl Txha phsbxh qzh vtxk? 	lozbbu	15 16
+1 Rzel tsqhxmbbm Hdueh jhmq qb qzh keqozhm.
+2 Hdueh cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+4 Rzel ybxmemr Hdueh jhmq qb qzh bsseoh.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	1 4
+6 Utxi jhmq qb qzh bsseoh ihlqhxati.
+7 Rzel hnhmemr Hdueh jhmq qb qzh lozbbu.
+8 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	keqozhm	7 1
+9 Rzel ybxmemr Txha qxtnhuuha qb qzh bsseoh.
+10 Txha qxtnhuuha qb qzh phaxbby ihlqhxati.
+11 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	1 4
+12 Zeuu jhmq ptok qb qzh lozbbu qzel ybxmemr.
+13 Txha ybnha qb qzh lozbbu qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	phaxbby	9 10
+15 Utxi cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+16 Rzel tsqhxmbbm Zeuu ybnha qb qzh bsseoh.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	12 3
+1 Vhlqhxati Zeuu ybnha qb qzh vtxk.
+2 Zeuu jhmq ptok qb qzh lozbbu qzel ybxmemr.
+3 Hdueh jhmq qb qzh lozbbu ihlqhxati.
+4 Vhlqhxati Utxi jhmq qb qzh lozbbu.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	vtxk	2 1
+6 Utxi qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+7 Rzel ybxmemr Hdueh qxtnhuuha qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	vtxk	2 1
+9 Txha jhmq qb qzh vtxk ihlqhxati.
+10 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh lozbbu.
+11 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	lozbbu	7 3
+12 Hdueh qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+13 Txha jhmq ptok qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	10 6
+15 Zeuu jhmq qb qzh bsseoh qzel tsqhxmbbm.
+16 Utxi qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	16 10
+1 Rzel ybxmemr Txha ybnha qb qzh bsseoh.
+2 Zeuu qxtnhuuha qb qzh oemhyt ihlqhxati.
+3 Hdueh qxtnhuuha qb qzh oemhyt ihlqhxati.
+4 Txha jhmq ptok qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	1 4
+6 Rzel tsqhxmbbm Hdueh ybnha qb qzh vtxk.
+7 Rzel ybxmemr Hdueh jhmq qb qzh lozbbu.
+8 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	1 4
+9 Utxi qxtnhuuha qb qzh bsseoh ihlqhxati.
+10 Txha ybnha qb qzh vtxk qzel tsqhxmbbm.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	lozbbu	6 7
+12 Zeuu jhmq qb qzh phaxbby qzel tsqhxmbbm.
+13 Zeuu qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	12 13
+15 Utxi ybnha qb qzh keqozhm qzel ybxmemr.
+16 Txha ybnha qb qzh phaxbby qzel hnhmemr.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	16 10
+1 Zeuu ybnha qb qzh keqozhm qzel ybxmemr.
+2 Vhlqhxati Zeuu jhmq ptok qb qzh vtxk.
+3 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	1 2
+4 Vhlqhxati Utxi qxtnhuuha qb qzh lozbbu.
+5 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh bsseoh.
+6 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	1 2
+7 Vhlqhxati Hdueh jhmq ptok qb qzh lozbbu.
+8 Vhlqhxati Txha qxtnhuuha qb qzh lozbbu.
+9 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	5 1
+10 Rzel ybxmemr Utxi qxtnhuuha qb qzh vtxk.
+11 Hdueh ybnha qb qzh oemhyt qzel ybxmemr.
+12 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	11 7
+13 Utxi jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+14 Zeuu qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+15 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	13 10
+1 Vhlqhxati Utxi cbdxmhiha qb qzh keqozhm.
+2 Rzel ybxmemr Txha jhmq ptok qb qzh oemhyt.
+3 Vhlqhxati Hdueh cbdxmhiha qb qzh oemhyt.
+4 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh oemhyt? 	phaxbby	2 4
+6 Hdueh jhmq ptok qb qzh phaxbby qzel ybxmemr.
+7 Txha cbdxmhiha qb qzh lozbbu qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	6 3
+9 Utxi qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+10 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh vtxk.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	7 2
+12 Utxi jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+13 Rzel hnhmemr Hdueh ybnha qb qzh keqozhm.
+14 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	phaxbby	12 9
+15 Vhlqhxati Zeuu jhmq qb qzh oemhyt.
+16 Utxi jhmq ptok qb qzh oemhyt qzel hnhmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	13 10
+1 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+2 Zeuu qxtnhuuha qb qzh bsseoh ihlqhxati.
+3 Zeuu jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+4 Vhlqhxati Txha jhmq qb qzh lozbbu.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	1 2
+6 Vhlqhxati Hdueh qxtnhuuha qb qzh bsseoh.
+7 Rzel hnhmemr Zeuu jhmq qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	3 1
+9 Txha cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+10 Vhlqhxati Utxi jhmq qb qzh keqozhm.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	7 3
+12 Rzel ybxmemr Hdueh jhmq ptok qb qzh lozbbu.
+13 Rzel tsqhxmbbm Txha jhmq qb qzh lozbbu.
+14 Mzhxh jtl Txha phsbxh qzh phaxbby? 	lozbbu	9 4
+15 Utxi cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+16 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	15 16
+1 Vhlqhxati Hdueh cbdxmhiha qb qzh phaxbby.
+2 Txha jhmq qb qzh keqozhm qzel ybxmemr.
+3 Txha jhmq ptok qb qzh oemhyt ihlqhxati.
+4 Utxi jhmq ptok qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	2 3
+6 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+7 Vhlqhxati Zeuu ybnha qb qzh vtxk.
+8 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	2 3
+9 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh bsseoh.
+10 Hdueh ybnha qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	9 10
+12 Zeuu jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+13 Rzel ybxmemr Utxi jhmq qb qzh phaxbby.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	12 6
+15 Rzel hnhmemr Hdueh ybnha qb qzh vtxk.
+16 Utxi ybnha qb qzh keqozhm qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	12 6
+1 Zeuu jhmq qb qzh lozbbu qzel ybxmemr.
+2 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+3 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	1 2
+4 Rzel tsqhxmbbm Zeuu ybnha qb qzh phaxbby.
+5 Vhlqhxati Hdueh qxtnhuuha qb qzh oemhyt.
+6 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	4 1
+7 Utxi jhmq ptok qb qzh lozbbu ihlqhxati.
+8 Rzel hnhmemr Zeuu qxtnhuuha qb qzh oemhyt.
+9 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	1 2
+10 Hdueh ybnha qb qzh phaxbby qzel ybxmemr.
+11 Utxi qxtnhuuha qb qzh vtxk qzel ybxmemr.
+12 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	4 1
+13 Vhlqhxati Txha cbdxmhiha qb qzh keqozhm.
+14 Utxi jhmq qb qzh oemhyt qzel tsqhxmbbm.
+15 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	14 11
+1 Vhlqhxati Hdueh jhmq qb qzh keqozhm.
+2 Hdueh jhmq ptok qb qzh oemhyt qzel ybxmemr.
+3 Txha jhmq qb qzh phaxbby ihlqhxati.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh vtxk.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	2 1
+6 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+7 Rzel ybxmemr Utxi jhmq qb qzh phaxbby.
+8 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	vtxk	7 4
+9 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+10 Txha jhmq qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh bsseoh? 	phaxbby	10 3
+12 Rzel hnhmemr Hdueh jhmq qb qzh oemhyt.
+13 Rzel tsqhxmbbm Hdueh ybnha qb qzh vtxk.
+14 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	13 2
+15 Rzel tsqhxmbbm Zeuu ybnha qb qzh oemhyt.
+16 Rzel tsqhxmbbm Txha jhmq qb qzh phaxbby.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	9 6
+1 Txha ybnha qb qzh keqozhm ihlqhxati.
+2 Utxi jhmq ptok qb qzh lozbbu ihlqhxati.
+3 Utxi qxtnhuuha qb qzh vtxk qzel ybxmemr.
+4 Vhlqhxati Hdueh qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	3 2
+6 Rzel ybxmemr Txha cbdxmhiha qb qzh lozbbu.
+7 Rzel ybxmemr Hdueh jhmq qb qzh lozbbu.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	6 1
+9 Txha cbdxmhiha qb qzh lozbbu qzel hnhmemr.
+10 Rzel tsqhxmbbm Txha jhmq ptok qb qzh phaxbby.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	9 10
+12 Zeuu jhmq qb qzh phaxbby ihlqhxati.
+13 Rzel tsqhxmbbm Utxi jhmq qb qzh phaxbby.
+14 Mzhxh jtl Txha phsbxh qzh phaxbby? 	lozbbu	10 6
+15 Rzel tsqhxmbbm Zeuu ybnha qb qzh lozbbu.
+16 Rzel ybxmemr Zeuu cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	9 10
+1 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+2 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+3 Vhlqhxati Hdueh ybnha qb qzh phaxbby.
+4 Utxi ybnha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	2 1
+6 Utxi qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+7 Rzel tsqhxmbbm Zeuu ybnha qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	7 2
+9 Utxi jhmq qb qzh bsseoh qzel tsqhxmbbm.
+10 Rzel hnhmemr Zeuu ybnha qb qzh oemhyt.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	7 2
+12 Utxi jhmq qb qzh keqozhm qzel hnhmemr.
+13 Vhlqhxati Txha jhmq qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	12 9
+15 Rzel tsqhxmbbm Txha jhmq ptok qb qzh lozbbu.
+16 Txha jhmq qb qzh phaxbby qzel ybxmemr.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	15 16
+1 Rzel ybxmemr Zeuu qxtnhuuha qb qzh lozbbu.
+2 Vhlqhxati Utxi jhmq qb qzh phaxbby.
+3 Vhlqhxati Zeuu jhmq qb qzh bsseoh.
+4 Hdueh jhmq ptok qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	1 3
+6 Rzel hnhmemr Zeuu qxtnhuuha qb qzh vtxk.
+7 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh phaxbby.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	6 7
+9 Rzel ybxmemr Utxi cbdxmhiha qb qzh oemhyt.
+10 Rzel ybxmemr Hdueh qxtnhuuha qb qzh bsseoh.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	9 2
+12 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh keqozhm.
+13 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh vtxk.
+14 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	13 10
+15 Hdueh cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+16 Vhlqhxati Txha jhmq qb qzh vtxk.
+17 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	13 10
+1 Utxi jhmq qb qzh lozbbu qzel tsqhxmbbm.
+2 Utxi cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+3 Utxi ybnha qb qzh keqozhm ihlqhxati.
+4 Vhlqhxati Txha jhmq qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	2 3
+6 Rzel ybxmemr Txha jhmq qb qzh oemhyt.
+7 Rzel hnhmemr Utxi cbdxmhiha qb qzh vtxk.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	2 3
+9 Rzel ybxmemr Hdueh jhmq ptok qb qzh oemhyt.
+10 Vhlqhxati Hdueh qxtnhuuha qb qzh keqozhm.
+11 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	7 1
+12 Rzel tsqhxmbbm Txha jhmq ptok qb qzh phaxbby.
+13 Zeuu qxtnhuuha qb qzh phaxbby ihlqhxati.
+14 Mzhxh jtl Txha phsbxh qzh phaxbby? 	oemhyt	12 6
+15 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh lozbbu.
+16 Zeuu jhmq ptok qb qzh bsseoh qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	15 16
+1 Vhlqhxati Txha jhmq ptok qb qzh vtxk.
+2 Vhlqhxati Utxi jhmq ptok qb qzh oemhyt.
+3 Hdueh qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+4 Hdueh jhmq qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	3 4
+6 Zeuu ybnha qb qzh lozbbu ihlqhxati.
+7 Hdueh jhmq qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	3 4
+9 Zeuu jhmq qb qzh phaxbby qzel tsqhxmbbm.
+10 Zeuu qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	3 4
+12 Rzel hnhmemr Zeuu qxtnhuuha qb qzh bsseoh.
+13 Utxi cbdxmhiha qb qzh vtxk qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	9 10
+15 Rzel hnhmemr Utxi ybnha qb qzh vtxk.
+16 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	15 16
+1 Rzel ybxmemr Txha ybnha qb qzh lozbbu.
+2 Hdueh jhmq ptok qb qzh oemhyt ihlqhxati.
+3 Utxi qxtnhuuha qb qzh phaxbby ihlqhxati.
+4 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	1 4
+6 Zeuu qxtnhuuha qb qzh keqozhm ihlqhxati.
+7 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh bsseoh.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	1 4
+9 Txha qxtnhuuha qb qzh vtxk qzel hnhmemr.
+10 Utxi jhmq qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	7 1
+12 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh oemhyt.
+13 Rzel ybxmemr Hdueh qxtnhuuha qb qzh bsseoh.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	10 3
+15 Rzel ybxmemr Zeuu jhmq qb qzh vtxk.
+16 Hdueh jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	16 13
+1 Vhlqhxati Zeuu cbdxmhiha qb qzh vtxk.
+2 Zeuu jhmq qb qzh keqozhm qzel ybxmemr.
+3 Vhlqhxati Utxi jhmq ptok qb qzh lozbbu.
+4 Vhlqhxati Txha jhmq ptok qb qzh oemhyt.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	2 1
+6 Vhlqhxati Hdueh qxtnhuuha qb qzh phaxbby.
+7 Utxi jhmq qb qzh phaxbby qzel ybxmemr.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	2 1
+9 Rzel ybxmemr Txha qxtnhuuha qb qzh keqozhm.
+10 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh oemhyt.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	9 4
+12 Rzel hnhmemr Zeuu qxtnhuuha qb qzh bsseoh.
+13 Hdueh jhmq ptok qb qzh lozbbu qzel ybxmemr.
+14 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	13 6
+15 Rzel hnhmemr Utxi jhmq ptok qb qzh phaxbby.
+16 Utxi cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	15 16
+1 Vhlqhxati Txha qxtnhuuha qb qzh keqozhm.
+2 Rzel tsqhxmbbm Hdueh ybnha qb qzh oemhyt.
+3 Hdueh ybnha qb qzh vtxk ihlqhxati.
+4 Rzel ybxmemr Hdueh cbdxmhiha qb qzh keqozhm.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	4 3
+6 Rzel ybxmemr Txha jhmq qb qzh lozbbu.
+7 Vhlqhxati Utxi jhmq qb qzh phaxbby.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	4 3
+9 Vhlqhxati Zeuu qxtnhuuha qb qzh bsseoh.
+10 Rzel ybxmemr Utxi jhmq qb qzh oemhyt.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	6 1
+12 Rzel hnhmemr Hdueh ybnha qb qzh vtxk.
+13 Txha qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	lozbbu	13 6
+15 Rzel ybxmemr Zeuu cbdxmhiha qb qzh phaxbby.
+16 Txha jhmq ptok qb qzh phaxbby qzel hnhmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	15 9
+1 Vhlqhxati Zeuu jhmq qb qzh bsseoh.
+2 Rzel ybxmemr Hdueh cbdxmhiha qb qzh oemhyt.
+3 Hdueh qxtnhuuha qb qzh phaxbby ihlqhxati.
+4 Vhlqhxati Txha ybnha qb qzh lozbbu.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	phaxbby	2 3
+6 Rzel tsqhxmbbm Hdueh ybnha qb qzh vtxk.
+7 Utxi cbdxmhiha qb qzh bsseoh ihlqhxati.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	phaxbby	2 3
+9 Hdueh jhmq qb qzh phaxbby qzel hnhmemr.
+10 Rzel ybxmemr Txha qxtnhuuha qb qzh phaxbby.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	6 2
+12 Zeuu jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+13 Zeuu qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	9 6
+15 Txha cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+16 Rzel hnhmemr Zeuu jhmq ptok qb qzh oemhyt.
+17 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	9 6
+1 Rzel ybxmemr Utxi jhmq qb qzh lozbbu.
+2 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh phaxbby.
+3 Zeuu ybnha qb qzh oemhyt ihlqhxati.
+4 Vhlqhxati Utxi ybnha qb qzh keqozhm.
+5 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	1 4
+6 Txha cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+7 Txha jhmq qb qzh phaxbby ihlqhxati.
+8 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	1 4
+9 Txha cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+10 Utxi jhmq ptok qb qzh lozbbu qzel hnhmemr.
+11 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	9 6
+12 Rzel ybxmemr Zeuu cbdxmhiha qb qzh bsseoh.
+13 Rzel hnhmemr Txha cbdxmhiha qb qzh vtxk.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	9 6
+15 Hdueh ybnha qb qzh oemhyt qzel ybxmemr.
+16 Hdueh qxtnhuuha qb qzh keqozhm ihlqhxati.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	oemhyt	12 3
+1 Vhlqhxati Hdueh cbdxmhiha qb qzh keqozhm.
+2 Txha jhmq qb qzh keqozhm qzel ybxmemr.
+3 Vhlqhxati Txha cbdxmhiha qb qzh oemhyt.
+4 Hdueh ybnha qb qzh bsseoh qzel ybxmemr.
+5 Vhlqhxati Zeuu jhmq ptok qb qzh lozbbu.
+6 Utxi cbdxmhiha qb qzh keqozhm ihlqhxati.
+7 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	4 1
+8 Rzel hnhmemr Hdueh jhmq ptok qb qzh keqozhm.
+9 Rzel tsqhxmbbm Hdueh jhmq qb qzh lozbbu.
+10 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	4 1
+11 Utxi cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+12 Rzel ybxmemr Zeuu jhmq ptok qb qzh phaxbby.
+13 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	4 1
+14 Rzel hnhmemr Txha ybnha qb qzh bsseoh.
+15 Txha cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+16 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	12 5
+17 Zeuu qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+18 Utxi jhmq qb qzh phaxbby qzel tsqhxmbbm.
+19 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	11 6
+1 Hdueh qxtnhuuha qb qzh phaxbby ihlqhxati.
+2 Txha jhmq qb qzh vtxk ihlqhxati.
+3 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+4 Zeuu qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+5 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	4 3
+6 Utxi ybnha qb qzh phaxbby qzel ybxmemr.
+7 Utxi qxtnhuuha qb qzh lozbbu ihlqhxati.
+8 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	4 3
+9 Rzel ybxmemr Hdueh qxtnhuuha qb qzh oemhyt.
+10 Rzel tsqhxmbbm Zeuu jhmq qb qzh bsseoh.
+11 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	phaxbby	9 1
+12 Txha qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+13 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh keqozhm.
+14 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	13 9
+15 Rzel tsqhxmbbm Utxi ybnha qb qzh vtxk.
+16 Rzel hnhmemr Hdueh cbdxmhiha qb qzh oemhyt.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	15 6
+1 Hdueh qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+2 Vhlqhxati Hdueh ybnha qb qzh lozbbu.
+3 Txha jhmq qb qzh oemhyt ihlqhxati.
+4 Utxi cbdxmhiha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	1 2
+6 Rzel tsqhxmbbm Hdueh jhmq qb qzh keqozhm.
+7 Vhlqhxati Zeuu ybnha qb qzh bsseoh.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	6 1
+9 Utxi ybnha qb qzh bsseoh qzel ybxmemr.
+10 Rzel hnhmemr Hdueh cbdxmhiha qb qzh lozbbu.
+11 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	keqozhm	10 6
+12 Utxi jhmq ptok qb qzh oemhyt qzel hnhmemr.
+13 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	13 9
+15 Zeuu jhmq qb qzh lozbbu qzel ybxmemr.
+16 Rzel ybxmemr Txha qxtnhuuha qb qzh phaxbby.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	13 9
+1 Vhlqhxati Hdueh ybnha qb qzh keqozhm.
+2 Vhlqhxati Txha qxtnhuuha qb qzh lozbbu.
+3 Rzel ybxmemr Hdueh qxtnhuuha qb qzh oemhyt.
+4 Zeuu ybnha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	3 1
+6 Txha jhmq ptok qb qzh oemhyt qzel ybxmemr.
+7 Vhlqhxati Utxi qxtnhuuha qb qzh oemhyt.
+8 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	6 2
+9 Zeuu qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+10 Rzel ybxmemr Zeuu cbdxmhiha qb qzh vtxk.
+11 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	10 4
+12 Utxi ybnha qb qzh bsseoh qzel ybxmemr.
+13 Rzel tsqhxmbbm Txha ybnha qb qzh bsseoh.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	oemhyt	13 6
+15 Rzel hnhmemr Txha cbdxmhiha qb qzh keqozhm.
+16 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh vtxk.
+17 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	15 13
+1 Txha cbdxmhiha qb qzh oemhyt ihlqhxati.
+2 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+3 Utxi cbdxmhiha qb qzh bsseoh ihlqhxati.
+4 Zeuu jhmq qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	2 4
+6 Vhlqhxati Hdueh jhmq ptok qb qzh oemhyt.
+7 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	7 2
+9 Rzel ybxmemr Txha jhmq ptok qb qzh lozbbu.
+10 Rzel hnhmemr Zeuu qxtnhuuha qb qzh bsseoh.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	9 1
+12 Rzel ybxmemr Hdueh jhmq qb qzh phaxbby.
+13 Utxi ybnha qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	vtxk	10 7
+15 Txha cbdxmhiha qb qzh phaxbby qzel hnhmemr.
+16 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh keqozhm.
+17 Mzhxh jtl Txha phsbxh qzh keqozhm? 	lozbbu	16 9
+1 Zeuu jhmq ptok qb qzh phaxbby ihlqhxati.
+2 Vhlqhxati Txha cbdxmhiha qb qzh keqozhm.
+3 Rzel ybxmemr Zeuu cbdxmhiha qb qzh keqozhm.
+4 Utxi cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+5 Hdueh jhmq qb qzh lozbbu ihlqhxati.
+6 Utxi jhmq ptok qb qzh lozbbu ihlqhxati.
+7 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	lozbbu	4 6
+8 Rzel ybxmemr Txha qxtnhuuha qb qzh lozbbu.
+9 Utxi cbdxmhiha qb qzh lozbbu qzel tsqhxmbbm.
+10 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	9 4
+11 Hdueh jhmq ptok qb qzh phaxbby qzel ybxmemr.
+12 Utxi ybnha qb qzh bsseoh qzel hnhmemr.
+13 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	3 1
+14 Rzel tsqhxmbbm Hdueh jhmq qb qzh oemhyt.
+15 Txha jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+16 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	lozbbu	11 5
+17 Txha ybnha qb qzh oemhyt qzel hnhmemr.
+18 Rzel hnhmemr Hdueh jhmq ptok qb qzh vtxk.
+19 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	lozbbu	11 5
+1 Zeuu ybnha qb qzh keqozhm qzel tsqhxmbbm.
+2 Zeuu jhmq qb qzh lozbbu qzel ybxmemr.
+3 Vhlqhxati Txha cbdxmhiha qb qzh bsseoh.
+4 Vhlqhxati Zeuu cbdxmhiha qb qzh bsseoh.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	1 2
+6 Vhlqhxati Hdueh jhmq qb qzh bsseoh.
+7 Rzel hnhmemr Zeuu ybnha qb qzh phaxbby.
+8 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	7 1
+9 Txha cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+10 Hdueh jhmq qb qzh oemhyt qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	bsseoh	10 6
+12 Txha qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+13 Hdueh ybnha qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	oemhyt	13 10
+15 Rzel hnhmemr Txha qxtnhuuha qb qzh bsseoh.
+16 Rzel hnhmemr Hdueh cbdxmhiha qb qzh keqozhm.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	16 13
+1 Hdueh qxtnhuuha qb qzh oemhyt ihlqhxati.
+2 Vhlqhxati Utxi jhmq ptok qb qzh vtxk.
+3 Rzel ybxmemr Zeuu jhmq qb qzh keqozhm.
+4 Txha cbdxmhiha qb qzh keqozhm ihlqhxati.
+5 Vhlqhxati Zeuu jhmq ptok qb qzh lozbbu.
+6 Rzel ybxmemr Txha qxtnhuuha qb qzh oemhyt.
+7 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	6 4
+8 Rzel ybxmemr Utxi jhmq qb qzh lozbbu.
+9 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh oemhyt.
+10 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	6 4
+11 Hdueh cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+12 Rzel ybxmemr Hdueh ybnha qb qzh keqozhm.
+13 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	12 1
+14 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh phaxbby.
+15 Hdueh ybnha qb qzh bsseoh qzel hnhmemr.
+16 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	12 1
+17 Zeuu jhmq qb qzh phaxbby qzel hnhmemr.
+18 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+19 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	11 12
+1 Vhlqhxati Hdueh jhmq qb qzh phaxbby.
+2 Vhlqhxati Zeuu qxtnhuuha qb qzh keqozhm.
+3 Rzel ybxmemr Hdueh jhmq ptok qb qzh keqozhm.
+4 Vhlqhxati Utxi jhmq qb qzh vtxk.
+5 Txha jhmq ptok qb qzh phaxbby ihlqhxati.
+6 Txha jhmq qb qzh oemhyt qzel ybxmemr.
+7 Mzhxh jtl Txha phsbxh qzh oemhyt? 	phaxbby	6 5
+8 Txha jhmq qb qzh bsseoh qzel hnhmemr.
+9 Txha qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+10 Mzhxh jtl Txha phsbxh qzh phaxbby? 	oemhyt	9 6
+11 Rzel tsqhxmbbm Hdueh ybnha qb qzh phaxbby.
+12 Utxi cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+13 Mzhxh jtl Txha phsbxh qzh phaxbby? 	oemhyt	9 6
+14 Rzel hnhmemr Utxi cbdxmhiha qb qzh phaxbby.
+15 Rzel tsqhxmbbm Utxi jhmq qb qzh keqozhm.
+16 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	keqozhm	14 15
+17 Zeuu ybnha qb qzh phaxbby qzel tsqhxmbbm.
+18 Zeuu ybnha qb qzh oemhyt qzel ybxmemr.
+19 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	18 2
+1 Vhlqhxati Hdueh ybnha qb qzh keqozhm.
+2 Rzel ybxmemr Utxi ybnha qb qzh vtxk.
+3 Vhlqhxati Utxi cbdxmhiha qb qzh lozbbu.
+4 Zeuu jhmq qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	2 3
+6 Rzel ybxmemr Txha jhmq ptok qb qzh bsseoh.
+7 Txha jhmq qb qzh phaxbby ihlqhxati.
+8 Mzhxh jtl Txha phsbxh qzh bsseoh? 	phaxbby	6 7
+9 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh phaxbby.
+10 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	9 10
+12 Hdueh jhmq qb qzh bsseoh qzel ybxmemr.
+13 Rzel hnhmemr Zeuu cbdxmhiha qb qzh oemhyt.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	10 4
+15 Txha ybnha qb qzh oemhyt qzel tsqhxmbbm.
+16 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh oemhyt.
+17 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	12 1
+1 Zeuu ybnha qb qzh keqozhm qzel ybxmemr.
+2 Vhlqhxati Zeuu jhmq ptok qb qzh lozbbu.
+3 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	1 2
+4 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh oemhyt.
+5 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+6 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	4 1
+7 Rzel ybxmemr Txha jhmq ptok qb qzh vtxk.
+8 Vhlqhxati Utxi jhmq ptok qb qzh bsseoh.
+9 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	1 2
+10 Vhlqhxati Hdueh ybnha qb qzh phaxbby.
+11 Zeuu cbdxmhiha qb qzh phaxbby qzel hnhmemr.
+12 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	4 1
+13 Rzel ybxmemr Utxi jhmq ptok qb qzh vtxk.
+14 Rzel ybxmemr Hdueh qxtnhuuha qb qzh oemhyt.
+15 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	11 4
+1 Rzel ybxmemr Utxi jhmq ptok qb qzh vtxk.
+2 Utxi cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	1 2
+4 Hdueh jhmq ptok qb qzh lozbbu qzel ybxmemr.
+5 Vhlqhxati Hdueh cbdxmhiha qb qzh vtxk.
+6 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	4 5
+7 Rzel ybxmemr Zeuu qxtnhuuha qb qzh lozbbu.
+8 Vhlqhxati Zeuu cbdxmhiha qb qzh phaxbby.
+9 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	7 8
+10 Hdueh qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+11 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh lozbbu.
+12 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	4 5
+13 Rzel ybxmemr Txha cbdxmhiha qb qzh bsseoh.
+14 Vhlqhxati Txha ybnha qb qzh phaxbby.
+15 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	10 4
+1 Vhlqhxati Zeuu ybnha qb qzh oemhyt.
+2 Utxi jhmq ptok qb qzh phaxbby qzel ybxmemr.
+3 Txha ybnha qb qzh oemhyt ihlqhxati.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh oemhyt.
+5 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	2 4
+6 Hdueh jhmq qb qzh phaxbby qzel ybxmemr.
+7 Hdueh cbdxmhiha qb qzh keqozhm ihlqhxati.
+8 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	2 4
+9 Zeuu ybnha qb qzh phaxbby qzel ybxmemr.
+10 Txha ybnha qb qzh vtxk qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	2 4
+12 Utxi jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+13 Hdueh cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	9 1
+15 Rzel hnhmemr Utxi jhmq qb qzh vtxk.
+16 Txha jhmq qb qzh phaxbby qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	9 1
+1 Utxi qxtnhuuha qb qzh lozbbu ihlqhxati.
+2 Vhlqhxati Zeuu cbdxmhiha qb qzh keqozhm.
+3 Hdueh ybnha qb qzh lozbbu qzel ybxmemr.
+4 Hdueh jhmq qb qzh vtxk ihlqhxati.
+5 Txha jhmq ptok qb qzh oemhyt ihlqhxati.
+6 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+7 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	lozbbu	6 1
+8 Zeuu cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+9 Utxi ybnha qb qzh phaxbby qzel tsqhxmbbm.
+10 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	8 2
+11 Txha qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+12 Utxi cbdxmhiha qb qzh vtxk qzel hnhmemr.
+13 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	11 5
+14 Hdueh ybnha qb qzh bsseoh qzel hnhmemr.
+15 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh keqozhm.
+16 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	8 2
+17 Txha ybnha qb qzh lozbbu qzel tsqhxmbbm.
+18 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh vtxk.
+19 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	14 15
+1 Vhlqhxati Utxi jhmq qb qzh vtxk.
+2 Zeuu jhmq qb qzh lozbbu ihlqhxati.
+3 Hdueh jhmq ptok qb qzh lozbbu qzel ybxmemr.
+4 Hdueh ybnha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	3 4
+6 Vhlqhxati Txha qxtnhuuha qb qzh oemhyt.
+7 Zeuu cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	3 4
+9 Txha qxtnhuuha qb qzh vtxk qzel tsqhxmbbm.
+10 Txha qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	7 2
+12 Utxi jhmq ptok qb qzh lozbbu qzel ybxmemr.
+13 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh phaxbby.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	13 7
+15 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh bsseoh.
+16 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh bsseoh.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	12 1
+1 Hdueh ybnha qb qzh bsseoh qzel ybxmemr.
+2 Zeuu cbdxmhiha qb qzh keqozhm ihlqhxati.
+3 Utxi jhmq ptok qb qzh bsseoh ihlqhxati.
+4 Vhlqhxati Hdueh jhmq qb qzh phaxbby.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	1 4
+6 Hdueh jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+7 Txha jhmq ptok qb qzh vtxk ihlqhxati.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	bsseoh	6 1
+9 Hdueh jhmq ptok qb qzh lozbbu qzel hnhmemr.
+10 Zeuu jhmq ptok qb qzh oemhyt qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	1 4
+12 Rzel tsqhxmbbm Zeuu jhmq qb qzh lozbbu.
+13 Utxi qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	10 2
+15 Utxi ybnha qb qzh oemhyt qzel tsqhxmbbm.
+16 Txha ybnha qb qzh oemhyt qzel ybxmemr.
+17 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	16 7
+1 Zeuu cbdxmhiha qb qzh bsseoh ihlqhxati.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh oemhyt.
+3 Rzel ybxmemr Hdueh qxtnhuuha qb qzh keqozhm.
+4 Hdueh cbdxmhiha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	3 4
+6 Txha qxtnhuuha qb qzh phaxbby ihlqhxati.
+7 Hdueh cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	3 4
+9 Rzel ybxmemr Zeuu jhmq ptok qb qzh phaxbby.
+10 Rzel ybxmemr Utxi cbdxmhiha qb qzh keqozhm.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	9 1
+12 Hdueh jhmq qb qzh phaxbby qzel hnhmemr.
+13 Rzel ybxmemr Txha jhmq ptok qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	oemhyt	10 2
+15 Utxi cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+16 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh vtxk.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	keqozhm	16 10
+1 Rzel ybxmemr Txha ybnha qb qzh vtxk.
+2 Vhlqhxati Txha cbdxmhiha qb qzh bsseoh.
+3 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	1 2
+4 Rzel tsqhxmbbm Txha jhmq qb qzh bsseoh.
+5 Vhlqhxati Utxi cbdxmhiha qb qzh bsseoh.
+6 Mzhxh jtl Txha phsbxh qzh bsseoh? 	vtxk	4 1
+7 Rzel ybxmemr Zeuu ybnha qb qzh keqozhm.
+8 Zeuu qxtnhuuha qb qzh oemhyt ihlqhxati.
+9 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	1 2
+10 Zeuu cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+11 Vhlqhxati Hdueh ybnha qb qzh lozbbu.
+12 Mzhxh jtl Txha phsbxh qzh bsseoh? 	vtxk	4 1
+13 Rzel hnhmemr Zeuu jhmq qb qzh bsseoh.
+14 Rzel hnhmemr Txha jhmq ptok qb qzh vtxk.
+15 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	14 4
+1 Hdueh jhmq ptok qb qzh oemhyt qzel ybxmemr.
+2 Utxi ybnha qb qzh keqozhm ihlqhxati.
+3 Zeuu qxtnhuuha qb qzh phaxbby ihlqhxati.
+4 Vhlqhxati Hdueh jhmq qb qzh phaxbby.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	phaxbby	1 4
+6 Txha ybnha qb qzh oemhyt qzel ybxmemr.
+7 Txha cbdxmhiha qb qzh keqozhm ihlqhxati.
+8 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	6 7
+9 Txha ybnha qb qzh lozbbu qzel tsqhxmbbm.
+10 Rzel ybxmemr Zeuu jhmq qb qzh oemhyt.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	9 6
+12 Hdueh jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+13 Txha ybnha qb qzh keqozhm qzel hnhmemr.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	6 7
+15 Utxi qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+16 Rzel ybxmemr Utxi qxtnhuuha qb qzh lozbbu.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	9 6
+1 Rzel tsqhxmbbm Txha ybnha qb qzh phaxbby.
+2 Rzel ybxmemr Txha qxtnhuuha qb qzh keqozhm.
+3 Vhlqhxati Txha cbdxmhiha qb qzh vtxk.
+4 Vhlqhxati Hdueh jhmq ptok qb qzh bsseoh.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	vtxk	2 3
+6 Vhlqhxati Zeuu ybnha qb qzh oemhyt.
+7 Rzel hnhmemr Txha jhmq ptok qb qzh keqozhm.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	1 2
+9 Vhlqhxati Utxi ybnha qb qzh vtxk.
+10 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	10 6
+12 Rzel ybxmemr Utxi ybnha qb qzh lozbbu.
+13 Zeuu qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	12 9
+15 Rzel ybxmemr Hdueh jhmq ptok qb qzh keqozhm.
+16 Rzel hnhmemr Zeuu qxtnhuuha qb qzh vtxk.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	15 4
+1 Vhlqhxati Utxi qxtnhuuha qb qzh vtxk.
+2 Vhlqhxati Zeuu cbdxmhiha qb qzh vtxk.
+3 Rzel ybxmemr Txha jhmq ptok qb qzh keqozhm.
+4 Hdueh ybnha qb qzh oemhyt ihlqhxati.
+5 Txha qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+6 Vhlqhxati Txha ybnha qb qzh vtxk.
+7 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	5 3
+8 Zeuu jhmq qb qzh oemhyt qzel ybxmemr.
+9 Rzel ybxmemr Hdueh jhmq ptok qb qzh lozbbu.
+10 Mzhxh jtl Txha phsbxh qzh keqozhm? 	vtxk	3 6
+11 Rzel hnhmemr Txha qxtnhuuha qb qzh bsseoh.
+12 Rzel ybxmemr Utxi ybnha qb qzh lozbbu.
+13 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	5 3
+14 Rzel hnhmemr Zeuu jhmq qb qzh keqozhm.
+15 Zeuu qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+16 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	12 1
+17 Hdueh cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+18 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh phaxbby.
+19 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	14 15
+1 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+2 Zeuu ybnha qb qzh bsseoh ihlqhxati.
+3 Rzel ybxmemr Utxi jhmq qb qzh oemhyt.
+4 Vhlqhxati Utxi jhmq qb qzh keqozhm.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	3 4
+6 Vhlqhxati Hdueh qxtnhuuha qb qzh keqozhm.
+7 Zeuu qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	1 2
+9 Rzel ybxmemr Hdueh jhmq qb qzh phaxbby.
+10 Zeuu cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	3 4
+12 Utxi jhmq qb qzh vtxk qzel tsqhxmbbm.
+13 Hdueh qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	9 6
+15 Rzel hnhmemr Utxi ybnha qb qzh phaxbby.
+16 Rzel hnhmemr Hdueh ybnha qb qzh keqozhm.
+17 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	13 9
+1 Utxi jhmq ptok qb qzh lozbbu ihlqhxati.
+2 Hdueh jhmq ptok qb qzh lozbbu qzel tsqhxmbbm.
+3 Vhlqhxati Hdueh cbdxmhiha qb qzh bsseoh.
+4 Hdueh jhmq qb qzh vtxk qzel ybxmemr.
+5 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	2 4
+6 Rzel ybxmemr Txha jhmq ptok qb qzh lozbbu.
+7 Vhlqhxati Txha qxtnhuuha qb qzh keqozhm.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	6 7
+9 Txha cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+10 Rzel tsqhxmbbm Txha ybnha qb qzh bsseoh.
+11 Mzhxh jtl Txha phsbxh qzh oemhyt? 	bsseoh	9 10
+12 Hdueh jhmq qb qzh vtxk qzel hnhmemr.
+13 Vhlqhxati Zeuu jhmq ptok qb qzh phaxbby.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	6 7
+15 Zeuu qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+16 Zeuu cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	16 13
+1 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+2 Vhlqhxati Zeuu cbdxmhiha qb qzh keqozhm.
+3 Rzel ybxmemr Hdueh cbdxmhiha qb qzh oemhyt.
+4 Hdueh cbdxmhiha qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	3 4
+6 Hdueh qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+7 Vhlqhxati Txha jhmq qb qzh vtxk.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	6 3
+9 Rzel hnhmemr Hdueh jhmq ptok qb qzh lozbbu.
+10 Rzel ybxmemr Txha ybnha qb qzh phaxbby.
+11 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	3 4
+12 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+13 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh bsseoh.
+14 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	10 7
+15 Utxi qxtnhuuha qb qzh vtxk qzel ybxmemr.
+16 Txha jhmq ptok qb qzh keqozhm qzel hnhmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	keqozhm	12 2
+1 Txha cbdxmhiha qb qzh lozbbu ihlqhxati.
+2 Rzel ybxmemr Txha cbdxmhiha qb qzh keqozhm.
+3 Txha cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+4 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	lozbbu	2 1
+6 Rzel hnhmemr Txha jhmq ptok qb qzh lozbbu.
+7 Rzel ybxmemr Zeuu cbdxmhiha qb qzh lozbbu.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	7 4
+9 Zeuu jhmq qb qzh keqozhm qzel tsqhxmbbm.
+10 Vhlqhxati Hdueh jhmq qb qzh oemhyt.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	6 3
+12 Rzel hnhmemr Zeuu ybnha qb qzh lozbbu.
+13 Rzel ybxmemr Hdueh cbdxmhiha qb qzh vtxk.
+14 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	13 10
+15 Vhlqhxati Utxi ybnha qb qzh lozbbu.
+16 Hdueh jhmq ptok qb qzh lozbbu qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	9 7
+1 Txha cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+2 Txha jhmq ptok qb qzh vtxk ihlqhxati.
+3 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	1 2
+4 Zeuu jhmq ptok qb qzh lozbbu ihlqhxati.
+5 Hdueh cbdxmhiha qb qzh bsseoh ihlqhxati.
+6 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	1 2
+7 Rzel tsqhxmbbm Txha jhmq qb qzh lozbbu.
+8 Rzel ybxmemr Zeuu cbdxmhiha qb qzh vtxk.
+9 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	8 4
+10 Hdueh jhmq ptok qb qzh keqozhm qzel ybxmemr.
+11 Rzel hnhmemr Txha cbdxmhiha qb qzh keqozhm.
+12 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	10 5
+13 Zeuu qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+14 Hdueh jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+15 Mzhxh jtl Txha phsbxh qzh keqozhm? 	lozbbu	11 7
+1 Rzel ybxmemr Hdueh jhmq ptok qb qzh bsseoh.
+2 Zeuu cbdxmhiha qb qzh bsseoh ihlqhxati.
+3 Utxi qxtnhuuha qb qzh oemhyt ihlqhxati.
+4 Hdueh jhmq ptok qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	1 4
+6 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+7 Rzel ybxmemr Zeuu cbdxmhiha qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	1 4
+9 Rzel tsqhxmbbm Hdueh ybnha qb qzh phaxbby.
+10 Txha jhmq qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	7 2
+12 Rzel ybxmemr Utxi jhmq ptok qb qzh bsseoh.
+13 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh lozbbu.
+14 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	13 7
+15 Txha jhmq qb qzh keqozhm qzel tsqhxmbbm.
+16 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh vtxk.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	16 12
+1 Rzel ybxmemr Txha jhmq qb qzh keqozhm.
+2 Utxi jhmq ptok qb qzh bsseoh ihlqhxati.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh keqozhm.
+4 Vhlqhxati Txha ybnha qb qzh phaxbby.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	1 4
+6 Rzel ybxmemr Zeuu qxtnhuuha qb qzh phaxbby.
+7 Rzel tsqhxmbbm Txha ybnha qb qzh bsseoh.
+8 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	1 4
+9 Hdueh jhmq qb qzh lozbbu ihlqhxati.
+10 Txha jhmq ptok qb qzh keqozhm qzel hnhmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	6 3
+12 Rzel ybxmemr Utxi qxtnhuuha qb qzh keqozhm.
+13 Hdueh cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+14 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	13 9
+15 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh lozbbu.
+16 Utxi cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	15 13
+1 Vhlqhxati Zeuu jhmq ptok qb qzh oemhyt.
+2 Vhlqhxati Utxi ybnha qb qzh lozbbu.
+3 Rzel ybxmemr Txha cbdxmhiha qb qzh bsseoh.
+4 Txha ybnha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh bsseoh? 	oemhyt	3 4
+6 Rzel hnhmemr Txha qxtnhuuha qb qzh phaxbby.
+7 Txha jhmq qb qzh oemhyt qzel tsqhxmbbm.
+8 Mzhxh jtl Txha phsbxh qzh oemhyt? 	bsseoh	7 3
+9 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+10 Hdueh jhmq qb qzh phaxbby ihlqhxati.
+11 Mzhxh jtl Txha phsbxh qzh oemhyt? 	bsseoh	7 3
+12 Rzel tsqhxmbbm Zeuu jhmq qb qzh keqozhm.
+13 Hdueh jhmq ptok qb qzh lozbbu qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	9 1
+15 Utxi jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+16 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	13 10
+1 Zeuu jhmq qb qzh keqozhm ihlqhxati.
+2 Vhlqhxati Hdueh jhmq qb qzh lozbbu.
+3 Vhlqhxati Txha ybnha qb qzh vtxk.
+4 Hdueh ybnha qb qzh keqozhm qzel ybxmemr.
+5 Hdueh cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+6 Vhlqhxati Utxi qxtnhuuha qb qzh keqozhm.
+7 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	5 4
+8 Rzel ybxmemr Zeuu cbdxmhiha qb qzh oemhyt.
+9 Hdueh cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+10 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	9 5
+11 Txha cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+12 Rzel tsqhxmbbm Zeuu ybnha qb qzh keqozhm.
+13 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	oemhyt	12 8
+14 Rzel hnhmemr Txha jhmq qb qzh lozbbu.
+15 Txha ybnha qb qzh oemhyt qzel tsqhxmbbm.
+16 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	oemhyt	12 8
+17 Rzel ybxmemr Utxi qxtnhuuha qb qzh bsseoh.
+18 Rzel hnhmemr Zeuu jhmq qb qzh lozbbu.
+19 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	14 15
+1 Rzel ybxmemr Hdueh jhmq qb qzh keqozhm.
+2 Hdueh qxtnhuuha qb qzh lozbbu ihlqhxati.
+3 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	lozbbu	1 2
+4 Vhlqhxati Zeuu jhmq qb qzh keqozhm.
+5 Hdueh ybnha qb qzh oemhyt qzel tsqhxmbbm.
+6 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	5 1
+7 Utxi qxtnhuuha qb qzh phaxbby ihlqhxati.
+8 Txha jhmq qb qzh vtxk ihlqhxati.
+9 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	lozbbu	1 2
+10 Hdueh qxtnhuuha qb qzh bsseoh qzel hnhmemr.
+11 Rzel ybxmemr Zeuu ybnha qb qzh phaxbby.
+12 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	11 4
+13 Txha jhmq ptok qb qzh lozbbu qzel tsqhxmbbm.
+14 Rzel ybxmemr Txha jhmq qb qzh bsseoh.
+15 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	11 4
+1 Utxi cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+2 Utxi cbdxmhiha qb qzh lozbbu ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	lozbbu	1 2
+4 Rzel ybxmemr Hdueh jhmq qb qzh lozbbu.
+5 Hdueh jhmq ptok qb qzh vtxk ihlqhxati.
+6 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	4 5
+7 Hdueh qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+8 Utxi ybnha qb qzh vtxk qzel tsqhxmbbm.
+9 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	lozbbu	1 2
+10 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+11 Utxi cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+12 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	7 4
+13 Rzel ybxmemr Txha qxtnhuuha qb qzh oemhyt.
+14 Vhlqhxati Txha jhmq qb qzh lozbbu.
+15 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	13 14
+1 Rzel ybxmemr Hdueh jhmq qb qzh lozbbu.
+2 Utxi ybnha qb qzh vtxk ihlqhxati.
+3 Vhlqhxati Txha cbdxmhiha qb qzh keqozhm.
+4 Vhlqhxati Hdueh qxtnhuuha qb qzh oemhyt.
+5 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	1 4
+6 Rzel hnhmemr Hdueh cbdxmhiha qb qzh bsseoh.
+7 Hdueh jhmq qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	6 7
+9 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh lozbbu.
+10 Txha jhmq qb qzh vtxk qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	9 10
+12 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+13 Zeuu qxtnhuuha qb qzh bsseoh ihlqhxati.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	9 10
+15 Utxi cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+16 Rzel hnhmemr Txha qxtnhuuha qb qzh phaxbby.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	lozbbu	16 9
+1 Vhlqhxati Utxi jhmq qb qzh phaxbby.
+2 Rzel ybxmemr Utxi cbdxmhiha qb qzh keqozhm.
+3 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+4 Txha jhmq qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	phaxbby	2 1
+6 Rzel tsqhxmbbm Zeuu ybnha qb qzh lozbbu.
+7 Rzel ybxmemr Zeuu ybnha qb qzh oemhyt.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	6 7
+9 Rzel ybxmemr Hdueh cbdxmhiha qb qzh vtxk.
+10 Vhlqhxati Hdueh jhmq qb qzh phaxbby.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	9 10
+12 Rzel ybxmemr Txha ybnha qb qzh oemhyt.
+13 Zeuu jhmq qb qzh oemhyt qzel hnhmemr.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	12 4
+15 Hdueh cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+16 Hdueh qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	12 4
+1 Zeuu ybnha qb qzh keqozhm qzel ybxmemr.
+2 Zeuu cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Hdueh jhmq ptok qb qzh lozbbu.
+4 Utxi jhmq qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	1 2
+6 Hdueh ybnha qb qzh oemhyt qzel ybxmemr.
+7 Rzel ybxmemr Utxi jhmq ptok qb qzh oemhyt.
+8 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	7 4
+9 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh keqozhm.
+10 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh phaxbby.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	7 4
+12 Rzel ybxmemr Txha jhmq qb qzh phaxbby.
+13 Vhlqhxati Txha jhmq ptok qb qzh lozbbu.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	10 1
+15 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh lozbbu.
+16 Rzel tsqhxmbbm Txha ybnha qb qzh lozbbu.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	lozbbu	12 13
+1 Vhlqhxati Utxi jhmq qb qzh phaxbby.
+2 Rzel ybxmemr Zeuu cbdxmhiha qb qzh phaxbby.
+3 Hdueh jhmq ptok qb qzh oemhyt ihlqhxati.
+4 Zeuu cbdxmhiha qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	2 4
+6 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh oemhyt.
+7 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+8 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	2 4
+9 Rzel ybxmemr Hdueh jhmq qb qzh lozbbu.
+10 Zeuu qxtnhuuha qb qzh lozbbu qzel hnhmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	10 6
+12 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh oemhyt.
+13 Rzel ybxmemr Txha cbdxmhiha qb qzh vtxk.
+14 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	9 3
+15 Rzel hnhmemr Hdueh cbdxmhiha qb qzh vtxk.
+16 Rzel tsqhxmbbm Txha jhmq qb qzh phaxbby.
+17 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	12 9
+1 Zeuu jhmq ptok qb qzh lozbbu ihlqhxati.
+2 Vhlqhxati Hdueh qxtnhuuha qb qzh keqozhm.
+3 Txha qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+4 Txha cbdxmhiha qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	3 4
+6 Utxi ybnha qb qzh keqozhm ihlqhxati.
+7 Hdueh jhmq qb qzh bsseoh qzel ybxmemr.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	3 4
+9 Rzel tsqhxmbbm Txha jhmq qb qzh lozbbu.
+10 Utxi ybnha qb qzh vtxk qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	3 4
+12 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh phaxbby.
+13 Rzel tsqhxmbbm Hdueh ybnha qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh vtxk? 	keqozhm	10 6
+15 Rzel hnhmemr Utxi cbdxmhiha qb qzh bsseoh.
+16 Zeuu ybnha qb qzh vtxk qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	15 12
+1 Zeuu jhmq ptok qb qzh vtxk qzel ybxmemr.
+2 Rzel ybxmemr Hdueh cbdxmhiha qb qzh keqozhm.
+3 Hdueh qxtnhuuha qb qzh phaxbby ihlqhxati.
+4 Zeuu ybnha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	1 4
+6 Zeuu jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+7 Txha qxtnhuuha qb qzh vtxk ihlqhxati.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	6 1
+9 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh lozbbu.
+10 Txha ybnha qb qzh phaxbby qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	10 7
+12 Utxi ybnha qb qzh keqozhm qzel ybxmemr.
+13 Vhlqhxati Utxi cbdxmhiha qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	lozbbu	12 13
+15 Zeuu jhmq ptok qb qzh bsseoh qzel hnhmemr.
+16 Utxi jhmq qb qzh vtxk qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	lozbbu	12 13
+1 Rzel ybxmemr Utxi ybnha qb qzh vtxk.
+2 Utxi ybnha qb qzh bsseoh ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	1 2
+4 Rzel tsqhxmbbm Utxi ybnha qb qzh phaxbby.
+5 Vhlqhxati Hdueh ybnha qb qzh oemhyt.
+6 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	1 2
+7 Vhlqhxati Zeuu cbdxmhiha qb qzh vtxk.
+8 Rzel hnhmemr Utxi jhmq qb qzh vtxk.
+9 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	8 4
+10 Txha cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+11 Vhlqhxati Txha jhmq ptok qb qzh vtxk.
+12 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	vtxk	4 1
+13 Hdueh jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+14 Rzel ybxmemr Hdueh jhmq qb qzh bsseoh.
+15 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	10 11
+1 Utxi jhmq ptok qb qzh lozbbu qzel ybxmemr.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh vtxk.
+3 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	1 2
+4 Vhlqhxati Zeuu ybnha qb qzh lozbbu.
+5 Vhlqhxati Txha ybnha qb qzh lozbbu.
+6 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	1 2
+7 Rzel ybxmemr Txha qxtnhuuha qb qzh oemhyt.
+8 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh oemhyt.
+9 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	lozbbu	8 1
+10 Rzel hnhmemr Utxi jhmq qb qzh vtxk.
+11 Vhlqhxati Hdueh jhmq ptok qb qzh oemhyt.
+12 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	lozbbu	8 1
+13 Rzel ybxmemr Hdueh qxtnhuuha qb qzh keqozhm.
+14 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+15 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	10 8
+1 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+2 Zeuu jhmq ptok qb qzh oemhyt qzel ybxmemr.
+3 Vhlqhxati Utxi ybnha qb qzh bsseoh.
+4 Vhlqhxati Txha jhmq ptok qb qzh vtxk.
+5 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	phaxbby	2 1
+6 Hdueh cbdxmhiha qb qzh keqozhm ihlqhxati.
+7 Rzel ybxmemr Txha ybnha qb qzh phaxbby.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	7 4
+9 Zeuu jhmq qb qzh phaxbby qzel tsqhxmbbm.
+10 Hdueh qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	10 6
+12 Rzel hnhmemr Zeuu jhmq ptok qb qzh lozbbu.
+13 Hdueh ybnha qb qzh vtxk qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	9 2
+15 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh vtxk.
+16 Utxi jhmq ptok qb qzh phaxbby qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	15 16
+1 Utxi cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+2 Vhlqhxati Zeuu ybnha qb qzh keqozhm.
+3 Vhlqhxati Utxi qxtnhuuha qb qzh oemhyt.
+4 Hdueh qxtnhuuha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	1 3
+6 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh phaxbby.
+7 Rzel ybxmemr Hdueh qxtnhuuha qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	bsseoh	7 4
+9 Txha jhmq qb qzh bsseoh ihlqhxati.
+10 Rzel tsqhxmbbm Utxi ybnha qb qzh bsseoh.
+11 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	bsseoh	7 4
+12 Rzel ybxmemr Txha qxtnhuuha qb qzh oemhyt.
+13 Hdueh ybnha qb qzh bsseoh qzel hnhmemr.
+14 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	6 7
+15 Txha ybnha qb qzh keqozhm qzel tsqhxmbbm.
+16 Rzel hnhmemr Utxi jhmq ptok qb qzh oemhyt.
+17 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	13 6
+1 Vhlqhxati Hdueh qxtnhuuha qb qzh oemhyt.
+2 Zeuu qxtnhuuha qb qzh oemhyt ihlqhxati.
+3 Vhlqhxati Txha qxtnhuuha qb qzh vtxk.
+4 Hdueh cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+5 Utxi ybnha qb qzh bsseoh ihlqhxati.
+6 Hdueh cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+7 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	4 6
+8 Txha cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+9 Rzel ybxmemr Txha ybnha qb qzh bsseoh.
+10 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	4 6
+11 Hdueh qxtnhuuha qb qzh vtxk qzel hnhmemr.
+12 Rzel ybxmemr Zeuu qxtnhuuha qb qzh bsseoh.
+13 Mzhxh jtl Txha phsbxh qzh bsseoh? 	vtxk	9 3
+14 Utxi jhmq qb qzh phaxbby qzel ybxmemr.
+15 Zeuu qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+16 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	11 4
+17 Rzel hnhmemr Txha qxtnhuuha qb qzh phaxbby.
+18 Utxi ybnha qb qzh lozbbu qzel tsqhxmbbm.
+19 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	11 4
+1 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+2 Zeuu cbdxmhiha qb qzh lozbbu ihlqhxati.
+3 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	1 2
+4 Hdueh qxtnhuuha qb qzh oemhyt ihlqhxati.
+5 Rzel tsqhxmbbm Zeuu ybnha qb qzh oemhyt.
+6 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	vtxk	5 1
+7 Rzel hnhmemr Zeuu jhmq ptok qb qzh vtxk.
+8 Hdueh jhmq qb qzh vtxk qzel ybxmemr.
+9 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	7 5
+10 Rzel ybxmemr Txha qxtnhuuha qb qzh vtxk.
+11 Vhlqhxati Txha jhmq qb qzh phaxbby.
+12 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	8 4
+13 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+14 Hdueh jhmq qb qzh bsseoh qzel tsqhxmbbm.
+15 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	14 8
+1 Hdueh ybnha qb qzh keqozhm qzel ybxmemr.
+2 Hdueh qxtnhuuha qb qzh bsseoh ihlqhxati.
+3 Vhlqhxati Txha ybnha qb qzh lozbbu.
+4 Vhlqhxati Utxi jhmq qb qzh bsseoh.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	1 2
+6 Vhlqhxati Zeuu ybnha qb qzh keqozhm.
+7 Rzel ybxmemr Utxi jhmq ptok qb qzh vtxk.
+8 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	7 4
+9 Rzel hnhmemr Hdueh jhmq ptok qb qzh lozbbu.
+10 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh bsseoh.
+11 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	1 2
+12 Zeuu ybnha qb qzh bsseoh qzel ybxmemr.
+13 Rzel tsqhxmbbm Utxi jhmq qb qzh lozbbu.
+14 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	10 1
+15 Txha ybnha qb qzh phaxbby qzel ybxmemr.
+16 Zeuu cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	13 7
+1 Vhlqhxati Hdueh cbdxmhiha qb qzh keqozhm.
+2 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+3 Utxi ybnha qb qzh vtxk qzel ybxmemr.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh lozbbu.
+5 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	3 4
+6 Rzel ybxmemr Zeuu qxtnhuuha qb qzh lozbbu.
+7 Rzel ybxmemr Hdueh jhmq ptok qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	6 2
+9 Utxi qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+10 Txha jhmq qb qzh keqozhm ihlqhxati.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	6 2
+12 Zeuu qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+13 Hdueh ybnha qb qzh keqozhm qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	lozbbu	12 6
+15 Rzel hnhmemr Hdueh ybnha qb qzh bsseoh.
+16 Rzel hnhmemr Zeuu ybnha qb qzh bsseoh.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	oemhyt	16 12
+1 Vhlqhxati Txha qxtnhuuha qb qzh vtxk.
+2 Rzel ybxmemr Hdueh ybnha qb qzh bsseoh.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh oemhyt.
+4 Vhlqhxati Hdueh ybnha qb qzh oemhyt.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	oemhyt	2 4
+6 Hdueh jhmq qb qzh keqozhm qzel hnhmemr.
+7 Hdueh jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	7 2
+9 Rzel ybxmemr Txha ybnha qb qzh keqozhm.
+10 Rzel ybxmemr Zeuu cbdxmhiha qb qzh keqozhm.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	oemhyt	10 3
+12 Rzel hnhmemr Txha jhmq ptok qb qzh phaxbby.
+13 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+14 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	12 13
+15 Rzel ybxmemr Utxi ybnha qb qzh oemhyt.
+16 Vhlqhxati Utxi qxtnhuuha qb qzh lozbbu.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	12 13
+1 Utxi cbdxmhiha qb qzh phaxbby ihlqhxati.
+2 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+3 Rzel ybxmemr Hdueh ybnha qb qzh phaxbby.
+4 Vhlqhxati Hdueh jhmq ptok qb qzh keqozhm.
+5 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	3 4
+6 Txha qxtnhuuha qb qzh oemhyt ihlqhxati.
+7 Rzel ybxmemr Utxi qxtnhuuha qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	3 4
+9 Hdueh jhmq qb qzh keqozhm qzel tsqhxmbbm.
+10 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	7 1
+12 Zeuu jhmq qb qzh bsseoh qzel tsqhxmbbm.
+13 Zeuu qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	oemhyt	10 7
+15 Utxi jhmq qb qzh lozbbu qzel hnhmemr.
+16 Zeuu cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	15 10
+1 Utxi qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+2 Utxi qxtnhuuha qb qzh vtxk ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	1 2
+4 Txha cbdxmhiha qb qzh oemhyt ihlqhxati.
+5 Vhlqhxati Zeuu qxtnhuuha qb qzh vtxk.
+6 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	1 2
+7 Vhlqhxati Hdueh jhmq ptok qb qzh keqozhm.
+8 Zeuu jhmq qb qzh oemhyt qzel ybxmemr.
+9 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	vtxk	8 5
+10 Txha ybnha qb qzh bsseoh qzel tsqhxmbbm.
+11 Rzel ybxmemr Txha cbdxmhiha qb qzh phaxbby.
+12 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	vtxk	8 5
+13 Hdueh jhmq qb qzh phaxbby qzel tsqhxmbbm.
+14 Rzel ybxmemr Hdueh ybnha qb qzh vtxk.
+15 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	keqozhm	14 7
+1 Txha cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+2 Txha jhmq ptok qb qzh lozbbu qzel tsqhxmbbm.
+3 Txha qxtnhuuha qb qzh oemhyt ihlqhxati.
+4 Utxi cbdxmhiha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	2 1
+6 Hdueh ybnha qb qzh lozbbu ihlqhxati.
+7 Txha ybnha qb qzh keqozhm qzel hnhmemr.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	oemhyt	1 3
+9 Rzel ybxmemr Zeuu jhmq ptok qb qzh keqozhm.
+10 Vhlqhxati Zeuu cbdxmhiha qb qzh phaxbby.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	9 10
+12 Zeuu ybnha qb qzh bsseoh qzel tsqhxmbbm.
+13 Rzel ybxmemr Utxi ybnha qb qzh bsseoh.
+14 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	9 10
+15 Hdueh jhmq ptok qb qzh keqozhm qzel ybxmemr.
+16 Zeuu qxtnhuuha qb qzh vtxk qzel hnhmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	16 12
+1 Rzel ybxmemr Zeuu jhmq ptok qb qzh phaxbby.
+2 Txha cbdxmhiha qb qzh oemhyt ihlqhxati.
+3 Vhlqhxati Zeuu cbdxmhiha qb qzh bsseoh.
+4 Txha qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+5 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	1 3
+6 Vhlqhxati Utxi jhmq qb qzh phaxbby.
+7 Vhlqhxati Hdueh qxtnhuuha qb qzh phaxbby.
+8 Mzhxh jtl Txha phsbxh qzh bsseoh? 	oemhyt	4 2
+9 Txha jhmq qb qzh vtxk qzel hnhmemr.
+10 Txha qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	oemhyt	9 10
+12 Utxi jhmq qb qzh lozbbu qzel ybxmemr.
+13 Hdueh cbdxmhiha qb qzh vtxk qzel ybxmemr.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	12 6
+15 Rzel tsqhxmbbm Zeuu ybnha qb qzh oemhyt.
+16 Utxi jhmq qb qzh oemhyt qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	12 6
+1 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+2 Rzel ybxmemr Zeuu jhmq qb qzh vtxk.
+3 Utxi qxtnhuuha qb qzh keqozhm ihlqhxati.
+4 Vhlqhxati Hdueh qxtnhuuha qb qzh phaxbby.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	2 1
+6 Utxi qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+7 Vhlqhxati Txha cbdxmhiha qb qzh phaxbby.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	2 1
+9 Zeuu cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+10 Hdueh ybnha qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	9 2
+12 Rzel tsqhxmbbm Txha jhmq ptok qb qzh oemhyt.
+13 Rzel ybxmemr Txha jhmq qb qzh keqozhm.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	13 7
+15 Zeuu cbdxmhiha qb qzh lozbbu qzel hnhmemr.
+16 Rzel hnhmemr Txha qxtnhuuha qb qzh phaxbby.
+17 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	9 2
+1 Txha ybnha qb qzh lozbbu ihlqhxati.
+2 Txha cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+3 Utxi jhmq qb qzh lozbbu ihlqhxati.
+4 Vhlqhxati Zeuu jhmq ptok qb qzh bsseoh.
+5 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	2 1
+6 Zeuu ybnha qb qzh phaxbby qzel ybxmemr.
+7 Rzel tsqhxmbbm Txha jhmq qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	6 4
+9 Rzel hnhmemr Txha qxtnhuuha qb qzh oemhyt.
+10 Rzel tsqhxmbbm Zeuu ybnha qb qzh vtxk.
+11 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	10 6
+12 Rzel ybxmemr Utxi jhmq ptok qb qzh phaxbby.
+13 Zeuu qxtnhuuha qb qzh bsseoh qzel hnhmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	10 6
+15 Hdueh cbdxmhiha qb qzh vtxk ihlqhxati.
+16 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh vtxk.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	16 12
+1 Txha qxtnhuuha qb qzh keqozhm ihlqhxati.
+2 Rzel tsqhxmbbm Txha jhmq ptok qb qzh vtxk.
+3 Hdueh ybnha qb qzh keqozhm ihlqhxati.
+4 Rzel ybxmemr Txha cbdxmhiha qb qzh oemhyt.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	oemhyt	2 4
+6 Zeuu jhmq qb qzh bsseoh qzel ybxmemr.
+7 Vhlqhxati Zeuu jhmq qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	6 7
+9 Rzel hnhmemr Txha jhmq ptok qb qzh bsseoh.
+10 Hdueh jhmq qb qzh oemhyt qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	6 7
+12 Hdueh ybnha qb qzh keqozhm qzel hnhmemr.
+13 Hdueh jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	10 3
+15 Zeuu jhmq ptok qb qzh bsseoh qzel hnhmemr.
+16 Rzel tsqhxmbbm Zeuu jhmq qb qzh lozbbu.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	12 13
+1 Rzel ybxmemr Utxi cbdxmhiha qb qzh lozbbu.
+2 Txha jhmq ptok qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Zeuu cbdxmhiha qb qzh lozbbu.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 4
+6 Txha qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+7 Utxi qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	7 1
+9 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh phaxbby.
+10 Utxi ybnha qb qzh bsseoh qzel hnhmemr.
+11 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 4
+12 Hdueh jhmq qb qzh oemhyt qzel ybxmemr.
+13 Hdueh jhmq qb qzh keqozhm ihlqhxati.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	phaxbby	6 2
+15 Rzel tsqhxmbbm Hdueh jhmq qb qzh bsseoh.
+16 Txha qxtnhuuha qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	16 9
+1 Vhlqhxati Zeuu ybnha qb qzh bsseoh.
+2 Utxi cbdxmhiha qb qzh vtxk qzel ybxmemr.
+3 Vhlqhxati Txha jhmq qb qzh lozbbu.
+4 Vhlqhxati Utxi ybnha qb qzh phaxbby.
+5 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	2 4
+6 Hdueh ybnha qb qzh lozbbu qzel ybxmemr.
+7 Vhlqhxati Hdueh cbdxmhiha qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	6 7
+9 Zeuu jhmq qb qzh oemhyt qzel ybxmemr.
+10 Hdueh jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+11 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	9 1
+12 Hdueh jhmq ptok qb qzh vtxk qzel hnhmemr.
+13 Utxi cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	9 1
+15 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh keqozhm.
+16 Rzel ybxmemr Txha jhmq qb qzh oemhyt.
+17 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	bsseoh	12 10
+1 Rzel ybxmemr Zeuu cbdxmhiha qb qzh phaxbby.
+2 Vhlqhxati Hdueh cbdxmhiha qb qzh keqozhm.
+3 Vhlqhxati Zeuu cbdxmhiha qb qzh lozbbu.
+4 Txha jhmq ptok qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	1 3
+6 Utxi qxtnhuuha qb qzh phaxbby ihlqhxati.
+7 Rzel ybxmemr Hdueh qxtnhuuha qb qzh phaxbby.
+8 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	1 3
+9 Rzel tsqhxmbbm Zeuu jhmq qb qzh lozbbu.
+10 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh vtxk.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	7 2
+12 Rzel hnhmemr Zeuu qxtnhuuha qb qzh vtxk.
+13 Utxi jhmq ptok qb qzh vtxk qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	12 9
+15 Rzel hnhmemr Utxi jhmq qb qzh bsseoh.
+16 Utxi jhmq qb qzh oemhyt qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	9 1
+1 Vhlqhxati Utxi cbdxmhiha qb qzh vtxk.
+2 Rzel ybxmemr Hdueh ybnha qb qzh bsseoh.
+3 Rzel ybxmemr Utxi jhmq ptok qb qzh keqozhm.
+4 Hdueh ybnha qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	lozbbu	2 4
+6 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+7 Utxi cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	7 3
+9 Utxi qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+10 Vhlqhxati Zeuu cbdxmhiha qb qzh lozbbu.
+11 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	7 3
+12 Zeuu cbdxmhiha qb qzh vtxk qzel ybxmemr.
+13 Txha cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	12 10
+15 Txha jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+16 Hdueh ybnha qb qzh lozbbu qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	bsseoh	15 13
+1 Hdueh jhmq ptok qb qzh oemhyt ihlqhxati.
+2 Rzel ybxmemr Utxi jhmq qb qzh bsseoh.
+3 Utxi jhmq qb qzh lozbbu ihlqhxati.
+4 Zeuu qxtnhuuha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	lozbbu	2 3
+6 Utxi jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+7 Rzel ybxmemr Zeuu jhmq qb qzh phaxbby.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	lozbbu	2 3
+9 Rzel hnhmemr Zeuu jhmq ptok qb qzh bsseoh.
+10 Rzel tsqhxmbbm Zeuu ybnha qb qzh lozbbu.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	7 4
+12 Txha ybnha qb qzh phaxbby ihlqhxati.
+13 Hdueh jhmq ptok qb qzh vtxk qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	9 10
+15 Rzel tsqhxmbbm Hdueh jhmq qb qzh oemhyt.
+16 Rzel hnhmemr Utxi cbdxmhiha qb qzh lozbbu.
+17 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	13 1
+1 Rzel ybxmemr Zeuu ybnha qb qzh keqozhm.
+2 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+3 Rzel ybxmemr Hdueh jhmq qb qzh vtxk.
+4 Hdueh jhmq qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	oemhyt	1 2
+6 Utxi cbdxmhiha qb qzh oemhyt ihlqhxati.
+7 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	oemhyt	1 2
+9 Txha jhmq qb qzh vtxk qzel tsqhxmbbm.
+10 Txha jhmq qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	10 7
+12 Rzel ybxmemr Utxi qxtnhuuha qb qzh lozbbu.
+13 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh oemhyt.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	10 7
+15 Txha cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+16 Rzel tsqhxmbbm Utxi ybnha qb qzh phaxbby.
+17 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	16 12
+1 Utxi jhmq ptok qb qzh oemhyt qzel ybxmemr.
+2 Vhlqhxati Hdueh cbdxmhiha qb qzh lozbbu.
+3 Vhlqhxati Utxi qxtnhuuha qb qzh keqozhm.
+4 Vhlqhxati Zeuu jhmq ptok qb qzh vtxk.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	1 3
+6 Rzel ybxmemr Zeuu jhmq qb qzh lozbbu.
+7 Vhlqhxati Txha ybnha qb qzh lozbbu.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	vtxk	6 4
+9 Rzel ybxmemr Hdueh qxtnhuuha qb qzh oemhyt.
+10 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh oemhyt.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	1 3
+12 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh keqozhm.
+13 Hdueh qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	9 2
+15 Txha ybnha qb qzh oemhyt qzel ybxmemr.
+16 Rzel hnhmemr Zeuu jhmq ptok qb qzh phaxbby.
+17 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	lozbbu	9 2
+1 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh phaxbby.
+2 Utxi jhmq qb qzh oemhyt qzel ybxmemr.
+3 Utxi qxtnhuuha qb qzh vtxk ihlqhxati.
+4 Txha ybnha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	1 2
+6 Rzel ybxmemr Hdueh jhmq qb qzh phaxbby.
+7 Hdueh ybnha qb qzh keqozhm ihlqhxati.
+8 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	6 7
+9 Hdueh cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+10 Rzel hnhmemr Utxi cbdxmhiha qb qzh vtxk.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	1 2
+12 Zeuu qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+13 Zeuu jhmq qb qzh lozbbu ihlqhxati.
+14 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	6 7
+15 Txha cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+16 Rzel ybxmemr Txha ybnha qb qzh lozbbu.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	16 4
+1 Vhlqhxati Txha cbdxmhiha qb qzh bsseoh.
+2 Hdueh cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Rzel ybxmemr Utxi jhmq qb qzh lozbbu.
+4 Vhlqhxati Utxi jhmq ptok qb qzh keqozhm.
+5 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	3 4
+6 Txha qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+7 Zeuu jhmq qb qzh oemhyt ihlqhxati.
+8 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	6 1
+9 Zeuu cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+10 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	10 6
+12 Rzel hnhmemr Txha qxtnhuuha qb qzh oemhyt.
+13 Zeuu jhmq qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	12 10
+15 Utxi qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+16 Zeuu cbdxmhiha qb qzh vtxk qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	lozbbu	15 3
+1 Zeuu qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+2 Vhlqhxati Zeuu jhmq ptok qb qzh phaxbby.
+3 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	1 2
+4 Vhlqhxati Utxi ybnha qb qzh oemhyt.
+5 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh phaxbby.
+6 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	5 1
+7 Vhlqhxati Hdueh ybnha qb qzh lozbbu.
+8 Rzel hnhmemr Zeuu jhmq qb qzh lozbbu.
+9 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	1 2
+10 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+11 Utxi ybnha qb qzh lozbbu qzel ybxmemr.
+12 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	oemhyt	11 4
+13 Rzel hnhmemr Utxi cbdxmhiha qb qzh keqozhm.
+14 Rzel ybxmemr Hdueh ybnha qb qzh vtxk.
+15 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	lozbbu	10 11
+1 Rzel ybxmemr Hdueh qxtnhuuha qb qzh bsseoh.
+2 Vhlqhxati Hdueh jhmq ptok qb qzh phaxbby.
+3 Utxi ybnha qb qzh lozbbu ihlqhxati.
+4 Zeuu qxtnhuuha qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	1 2
+6 Utxi jhmq qb qzh keqozhm qzel ybxmemr.
+7 Rzel ybxmemr Zeuu ybnha qb qzh bsseoh.
+8 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	lozbbu	6 3
+9 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh bsseoh.
+10 Hdueh jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+11 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	9 6
+12 Zeuu ybnha qb qzh keqozhm qzel tsqhxmbbm.
+13 Rzel hnhmemr Utxi jhmq ptok qb qzh keqozhm.
+14 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	12 7
+15 Vhlqhxati Txha jhmq ptok qb qzh phaxbby.
+16 Rzel hnhmemr Hdueh ybnha qb qzh bsseoh.
+17 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	12 7
+1 Rzel ybxmemr Txha ybnha qb qzh phaxbby.
+2 Vhlqhxati Utxi jhmq ptok qb qzh bsseoh.
+3 Zeuu jhmq qb qzh bsseoh ihlqhxati.
+4 Vhlqhxati Txha ybnha qb qzh vtxk.
+5 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	1 4
+6 Rzel ybxmemr Utxi jhmq ptok qb qzh phaxbby.
+7 Hdueh jhmq qb qzh oemhyt ihlqhxati.
+8 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	6 2
+9 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh bsseoh.
+10 Rzel ybxmemr Zeuu jhmq qb qzh phaxbby.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	6 2
+12 Rzel hnhmemr Utxi cbdxmhiha qb qzh oemhyt.
+13 Rzel ybxmemr Hdueh jhmq ptok qb qzh phaxbby.
+14 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	12 9
+15 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh vtxk.
+16 Txha qxtnhuuha qb qzh vtxk qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	13 7
+1 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+2 Zeuu cbdxmhiha qb qzh bsseoh ihlqhxati.
+3 Txha qxtnhuuha qb qzh vtxk qzel ybxmemr.
+4 Utxi qxtnhuuha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	3 1
+6 Vhlqhxati Hdueh cbdxmhiha qb qzh oemhyt.
+7 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh lozbbu.
+8 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	3 1
+9 Rzel ybxmemr Utxi ybnha qb qzh bsseoh.
+10 Hdueh ybnha qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	3 1
+12 Rzel hnhmemr Txha qxtnhuuha qb qzh vtxk.
+13 Hdueh ybnha qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	13 10
+15 Utxi jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+16 Rzel hnhmemr Hdueh cbdxmhiha qb qzh keqozhm.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	16 13
+1 Rzel ybxmemr Txha ybnha qb qzh lozbbu.
+2 Zeuu cbdxmhiha qb qzh keqozhm ihlqhxati.
+3 Utxi ybnha qb qzh keqozhm ihlqhxati.
+4 Txha jhmq qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	1 4
+6 Rzel tsqhxmbbm Txha jhmq qb qzh keqozhm.
+7 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	7 2
+9 Zeuu cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+10 Rzel ybxmemr Utxi jhmq qb qzh vtxk.
+11 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	vtxk	9 7
+12 Hdueh ybnha qb qzh bsseoh ihlqhxati.
+13 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh phaxbby.
+14 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	vtxk	13 10
+15 Txha qxtnhuuha qb qzh lozbbu qzel hnhmemr.
+16 Rzel hnhmemr Utxi ybnha qb qzh bsseoh.
+17 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	16 13
+1 Utxi jhmq ptok qb qzh lozbbu qzel ybxmemr.
+2 Utxi jhmq ptok qb qzh bsseoh ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 2
+4 Txha cbdxmhiha qb qzh vtxk ihlqhxati.
+5 Vhlqhxati Hdueh ybnha qb qzh phaxbby.
+6 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 2
+7 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh vtxk.
+8 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+9 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 2
+10 Rzel ybxmemr Hdueh jhmq ptok qb qzh lozbbu.
+11 Txha jhmq qb qzh lozbbu qzel ybxmemr.
+12 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	11 4
+13 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh oemhyt.
+14 Rzel hnhmemr Utxi jhmq qb qzh lozbbu.
+15 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	11 4
+1 Hdueh jhmq ptok qb qzh bsseoh qzel ybxmemr.
+2 Txha qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+3 Vhlqhxati Hdueh qxtnhuuha qb qzh phaxbby.
+4 Txha jhmq ptok qb qzh keqozhm ihlqhxati.
+5 Vhlqhxati Zeuu jhmq qb qzh vtxk.
+6 Utxi ybnha qb qzh keqozhm ihlqhxati.
+7 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	1 3
+8 Utxi jhmq ptok qb qzh oemhyt qzel ybxmemr.
+9 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh oemhyt.
+10 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	2 4
+11 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh phaxbby.
+12 Hdueh cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+13 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	12 9
+14 Txha jhmq qb qzh oemhyt qzel hnhmemr.
+15 Rzel ybxmemr Zeuu qxtnhuuha qb qzh phaxbby.
+16 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	15 5
+17 Zeuu qxtnhuuha qb qzh oemhyt qzel hnhmemr.
+18 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh bsseoh.
+19 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	18 15
+1 Rzel ybxmemr Txha ybnha qb qzh vtxk.
+2 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+3 Txha jhmq qb qzh bsseoh ihlqhxati.
+4 Vhlqhxati Hdueh ybnha qb qzh lozbbu.
+5 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh lozbbu.
+6 Vhlqhxati Utxi jhmq ptok qb qzh vtxk.
+7 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	5 1
+8 Zeuu qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+9 Txha qxtnhuuha qb qzh oemhyt qzel hnhmemr.
+10 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	8 2
+11 Rzel ybxmemr Hdueh jhmq qb qzh vtxk.
+12 Zeuu ybnha qb qzh oemhyt qzel tsqhxmbbm.
+13 Mzhxh jtl Txha phsbxh qzh oemhyt? 	lozbbu	9 5
+14 Rzel ybxmemr Utxi jhmq qb qzh lozbbu.
+15 Rzel hnhmemr Zeuu qxtnhuuha qb qzh vtxk.
+16 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	8 2
+17 Utxi cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+18 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh bsseoh.
+19 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	17 18
+1 Rzel ybxmemr Hdueh qxtnhuuha qb qzh phaxbby.
+2 Hdueh jhmq qb qzh bsseoh ihlqhxati.
+3 Hdueh qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+4 Txha qxtnhuuha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	3 1
+6 Hdueh cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+7 Rzel ybxmemr Txha jhmq qb qzh lozbbu.
+8 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	1 2
+9 Utxi cbdxmhiha qb qzh lozbbu ihlqhxati.
+10 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	7 4
+12 Zeuu cbdxmhiha qb qzh vtxk qzel ybxmemr.
+13 Utxi qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	12 10
+15 Zeuu ybnha qb qzh lozbbu qzel tsqhxmbbm.
+16 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh vtxk.
+17 Mzhxh jtl Txha phsbxh qzh vtxk? 	lozbbu	16 7
+1 Utxi ybnha qb qzh lozbbu qzel ybxmemr.
+2 Utxi cbdxmhiha qb qzh bsseoh ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 2
+4 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+5 Vhlqhxati Hdueh jhmq qb qzh oemhyt.
+6 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 2
+7 Rzel ybxmemr Zeuu cbdxmhiha qb qzh lozbbu.
+8 Vhlqhxati Txha cbdxmhiha qb qzh phaxbby.
+9 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	1 2
+10 Zeuu cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+11 Rzel ybxmemr Hdueh ybnha qb qzh bsseoh.
+12 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	10 7
+13 Rzel ybxmemr Txha cbdxmhiha qb qzh vtxk.
+14 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh keqozhm.
+15 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	10 7
+1 Vhlqhxati Hdueh ybnha qb qzh phaxbby.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh keqozhm.
+3 Zeuu qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+4 Zeuu jhmq qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	3 4
+6 Rzel ybxmemr Hdueh cbdxmhiha qb qzh oemhyt.
+7 Utxi ybnha qb qzh oemhyt qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	phaxbby	6 1
+9 Vhlqhxati Txha ybnha qb qzh lozbbu.
+10 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh keqozhm.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	3 4
+12 Rzel ybxmemr Txha jhmq ptok qb qzh keqozhm.
+13 Utxi ybnha qb qzh lozbbu qzel hnhmemr.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	lozbbu	12 9
+15 Hdueh cbdxmhiha qb qzh lozbbu qzel hnhmemr.
+16 Hdueh ybnha qb qzh phaxbby qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	16 6
+1 Hdueh jhmq ptok qb qzh oemhyt ihlqhxati.
+2 Utxi ybnha qb qzh bsseoh ihlqhxati.
+3 Hdueh cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+4 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	3 1
+6 Vhlqhxati Txha jhmq ptok qb qzh phaxbby.
+7 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	7 4
+9 Rzel ybxmemr Utxi cbdxmhiha qb qzh oemhyt.
+10 Txha jhmq ptok qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	9 2
+12 Rzel hnhmemr Zeuu cbdxmhiha qb qzh phaxbby.
+13 Rzel tsqhxmbbm Zeuu ybnha qb qzh bsseoh.
+14 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	9 2
+15 Utxi qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+16 Txha jhmq qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	vtxk	13 7
+1 Hdueh jhmq ptok qb qzh vtxk ihlqhxati.
+2 Vhlqhxati Txha jhmq ptok qb qzh lozbbu.
+3 Hdueh ybnha qb qzh bsseoh qzel ybxmemr.
+4 Utxi ybnha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	3 1
+6 Rzel hnhmemr Hdueh jhmq qb qzh lozbbu.
+7 Hdueh qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	3 1
+9 Txha cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+10 Zeuu ybnha qb qzh bsseoh ihlqhxati.
+11 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	3 1
+12 Utxi qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+13 Rzel tsqhxmbbm Txha jhmq ptok qb qzh vtxk.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	oemhyt	12 4
+15 Txha jhmq ptok qb qzh oemhyt qzel hnhmemr.
+16 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh keqozhm.
+17 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	13 9
+1 Zeuu qxtnhuuha qb qzh bsseoh ihlqhxati.
+2 Rzel ybxmemr Hdueh qxtnhuuha qb qzh lozbbu.
+3 Hdueh qxtnhuuha qb qzh vtxk ihlqhxati.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	2 3
+6 Vhlqhxati Txha ybnha qb qzh vtxk.
+7 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	2 3
+9 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+10 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	10 1
+12 Rzel tsqhxmbbm Utxi jhmq qb qzh keqozhm.
+13 Rzel hnhmemr Hdueh jhmq qb qzh lozbbu.
+14 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	10 1
+15 Rzel hnhmemr Zeuu qxtnhuuha qb qzh oemhyt.
+16 Zeuu qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	13 7
+1 Rzel ybxmemr Zeuu cbdxmhiha qb qzh phaxbby.
+2 Vhlqhxati Zeuu jhmq qb qzh oemhyt.
+3 Utxi ybnha qb qzh phaxbby ihlqhxati.
+4 Hdueh cbdxmhiha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	1 2
+6 Hdueh jhmq qb qzh bsseoh qzel ybxmemr.
+7 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh keqozhm.
+8 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	oemhyt	6 4
+9 Txha jhmq qb qzh keqozhm ihlqhxati.
+10 Utxi ybnha qb qzh oemhyt qzel ybxmemr.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	1 2
+12 Txha jhmq qb qzh phaxbby qzel ybxmemr.
+13 Utxi jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	12 9
+15 Utxi cbdxmhiha qb qzh phaxbby qzel hnhmemr.
+16 Txha cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh oemhyt? 	phaxbby	16 12
+1 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+2 Utxi ybnha qb qzh keqozhm ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	1 2
+4 Vhlqhxati Txha cbdxmhiha qb qzh vtxk.
+5 Zeuu jhmq ptok qb qzh vtxk ihlqhxati.
+6 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	1 2
+7 Rzel tsqhxmbbm Zeuu ybnha qb qzh keqozhm.
+8 Zeuu jhmq qb qzh phaxbby qzel ybxmemr.
+9 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	1 2
+10 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh phaxbby.
+11 Rzel ybxmemr Txha jhmq qb qzh bsseoh.
+12 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	8 5
+13 Txha jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+14 Utxi ybnha qb qzh vtxk qzel hnhmemr.
+15 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	14 10
+1 Hdueh jhmq qb qzh vtxk qzel ybxmemr.
+2 Txha jhmq qb qzh vtxk qzel ybxmemr.
+3 Vhlqhxati Utxi jhmq ptok qb qzh bsseoh.
+4 Vhlqhxati Txha cbdxmhiha qb qzh bsseoh.
+5 Vhlqhxati Hdueh ybnha qb qzh oemhyt.
+6 Vhlqhxati Zeuu cbdxmhiha qb qzh vtxk.
+7 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	2 4
+8 Rzel hnhmemr Hdueh jhmq ptok qb qzh lozbbu.
+9 Hdueh qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+10 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	9 1
+11 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh oemhyt.
+12 Rzel ybxmemr Zeuu cbdxmhiha qb qzh lozbbu.
+13 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	vtxk	12 6
+14 Rzel hnhmemr Zeuu qxtnhuuha qb qzh lozbbu.
+15 Zeuu qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+16 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	keqozhm	14 15
+17 Rzel ybxmemr Utxi cbdxmhiha qb qzh vtxk.
+18 Txha jhmq qb qzh keqozhm qzel hnhmemr.
+19 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	keqozhm	14 15
+1 Utxi qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+2 Utxi jhmq ptok qb qzh vtxk ihlqhxati.
+3 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	1 2
+4 Utxi cbdxmhiha qb qzh lozbbu qzel hnhmemr.
+5 Utxi jhmq qb qzh keqozhm qzel tsqhxmbbm.
+6 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	4 5
+7 Vhlqhxati Zeuu jhmq ptok qb qzh oemhyt.
+8 Vhlqhxati Txha ybnha qb qzh lozbbu.
+9 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	4 5
+10 Rzel ybxmemr Hdueh qxtnhuuha qb qzh bsseoh.
+11 Vhlqhxati Hdueh cbdxmhiha qb qzh phaxbby.
+12 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	keqozhm	4 5
+13 Rzel ybxmemr Zeuu ybnha qb qzh bsseoh.
+14 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh vtxk.
+15 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	oemhyt	13 7
+1 Rzel ybxmemr Utxi cbdxmhiha qb qzh keqozhm.
+2 Hdueh ybnha qb qzh lozbbu ihlqhxati.
+3 Utxi qxtnhuuha qb qzh bsseoh ihlqhxati.
+4 Vhlqhxati Zeuu jhmq ptok qb qzh oemhyt.
+5 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	1 3
+6 Txha qxtnhuuha qb qzh phaxbby ihlqhxati.
+7 Rzel ybxmemr Zeuu cbdxmhiha qb qzh vtxk.
+8 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	1 3
+9 Txha jhmq qb qzh vtxk qzel ybxmemr.
+10 Rzel ybxmemr Hdueh ybnha qb qzh oemhyt.
+11 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	1 3
+12 Rzel hnhmemr Txha jhmq qb qzh oemhyt.
+13 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh bsseoh.
+14 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	9 6
+15 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh lozbbu.
+16 Utxi jhmq qb qzh vtxk qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh bsseoh? 	vtxk	13 9
+1 Vhlqhxati Hdueh cbdxmhiha qb qzh lozbbu.
+2 Vhlqhxati Txha jhmq qb qzh keqozhm.
+3 Vhlqhxati Utxi jhmq qb qzh bsseoh.
+4 Txha qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+5 Mzhxh jtl Txha phsbxh qzh bsseoh? 	keqozhm	4 2
+6 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh phaxbby.
+7 Rzel ybxmemr Utxi ybnha qb qzh vtxk.
+8 Mzhxh jtl Txha phsbxh qzh bsseoh? 	keqozhm	4 2
+9 Rzel tsqhxmbbm Txha jhmq qb qzh phaxbby.
+10 Hdueh jhmq ptok qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	vtxk	6 7
+12 Zeuu ybnha qb qzh oemhyt ihlqhxati.
+13 Rzel hnhmemr Utxi ybnha qb qzh keqozhm.
+14 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	vtxk	6 7
+15 Txha qxtnhuuha qb qzh keqozhm qzel hnhmemr.
+16 Rzel ybxmemr Zeuu ybnha qb qzh keqozhm.
+17 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	phaxbby	13 6
+1 Zeuu jhmq ptok qb qzh phaxbby ihlqhxati.
+2 Txha qxtnhuuha qb qzh oemhyt ihlqhxati.
+3 Utxi jhmq ptok qb qzh bsseoh ihlqhxati.
+4 Rzel ybxmemr Utxi qxtnhuuha qb qzh oemhyt.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	4 3
+6 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+7 Txha cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+8 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	7 2
+9 Txha ybnha qb qzh lozbbu qzel hnhmemr.
+10 Utxi cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	6 7
+12 Rzel ybxmemr Zeuu jhmq ptok qb qzh keqozhm.
+13 Utxi cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	12 1
+15 Rzel hnhmemr Zeuu jhmq ptok qb qzh lozbbu.
+16 Zeuu qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	13 10
+1 Zeuu jhmq qb qzh bsseoh qzel ybxmemr.
+2 Vhlqhxati Zeuu ybnha qb qzh lozbbu.
+3 Hdueh cbdxmhiha qb qzh lozbbu ihlqhxati.
+4 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+5 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	1 2
+6 Rzel ybxmemr Txha jhmq ptok qb qzh lozbbu.
+7 Rzel ybxmemr Hdueh ybnha qb qzh vtxk.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	6 4
+9 Rzel tsqhxmbbm Zeuu jhmq qb qzh oemhyt.
+10 Txha cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	6 4
+12 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh lozbbu.
+13 Rzel hnhmemr Txha ybnha qb qzh lozbbu.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	13 10
+15 Rzel hnhmemr Zeuu ybnha qb qzh vtxk.
+16 Utxi qxtnhuuha qb qzh lozbbu ihlqhxati.
+17 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	9 1
+1 Rzel ybxmemr Hdueh ybnha qb qzh phaxbby.
+2 Hdueh jhmq qb qzh vtxk ihlqhxati.
+3 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	1 2
+4 Txha qxtnhuuha qb qzh oemhyt ihlqhxati.
+5 Hdueh qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+6 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	phaxbby	5 1
+7 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh vtxk.
+8 Rzel ybxmemr Txha cbdxmhiha qb qzh keqozhm.
+9 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	7 8
+10 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+11 Rzel hnhmemr Hdueh jhmq qb qzh phaxbby.
+12 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	11 5
+13 Utxi qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+14 Rzel hnhmemr Txha ybnha qb qzh lozbbu.
+15 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	13 10
+1 Vhlqhxati Txha qxtnhuuha qb qzh vtxk.
+2 Vhlqhxati Zeuu jhmq ptok qb qzh vtxk.
+3 Hdueh jhmq ptok qb qzh bsseoh qzel ybxmemr.
+4 Hdueh jhmq qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	oemhyt	3 4
+6 Txha jhmq qb qzh lozbbu qzel ybxmemr.
+7 Rzel ybxmemr Zeuu cbdxmhiha qb qzh bsseoh.
+8 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	oemhyt	3 4
+9 Rzel hnhmemr Zeuu jhmq ptok qb qzh phaxbby.
+10 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh lozbbu.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	10 7
+12 Vhlqhxati Utxi jhmq ptok qb qzh phaxbby.
+13 Rzel tsqhxmbbm Hdueh ybnha qb qzh phaxbby.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	6 1
+15 Utxi ybnha qb qzh vtxk qzel ybxmemr.
+16 Hdueh cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	9 10
+1 Utxi jhmq qb qzh phaxbby ihlqhxati.
+2 Vhlqhxati Zeuu jhmq qb qzh lozbbu.
+3 Utxi ybnha qb qzh lozbbu qzel ybxmemr.
+4 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+5 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	3 1
+6 Rzel ybxmemr Txha jhmq ptok qb qzh bsseoh.
+7 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+8 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	7 2
+9 Txha jhmq qb qzh lozbbu qzel tsqhxmbbm.
+10 Utxi cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+11 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	3 1
+12 Rzel hnhmemr Txha jhmq qb qzh keqozhm.
+13 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh bsseoh.
+14 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	lozbbu	10 3
+15 Rzel hnhmemr Utxi jhmq qb qzh vtxk.
+16 Zeuu jhmq qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	vtxk	13 7
+1 Rzel ybxmemr Zeuu jhmq ptok qb qzh bsseoh.
+2 Zeuu jhmq qb qzh lozbbu ihlqhxati.
+3 Zeuu cbdxmhiha qb qzh oemhyt qzel tsqhxmbbm.
+4 Hdueh cbdxmhiha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	3 1
+6 Rzel hnhmemr Zeuu cbdxmhiha qb qzh phaxbby.
+7 Rzel ybxmemr Hdueh qxtnhuuha qb qzh bsseoh.
+8 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	3 1
+9 Rzel hnhmemr Hdueh jhmq ptok qb qzh bsseoh.
+10 Hdueh cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+11 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	3 1
+12 Utxi qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+13 Utxi qxtnhuuha qb qzh bsseoh ihlqhxati.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	6 3
+15 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh keqozhm.
+16 Vhlqhxati Txha cbdxmhiha qb qzh lozbbu.
+17 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	12 13
+1 Rzel ybxmemr Txha qxtnhuuha qb qzh keqozhm.
+2 Utxi cbdxmhiha qb qzh bsseoh ihlqhxati.
+3 Vhlqhxati Txha jhmq qb qzh phaxbby.
+4 Hdueh jhmq qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	1 3
+6 Hdueh cbdxmhiha qb qzh vtxk qzel ybxmemr.
+7 Txha ybnha qb qzh lozbbu qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	keqozhm	6 4
+9 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+10 Rzel ybxmemr Utxi qxtnhuuha qb qzh phaxbby.
+11 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	9 10
+12 Hdueh ybnha qb qzh keqozhm qzel tsqhxmbbm.
+13 Zeuu jhmq ptok qb qzh bsseoh ihlqhxati.
+14 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	12 6
+15 Rzel hnhmemr Txha ybnha qb qzh keqozhm.
+16 Rzel hnhmemr Hdueh cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	12 6
+1 Zeuu qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+2 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+3 Zeuu qxtnhuuha qb qzh bsseoh ihlqhxati.
+4 Vhlqhxati Utxi ybnha qb qzh bsseoh.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	1 2
+6 Vhlqhxati Hdueh qxtnhuuha qb qzh lozbbu.
+7 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	1 2
+9 Zeuu jhmq ptok qb qzh bsseoh qzel hnhmemr.
+10 Rzel ybxmemr Hdueh jhmq qb qzh vtxk.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	1 2
+12 Rzel ybxmemr Txha ybnha qb qzh vtxk.
+13 Hdueh jhmq qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	12 7
+15 Rzel hnhmemr Hdueh jhmq qb qzh vtxk.
+16 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh keqozhm.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	9 1
+1 Rzel ybxmemr Hdueh qxtnhuuha qb qzh phaxbby.
+2 Vhlqhxati Utxi qxtnhuuha qb qzh vtxk.
+3 Txha ybnha qb qzh keqozhm ihlqhxati.
+4 Txha ybnha qb qzh phaxbby qzel ybxmemr.
+5 Vhlqhxati Hdueh jhmq qb qzh oemhyt.
+6 Vhlqhxati Zeuu qxtnhuuha qb qzh phaxbby.
+7 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	4 3
+8 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+9 Hdueh qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+10 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	1 5
+11 Zeuu jhmq qb qzh lozbbu qzel tsqhxmbbm.
+12 Rzel hnhmemr Hdueh jhmq ptok qb qzh phaxbby.
+13 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	9 1
+14 Utxi jhmq ptok qb qzh bsseoh qzel ybxmemr.
+15 Zeuu cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+16 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	lozbbu	15 11
+17 Txha qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+18 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh bsseoh.
+19 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	lozbbu	15 11
+1 Utxi cbdxmhiha qb qzh vtxk ihlqhxati.
+2 Zeuu jhmq ptok qb qzh oemhyt qzel ybxmemr.
+3 Zeuu qxtnhuuha qb qzh keqozhm ihlqhxati.
+4 Rzel ybxmemr Utxi jhmq qb qzh oemhyt.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	4 1
+6 Hdueh qxtnhuuha qb qzh lozbbu ihlqhxati.
+7 Vhlqhxati Txha jhmq qb qzh keqozhm.
+8 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	4 1
+9 Txha jhmq qb qzh oemhyt qzel ybxmemr.
+10 Rzel tsqhxmbbm Utxi jhmq qb qzh lozbbu.
+11 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	2 3
+12 Utxi cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+13 Txha qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	13 9
+15 Zeuu ybnha qb qzh lozbbu qzel tsqhxmbbm.
+16 Txha cbdxmhiha qb qzh phaxbby qzel hnhmemr.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	13 9
+1 Rzel ybxmemr Utxi qxtnhuuha qb qzh bsseoh.
+2 Utxi jhmq qb qzh oemhyt ihlqhxati.
+3 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh keqozhm.
+4 Vhlqhxati Txha cbdxmhiha qb qzh lozbbu.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	oemhyt	1 2
+6 Utxi qxtnhuuha qb qzh bsseoh qzel hnhmemr.
+7 Rzel ybxmemr Txha ybnha qb qzh phaxbby.
+8 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	6 3
+9 Vhlqhxati Zeuu jhmq qb qzh keqozhm.
+10 Txha ybnha qb qzh vtxk qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	10 7
+12 Rzel ybxmemr Zeuu qxtnhuuha qb qzh oemhyt.
+13 Txha cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	6 3
+15 Rzel ybxmemr Hdueh ybnha qb qzh vtxk.
+16 Vhlqhxati Hdueh jhmq ptok qb qzh keqozhm.
+17 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	12 9
+1 Vhlqhxati Hdueh ybnha qb qzh vtxk.
+2 Vhlqhxati Utxi jhmq ptok qb qzh oemhyt.
+3 Rzel ybxmemr Hdueh cbdxmhiha qb qzh oemhyt.
+4 Vhlqhxati Txha jhmq ptok qb qzh oemhyt.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	vtxk	3 1
+6 Zeuu jhmq qb qzh bsseoh qzel ybxmemr.
+7 Zeuu jhmq ptok qb qzh phaxbby ihlqhxati.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	vtxk	3 1
+9 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+10 Rzel ybxmemr Txha qxtnhuuha qb qzh lozbbu.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	lozbbu	9 10
+12 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh oemhyt.
+13 Rzel hnhmemr Txha jhmq qb qzh oemhyt.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	13 9
+15 Rzel hnhmemr Zeuu ybnha qb qzh keqozhm.
+16 Hdueh qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	oemhyt	15 12
+1 Utxi ybnha qb qzh phaxbby ihlqhxati.
+2 Txha ybnha qb qzh oemhyt qzel ybxmemr.
+3 Rzel ybxmemr Hdueh cbdxmhiha qb qzh oemhyt.
+4 Vhlqhxati Zeuu qxtnhuuha qb qzh vtxk.
+5 Vhlqhxati Hdueh ybnha qb qzh vtxk.
+6 Vhlqhxati Txha qxtnhuuha qb qzh keqozhm.
+7 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	2 6
+8 Utxi ybnha qb qzh bsseoh qzel ybxmemr.
+9 Hdueh ybnha qb qzh keqozhm qzel tsqhxmbbm.
+10 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	8 1
+11 Txha jhmq qb qzh vtxk qzel tsqhxmbbm.
+12 Hdueh jhmq qb qzh lozbbu qzel hnhmemr.
+13 Mzhxh jtl Txha phsbxh qzh vtxk? 	oemhyt	11 2
+14 Utxi qxtnhuuha qb qzh oemhyt qzel hnhmemr.
+15 Utxi jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+16 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	14 15
+17 Zeuu cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+18 Txha qxtnhuuha qb qzh keqozhm qzel hnhmemr.
+19 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	15 8
+1 Utxi qxtnhuuha qb qzh keqozhm ihlqhxati.
+2 Zeuu ybnha qb qzh keqozhm qzel ybxmemr.
+3 Hdueh cbdxmhiha qb qzh vtxk ihlqhxati.
+4 Txha jhmq qb qzh keqozhm ihlqhxati.
+5 Rzel ybxmemr Txha jhmq ptok qb qzh vtxk.
+6 Zeuu qxtnhuuha qb qzh phaxbby ihlqhxati.
+7 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	2 6
+8 Rzel tsqhxmbbm Zeuu ybnha qb qzh vtxk.
+9 Txha ybnha qb qzh phaxbby qzel tsqhxmbbm.
+10 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	2 6
+11 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh oemhyt.
+12 Rzel ybxmemr Utxi jhmq qb qzh phaxbby.
+13 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	8 2
+14 Txha ybnha qb qzh keqozhm qzel hnhmemr.
+15 Rzel hnhmemr Zeuu jhmq ptok qb qzh oemhyt.
+16 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	11 12
+17 Hdueh jhmq ptok qb qzh oemhyt qzel ybxmemr.
+18 Utxi jhmq ptok qb qzh lozbbu qzel hnhmemr.
+19 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	vtxk	17 3
+1 Rzel ybxmemr Txha ybnha qb qzh lozbbu.
+2 Vhlqhxati Txha cbdxmhiha qb qzh oemhyt.
+3 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	1 2
+6 Vhlqhxati Hdueh cbdxmhiha qb qzh oemhyt.
+7 Rzel ybxmemr Utxi cbdxmhiha qb qzh lozbbu.
+8 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	7 4
+9 Rzel ybxmemr Hdueh jhmq ptok qb qzh lozbbu.
+10 Rzel tsqhxmbbm Utxi jhmq ptok qb qzh vtxk.
+11 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	9 6
+12 Txha qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+13 Rzel hnhmemr Utxi ybnha qb qzh keqozhm.
+14 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	10 7
+15 Hdueh qxtnhuuha qb qzh vtxk qzel tsqhxmbbm.
+16 Txha ybnha qb qzh oemhyt qzel hnhmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	9 6
+1 Txha qxtnhuuha qb qzh oemhyt qzel ybxmemr.
+2 Zeuu jhmq qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Txha ybnha qb qzh keqozhm.
+4 Utxi ybnha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	1 3
+6 Hdueh ybnha qb qzh phaxbby ihlqhxati.
+7 Txha jhmq qb qzh lozbbu qzel tsqhxmbbm.
+8 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	1 3
+9 Utxi cbdxmhiha qb qzh vtxk qzel ybxmemr.
+10 Hdueh jhmq qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	10 6
+12 Utxi ybnha qb qzh lozbbu qzel tsqhxmbbm.
+13 Txha ybnha qb qzh bsseoh qzel hnhmemr.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	13 7
+15 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+16 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh lozbbu.
+17 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	13 7
+1 Zeuu cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+2 Vhlqhxati Zeuu jhmq qb qzh bsseoh.
+3 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	1 2
+4 Txha jhmq ptok qb qzh lozbbu qzel ybxmemr.
+5 Vhlqhxati Txha ybnha qb qzh bsseoh.
+6 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	4 5
+7 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh bsseoh.
+8 Utxi jhmq ptok qb qzh bsseoh ihlqhxati.
+9 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	1 2
+10 Txha ybnha qb qzh bsseoh qzel tsqhxmbbm.
+11 Utxi qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+12 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	4 5
+13 Rzel tsqhxmbbm Utxi jhmq qb qzh bsseoh.
+14 Zeuu jhmq qb qzh vtxk qzel hnhmemr.
+15 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	14 7
+1 Zeuu cbdxmhiha qb qzh vtxk ihlqhxati.
+2 Vhlqhxati Txha jhmq ptok qb qzh oemhyt.
+3 Rzel ybxmemr Txha jhmq ptok qb qzh keqozhm.
+4 Utxi qxtnhuuha qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	3 2
+6 Vhlqhxati Hdueh jhmq ptok qb qzh bsseoh.
+7 Rzel tsqhxmbbm Txha jhmq qb qzh phaxbby.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	7 3
+9 Rzel ybxmemr Zeuu qxtnhuuha qb qzh bsseoh.
+10 Rzel ybxmemr Hdueh cbdxmhiha qb qzh vtxk.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	3 2
+12 Rzel hnhmemr Zeuu jhmq qb qzh lozbbu.
+13 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh keqozhm.
+14 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	13 9
+15 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh bsseoh.
+16 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	bsseoh	13 9
+1 Utxi jhmq ptok qb qzh keqozhm qzel tsqhxmbbm.
+2 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+3 Hdueh jhmq qb qzh oemhyt ihlqhxati.
+4 Vhlqhxati Utxi jhmq qb qzh oemhyt.
+5 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+6 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+7 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	oemhyt	6 4
+8 Zeuu ybnha qb qzh phaxbby qzel tsqhxmbbm.
+9 Rzel ybxmemr Zeuu jhmq ptok qb qzh lozbbu.
+10 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	9 2
+11 Rzel ybxmemr Txha cbdxmhiha qb qzh oemhyt.
+12 Zeuu cbdxmhiha qb qzh vtxk qzel hnhmemr.
+13 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	9 2
+14 Rzel ybxmemr Hdueh jhmq ptok qb qzh keqozhm.
+15 Txha qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+16 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	12 8
+17 Txha ybnha qb qzh bsseoh qzel hnhmemr.
+18 Utxi jhmq qb qzh vtxk qzel hnhmemr.
+19 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	15 11
+1 Hdueh ybnha qb qzh vtxk qzel ybxmemr.
+2 Txha cbdxmhiha qb qzh bsseoh qzel ybxmemr.
+3 Vhlqhxati Txha jhmq ptok qb qzh phaxbby.
+4 Hdueh ybnha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	1 4
+6 Rzel tsqhxmbbm Txha jhmq ptok qb qzh lozbbu.
+7 Hdueh cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	1 4
+9 Vhlqhxati Utxi cbdxmhiha qb qzh lozbbu.
+10 Rzel hnhmemr Hdueh ybnha qb qzh vtxk.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	10 7
+12 Rzel hnhmemr Txha jhmq ptok qb qzh bsseoh.
+13 Zeuu cbdxmhiha qb qzh vtxk ihlqhxati.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	12 6
+15 Rzel tsqhxmbbm Utxi ybnha qb qzh phaxbby.
+16 Utxi ybnha qb qzh vtxk qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	16 9
+1 Vhlqhxati Zeuu qxtnhuuha qb qzh vtxk.
+2 Zeuu jhmq qb qzh oemhyt qzel ybxmemr.
+3 Rzel tsqhxmbbm Zeuu jhmq qb qzh phaxbby.
+4 Hdueh qxtnhuuha qb qzh oemhyt ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	3 2
+6 Vhlqhxati Utxi jhmq ptok qb qzh bsseoh.
+7 Hdueh ybnha qb qzh lozbbu qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	7 4
+9 Rzel tsqhxmbbm Hdueh jhmq qb qzh vtxk.
+10 Utxi qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	10 6
+12 Vhlqhxati Txha cbdxmhiha qb qzh keqozhm.
+13 Rzel hnhmemr Hdueh qxtnhuuha qb qzh keqozhm.
+14 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	10 6
+15 Rzel ybxmemr Txha qxtnhuuha qb qzh oemhyt.
+16 Zeuu jhmq qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	13 9
+1 Zeuu jhmq qb qzh bsseoh qzel ybxmemr.
+2 Zeuu jhmq qb qzh lozbbu ihlqhxati.
+3 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	1 2
+4 Hdueh ybnha qb qzh keqozhm ihlqhxati.
+5 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh vtxk.
+6 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	5 1
+7 Rzel ybxmemr Txha jhmq ptok qb qzh oemhyt.
+8 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+9 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	5 1
+10 Rzel hnhmemr Zeuu qxtnhuuha qb qzh oemhyt.
+11 Rzel ybxmemr Hdueh ybnha qb qzh phaxbby.
+12 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	11 4
+13 Vhlqhxati Utxi jhmq qb qzh bsseoh.
+14 Txha jhmq ptok qb qzh bsseoh qzel tsqhxmbbm.
+15 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	11 4
+1 Rzel ybxmemr Txha ybnha qb qzh oemhyt.
+2 Zeuu qxtnhuuha qb qzh vtxk qzel ybxmemr.
+3 Zeuu jhmq qb qzh phaxbby ihlqhxati.
+4 Vhlqhxati Txha cbdxmhiha qb qzh lozbbu.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	2 3
+6 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh keqozhm.
+7 Vhlqhxati Hdueh cbdxmhiha qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	6 2
+9 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh keqozhm.
+10 Rzel ybxmemr Hdueh jhmq ptok qb qzh bsseoh.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	6 2
+12 Utxi jhmq ptok qb qzh keqozhm qzel ybxmemr.
+13 Vhlqhxati Utxi ybnha qb qzh bsseoh.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	9 1
+15 Txha ybnha qb qzh lozbbu qzel hnhmemr.
+16 Rzel hnhmemr Zeuu jhmq qb qzh bsseoh.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	15 9
+1 Rzel ybxmemr Zeuu ybnha qb qzh bsseoh.
+2 Zeuu qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+3 Vhlqhxati Txha cbdxmhiha qb qzh lozbbu.
+4 Zeuu qxtnhuuha qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	lozbbu	1 4
+6 Rzel ybxmemr Txha qxtnhuuha qb qzh phaxbby.
+7 Vhlqhxati Hdueh jhmq ptok qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	bsseoh	2 1
+9 Hdueh jhmq qb qzh lozbbu qzel ybxmemr.
+10 Rzel tsqhxmbbm Txha ybnha qb qzh vtxk.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	10 6
+12 Utxi jhmq ptok qb qzh oemhyt ihlqhxati.
+13 Rzel hnhmemr Txha cbdxmhiha qb qzh lozbbu.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	13 10
+15 Utxi ybnha qb qzh bsseoh qzel tsqhxmbbm.
+16 Utxi jhmq ptok qb qzh keqozhm qzel ybxmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	9 7
+1 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh lozbbu.
+2 Hdueh jhmq qb qzh keqozhm ihlqhxati.
+3 Vhlqhxati Zeuu ybnha qb qzh lozbbu.
+4 Zeuu ybnha qb qzh oemhyt qzel ybxmemr.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	1 4
+6 Vhlqhxati Txha qxtnhuuha qb qzh keqozhm.
+7 Rzel hnhmemr Zeuu jhmq qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	lozbbu	4 3
+9 Utxi cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+10 Utxi ybnha qb qzh lozbbu ihlqhxati.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	oemhyt	1 4
+12 Rzel ybxmemr Txha jhmq qb qzh lozbbu.
+13 Rzel tsqhxmbbm Utxi jhmq qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	13 9
+15 Txha qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+16 Hdueh ybnha qb qzh bsseoh qzel ybxmemr.
+17 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	9 10
+1 Txha jhmq ptok qb qzh lozbbu ihlqhxati.
+2 Vhlqhxati Utxi ybnha qb qzh phaxbby.
+3 Hdueh jhmq ptok qb qzh vtxk qzel ybxmemr.
+4 Hdueh cbdxmhiha qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	lozbbu	3 4
+6 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh phaxbby.
+7 Txha jhmq qb qzh keqozhm qzel ybxmemr.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	6 7
+9 Rzel ybxmemr Zeuu jhmq qb qzh vtxk.
+10 Vhlqhxati Zeuu cbdxmhiha qb qzh phaxbby.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	lozbbu	3 4
+12 Rzel ybxmemr Utxi jhmq qb qzh lozbbu.
+13 Zeuu jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	9 10
+15 Zeuu cbdxmhiha qb qzh vtxk qzel hnhmemr.
+16 Rzel tsqhxmbbm Hdueh ybnha qb qzh phaxbby.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	12 2
+1 Hdueh cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+2 Hdueh cbdxmhiha qb qzh vtxk ihlqhxati.
+3 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	1 2
+4 Hdueh qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+5 Utxi cbdxmhiha qb qzh oemhyt ihlqhxati.
+6 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	4 1
+7 Rzel ybxmemr Utxi jhmq ptok qb qzh vtxk.
+8 Vhlqhxati Zeuu ybnha qb qzh keqozhm.
+9 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	7 5
+10 Txha ybnha qb qzh keqozhm ihlqhxati.
+11 Rzel hnhmemr Hdueh qxtnhuuha qb qzh keqozhm.
+12 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	4 1
+13 Rzel hnhmemr Utxi jhmq ptok qb qzh keqozhm.
+14 Utxi ybnha qb qzh bsseoh qzel tsqhxmbbm.
+15 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	11 4
+1 Rzel ybxmemr Utxi jhmq ptok qb qzh oemhyt.
+2 Vhlqhxati Txha jhmq ptok qb qzh lozbbu.
+3 Utxi ybnha qb qzh bsseoh ihlqhxati.
+4 Hdueh cbdxmhiha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	1 3
+6 Txha jhmq qb qzh phaxbby qzel ybxmemr.
+7 Vhlqhxati Zeuu cbdxmhiha qb qzh lozbbu.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	lozbbu	6 2
+9 Txha qxtnhuuha qb qzh keqozhm qzel tsqhxmbbm.
+10 Hdueh jhmq qb qzh phaxbby qzel ybxmemr.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	vtxk	10 4
+12 Zeuu cbdxmhiha qb qzh phaxbby qzel ybxmemr.
+13 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	oemhyt	13 1
+15 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh keqozhm.
+16 Zeuu ybnha qb qzh oemhyt qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	9 6
+1 Zeuu cbdxmhiha qb qzh oemhyt ihlqhxati.
+2 Hdueh ybnha qb qzh keqozhm qzel ybxmemr.
+3 Rzel ybxmemr Utxi ybnha qb qzh bsseoh.
+4 Vhlqhxati Hdueh qxtnhuuha qb qzh bsseoh.
+5 Txha qxtnhuuha qb qzh phaxbby ihlqhxati.
+6 Utxi jhmq qb qzh phaxbby ihlqhxati.
+7 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	3 6
+8 Rzel tsqhxmbbm Utxi ybnha qb qzh oemhyt.
+9 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+10 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	oemhyt	9 1
+11 Zeuu jhmq qb qzh oemhyt qzel tsqhxmbbm.
+12 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh phaxbby.
+13 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	12 2
+14 Rzel hnhmemr Hdueh jhmq ptok qb qzh keqozhm.
+15 Rzel hnhmemr Zeuu jhmq ptok qb qzh lozbbu.
+16 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	14 12
+17 Txha cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+18 Utxi qxtnhuuha qb qzh lozbbu qzel hnhmemr.
+19 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	14 12
+1 Vhlqhxati Hdueh qxtnhuuha qb qzh keqozhm.
+2 Utxi cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Txha ybnha qb qzh oemhyt.
+4 Rzel ybxmemr Hdueh jhmq qb qzh oemhyt.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	4 1
+6 Utxi qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+7 Txha jhmq qb qzh vtxk qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	4 1
+9 Txha qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+10 Txha cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh bsseoh? 	vtxk	10 7
+12 Vhlqhxati Zeuu cbdxmhiha qb qzh phaxbby.
+13 Utxi ybnha qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	phaxbby	6 2
+15 Rzel ybxmemr Zeuu qxtnhuuha qb qzh lozbbu.
+16 Rzel hnhmemr Utxi cbdxmhiha qb qzh keqozhm.
+17 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	lozbbu	13 6
+1 Txha ybnha qb qzh oemhyt ihlqhxati.
+2 Vhlqhxati Hdueh qxtnhuuha qb qzh keqozhm.
+3 Vhlqhxati Zeuu jhmq qb qzh keqozhm.
+4 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	4 3
+6 Rzel ybxmemr Hdueh cbdxmhiha qb qzh vtxk.
+7 Txha qxtnhuuha qb qzh lozbbu qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	keqozhm	6 2
+9 Hdueh qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+10 Rzel tsqhxmbbm Txha jhmq qb qzh keqozhm.
+11 Mzhxh jtl Txha phsbxh qzh lozbbu? 	oemhyt	7 1
+12 Txha ybnha qb qzh vtxk qzel hnhmemr.
+13 Hdueh qxtnhuuha qb qzh oemhyt qzel hnhmemr.
+14 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	9 6
+15 Rzel hnhmemr Zeuu jhmq qb qzh phaxbby.
+16 Rzel tsqhxmbbm Zeuu ybnha qb qzh keqozhm.
+17 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	15 16
+1 Utxi ybnha qb qzh phaxbby ihlqhxati.
+2 Txha qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+3 Hdueh qxtnhuuha qb qzh lozbbu ihlqhxati.
+4 Txha ybnha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	2 4
+6 Rzel ybxmemr Utxi ybnha qb qzh oemhyt.
+7 Rzel ybxmemr Hdueh jhmq ptok qb qzh bsseoh.
+8 Mzhxh jtl Txha phsbxh qzh keqozhm? 	bsseoh	2 4
+9 Vhlqhxati Zeuu ybnha qb qzh lozbbu.
+10 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh phaxbby.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	bsseoh	10 7
+12 Rzel hnhmemr Txha jhmq ptok qb qzh phaxbby.
+13 Txha jhmq qb qzh oemhyt qzel tsqhxmbbm.
+14 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	6 1
+15 Rzel hnhmemr Utxi cbdxmhiha qb qzh oemhyt.
+16 Utxi jhmq qb qzh vtxk qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	oemhyt	12 13
+1 Vhlqhxati Hdueh jhmq qb qzh lozbbu.
+2 Hdueh ybnha qb qzh phaxbby qzel ybxmemr.
+3 Vhlqhxati Utxi ybnha qb qzh keqozhm.
+4 Rzel ybxmemr Utxi ybnha qb qzh vtxk.
+5 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	lozbbu	2 1
+6 Rzel ybxmemr Zeuu jhmq ptok qb qzh oemhyt.
+7 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+8 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	phaxbby	6 7
+9 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh bsseoh.
+10 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+11 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	phaxbby	9 2
+12 Rzel hnhmemr Utxi qxtnhuuha qb qzh oemhyt.
+13 Utxi jhmq qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	12 13
+15 Txha ybnha qb qzh phaxbby qzel ybxmemr.
+16 Hdueh cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	bsseoh	12 13
+1 Txha cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+2 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh vtxk.
+3 Vhlqhxati Utxi jhmq qb qzh vtxk.
+4 Txha jhmq ptok qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh lozbbu? 	keqozhm	1 4
+6 Vhlqhxati Zeuu ybnha qb qzh keqozhm.
+7 Txha jhmq qb qzh lozbbu qzel hnhmemr.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	7 2
+9 Rzel ybxmemr Hdueh cbdxmhiha qb qzh vtxk.
+10 Vhlqhxati Hdueh jhmq ptok qb qzh oemhyt.
+11 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	9 10
+12 Hdueh jhmq qb qzh bsseoh qzel tsqhxmbbm.
+13 Rzel ybxmemr Zeuu cbdxmhiha qb qzh vtxk.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	13 6
+15 Zeuu jhmq qb qzh lozbbu qzel hnhmemr.
+16 Rzel tsqhxmbbm Zeuu jhmq qb qzh phaxbby.
+17 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	vtxk	12 9
+1 Utxi qxtnhuuha qb qzh oemhyt ihlqhxati.
+2 Txha ybnha qb qzh vtxk qzel ybxmemr.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh lozbbu.
+4 Vhlqhxati Txha qxtnhuuha qb qzh phaxbby.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	2 4
+6 Rzel ybxmemr Zeuu qxtnhuuha qb qzh phaxbby.
+7 Utxi ybnha qb qzh phaxbby qzel ybxmemr.
+8 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	oemhyt	7 1
+9 Rzel ybxmemr Hdueh ybnha qb qzh keqozhm.
+10 Vhlqhxati Hdueh ybnha qb qzh phaxbby.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	6 3
+12 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh oemhyt.
+13 Utxi cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	9 10
+15 Txha jhmq qb qzh phaxbby qzel tsqhxmbbm.
+16 Utxi ybnha qb qzh vtxk qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	keqozhm	16 13
+1 Hdueh jhmq qb qzh vtxk qzel ybxmemr.
+2 Rzel ybxmemr Utxi qxtnhuuha qb qzh phaxbby.
+3 Hdueh cbdxmhiha qb qzh bsseoh ihlqhxati.
+4 Vhlqhxati Utxi cbdxmhiha qb qzh keqozhm.
+5 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	keqozhm	2 4
+6 Rzel ybxmemr Txha ybnha qb qzh lozbbu.
+7 Txha ybnha qb qzh vtxk ihlqhxati.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	6 7
+9 Rzel hnhmemr Utxi jhmq ptok qb qzh bsseoh.
+10 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh lozbbu.
+11 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	lozbbu	9 10
+12 Rzel hnhmemr Txha qxtnhuuha qb qzh oemhyt.
+13 Txha qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	13 6
+15 Vhlqhxati Zeuu jhmq ptok qb qzh vtxk.
+16 Rzel tsqhxmbbm Hdueh jhmq qb qzh bsseoh.
+17 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	13 6
+1 Txha jhmq qb qzh bsseoh ihlqhxati.
+2 Txha cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+3 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh vtxk.
+4 Vhlqhxati Utxi qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	oemhyt	3 2
+6 Rzel ybxmemr Utxi jhmq ptok qb qzh vtxk.
+7 Vhlqhxati Hdueh ybnha qb qzh bsseoh.
+8 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	6 4
+9 Utxi cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+10 Zeuu jhmq qb qzh vtxk ihlqhxati.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	oemhyt	3 2
+12 Rzel ybxmemr Zeuu jhmq qb qzh bsseoh.
+13 Utxi qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+14 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	6 4
+15 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh keqozhm.
+16 Rzel hnhmemr Txha jhmq qb qzh oemhyt.
+17 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	16 3
+1 Rzel ybxmemr Zeuu jhmq qb qzh keqozhm.
+2 Rzel ybxmemr Utxi jhmq qb qzh phaxbby.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh phaxbby.
+4 Vhlqhxati Utxi jhmq qb qzh lozbbu.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	phaxbby	1 3
+6 Utxi ybnha qb qzh bsseoh qzel tsqhxmbbm.
+7 Hdueh cbdxmhiha qb qzh lozbbu ihlqhxati.
+8 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	2 4
+9 Rzel tsqhxmbbm Zeuu jhmq qb qzh bsseoh.
+10 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+11 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	9 1
+12 Txha qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+13 Rzel hnhmemr Zeuu cbdxmhiha qb qzh lozbbu.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	6 2
+15 Utxi jhmq ptok qb qzh oemhyt qzel hnhmemr.
+16 Hdueh qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	lozbbu	16 7
+1 Vhlqhxati Hdueh cbdxmhiha qb qzh vtxk.
+2 Txha ybnha qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh phaxbby.
+4 Rzel ybxmemr Hdueh qxtnhuuha qb qzh keqozhm.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	4 1
+6 Txha cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+7 Txha cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	vtxk	4 1
+9 Hdueh ybnha qb qzh lozbbu qzel tsqhxmbbm.
+10 Utxi ybnha qb qzh lozbbu ihlqhxati.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	lozbbu	6 7
+12 Rzel ybxmemr Zeuu qxtnhuuha qb qzh lozbbu.
+13 Hdueh cbdxmhiha qb qzh vtxk qzel hnhmemr.
+14 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	lozbbu	13 9
+15 Zeuu jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+16 Txha jhmq qb qzh vtxk qzel hnhmemr.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	keqozhm	9 4
+1 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+2 Utxi qxtnhuuha qb qzh keqozhm ihlqhxati.
+3 Zeuu qxtnhuuha qb qzh lozbbu ihlqhxati.
+4 Vhlqhxati Txha qxtnhuuha qb qzh bsseoh.
+5 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	1 2
+6 Rzel ybxmemr Txha cbdxmhiha qb qzh lozbbu.
+7 Hdueh ybnha qb qzh oemhyt ihlqhxati.
+8 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	6 4
+9 Rzel ybxmemr Zeuu jhmq qb qzh vtxk.
+10 Rzel tsqhxmbbm Txha jhmq ptok qb qzh keqozhm.
+11 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	lozbbu	9 3
+12 Utxi cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+13 Rzel hnhmemr Txha ybnha qb qzh oemhyt.
+14 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	13 10
+15 Hdueh jhmq ptok qb qzh lozbbu qzel ybxmemr.
+16 Utxi jhmq qb qzh keqozhm qzel hnhmemr.
+17 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	13 10
+1 Utxi jhmq ptok qb qzh keqozhm ihlqhxati.
+2 Vhlqhxati Txha ybnha qb qzh vtxk.
+3 Utxi qxtnhuuha qb qzh bsseoh qzel ybxmemr.
+4 Hdueh jhmq ptok qb qzh oemhyt ihlqhxati.
+5 Zeuu jhmq qb qzh phaxbby ihlqhxati.
+6 Hdueh cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+7 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	3 1
+8 Txha jhmq qb qzh vtxk qzel tsqhxmbbm.
+9 Txha jhmq ptok qb qzh keqozhm qzel ybxmemr.
+10 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	3 1
+11 Rzel hnhmemr Txha ybnha qb qzh bsseoh.
+12 Utxi cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+13 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	12 3
+14 Utxi cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+15 Rzel ybxmemr Zeuu cbdxmhiha qb qzh bsseoh.
+16 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	12 3
+17 Hdueh jhmq ptok qb qzh vtxk qzel tsqhxmbbm.
+18 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh oemhyt.
+19 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	15 5
+1 Txha cbdxmhiha qb qzh vtxk qzel ybxmemr.
+2 Vhlqhxati Txha jhmq qb qzh phaxbby.
+3 Vhlqhxati Utxi jhmq ptok qb qzh lozbbu.
+4 Vhlqhxati Hdueh qxtnhuuha qb qzh vtxk.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	1 2
+6 Vhlqhxati Zeuu jhmq qb qzh vtxk.
+7 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+8 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	lozbbu	7 3
+9 Rzel hnhmemr Txha ybnha qb qzh lozbbu.
+10 Txha ybnha qb qzh keqozhm qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	vtxk	10 1
+12 Rzel hnhmemr Utxi jhmq ptok qb qzh bsseoh.
+13 Rzel tsqhxmbbm Utxi jhmq qb qzh keqozhm.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	12 13
+15 Hdueh jhmq qb qzh lozbbu qzel tsqhxmbbm.
+16 Rzel ybxmemr Hdueh cbdxmhiha qb qzh phaxbby.
+17 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	12 13
+1 Txha ybnha qb qzh phaxbby qzel ybxmemr.
+2 Utxi ybnha qb qzh phaxbby ihlqhxati.
+3 Zeuu jhmq qb qzh vtxk ihlqhxati.
+4 Rzel ybxmemr Zeuu jhmq qb qzh keqozhm.
+5 Hdueh ybnha qb qzh bsseoh ihlqhxati.
+6 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+7 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	4 3
+8 Hdueh jhmq qb qzh lozbbu qzel tsqhxmbbm.
+9 Hdueh jhmq qb qzh phaxbby qzel ybxmemr.
+10 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	4 3
+11 Rzel tsqhxmbbm Zeuu jhmq ptok qb qzh bsseoh.
+12 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh bsseoh.
+13 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	8 9
+14 Txha ybnha qb qzh vtxk qzel hnhmemr.
+15 Hdueh jhmq qb qzh oemhyt qzel hnhmemr.
+16 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	11 4
+17 Rzel ybxmemr Utxi jhmq ptok qb qzh lozbbu.
+18 Rzel hnhmemr Zeuu qxtnhuuha qb qzh phaxbby.
+19 Mzhxh jtl Txha phsbxh qzh vtxk? 	bsseoh	14 12
+1 Zeuu ybnha qb qzh vtxk qzel ybxmemr.
+2 Zeuu ybnha qb qzh phaxbby qzel tsqhxmbbm.
+3 Hdueh jhmq ptok qb qzh keqozhm ihlqhxati.
+4 Vhlqhxati Zeuu jhmq qb qzh bsseoh.
+5 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	1 4
+6 Txha ybnha qb qzh keqozhm qzel ybxmemr.
+7 Vhlqhxati Txha jhmq qb qzh phaxbby.
+8 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	2 1
+9 Rzel tsqhxmbbm Txha jhmq qb qzh vtxk.
+10 Hdueh jhmq qb qzh oemhyt qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	9 6
+12 Txha cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+13 Hdueh jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+14 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	9 6
+15 Zeuu qxtnhuuha qb qzh vtxk qzel hnhmemr.
+16 Vhlqhxati Utxi jhmq ptok qb qzh keqozhm.
+17 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	15 2
+1 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+2 Hdueh ybnha qb qzh lozbbu qzel ybxmemr.
+3 Vhlqhxati Hdueh qxtnhuuha qb qzh bsseoh.
+4 Utxi ybnha qb qzh vtxk ihlqhxati.
+5 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	vtxk	1 4
+6 Rzel ybxmemr Zeuu cbdxmhiha qb qzh keqozhm.
+7 Vhlqhxati Zeuu cbdxmhiha qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	6 7
+9 Utxi cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+10 Zeuu jhmq qb qzh bsseoh qzel tsqhxmbbm.
+11 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	keqozhm	10 6
+12 Txha jhmq qb qzh keqozhm ihlqhxati.
+13 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh keqozhm.
+14 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	6 7
+15 Rzel ybxmemr Txha jhmq qb qzh vtxk.
+16 Rzel hnhmemr Hdueh jhmq ptok qb qzh oemhyt.
+17 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	9 1
+1 Rzel ybxmemr Hdueh cbdxmhiha qb qzh lozbbu.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh phaxbby.
+3 Vhlqhxati Hdueh cbdxmhiha qb qzh keqozhm.
+4 Vhlqhxati Zeuu jhmq qb qzh vtxk.
+5 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	keqozhm	1 3
+6 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh vtxk.
+7 Utxi jhmq ptok qb qzh vtxk qzel ybxmemr.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	lozbbu	6 1
+9 Utxi qxtnhuuha qb qzh lozbbu qzel tsqhxmbbm.
+10 Rzel hnhmemr Hdueh ybnha qb qzh lozbbu.
+11 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	vtxk	10 6
+12 Zeuu cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+13 Rzel hnhmemr Utxi jhmq ptok qb qzh keqozhm.
+14 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	12 4
+15 Zeuu jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+16 Txha qxtnhuuha qb qzh keqozhm ihlqhxati.
+17 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	vtxk	12 4
+1 Hdueh jhmq qb qzh phaxbby qzel ybxmemr.
+2 Zeuu ybnha qb qzh oemhyt ihlqhxati.
+3 Vhlqhxati Hdueh ybnha qb qzh oemhyt.
+4 Utxi jhmq ptok qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	oemhyt	1 3
+6 Zeuu cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+7 Hdueh cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	phaxbby	7 1
+9 Zeuu qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+10 Zeuu cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	vtxk	9 10
+12 Rzel ybxmemr Txha ybnha qb qzh phaxbby.
+13 Vhlqhxati Txha jhmq ptok qb qzh vtxk.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	keqozhm	10 6
+15 Rzel hnhmemr Txha jhmq qb qzh lozbbu.
+16 Txha cbdxmhiha qb qzh vtxk qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	15 16
+1 Zeuu jhmq ptok qb qzh oemhyt ihlqhxati.
+2 Utxi cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Utxi qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+4 Vhlqhxati Txha ybnha qb qzh lozbbu.
+5 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	phaxbby	3 2
+6 Hdueh jhmq qb qzh keqozhm qzel ybxmemr.
+7 Hdueh cbdxmhiha qb qzh lozbbu ihlqhxati.
+8 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	lozbbu	6 7
+9 Rzel ybxmemr Zeuu qxtnhuuha qb qzh lozbbu.
+10 Txha jhmq qb qzh bsseoh qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	phaxbby	3 2
+12 Txha ybnha qb qzh bsseoh qzel hnhmemr.
+13 Rzel tsqhxmbbm Txha jhmq qb qzh keqozhm.
+14 Mzhxh jtl Txha phsbxh qzh bsseoh? 	keqozhm	12 13
+15 Rzel tsqhxmbbm Utxi qxtnhuuha qb qzh lozbbu.
+16 Hdueh ybnha qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Hdueh phsbxh qzh bsseoh? 	keqozhm	16 6
+1 Rzel ybxmemr Zeuu jhmq qb qzh oemhyt.
+2 Hdueh jhmq qb qzh phaxbby ihlqhxati.
+3 Vhlqhxati Zeuu jhmq qb qzh keqozhm.
+4 Utxi jhmq qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	1 3
+6 Txha jhmq ptok qb qzh bsseoh ihlqhxati.
+7 Rzel ybxmemr Utxi cbdxmhiha qb qzh bsseoh.
+8 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	keqozhm	1 3
+9 Rzel tsqhxmbbm Utxi jhmq qb qzh vtxk.
+10 Zeuu jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+11 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	10 1
+12 Zeuu cbdxmhiha qb qzh oemhyt qzel hnhmemr.
+13 Hdueh ybnha qb qzh lozbbu qzel ybxmemr.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	oemhyt	10 1
+15 Rzel ybxmemr Txha qxtnhuuha qb qzh lozbbu.
+16 Rzel hnhmemr Utxi cbdxmhiha qb qzh keqozhm.
+17 Mzhxh jtl Txha phsbxh qzh lozbbu? 	bsseoh	15 6
+1 Txha jhmq qb qzh phaxbby qzel ybxmemr.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh vtxk.
+3 Txha jhmq qb qzh vtxk ihlqhxati.
+4 Hdueh qxtnhuuha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	1 3
+6 Rzel ybxmemr Utxi qxtnhuuha qb qzh keqozhm.
+7 Rzel tsqhxmbbm Txha jhmq ptok qb qzh bsseoh.
+8 Mzhxh jtl Txha phsbxh qzh bsseoh? 	phaxbby	7 1
+9 Utxi jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+10 Rzel hnhmemr Txha jhmq qb qzh oemhyt.
+11 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	9 6
+12 Rzel ybxmemr Zeuu cbdxmhiha qb qzh oemhyt.
+13 Zeuu qxtnhuuha qb qzh phaxbby ihlqhxati.
+14 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	6 2
+15 Utxi cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+16 Hdueh jhmq qb qzh oemhyt qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	phaxbby	12 13
+1 Hdueh ybnha qb qzh phaxbby ihlqhxati.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh bsseoh.
+3 Vhlqhxati Zeuu jhmq qb qzh lozbbu.
+4 Rzel ybxmemr Zeuu qxtnhuuha qb qzh keqozhm.
+5 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	4 3
+6 Rzel ybxmemr Hdueh jhmq ptok qb qzh lozbbu.
+7 Vhlqhxati Txha ybnha qb qzh bsseoh.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	4 3
+9 Rzel ybxmemr Utxi cbdxmhiha qb qzh lozbbu.
+10 Rzel ybxmemr Txha cbdxmhiha qb qzh oemhyt.
+11 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	phaxbby	6 1
+12 Txha cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+13 Utxi ybnha qb qzh keqozhm qzel tsqhxmbbm.
+14 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	bsseoh	9 2
+15 Txha jhmq ptok qb qzh oemhyt qzel hnhmemr.
+16 Zeuu jhmq qb qzh bsseoh qzel tsqhxmbbm.
+17 Mzhxh jtl Txha phsbxh qzh oemhyt? 	phaxbby	15 12
+1 Hdueh qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+2 Vhlqhxati Txha cbdxmhiha qb qzh phaxbby.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh phaxbby.
+4 Hdueh cbdxmhiha qb qzh bsseoh ihlqhxati.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	1 4
+6 Hdueh qxtnhuuha qb qzh oemhyt qzel tsqhxmbbm.
+7 Vhlqhxati Utxi jhmq qb qzh oemhyt.
+8 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	6 1
+9 Hdueh cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+10 Rzel ybxmemr Zeuu ybnha qb qzh lozbbu.
+11 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	10 3
+12 Zeuu jhmq qb qzh phaxbby qzel tsqhxmbbm.
+13 Rzel ybxmemr Utxi jhmq qb qzh vtxk.
+14 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	keqozhm	6 1
+15 Rzel hnhmemr Zeuu jhmq ptok qb qzh bsseoh.
+16 Rzel tsqhxmbbm Utxi ybnha qb qzh bsseoh.
+17 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	phaxbby	15 12
+1 Rzel ybxmemr Hdueh ybnha qb qzh vtxk.
+2 Rzel tsqhxmbbm Hdueh cbdxmhiha qb qzh oemhyt.
+3 Hdueh jhmq qb qzh oemhyt ihlqhxati.
+4 Vhlqhxati Zeuu jhmq qb qzh phaxbby.
+5 Mzhxh jtl Hdueh phsbxh qzh oemhyt? 	vtxk	2 1
+6 Utxi jhmq qb qzh vtxk qzel ybxmemr.
+7 Vhlqhxati Utxi cbdxmhiha qb qzh bsseoh.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	oemhyt	1 3
+9 Rzel tsqhxmbbm Utxi jhmq qb qzh lozbbu.
+10 Zeuu ybnha qb qzh lozbbu qzel ybxmemr.
+11 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	6 7
+12 Utxi qxtnhuuha qb qzh phaxbby qzel hnhmemr.
+13 Rzel tsqhxmbbm Zeuu jhmq qb qzh phaxbby.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	lozbbu	13 10
+15 Txha jhmq ptok qb qzh bsseoh ihlqhxati.
+16 Hdueh jhmq ptok qb qzh keqozhm qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	vtxk	9 6
+1 Rzel ybxmemr Hdueh qxtnhuuha qb qzh keqozhm.
+2 Vhlqhxati Hdueh cbdxmhiha qb qzh lozbbu.
+3 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	lozbbu	1 2
+4 Rzel tsqhxmbbm Hdueh jhmq qb qzh lozbbu.
+5 Vhlqhxati Utxi jhmq qb qzh bsseoh.
+6 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	keqozhm	4 1
+7 Vhlqhxati Zeuu qxtnhuuha qb qzh bsseoh.
+8 Rzel hnhmemr Hdueh qxtnhuuha qb qzh vtxk.
+9 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	lozbbu	1 2
+10 Utxi qxtnhuuha qb qzh vtxk qzel ybxmemr.
+11 Rzel ybxmemr Zeuu ybnha qb qzh oemhyt.
+12 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	bsseoh	11 7
+13 Zeuu cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+14 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh lozbbu.
+15 Mzhxh jtl Utxi phsbxh qzh vtxk? 	bsseoh	10 5
+1 Rzel ybxmemr Txha ybnha qb qzh vtxk.
+2 Txha cbdxmhiha qb qzh phaxbby ihlqhxati.
+3 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	1 2
+4 Rzel tsqhxmbbm Txha qxtnhuuha qb qzh oemhyt.
+5 Hdueh qxtnhuuha qb qzh keqozhm ihlqhxati.
+6 Mzhxh jtl Txha phsbxh qzh vtxk? 	phaxbby	1 2
+7 Rzel ybxmemr Utxi qxtnhuuha qb qzh keqozhm.
+8 Utxi cbdxmhiha qb qzh vtxk ihlqhxati.
+9 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	7 8
+10 Txha jhmq ptok qb qzh phaxbby qzel hnhmemr.
+11 Utxi jhmq ptok qb qzh oemhyt qzel tsqhxmbbm.
+12 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	7 8
+13 Rzel ybxmemr Hdueh qxtnhuuha qb qzh lozbbu.
+14 Rzel hnhmemr Utxi qxtnhuuha qb qzh lozbbu.
+15 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	7 8
+1 Txha cbdxmhiha qb qzh keqozhm ihlqhxati.
+2 Utxi qxtnhuuha qb qzh keqozhm ihlqhxati.
+3 Txha ybnha qb qzh vtxk qzel ybxmemr.
+4 Zeuu qxtnhuuha qb qzh keqozhm ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	3 1
+6 Vhlqhxati Hdueh jhmq ptok qb qzh keqozhm.
+7 Rzel ybxmemr Utxi jhmq ptok qb qzh oemhyt.
+8 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	keqozhm	7 2
+9 Hdueh ybnha qb qzh phaxbby qzel ybxmemr.
+10 Txha jhmq qb qzh lozbbu qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	keqozhm	3 1
+12 Utxi qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+13 Rzel ybxmemr Zeuu jhmq qb qzh lozbbu.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	10 3
+15 Rzel tsqhxmbbm Hdueh jhmq qb qzh vtxk.
+16 Utxi cbdxmhiha qb qzh keqozhm qzel hnhmemr.
+17 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	bsseoh	16 12
+1 Vhlqhxati Utxi jhmq ptok qb qzh bsseoh.
+2 Vhlqhxati Txha ybnha qb qzh vtxk.
+3 Zeuu ybnha qb qzh phaxbby ihlqhxati.
+4 Rzel ybxmemr Zeuu jhmq qb qzh lozbbu.
+5 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	4 3
+6 Rzel ybxmemr Hdueh qxtnhuuha qb qzh phaxbby.
+7 Vhlqhxati Hdueh qxtnhuuha qb qzh vtxk.
+8 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	4 3
+9 Utxi jhmq ptok qb qzh phaxbby qzel ybxmemr.
+10 Rzel ybxmemr Txha jhmq qb qzh keqozhm.
+11 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	bsseoh	9 1
+12 Hdueh ybnha qb qzh keqozhm qzel tsqhxmbbm.
+13 Rzel tsqhxmbbm Txha jhmq qb qzh oemhyt.
+14 Mzhxh jtl Txha phsbxh qzh keqozhm? 	vtxk	10 2
+15 Rzel hnhmemr Txha ybnha qb qzh phaxbby.
+16 Rzel hnhmemr Hdueh cbdxmhiha qb qzh bsseoh.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	oemhyt	15 13
+1 Vhlqhxati Zeuu jhmq qb qzh bsseoh.
+2 Txha jhmq qb qzh phaxbby ihlqhxati.
+3 Utxi qxtnhuuha qb qzh oemhyt ihlqhxati.
+4 Utxi cbdxmhiha qb qzh vtxk qzel ybxmemr.
+5 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	4 3
+6 Utxi jhmq qb qzh keqozhm qzel hnhmemr.
+7 Utxi jhmq ptok qb qzh phaxbby qzel tsqhxmbbm.
+8 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	4 3
+9 Hdueh jhmq qb qzh oemhyt ihlqhxati.
+10 Txha ybnha qb qzh keqozhm qzel ybxmemr.
+11 Mzhxh jtl Txha phsbxh qzh keqozhm? 	phaxbby	10 2
+12 Txha qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+13 Rzel ybxmemr Zeuu jhmq qb qzh phaxbby.
+14 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	bsseoh	13 1
+15 Hdueh cbdxmhiha qb qzh lozbbu qzel ybxmemr.
+16 Txha ybnha qb qzh lozbbu qzel hnhmemr.
+17 Mzhxh jtl Txha phsbxh qzh phaxbby? 	keqozhm	12 10
+1 Rzel ybxmemr Utxi jhmq qb qzh lozbbu.
+2 Vhlqhxati Utxi cbdxmhiha qb qzh oemhyt.
+3 Mzhxh jtl Utxi phsbxh qzh lozbbu? 	oemhyt	1 2
+4 Utxi cbdxmhiha qb qzh phaxbby qzel tsqhxmbbm.
+5 Zeuu jhmq ptok qb qzh vtxk ihlqhxati.
+6 Mzhxh jtl Utxi phsbxh qzh phaxbby? 	lozbbu	4 1
+7 Utxi cbdxmhiha qb qzh bsseoh qzel hnhmemr.
+8 Hdueh jhmq ptok qb qzh bsseoh ihlqhxati.
+9 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	7 4
+10 Rzel ybxmemr Zeuu jhmq ptok qb qzh bsseoh.
+11 Rzel ybxmemr Hdueh jhmq ptok qb qzh lozbbu.
+12 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	bsseoh	11 8
+13 Zeuu jhmq qb qzh lozbbu qzel hnhmemr.
+14 Zeuu ybnha qb qzh keqozhm qzel tsqhxmbbm.
+15 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	phaxbby	7 4
+1 Vhlqhxati Utxi cbdxmhiha qb qzh phaxbby.
+2 Vhlqhxati Zeuu jhmq ptok qb qzh lozbbu.
+3 Txha jhmq qb qzh keqozhm ihlqhxati.
+4 Rzel ybxmemr Utxi ybnha qb qzh oemhyt.
+5 Hdueh ybnha qb qzh oemhyt ihlqhxati.
+6 Txha jhmq ptok qb qzh oemhyt qzel ybxmemr.
+7 Mzhxh jtl Txha phsbxh qzh oemhyt? 	keqozhm	6 3
+8 Rzel hnhmemr Utxi jhmq ptok qb qzh keqozhm.
+9 Rzel tsqhxmbbm Utxi ybnha qb qzh vtxk.
+10 Mzhxh jtl Utxi phsbxh qzh vtxk? 	oemhyt	9 4
+11 Rzel ybxmemr Zeuu jhmq ptok qb qzh vtxk.
+12 Rzel tsqhxmbbm Txha jhmq ptok qb qzh keqozhm.
+13 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	12 6
+14 Rzel hnhmemr Txha ybnha qb qzh phaxbby.
+15 Hdueh ybnha qb qzh lozbbu qzel ybxmemr.
+16 Mzhxh jtl Txha phsbxh qzh keqozhm? 	oemhyt	12 6
+17 Rzel hnhmemr Hdueh jhmq ptok qb qzh oemhyt.
+18 Hdueh cbdxmhiha qb qzh keqozhm qzel tsqhxmbbm.
+19 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	15 5
+1 Rzel ybxmemr Txha qxtnhuuha qb qzh lozbbu.
+2 Vhlqhxati Txha jhmq qb qzh vtxk.
+3 Mzhxh jtl Txha phsbxh qzh lozbbu? 	vtxk	1 2
+4 Txha ybnha qb qzh bsseoh qzel tsqhxmbbm.
+5 Vhlqhxati Hdueh ybnha qb qzh oemhyt.
+6 Mzhxh jtl Txha phsbxh qzh bsseoh? 	lozbbu	4 1
+7 Rzel ybxmemr Zeuu qxtnhuuha qb qzh vtxk.
+8 Vhlqhxati Zeuu jhmq ptok qb qzh bsseoh.
+9 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	bsseoh	7 8
+10 Utxi jhmq qb qzh vtxk qzel ybxmemr.
+11 Utxi jhmq qb qzh phaxbby ihlqhxati.
+12 Mzhxh jtl Utxi phsbxh qzh vtxk? 	phaxbby	10 11
+13 Rzel ybxmemr Hdueh ybnha qb qzh keqozhm.
+14 Rzel tsqhxmbbm Zeuu cbdxmhiha qb qzh oemhyt.
+15 Mzhxh jtl Zeuu phsbxh qzh oemhyt? 	vtxk	14 7
+1 Vhlqhxati Zeuu qxtnhuuha qb qzh phaxbby.
+2 Hdueh jhmq ptok qb qzh lozbbu ihlqhxati.
+3 Rzel ybxmemr Txha ybnha qb qzh vtxk.
+4 Txha cbdxmhiha qb qzh lozbbu ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh vtxk? 	lozbbu	3 4
+6 Hdueh qxtnhuuha qb qzh bsseoh qzel tsqhxmbbm.
+7 Rzel ybxmemr Hdueh ybnha qb qzh vtxk.
+8 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	lozbbu	7 2
+9 Utxi qxtnhuuha qb qzh oemhyt ihlqhxati.
+10 Txha qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+11 Mzhxh jtl Txha phsbxh qzh vtxk? 	lozbbu	3 4
+12 Txha ybnha qb qzh lozbbu qzel hnhmemr.
+13 Utxi cbdxmhiha qb qzh keqozhm qzel ybxmemr.
+14 Mzhxh jtl Txha phsbxh qzh lozbbu? 	phaxbby	12 10
+15 Rzel hnhmemr Hdueh qxtnhuuha qb qzh oemhyt.
+16 Zeuu jhmq ptok qb qzh lozbbu qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh lozbbu? 	phaxbby	16 1
+1 Utxi cbdxmhiha qb qzh oemhyt qzel ybxmemr.
+2 Hdueh jhmq qb qzh vtxk qzel ybxmemr.
+3 Vhlqhxati Zeuu qxtnhuuha qb qzh phaxbby.
+4 Hdueh ybnha qb qzh phaxbby ihlqhxati.
+5 Txha cbdxmhiha qb qzh vtxk ihlqhxati.
+6 Utxi qxtnhuuha qb qzh phaxbby ihlqhxati.
+7 Mzhxh jtl Utxi phsbxh qzh oemhyt? 	phaxbby	1 6
+8 Rzel ybxmemr Txha ybnha qb qzh oemhyt.
+9 Rzel ybxmemr Zeuu jhmq ptok qb qzh vtxk.
+10 Mzhxh jtl Hdueh phsbxh qzh vtxk? 	phaxbby	2 4
+11 Zeuu cbdxmhiha qb qzh bsseoh qzel tsqhxmbbm.
+12 Rzel tsqhxmbbm Hdueh qxtnhuuha qb qzh lozbbu.
+13 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	8 5
+14 Rzel hnhmemr Utxi jhmq ptok qb qzh bsseoh.
+15 Utxi qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+16 Mzhxh jtl Txha phsbxh qzh oemhyt? 	vtxk	8 5
+17 Rzel hnhmemr Hdueh jhmq qb qzh vtxk.
+18 Rzel hnhmemr Zeuu jhmq qb qzh vtxk.
+19 Mzhxh jtl Zeuu phsbxh qzh bsseoh? 	vtxk	11 9
+1 Vhlqhxati Zeuu jhmq qb qzh lozbbu.
+2 Utxi jhmq qb qzh oemhyt ihlqhxati.
+3 Rzel ybxmemr Hdueh jhmq ptok qb qzh keqozhm.
+4 Vhlqhxati Hdueh jhmq qb qzh bsseoh.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	bsseoh	3 4
+6 Rzel tsqhxmbbm Hdueh ybnha qb qzh oemhyt.
+7 Rzel ybxmemr Zeuu qxtnhuuha qb qzh keqozhm.
+8 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	7 1
+9 Zeuu qxtnhuuha qb qzh phaxbby qzel tsqhxmbbm.
+10 Vhlqhxati Txha ybnha qb qzh phaxbby.
+11 Mzhxh jtl Zeuu phsbxh qzh keqozhm? 	lozbbu	7 1
+12 Hdueh qxtnhuuha qb qzh lozbbu qzel hnhmemr.
+13 Rzel hnhmemr Zeuu cbdxmhiha qb qzh vtxk.
+14 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	13 9
+15 Utxi jhmq qb qzh bsseoh qzel ybxmemr.
+16 Rzel ybxmemr Txha qxtnhuuha qb qzh oemhyt.
+17 Mzhxh jtl Hdueh phsbxh qzh lozbbu? 	oemhyt	12 6
+1 Utxi jhmq ptok qb qzh keqozhm qzel ybxmemr.
+2 Vhlqhxati Utxi jhmq qb qzh vtxk.
+3 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	1 2
+4 Vhlqhxati Txha jhmq ptok qb qzh keqozhm.
+5 Rzel tsqhxmbbm Utxi cbdxmhiha qb qzh lozbbu.
+6 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	1 2
+7 Zeuu qxtnhuuha qb qzh keqozhm qzel ybxmemr.
+8 Vhlqhxati Zeuu jhmq qb qzh vtxk.
+9 Mzhxh jtl Utxi phsbxh qzh keqozhm? 	vtxk	1 2
+10 Utxi ybnha qb qzh vtxk qzel hnhmemr.
+11 Rzel ybxmemr Txha cbdxmhiha qb qzh oemhyt.
+12 Mzhxh jtl Utxi phsbxh qzh vtxk? 	lozbbu	10 5
+13 Rzel tsqhxmbbm Zeuu qxtnhuuha qb qzh phaxbby.
+14 Rzel tsqhxmbbm Txha jhmq qb qzh keqozhm.
+15 Mzhxh jtl Zeuu phsbxh qzh phaxbby? 	keqozhm	13 7
+1 Txha ybnha qb qzh phaxbby qzel ybxmemr.
+2 Txha jhmq qb qzh vtxk ihlqhxati.
+3 Vhlqhxati Hdueh ybnha qb qzh oemhyt.
+4 Hdueh ybnha qb qzh keqozhm qzel ybxmemr.
+5 Mzhxh jtl Hdueh phsbxh qzh keqozhm? 	oemhyt	4 3
+6 Rzel hnhmemr Txha ybnha qb qzh bsseoh.
+7 Rzel tsqhxmbbm Txha cbdxmhiha qb qzh vtxk.
+8 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	1 2
+9 Vhlqhxati Zeuu jhmq ptok qb qzh phaxbby.
+10 Utxi jhmq ptok qb qzh keqozhm ihlqhxati.
+11 Mzhxh jtl Txha phsbxh qzh bsseoh? 	vtxk	6 7
+12 Utxi jhmq qb qzh bsseoh qzel ybxmemr.
+13 Rzel ybxmemr Zeuu ybnha qb qzh vtxk.
+14 Mzhxh jtl Utxi phsbxh qzh bsseoh? 	keqozhm	12 10
+15 Rzel tsqhxmbbm Hdueh jhmq ptok qb qzh oemhyt.
+16 Utxi ybnha qb qzh phaxbby qzel tsqhxmbbm.
+17 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	13 9
+1 Vhlqhxati Utxi qxtnhuuha qb qzh keqozhm.
+2 Txha jhmq qb qzh vtxk ihlqhxati.
+3 Rzel ybxmemr Txha cbdxmhiha qb qzh phaxbby.
+4 Zeuu jhmq ptok qb qzh phaxbby ihlqhxati.
+5 Mzhxh jtl Txha phsbxh qzh phaxbby? 	vtxk	3 2
+6 Rzel tsqhxmbbm Txha ybnha qb qzh keqozhm.
+7 Rzel ybxmemr Utxi qxtnhuuha qb qzh vtxk.
+8 Mzhxh jtl Utxi phsbxh qzh vtxk? 	keqozhm	7 1
+9 Hdueh qxtnhuuha qb qzh phaxbby qzel ybxmemr.
+10 Vhlqhxati Hdueh jhmq ptok qb qzh keqozhm.
+11 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	9 10
+12 Rzel hnhmemr Hdueh qxtnhuuha qb qzh bsseoh.
+13 Hdueh ybnha qb qzh keqozhm qzel tsqhxmbbm.
+14 Mzhxh jtl Hdueh phsbxh qzh phaxbby? 	keqozhm	9 10
+15 Rzel hnhmemr Txha cbdxmhiha qb qzh lozbbu.
+16 Zeuu jhmq qb qzh vtxk qzel ybxmemr.
+17 Mzhxh jtl Zeuu phsbxh qzh vtxk? 	phaxbby	16 4

@@ -1,0 +1,3000 @@
+1 Fred is either in the school or the park.
+2 Mary went back to the office.
+3 Is Mary in the office? 	yes	2
+4 Bill is either in the kitchen or the park.
+5 Fred moved to the cinema.
+6 Is Fred in the park? 	no	5
+7 Fred is in the office.
+8 Bill moved to the cinema.
+9 Is Bill in the cinema? 	yes	8
+10 Bill is in the park.
+11 Bill is either in the office or the kitchen.
+12 Is Bill in the office? 	maybe	11
+13 Bill is either in the cinema or the park.
+14 Mary moved to the park.
+15 Is Bill in the park? 	maybe	13
+1 Mary travelled to the kitchen.
+2 Fred is in the school.
+3 Is Mary in the school? 	no	1
+4 Fred went back to the office.
+5 Julie is either in the park or the office.
+6 Is Mary in the cinema? 	no	1
+7 Fred is either in the school or the bedroom.
+8 Julie journeyed to the bedroom.
+9 Is Fred in the school? 	maybe	7
+10 Fred went to the kitchen.
+11 Fred travelled to the cinema.
+12 Is Fred in the cinema? 	yes	11
+13 Bill is in the cinema.
+14 Bill travelled to the bedroom.
+15 Is Bill in the bedroom? 	yes	14
+1 Mary is either in the kitchen or the bedroom.
+2 Mary journeyed to the office.
+3 Is Mary in the kitchen? 	no	2
+4 Julie is in the bedroom.
+5 Julie journeyed to the office.
+6 Is Julie in the kitchen? 	no	5
+7 Julie is in the park.
+8 Mary moved to the park.
+9 Is Mary in the park? 	yes	8
+10 Bill went back to the kitchen.
+11 Bill journeyed to the park.
+12 Is Julie in the park? 	yes	7
+13 Julie went to the school.
+14 Fred travelled to the office.
+15 Is Bill in the bedroom? 	no	11
+1 Bill is in the cinema.
+2 Bill is in the park.
+3 Is Bill in the school? 	no	2
+4 Julie is either in the park or the kitchen.
+5 Julie is in the bedroom.
+6 Is Bill in the park? 	yes	2
+7 Bill went back to the office.
+8 Fred is either in the kitchen or the kitchen.
+9 Is Julie in the school? 	no	5
+10 Bill is either in the park or the kitchen.
+11 Bill moved to the office.
+12 Is Bill in the office? 	yes	11
+13 Julie is in the school.
+14 Julie is either in the kitchen or the school.
+15 Is Bill in the school? 	no	11
+1 Mary went to the kitchen.
+2 Mary is in the office.
+3 Is Mary in the park? 	no	2
+4 Fred is either in the cinema or the bedroom.
+5 Bill went to the office.
+6 Is Mary in the kitchen? 	no	2
+7 Bill is either in the kitchen or the cinema.
+8 Bill is either in the school or the school.
+9 Is Bill in the cinema? 	no	8
+10 Bill went to the park.
+11 Fred is in the school.
+12 Is Bill in the park? 	yes	10
+13 Mary is in the bedroom.
+14 Mary went to the kitchen.
+15 Is Bill in the park? 	yes	10
+1 Julie is either in the park or the office.
+2 Fred is either in the cinema or the kitchen.
+3 Is Julie in the park? 	maybe	1
+4 Mary is in the school.
+5 Fred journeyed to the cinema.
+6 Is Julie in the school? 	no	1
+7 Fred is either in the park or the park.
+8 Fred travelled to the bedroom.
+9 Is Fred in the bedroom? 	yes	8
+10 Fred moved to the office.
+11 Fred went to the park.
+12 Is Fred in the cinema? 	no	11
+13 Bill went back to the school.
+14 Bill journeyed to the park.
+15 Is Fred in the school? 	no	11
+1 Fred journeyed to the park.
+2 Bill moved to the school.
+3 Is Fred in the school? 	no	1
+4 Bill went to the cinema.
+5 Mary is either in the cinema or the park.
+6 Is Bill in the kitchen? 	no	4
+7 Fred is in the kitchen.
+8 Fred went to the office.
+9 Is Bill in the cinema? 	yes	4
+10 Fred is either in the kitchen or the office.
+11 Bill is in the office.
+12 Is Bill in the bedroom? 	no	11
+13 Fred is in the school.
+14 Mary journeyed to the office.
+15 Is Bill in the office? 	yes	11
+1 Julie went to the kitchen.
+2 Julie moved to the school.
+3 Is Julie in the school? 	yes	2
+4 Julie is either in the office or the kitchen.
+5 Julie went to the park.
+6 Is Julie in the kitchen? 	no	5
+7 Mary is in the office.
+8 Julie travelled to the kitchen.
+9 Is Julie in the kitchen? 	yes	8
+10 Julie is either in the cinema or the bedroom.
+11 Bill is either in the office or the office.
+12 Is Bill in the bedroom? 	no	11
+13 Fred is either in the school or the school.
+14 Bill travelled to the kitchen.
+15 Is Julie in the bedroom? 	maybe	10
+1 Bill is either in the office or the bedroom.
+2 Julie is in the cinema.
+3 Is Julie in the bedroom? 	no	2
+4 Bill journeyed to the school.
+5 Mary journeyed to the bedroom.
+6 Is Mary in the bedroom? 	yes	5
+7 Julie is either in the cinema or the park.
+8 Mary is in the cinema.
+9 Is Mary in the cinema? 	yes	8
+10 Bill travelled to the cinema.
+11 Fred is in the kitchen.
+12 Is Julie in the park? 	maybe	7
+13 Mary went to the kitchen.
+14 Bill went to the office.
+15 Is Mary in the kitchen? 	yes	13
+1 Julie travelled to the kitchen.
+2 Fred went to the kitchen.
+3 Is Fred in the cinema? 	no	2
+4 Fred went back to the school.
+5 Julie moved to the cinema.
+6 Is Fred in the park? 	no	4
+7 Mary is in the office.
+8 Mary is in the cinema.
+9 Is Mary in the school? 	no	8
+10 Fred journeyed to the kitchen.
+11 Bill is either in the cinema or the park.
+12 Is Fred in the cinema? 	no	10
+13 Fred journeyed to the office.
+14 Mary went to the school.
+15 Is Mary in the office? 	no	14
+1 Julie travelled to the kitchen.
+2 Bill is either in the school or the office.
+3 Is Bill in the office? 	maybe	2
+4 Bill went back to the bedroom.
+5 Bill travelled to the kitchen.
+6 Is Bill in the kitchen? 	yes	5
+7 Fred is in the office.
+8 Fred went to the school.
+9 Is Bill in the park? 	no	5
+10 Mary is in the kitchen.
+11 Julie journeyed to the office.
+12 Is Bill in the park? 	no	5
+13 Mary is either in the school or the cinema.
+14 Mary is either in the school or the bedroom.
+15 Is Mary in the bedroom? 	maybe	14
+1 Fred is either in the school or the park.
+2 Bill is in the office.
+3 Is Bill in the office? 	yes	2
+4 Fred is either in the bedroom or the office.
+5 Bill went to the bedroom.
+6 Is Bill in the bedroom? 	yes	5
+7 Bill moved to the school.
+8 Fred went back to the school.
+9 Is Bill in the cinema? 	no	7
+10 Fred is in the cinema.
+11 Fred travelled to the office.
+12 Is Bill in the school? 	yes	7
+13 Mary is either in the school or the bedroom.
+14 Julie is either in the school or the bedroom.
+15 Is Julie in the school? 	maybe	14
+1 Julie is in the school.
+2 Fred is either in the kitchen or the bedroom.
+3 Is Fred in the office? 	no	2
+4 Mary is either in the school or the office.
+5 Bill is either in the park or the office.
+6 Is Fred in the bedroom? 	maybe	2
+7 Julie travelled to the cinema.
+8 Mary is in the cinema.
+9 Is Bill in the park? 	maybe	5
+10 Julie is in the bedroom.
+11 Mary moved to the kitchen.
+12 Is Julie in the cinema? 	no	10
+13 Julie is in the office.
+14 Julie is in the school.
+15 Is Mary in the cinema? 	no	11
+1 Julie is in the cinema.
+2 Fred is in the bedroom.
+3 Is Julie in the park? 	no	1
+4 Julie travelled to the bedroom.
+5 Bill is either in the office or the school.
+6 Is Bill in the office? 	maybe	5
+7 Mary is either in the school or the school.
+8 Mary journeyed to the bedroom.
+9 Is Fred in the bedroom? 	yes	2
+10 Bill moved to the park.
+11 Julie is either in the park or the office.
+12 Is Julie in the office? 	maybe	11
+13 Bill went to the office.
+14 Julie is in the bedroom.
+15 Is Bill in the office? 	yes	13
+1 Mary is either in the park or the school.
+2 Julie is in the office.
+3 Is Julie in the bedroom? 	no	2
+4 Fred went back to the cinema.
+5 Bill is either in the office or the school.
+6 Is Bill in the office? 	maybe	5
+7 Bill is in the cinema.
+8 Mary is in the office.
+9 Is Fred in the school? 	no	4
+10 Fred moved to the park.
+11 Julie travelled to the kitchen.
+12 Is Mary in the office? 	yes	8
+13 Bill is in the office.
+14 Bill is in the cinema.
+15 Is Fred in the cinema? 	no	10
+1 Bill is either in the park or the park.
+2 Mary journeyed to the office.
+3 Is Mary in the office? 	yes	2
+4 Fred is in the kitchen.
+5 Fred is in the park.
+6 Is Fred in the park? 	yes	5
+7 Fred is either in the kitchen or the cinema.
+8 Bill is in the bedroom.
+9 Is Fred in the office? 	no	7
+10 Mary is in the park.
+11 Julie travelled to the park.
+12 Is Fred in the school? 	no	7
+13 Julie is in the bedroom.
+14 Bill is in the park.
+15 Is Julie in the park? 	no	13
+1 Fred travelled to the office.
+2 Julie is either in the kitchen or the park.
+3 Is Julie in the kitchen? 	maybe	2
+4 Mary is either in the office or the bedroom.
+5 Bill journeyed to the school.
+6 Is Fred in the bedroom? 	no	1
+7 Julie travelled to the park.
+8 Bill travelled to the park.
+9 Is Julie in the park? 	yes	7
+10 Bill travelled to the kitchen.
+11 Mary moved to the kitchen.
+12 Is Mary in the bedroom? 	no	11
+13 Bill is in the park.
+14 Julie is in the kitchen.
+15 Is Julie in the office? 	no	14
+1 Bill went back to the bedroom.
+2 Bill is either in the kitchen or the school.
+3 Is Bill in the school? 	maybe	2
+4 Mary journeyed to the kitchen.
+5 Bill is in the park.
+6 Is Bill in the park? 	yes	5
+7 Bill is in the office.
+8 Julie is in the park.
+9 Is Bill in the school? 	no	7
+10 Julie travelled to the kitchen.
+11 Fred is in the bedroom.
+12 Is Bill in the cinema? 	no	7
+13 Mary is either in the office or the cinema.
+14 Julie is in the park.
+15 Is Julie in the office? 	no	14
+1 Bill went back to the school.
+2 Fred is either in the kitchen or the cinema.
+3 Is Bill in the park? 	no	1
+4 Bill is either in the cinema or the bedroom.
+5 Bill travelled to the kitchen.
+6 Is Bill in the bedroom? 	no	5
+7 Julie journeyed to the cinema.
+8 Julie went back to the bedroom.
+9 Is Julie in the bedroom? 	yes	8
+10 Mary went to the kitchen.
+11 Julie journeyed to the park.
+12 Is Julie in the park? 	yes	11
+13 Bill journeyed to the office.
+14 Fred went to the bedroom.
+15 Is Mary in the kitchen? 	yes	10
+1 Julie moved to the park.
+2 Mary moved to the kitchen.
+3 Is Mary in the kitchen? 	yes	2
+4 Julie is either in the bedroom or the school.
+5 Fred journeyed to the bedroom.
+6 Is Julie in the bedroom? 	maybe	4
+7 Julie is either in the school or the office.
+8 Fred is either in the school or the park.
+9 Is Mary in the office? 	no	2
+10 Mary went back to the bedroom.
+11 Mary went back to the kitchen.
+12 Is Julie in the bedroom? 	no	7
+13 Fred journeyed to the office.
+14 Bill is either in the park or the bedroom.
+15 Is Mary in the school? 	no	11
+1 Fred moved to the park.
+2 Fred moved to the kitchen.
+3 Is Fred in the office? 	no	2
+4 Mary journeyed to the school.
+5 Fred went back to the park.
+6 Is Fred in the park? 	yes	5
+7 Julie is in the office.
+8 Fred is in the cinema.
+9 Is Fred in the cinema? 	yes	8
+10 Mary went back to the kitchen.
+11 Bill is either in the office or the kitchen.
+12 Is Fred in the cinema? 	yes	8
+13 Julie is in the school.
+14 Fred journeyed to the bedroom.
+15 Is Julie in the office? 	no	13
+1 Julie is in the office.
+2 Julie went to the park.
+3 Is Julie in the park? 	yes	2
+4 Mary travelled to the bedroom.
+5 Bill went to the office.
+6 Is Mary in the school? 	no	4
+7 Fred travelled to the park.
+8 Bill went back to the school.
+9 Is Mary in the bedroom? 	yes	4
+10 Mary went to the office.
+11 Julie went to the cinema.
+12 Is Fred in the kitchen? 	no	7
+13 Bill travelled to the park.
+14 Mary journeyed to the kitchen.
+15 Is Bill in the park? 	yes	13
+1 Fred went to the cinema.
+2 Fred travelled to the office.
+3 Is Fred in the office? 	yes	2
+4 Mary is either in the kitchen or the cinema.
+5 Mary went back to the office.
+6 Is Mary in the office? 	yes	5
+7 Bill is in the park.
+8 Fred is in the park.
+9 Is Bill in the office? 	no	7
+10 Julie went back to the office.
+11 Julie is in the cinema.
+12 Is Fred in the office? 	no	8
+13 Julie is in the bedroom.
+14 Fred journeyed to the office.
+15 Is Julie in the bedroom? 	yes	13
+1 Mary went to the school.
+2 Mary journeyed to the office.
+3 Is Mary in the office? 	yes	2
+4 Bill journeyed to the bedroom.
+5 Fred is either in the cinema or the office.
+6 Is Mary in the office? 	yes	2
+7 Mary went back to the park.
+8 Mary is either in the kitchen or the office.
+9 Is Mary in the kitchen? 	maybe	8
+10 Julie moved to the office.
+11 Julie is in the park.
+12 Is Julie in the kitchen? 	no	11
+13 Mary is either in the bedroom or the school.
+14 Fred travelled to the park.
+15 Is Fred in the park? 	yes	14
+1 Julie is in the school.
+2 Mary travelled to the bedroom.
+3 Is Julie in the bedroom? 	no	1
+4 Fred is in the park.
+5 Bill is in the cinema.
+6 Is Fred in the school? 	no	4
+7 Mary went back to the park.
+8 Fred journeyed to the kitchen.
+9 Is Fred in the office? 	no	8
+10 Mary is in the cinema.
+11 Bill travelled to the bedroom.
+12 Is Bill in the bedroom? 	yes	11
+13 Fred travelled to the bedroom.
+14 Julie went back to the bedroom.
+15 Is Fred in the bedroom? 	yes	13
+1 Julie journeyed to the kitchen.
+2 Mary is in the bedroom.
+3 Is Julie in the kitchen? 	yes	1
+4 Mary went to the office.
+5 Mary travelled to the cinema.
+6 Is Mary in the cinema? 	yes	5
+7 Bill went to the school.
+8 Bill travelled to the park.
+9 Is Mary in the bedroom? 	no	5
+10 Julie journeyed to the bedroom.
+11 Mary travelled to the office.
+12 Is Bill in the park? 	yes	8
+13 Julie is in the school.
+14 Julie is either in the bedroom or the park.
+15 Is Julie in the bedroom? 	maybe	14
+1 Fred journeyed to the cinema.
+2 Bill is in the kitchen.
+3 Is Bill in the kitchen? 	yes	2
+4 Mary is either in the cinema or the kitchen.
+5 Fred moved to the park.
+6 Is Fred in the kitchen? 	no	5
+7 Julie journeyed to the bedroom.
+8 Mary is in the office.
+9 Is Bill in the cinema? 	no	2
+10 Fred is either in the kitchen or the school.
+11 Mary went back to the park.
+12 Is Mary in the park? 	yes	11
+13 Bill is in the office.
+14 Julie is in the office.
+15 Is Bill in the office? 	yes	13
+1 Mary journeyed to the school.
+2 Mary is in the park.
+3 Is Mary in the park? 	yes	2
+4 Mary is in the school.
+5 Mary journeyed to the cinema.
+6 Is Mary in the cinema? 	yes	5
+7 Mary journeyed to the park.
+8 Fred moved to the bedroom.
+9 Is Mary in the kitchen? 	no	7
+10 Bill is either in the kitchen or the cinema.
+11 Mary is in the bedroom.
+12 Is Bill in the office? 	no	10
+13 Fred journeyed to the park.
+14 Julie journeyed to the cinema.
+15 Is Bill in the cinema? 	maybe	10
+1 Julie journeyed to the kitchen.
+2 Bill is either in the park or the park.
+3 Is Julie in the kitchen? 	yes	1
+4 Mary moved to the bedroom.
+5 Mary travelled to the park.
+6 Is Julie in the kitchen? 	yes	1
+7 Julie went to the cinema.
+8 Bill journeyed to the bedroom.
+9 Is Mary in the office? 	no	5
+10 Bill went to the cinema.
+11 Bill travelled to the kitchen.
+12 Is Julie in the school? 	no	7
+13 Mary went back to the office.
+14 Julie moved to the park.
+15 Is Mary in the school? 	no	13
+1 Julie is either in the kitchen or the kitchen.
+2 Bill is in the office.
+3 Is Bill in the office? 	yes	2
+4 Mary travelled to the cinema.
+5 Julie is in the school.
+6 Is Julie in the bedroom? 	no	5
+7 Fred moved to the kitchen.
+8 Mary is in the kitchen.
+9 Is Fred in the bedroom? 	no	7
+10 Fred moved to the bedroom.
+11 Fred went to the park.
+12 Is Mary in the kitchen? 	yes	8
+13 Bill journeyed to the bedroom.
+14 Mary went back to the park.
+15 Is Fred in the park? 	yes	11
+1 Fred moved to the bedroom.
+2 Mary went back to the bedroom.
+3 Is Fred in the cinema? 	no	1
+4 Mary is in the cinema.
+5 Julie is in the office.
+6 Is Mary in the cinema? 	yes	4
+7 Fred went back to the school.
+8 Bill went back to the school.
+9 Is Bill in the kitchen? 	no	8
+10 Mary travelled to the office.
+11 Fred went back to the park.
+12 Is Fred in the school? 	no	11
+13 Fred is in the cinema.
+14 Mary is in the park.
+15 Is Mary in the office? 	no	14
+1 Bill is either in the school or the park.
+2 Julie is either in the bedroom or the bedroom.
+3 Is Julie in the cinema? 	no	2
+4 Julie went to the school.
+5 Mary travelled to the office.
+6 Is Mary in the cinema? 	no	5
+7 Julie is either in the cinema or the park.
+8 Mary travelled to the school.
+9 Is Mary in the school? 	yes	8
+10 Bill is in the office.
+11 Julie is either in the school or the school.
+12 Is Mary in the school? 	yes	8
+13 Bill travelled to the park.
+14 Bill is in the office.
+15 Is Bill in the office? 	yes	14
+1 Fred is in the cinema.
+2 Julie is either in the park or the park.
+3 Is Fred in the kitchen? 	no	1
+4 Fred went back to the park.
+5 Bill travelled to the cinema.
+6 Is Fred in the bedroom? 	no	4
+7 Bill is in the school.
+8 Julie is either in the kitchen or the bedroom.
+9 Is Julie in the cinema? 	no	8
+10 Bill travelled to the kitchen.
+11 Julie is either in the park or the park.
+12 Is Bill in the school? 	no	10
+13 Mary is in the kitchen.
+14 Bill went to the bedroom.
+15 Is Mary in the kitchen? 	yes	13
+1 Bill is in the cinema.
+2 Fred is either in the cinema or the school.
+3 Is Fred in the cinema? 	maybe	2
+4 Julie travelled to the school.
+5 Bill went back to the park.
+6 Is Bill in the park? 	yes	5
+7 Fred moved to the kitchen.
+8 Mary moved to the school.
+9 Is Fred in the bedroom? 	no	7
+10 Julie is either in the park or the park.
+11 Fred is either in the park or the office.
+12 Is Mary in the bedroom? 	no	8
+13 Julie is in the school.
+14 Mary went to the bedroom.
+15 Is Julie in the kitchen? 	no	13
+1 Fred is either in the cinema or the school.
+2 Julie is either in the bedroom or the bedroom.
+3 Is Julie in the office? 	no	2
+4 Fred is either in the park or the park.
+5 Julie went back to the park.
+6 Is Fred in the school? 	no	4
+7 Mary is either in the school or the cinema.
+8 Bill is either in the park or the bedroom.
+9 Is Bill in the cinema? 	no	8
+10 Fred is in the bedroom.
+11 Julie went back to the kitchen.
+12 Is Bill in the office? 	no	8
+13 Fred is either in the office or the office.
+14 Bill travelled to the bedroom.
+15 Is Fred in the office? 	maybe	13
+1 Bill moved to the school.
+2 Julie went to the cinema.
+3 Is Bill in the school? 	yes	1
+4 Fred went to the bedroom.
+5 Fred is either in the office or the office.
+6 Is Bill in the school? 	yes	1
+7 Julie is in the office.
+8 Fred went back to the kitchen.
+9 Is Fred in the kitchen? 	yes	8
+10 Mary journeyed to the bedroom.
+11 Julie journeyed to the school.
+12 Is Mary in the bedroom? 	yes	10
+13 Mary moved to the park.
+14 Fred is either in the cinema or the kitchen.
+15 Is Fred in the cinema? 	maybe	14
+1 Julie went back to the bedroom.
+2 Julie moved to the kitchen.
+3 Is Julie in the kitchen? 	yes	2
+4 Bill journeyed to the office.
+5 Mary is in the school.
+6 Is Julie in the kitchen? 	yes	2
+7 Julie is either in the school or the office.
+8 Julie journeyed to the kitchen.
+9 Is Julie in the kitchen? 	yes	8
+10 Fred is either in the park or the kitchen.
+11 Fred travelled to the bedroom.
+12 Is Julie in the school? 	no	8
+13 Julie is either in the office or the cinema.
+14 Fred went back to the kitchen.
+15 Is Julie in the office? 	maybe	13
+1 Julie is either in the bedroom or the office.
+2 Mary is in the park.
+3 Is Mary in the bedroom? 	no	2
+4 Mary is in the bedroom.
+5 Mary is either in the kitchen or the park.
+6 Is Mary in the kitchen? 	maybe	5
+7 Mary is in the park.
+8 Bill is in the cinema.
+9 Is Mary in the park? 	yes	7
+10 Mary went back to the office.
+11 Fred is in the park.
+12 Is Bill in the cinema? 	yes	8
+13 Fred is either in the school or the cinema.
+14 Bill is in the park.
+15 Is Mary in the office? 	yes	10
+1 Julie is in the school.
+2 Bill journeyed to the park.
+3 Is Julie in the school? 	yes	1
+4 Mary travelled to the school.
+5 Fred journeyed to the office.
+6 Is Mary in the office? 	no	4
+7 Fred went back to the cinema.
+8 Julie moved to the bedroom.
+9 Is Julie in the bedroom? 	yes	8
+10 Bill is in the cinema.
+11 Julie is either in the kitchen or the kitchen.
+12 Is Fred in the cinema? 	yes	7
+13 Mary is in the cinema.
+14 Fred journeyed to the park.
+15 Is Fred in the park? 	yes	14
+1 Mary is either in the cinema or the cinema.
+2 Bill is in the kitchen.
+3 Is Mary in the office? 	no	1
+4 Fred went back to the park.
+5 Bill journeyed to the cinema.
+6 Is Bill in the cinema? 	yes	5
+7 Fred is either in the kitchen or the kitchen.
+8 Bill is in the school.
+9 Is Bill in the school? 	yes	8
+10 Julie is in the cinema.
+11 Bill went back to the kitchen.
+12 Is Julie in the cinema? 	yes	10
+13 Mary journeyed to the park.
+14 Fred is either in the office or the park.
+15 Is Mary in the park? 	yes	13
+1 Julie is in the park.
+2 Fred went to the park.
+3 Is Julie in the kitchen? 	no	1
+4 Mary went to the kitchen.
+5 Mary went to the school.
+6 Is Fred in the park? 	yes	2
+7 Bill is either in the bedroom or the park.
+8 Fred journeyed to the kitchen.
+9 Is Mary in the bedroom? 	no	5
+10 Julie travelled to the cinema.
+11 Fred is either in the cinema or the park.
+12 Is Fred in the school? 	no	11
+13 Fred moved to the kitchen.
+14 Mary went to the park.
+15 Is Fred in the bedroom? 	no	13
+1 Mary moved to the school.
+2 Fred is either in the kitchen or the kitchen.
+3 Is Mary in the school? 	yes	1
+4 Fred is either in the bedroom or the cinema.
+5 Mary is either in the office or the school.
+6 Is Mary in the office? 	maybe	5
+7 Julie is in the kitchen.
+8 Mary moved to the park.
+9 Is Julie in the office? 	no	7
+10 Fred is either in the bedroom or the bedroom.
+11 Bill went back to the kitchen.
+12 Is Julie in the kitchen? 	yes	7
+13 Fred went back to the park.
+14 Julie is in the cinema.
+15 Is Mary in the park? 	yes	8
+1 Mary went back to the office.
+2 Julie is either in the school or the office.
+3 Is Julie in the kitchen? 	no	2
+4 Mary moved to the cinema.
+5 Julie is either in the school or the kitchen.
+6 Is Mary in the kitchen? 	no	4
+7 Julie went to the office.
+8 Mary is in the park.
+9 Is Julie in the office? 	yes	7
+10 Bill is either in the school or the park.
+11 Julie is in the kitchen.
+12 Is Mary in the park? 	yes	8
+13 Julie moved to the school.
+14 Fred journeyed to the bedroom.
+15 Is Julie in the school? 	yes	13
+1 Julie is in the office.
+2 Bill is in the office.
+3 Is Julie in the office? 	yes	1
+4 Mary is in the office.
+5 Mary travelled to the cinema.
+6 Is Julie in the office? 	yes	1
+7 Fred is in the bedroom.
+8 Mary went to the kitchen.
+9 Is Fred in the cinema? 	no	7
+10 Julie is in the cinema.
+11 Fred is either in the office or the kitchen.
+12 Is Fred in the park? 	no	11
+13 Julie is either in the bedroom or the cinema.
+14 Bill is in the school.
+15 Is Bill in the office? 	no	14
+1 Mary moved to the office.
+2 Mary is either in the kitchen or the cinema.
+3 Is Mary in the kitchen? 	maybe	2
+4 Fred journeyed to the bedroom.
+5 Fred is either in the kitchen or the park.
+6 Is Fred in the park? 	maybe	5
+7 Fred is either in the office or the cinema.
+8 Mary is in the office.
+9 Is Mary in the school? 	no	8
+10 Mary is in the bedroom.
+11 Fred went to the kitchen.
+12 Is Mary in the bedroom? 	yes	10
+13 Fred is in the school.
+14 Mary moved to the park.
+15 Is Mary in the park? 	yes	14
+1 Julie moved to the park.
+2 Fred is in the cinema.
+3 Is Fred in the cinema? 	yes	2
+4 Bill went to the kitchen.
+5 Fred went back to the office.
+6 Is Bill in the office? 	no	4
+7 Mary is in the bedroom.
+8 Bill is in the park.
+9 Is Bill in the school? 	no	8
+10 Bill went to the office.
+11 Mary went to the park.
+12 Is Fred in the park? 	no	5
+13 Mary travelled to the cinema.
+14 Mary went back to the kitchen.
+15 Is Mary in the kitchen? 	yes	14
+1 Mary is either in the cinema or the school.
+2 Mary journeyed to the bedroom.
+3 Is Mary in the bedroom? 	yes	2
+4 Julie is either in the office or the cinema.
+5 Bill journeyed to the bedroom.
+6 Is Julie in the office? 	maybe	4
+7 Mary is either in the cinema or the cinema.
+8 Fred is in the office.
+9 Is Julie in the office? 	maybe	4
+10 Bill is in the office.
+11 Bill is either in the cinema or the park.
+12 Is Mary in the kitchen? 	no	7
+13 Fred is in the kitchen.
+14 Mary is in the bedroom.
+15 Is Mary in the bedroom? 	yes	14
+1 Mary is either in the bedroom or the school.
+2 Julie is in the park.
+3 Is Julie in the park? 	yes	2
+4 Mary moved to the school.
+5 Julie journeyed to the cinema.
+6 Is Mary in the bedroom? 	no	4
+7 Mary moved to the cinema.
+8 Fred is in the kitchen.
+9 Is Fred in the kitchen? 	yes	8
+10 Bill moved to the office.
+11 Fred moved to the cinema.
+12 Is Fred in the cinema? 	yes	11
+13 Julie travelled to the kitchen.
+14 Bill is in the bedroom.
+15 Is Bill in the office? 	no	14
+1 Fred is in the bedroom.
+2 Julie is in the kitchen.
+3 Is Fred in the school? 	no	1
+4 Mary went to the cinema.
+5 Mary travelled to the bedroom.
+6 Is Mary in the cinema? 	no	5
+7 Bill went to the office.
+8 Mary moved to the school.
+9 Is Mary in the school? 	yes	8
+10 Julie is either in the office or the bedroom.
+11 Mary travelled to the office.
+12 Is Mary in the office? 	yes	11
+13 Julie went to the kitchen.
+14 Fred is in the cinema.
+15 Is Fred in the school? 	no	14
+1 Fred is in the bedroom.
+2 Mary is in the school.
+3 Is Fred in the bedroom? 	yes	1
+4 Bill travelled to the office.
+5 Bill went back to the cinema.
+6 Is Fred in the school? 	no	1
+7 Mary is in the office.
+8 Fred is either in the office or the school.
+9 Is Mary in the bedroom? 	no	7
+10 Fred journeyed to the bedroom.
+11 Fred went back to the school.
+12 Is Bill in the kitchen? 	no	5
+13 Fred is either in the park or the park.
+14 Fred went to the office.
+15 Is Fred in the office? 	yes	14
+1 Fred went back to the school.
+2 Bill is in the bedroom.
+3 Is Fred in the school? 	yes	1
+4 Bill is either in the school or the park.
+5 Julie is either in the kitchen or the school.
+6 Is Bill in the park? 	maybe	4
+7 Bill is in the bedroom.
+8 Fred went back to the bedroom.
+9 Is Bill in the kitchen? 	no	7
+10 Bill moved to the park.
+11 Julie is in the office.
+12 Is Julie in the office? 	yes	11
+13 Fred is either in the office or the bedroom.
+14 Fred is in the park.
+15 Is Bill in the park? 	yes	10
+1 Julie is either in the bedroom or the school.
+2 Fred travelled to the kitchen.
+3 Is Fred in the kitchen? 	yes	2
+4 Julie is either in the school or the kitchen.
+5 Fred travelled to the bedroom.
+6 Is Fred in the bedroom? 	yes	5
+7 Fred moved to the school.
+8 Bill went back to the cinema.
+9 Is Fred in the school? 	yes	7
+10 Mary is either in the cinema or the cinema.
+11 Bill is in the bedroom.
+12 Is Fred in the bedroom? 	no	7
+13 Bill is either in the kitchen or the school.
+14 Bill went back to the office.
+15 Is Bill in the office? 	yes	14
+1 Mary travelled to the bedroom.
+2 Julie journeyed to the school.
+3 Is Julie in the school? 	yes	2
+4 Julie went back to the bedroom.
+5 Fred travelled to the park.
+6 Is Mary in the bedroom? 	yes	1
+7 Julie is in the kitchen.
+8 Bill journeyed to the bedroom.
+9 Is Fred in the school? 	no	5
+10 Bill went to the office.
+11 Bill moved to the cinema.
+12 Is Bill in the cinema? 	yes	11
+13 Bill is either in the kitchen or the kitchen.
+14 Fred went to the kitchen.
+15 Is Bill in the kitchen? 	maybe	13
+1 Bill is either in the bedroom or the bedroom.
+2 Mary is either in the park or the park.
+3 Is Bill in the cinema? 	no	1
+4 Julie is either in the bedroom or the cinema.
+5 Bill went back to the school.
+6 Is Julie in the office? 	no	4
+7 Julie is either in the bedroom or the kitchen.
+8 Bill journeyed to the bedroom.
+9 Is Bill in the bedroom? 	yes	8
+10 Bill is either in the cinema or the park.
+11 Julie is either in the office or the kitchen.
+12 Is Julie in the office? 	maybe	11
+13 Fred is in the bedroom.
+14 Fred went to the kitchen.
+15 Is Julie in the cinema? 	no	11
+1 Mary is in the school.
+2 Julie moved to the cinema.
+3 Is Julie in the cinema? 	yes	2
+4 Bill went back to the cinema.
+5 Mary moved to the office.
+6 Is Mary in the cinema? 	no	5
+7 Julie is either in the office or the office.
+8 Fred is in the cinema.
+9 Is Fred in the cinema? 	yes	8
+10 Julie is either in the bedroom or the park.
+11 Mary moved to the bedroom.
+12 Is Mary in the office? 	no	11
+13 Julie went to the kitchen.
+14 Fred is in the office.
+15 Is Fred in the office? 	yes	14
+1 Fred went back to the school.
+2 Julie went to the school.
+3 Is Julie in the school? 	yes	2
+4 Julie journeyed to the kitchen.
+5 Fred went back to the kitchen.
+6 Is Julie in the cinema? 	no	4
+7 Bill is in the school.
+8 Fred is in the bedroom.
+9 Is Fred in the bedroom? 	yes	8
+10 Mary journeyed to the bedroom.
+11 Bill went back to the bedroom.
+12 Is Mary in the cinema? 	no	10
+13 Mary is in the cinema.
+14 Fred is in the office.
+15 Is Fred in the office? 	yes	14
+1 Julie is in the bedroom.
+2 Julie went back to the cinema.
+3 Is Julie in the cinema? 	yes	2
+4 Mary travelled to the park.
+5 Bill journeyed to the school.
+6 Is Julie in the office? 	no	2
+7 Bill is either in the kitchen or the school.
+8 Fred is in the school.
+9 Is Julie in the kitchen? 	no	2
+10 Julie moved to the kitchen.
+11 Fred is in the office.
+12 Is Bill in the kitchen? 	maybe	7
+13 Julie is either in the bedroom or the park.
+14 Fred is in the kitchen.
+15 Is Fred in the park? 	no	14
+1 Julie went back to the kitchen.
+2 Bill is in the school.
+3 Is Bill in the cinema? 	no	2
+4 Fred is either in the cinema or the kitchen.
+5 Mary travelled to the kitchen.
+6 Is Julie in the office? 	no	1
+7 Mary is either in the park or the cinema.
+8 Julie journeyed to the bedroom.
+9 Is Mary in the park? 	maybe	7
+10 Fred is either in the office or the park.
+11 Fred is either in the cinema or the school.
+12 Is Fred in the cinema? 	maybe	11
+13 Bill moved to the office.
+14 Fred journeyed to the kitchen.
+15 Is Bill in the park? 	no	13
+1 Bill went back to the kitchen.
+2 Mary travelled to the school.
+3 Is Mary in the school? 	yes	2
+4 Bill is in the bedroom.
+5 Mary moved to the kitchen.
+6 Is Mary in the kitchen? 	yes	5
+7 Fred is in the park.
+8 Mary is either in the school or the bedroom.
+9 Is Fred in the park? 	yes	7
+10 Mary travelled to the school.
+11 Julie moved to the kitchen.
+12 Is Mary in the school? 	yes	10
+13 Julie is in the cinema.
+14 Mary is either in the cinema or the kitchen.
+15 Is Mary in the cinema? 	maybe	14
+1 Bill is either in the cinema or the bedroom.
+2 Bill is in the kitchen.
+3 Is Bill in the kitchen? 	yes	2
+4 Fred is in the bedroom.
+5 Mary went back to the office.
+6 Is Bill in the cinema? 	no	2
+7 Fred is either in the school or the office.
+8 Julie journeyed to the office.
+9 Is Bill in the school? 	no	2
+10 Bill went back to the office.
+11 Julie is either in the bedroom or the park.
+12 Is Bill in the park? 	no	10
+13 Mary is either in the park or the park.
+14 Mary travelled to the cinema.
+15 Is Julie in the bedroom? 	maybe	11
+1 Julie is either in the office or the school.
+2 Julie travelled to the kitchen.
+3 Is Julie in the kitchen? 	yes	2
+4 Fred is either in the cinema or the school.
+5 Julie went back to the bedroom.
+6 Is Julie in the bedroom? 	yes	5
+7 Julie moved to the cinema.
+8 Mary is either in the office or the bedroom.
+9 Is Julie in the school? 	no	7
+10 Bill went to the cinema.
+11 Julie is in the park.
+12 Is Julie in the park? 	yes	11
+13 Julie is in the office.
+14 Julie moved to the bedroom.
+15 Is Julie in the bedroom? 	yes	14
+1 Mary is either in the school or the cinema.
+2 Julie went to the school.
+3 Is Julie in the school? 	yes	2
+4 Fred is in the cinema.
+5 Mary is in the office.
+6 Is Fred in the kitchen? 	no	4
+7 Mary travelled to the cinema.
+8 Mary went to the kitchen.
+9 Is Mary in the school? 	no	8
+10 Julie moved to the kitchen.
+11 Bill travelled to the bedroom.
+12 Is Mary in the school? 	no	8
+13 Bill is in the kitchen.
+14 Fred moved to the school.
+15 Is Bill in the park? 	no	13
+1 Julie journeyed to the office.
+2 Mary is in the office.
+3 Is Mary in the kitchen? 	no	2
+4 Julie is in the cinema.
+5 Mary moved to the school.
+6 Is Mary in the office? 	no	5
+7 Fred went back to the school.
+8 Fred is in the park.
+9 Is Julie in the bedroom? 	no	4
+10 Julie is either in the office or the park.
+11 Mary is either in the cinema or the bedroom.
+12 Is Mary in the cinema? 	maybe	11
+13 Fred journeyed to the office.
+14 Julie moved to the park.
+15 Is Fred in the office? 	yes	13
+1 Fred is either in the bedroom or the park.
+2 Mary is in the park.
+3 Is Mary in the kitchen? 	no	2
+4 Bill is either in the school or the school.
+5 Julie is in the cinema.
+6 Is Mary in the park? 	yes	2
+7 Bill went to the office.
+8 Fred journeyed to the school.
+9 Is Bill in the cinema? 	no	7
+10 Mary travelled to the bedroom.
+11 Fred is either in the office or the school.
+12 Is Fred in the office? 	maybe	11
+13 Fred is in the bedroom.
+14 Mary is either in the cinema or the bedroom.
+15 Is Fred in the office? 	no	13
+1 Julie is either in the school or the kitchen.
+2 Julie is in the office.
+3 Is Julie in the office? 	yes	2
+4 Julie went back to the bedroom.
+5 Mary journeyed to the bedroom.
+6 Is Julie in the cinema? 	no	4
+7 Fred moved to the cinema.
+8 Fred is in the park.
+9 Is Julie in the bedroom? 	yes	4
+10 Mary moved to the cinema.
+11 Mary is in the bedroom.
+12 Is Mary in the bedroom? 	yes	11
+13 Fred went to the bedroom.
+14 Bill is in the cinema.
+15 Is Bill in the cinema? 	yes	14
+1 Julie moved to the kitchen.
+2 Mary journeyed to the park.
+3 Is Mary in the bedroom? 	no	2
+4 Bill is either in the kitchen or the bedroom.
+5 Julie moved to the office.
+6 Is Bill in the cinema? 	no	4
+7 Mary is in the school.
+8 Julie is in the kitchen.
+9 Is Mary in the office? 	no	7
+10 Fred is either in the cinema or the cinema.
+11 Julie moved to the cinema.
+12 Is Julie in the cinema? 	yes	11
+13 Julie is in the office.
+14 Fred went back to the school.
+15 Is Fred in the school? 	yes	14
+1 Fred went to the office.
+2 Bill moved to the office.
+3 Is Fred in the bedroom? 	no	1
+4 Fred is in the kitchen.
+5 Julie journeyed to the park.
+6 Is Fred in the cinema? 	no	4
+7 Fred is in the bedroom.
+8 Fred travelled to the office.
+9 Is Fred in the office? 	yes	8
+10 Bill went back to the bedroom.
+11 Bill is either in the kitchen or the cinema.
+12 Is Julie in the park? 	yes	5
+13 Mary went back to the park.
+14 Julie moved to the cinema.
+15 Is Julie in the cinema? 	yes	14
+1 Julie went back to the bedroom.
+2 Bill is either in the office or the kitchen.
+3 Is Bill in the park? 	no	2
+4 Mary is either in the kitchen or the school.
+5 Mary moved to the office.
+6 Is Mary in the kitchen? 	no	5
+7 Fred is either in the park or the cinema.
+8 Fred moved to the bedroom.
+9 Is Fred in the bedroom? 	yes	8
+10 Bill went to the bedroom.
+11 Mary is either in the park or the kitchen.
+12 Is Mary in the office? 	no	11
+13 Mary is in the school.
+14 Fred is in the kitchen.
+15 Is Fred in the school? 	no	14
+1 Bill went back to the office.
+2 Bill is in the cinema.
+3 Is Bill in the cinema? 	yes	2
+4 Fred is either in the kitchen or the bedroom.
+5 Fred journeyed to the school.
+6 Is Bill in the school? 	no	2
+7 Bill went to the kitchen.
+8 Mary is either in the office or the school.
+9 Is Bill in the kitchen? 	yes	7
+10 Mary moved to the kitchen.
+11 Mary went to the park.
+12 Is Bill in the park? 	no	7
+13 Fred is either in the bedroom or the office.
+14 Julie is in the bedroom.
+15 Is Julie in the bedroom? 	yes	14
+1 Fred is either in the school or the school.
+2 Julie travelled to the bedroom.
+3 Is Julie in the cinema? 	no	2
+4 Bill is in the school.
+5 Julie is in the office.
+6 Is Fred in the school? 	maybe	1
+7 Fred is either in the cinema or the bedroom.
+8 Julie is either in the bedroom or the bedroom.
+9 Is Fred in the cinema? 	maybe	7
+10 Mary went back to the school.
+11 Bill went to the park.
+12 Is Fred in the cinema? 	maybe	7
+13 Fred is either in the kitchen or the school.
+14 Julie is in the office.
+15 Is Bill in the bedroom? 	no	11
+1 Julie is in the kitchen.
+2 Bill is either in the cinema or the cinema.
+3 Is Julie in the kitchen? 	yes	1
+4 Mary moved to the kitchen.
+5 Bill journeyed to the kitchen.
+6 Is Bill in the school? 	no	5
+7 Mary journeyed to the office.
+8 Mary is in the park.
+9 Is Mary in the park? 	yes	8
+10 Bill travelled to the bedroom.
+11 Fred journeyed to the kitchen.
+12 Is Bill in the cinema? 	no	10
+13 Fred travelled to the park.
+14 Fred is either in the bedroom or the cinema.
+15 Is Fred in the bedroom? 	maybe	14
+1 Fred is in the park.
+2 Mary is either in the park or the office.
+3 Is Fred in the park? 	yes	1
+4 Bill is either in the park or the park.
+5 Mary moved to the kitchen.
+6 Is Mary in the kitchen? 	yes	5
+7 Julie is in the kitchen.
+8 Julie is in the park.
+9 Is Mary in the park? 	no	5
+10 Mary went back to the school.
+11 Bill is either in the cinema or the cinema.
+12 Is Julie in the cinema? 	no	8
+13 Mary is in the bedroom.
+14 Bill went to the park.
+15 Is Bill in the cinema? 	no	14
+1 Mary is in the park.
+2 Bill journeyed to the office.
+3 Is Bill in the park? 	no	2
+4 Fred moved to the cinema.
+5 Julie is in the park.
+6 Is Mary in the bedroom? 	no	1
+7 Julie is either in the cinema or the school.
+8 Fred journeyed to the office.
+9 Is Julie in the park? 	no	7
+10 Fred is either in the bedroom or the school.
+11 Bill travelled to the park.
+12 Is Bill in the kitchen? 	no	11
+13 Fred is either in the office or the school.
+14 Julie is in the bedroom.
+15 Is Fred in the office? 	maybe	13
+1 Mary went to the school.
+2 Fred went to the park.
+3 Is Fred in the park? 	yes	2
+4 Julie is either in the school or the office.
+5 Julie is either in the school or the bedroom.
+6 Is Fred in the bedroom? 	no	2
+7 Bill went to the cinema.
+8 Mary is either in the bedroom or the cinema.
+9 Is Fred in the office? 	no	2
+10 Bill is in the kitchen.
+11 Fred journeyed to the cinema.
+12 Is Bill in the bedroom? 	no	10
+13 Mary went to the park.
+14 Fred is either in the office or the bedroom.
+15 Is Fred in the office? 	maybe	14
+1 Mary moved to the office.
+2 Mary is either in the cinema or the school.
+3 Is Mary in the bedroom? 	no	2
+4 Bill moved to the office.
+5 Fred went back to the office.
+6 Is Mary in the bedroom? 	no	2
+7 Fred went back to the kitchen.
+8 Julie is in the kitchen.
+9 Is Bill in the school? 	no	4
+10 Julie is in the school.
+11 Bill went to the bedroom.
+12 Is Fred in the park? 	no	7
+13 Mary is in the kitchen.
+14 Mary moved to the school.
+15 Is Bill in the park? 	no	11
+1 Bill is either in the office or the cinema.
+2 Mary journeyed to the park.
+3 Is Bill in the office? 	maybe	1
+4 Julie is in the cinema.
+5 Mary went back to the cinema.
+6 Is Julie in the cinema? 	yes	4
+7 Bill is in the school.
+8 Mary is either in the school or the office.
+9 Is Mary in the office? 	maybe	8
+10 Mary went to the cinema.
+11 Fred went to the park.
+12 Is Fred in the kitchen? 	no	11
+13 Bill is either in the office or the kitchen.
+14 Fred is in the school.
+15 Is Fred in the school? 	yes	14
+1 Mary is either in the kitchen or the cinema.
+2 Fred is in the school.
+3 Is Fred in the cinema? 	no	2
+4 Bill moved to the bedroom.
+5 Bill is in the kitchen.
+6 Is Fred in the school? 	yes	2
+7 Julie is either in the school or the park.
+8 Mary journeyed to the cinema.
+9 Is Mary in the cinema? 	yes	8
+10 Julie is either in the school or the school.
+11 Julie is either in the office or the office.
+12 Is Mary in the bedroom? 	no	8
+13 Bill is in the office.
+14 Julie journeyed to the kitchen.
+15 Is Julie in the park? 	no	14
+1 Bill travelled to the bedroom.
+2 Julie journeyed to the office.
+3 Is Julie in the cinema? 	no	2
+4 Bill went back to the office.
+5 Julie went back to the kitchen.
+6 Is Julie in the kitchen? 	yes	5
+7 Fred moved to the park.
+8 Fred went back to the cinema.
+9 Is Fred in the cinema? 	yes	8
+10 Fred is in the office.
+11 Mary is in the kitchen.
+12 Is Fred in the cinema? 	no	10
+13 Mary journeyed to the office.
+14 Julie went back to the bedroom.
+15 Is Fred in the park? 	no	10
+1 Bill is either in the kitchen or the school.
+2 Mary is in the office.
+3 Is Bill in the kitchen? 	maybe	1
+4 Bill journeyed to the bedroom.
+5 Julie is either in the bedroom or the cinema.
+6 Is Bill in the bedroom? 	yes	4
+7 Julie travelled to the school.
+8 Mary is either in the school or the bedroom.
+9 Is Julie in the school? 	yes	7
+10 Mary went back to the office.
+11 Bill is in the park.
+12 Is Mary in the office? 	yes	10
+13 Fred journeyed to the cinema.
+14 Mary travelled to the park.
+15 Is Mary in the park? 	yes	14
+1 Mary journeyed to the cinema.
+2 Bill went to the school.
+3 Is Bill in the school? 	yes	2
+4 Fred moved to the kitchen.
+5 Mary moved to the office.
+6 Is Mary in the office? 	yes	5
+7 Mary is either in the cinema or the bedroom.
+8 Fred is either in the kitchen or the school.
+9 Is Mary in the office? 	no	7
+10 Fred is in the cinema.
+11 Fred went back to the bedroom.
+12 Is Fred in the bedroom? 	yes	11
+13 Julie is either in the kitchen or the kitchen.
+14 Bill moved to the kitchen.
+15 Is Fred in the bedroom? 	yes	11
+1 Mary moved to the school.
+2 Mary journeyed to the park.
+3 Is Mary in the kitchen? 	no	2
+4 Julie travelled to the office.
+5 Fred is in the park.
+6 Is Julie in the office? 	yes	4
+7 Fred went to the school.
+8 Fred journeyed to the office.
+9 Is Mary in the park? 	yes	2
+10 Fred is either in the school or the park.
+11 Mary is either in the school or the kitchen.
+12 Is Fred in the park? 	maybe	10
+13 Mary moved to the kitchen.
+14 Julie journeyed to the school.
+15 Is Mary in the school? 	no	13
+1 Mary is either in the park or the school.
+2 Bill is either in the cinema or the cinema.
+3 Is Bill in the school? 	no	2
+4 Mary went to the office.
+5 Bill is in the park.
+6 Is Mary in the office? 	yes	4
+7 Fred is either in the school or the park.
+8 Julie went back to the office.
+9 Is Fred in the school? 	maybe	7
+10 Fred is either in the office or the office.
+11 Bill went back to the kitchen.
+12 Is Fred in the office? 	maybe	10
+13 Julie is in the bedroom.
+14 Julie went to the office.
+15 Is Julie in the office? 	yes	14
+1 Fred is either in the school or the office.
+2 Mary is either in the school or the kitchen.
+3 Is Fred in the office? 	maybe	1
+4 Bill is in the park.
+5 Julie journeyed to the park.
+6 Is Mary in the cinema? 	no	2
+7 Bill is either in the cinema or the school.
+8 Julie is in the kitchen.
+9 Is Bill in the cinema? 	maybe	7
+10 Fred went to the kitchen.
+11 Julie journeyed to the bedroom.
+12 Is Fred in the bedroom? 	no	10
+13 Mary is in the park.
+14 Bill moved to the bedroom.
+15 Is Mary in the bedroom? 	no	13
+1 Julie is in the park.
+2 Fred went to the school.
+3 Is Julie in the park? 	yes	1
+4 Julie is in the kitchen.
+5 Mary travelled to the school.
+6 Is Fred in the school? 	yes	2
+7 Mary is in the office.
+8 Mary is in the bedroom.
+9 Is Julie in the kitchen? 	yes	4
+10 Mary is in the cinema.
+11 Bill went back to the office.
+12 Is Mary in the office? 	no	10
+13 Julie is either in the school or the school.
+14 Mary journeyed to the park.
+15 Is Bill in the school? 	no	11
+1 Julie travelled to the office.
+2 Julie is in the cinema.
+3 Is Julie in the cinema? 	yes	2
+4 Julie travelled to the kitchen.
+5 Mary is in the park.
+6 Is Julie in the kitchen? 	yes	4
+7 Mary is either in the school or the school.
+8 Bill travelled to the cinema.
+9 Is Julie in the kitchen? 	yes	4
+10 Julie travelled to the park.
+11 Julie is in the cinema.
+12 Is Julie in the cinema? 	yes	11
+13 Fred moved to the kitchen.
+14 Fred journeyed to the school.
+15 Is Julie in the cinema? 	yes	11
+1 Fred went back to the school.
+2 Fred is either in the school or the office.
+3 Is Fred in the office? 	maybe	2
+4 Bill journeyed to the office.
+5 Mary is in the cinema.
+6 Is Bill in the cinema? 	no	4
+7 Mary is in the park.
+8 Mary travelled to the bedroom.
+9 Is Mary in the office? 	no	8
+10 Fred went back to the bedroom.
+11 Mary is in the cinema.
+12 Is Mary in the park? 	no	11
+13 Mary went back to the school.
+14 Julie is either in the park or the cinema.
+15 Is Julie in the cinema? 	maybe	14
+1 Mary journeyed to the cinema.
+2 Fred is in the cinema.
+3 Is Mary in the cinema? 	yes	1
+4 Mary journeyed to the school.
+5 Bill is in the bedroom.
+6 Is Bill in the bedroom? 	yes	5
+7 Mary is either in the office or the office.
+8 Fred is either in the school or the office.
+9 Is Mary in the school? 	no	7
+10 Julie travelled to the kitchen.
+11 Fred moved to the school.
+12 Is Mary in the office? 	maybe	7
+13 Julie went to the bedroom.
+14 Fred is in the kitchen.
+15 Is Fred in the kitchen? 	yes	14
+1 Bill travelled to the park.
+2 Julie went back to the school.
+3 Is Bill in the park? 	yes	1
+4 Julie journeyed to the kitchen.
+5 Julie is either in the school or the office.
+6 Is Julie in the office? 	maybe	5
+7 Fred is either in the park or the cinema.
+8 Bill is either in the office or the school.
+9 Is Julie in the cinema? 	no	5
+10 Bill is either in the kitchen or the school.
+11 Bill journeyed to the park.
+12 Is Bill in the park? 	yes	11
+13 Julie journeyed to the park.
+14 Mary is either in the cinema or the park.
+15 Is Julie in the kitchen? 	no	13
+1 Fred moved to the cinema.
+2 Fred is either in the kitchen or the office.
+3 Is Fred in the kitchen? 	maybe	2
+4 Fred is either in the school or the bedroom.
+5 Julie is in the cinema.
+6 Is Fred in the school? 	maybe	4
+7 Julie is in the kitchen.
+8 Julie moved to the bedroom.
+9 Is Fred in the school? 	maybe	4
+10 Mary is in the park.
+11 Mary is either in the bedroom or the school.
+12 Is Julie in the bedroom? 	yes	8
+13 Julie is either in the park or the school.
+14 Bill is in the school.
+15 Is Bill in the school? 	yes	14
+1 Julie moved to the bedroom.
+2 Julie is either in the cinema or the cinema.
+3 Is Julie in the kitchen? 	no	2
+4 Fred travelled to the kitchen.
+5 Julie went to the park.
+6 Is Julie in the school? 	no	5
+7 Julie is in the kitchen.
+8 Bill is in the bedroom.
+9 Is Fred in the kitchen? 	yes	4
+10 Julie went back to the bedroom.
+11 Julie is in the park.
+12 Is Julie in the park? 	yes	11
+13 Fred is either in the bedroom or the kitchen.
+14 Mary is either in the kitchen or the kitchen.
+15 Is Mary in the office? 	no	14
+1 Bill journeyed to the school.
+2 Fred moved to the office.
+3 Is Bill in the cinema? 	no	1
+4 Mary went to the school.
+5 Fred is in the cinema.
+6 Is Mary in the cinema? 	no	4
+7 Mary travelled to the office.
+8 Fred is either in the school or the park.
+9 Is Fred in the park? 	maybe	8
+10 Fred journeyed to the bedroom.
+11 Julie is in the park.
+12 Is Fred in the bedroom? 	yes	10
+13 Julie is either in the cinema or the cinema.
+14 Mary went to the bedroom.
+15 Is Fred in the cinema? 	no	10
+1 Bill went to the office.
+2 Julie travelled to the kitchen.
+3 Is Julie in the bedroom? 	no	2
+4 Mary went back to the school.
+5 Julie went back to the cinema.
+6 Is Mary in the school? 	yes	4
+7 Fred is in the cinema.
+8 Julie is in the kitchen.
+9 Is Fred in the park? 	no	7
+10 Bill is in the cinema.
+11 Julie moved to the bedroom.
+12 Is Fred in the cinema? 	yes	7
+13 Mary travelled to the kitchen.
+14 Mary travelled to the office.
+15 Is Julie in the school? 	no	11
+1 Julie is in the office.
+2 Fred is in the bedroom.
+3 Is Fred in the bedroom? 	yes	2
+4 Mary is either in the school or the cinema.
+5 Fred is in the office.
+6 Is Fred in the bedroom? 	no	5
+7 Julie went to the park.
+8 Mary moved to the bedroom.
+9 Is Fred in the bedroom? 	no	5
+10 Bill went to the bedroom.
+11 Fred went back to the cinema.
+12 Is Fred in the kitchen? 	no	11
+13 Mary is in the kitchen.
+14 Mary moved to the bedroom.
+15 Is Bill in the bedroom? 	yes	10
+1 Bill is in the bedroom.
+2 Fred went back to the school.
+3 Is Fred in the school? 	yes	2
+4 Julie is in the bedroom.
+5 Bill journeyed to the cinema.
+6 Is Julie in the cinema? 	no	4
+7 Mary is in the bedroom.
+8 Mary journeyed to the school.
+9 Is Fred in the school? 	yes	2
+10 Mary is in the park.
+11 Fred went to the park.
+12 Is Mary in the park? 	yes	10
+13 Fred is in the cinema.
+14 Mary journeyed to the school.
+15 Is Mary in the school? 	yes	14
+1 Julie is either in the school or the park.
+2 Mary travelled to the cinema.
+3 Is Mary in the cinema? 	yes	2
+4 Bill is in the cinema.
+5 Bill went back to the kitchen.
+6 Is Bill in the kitchen? 	yes	5
+7 Mary is in the office.
+8 Mary is either in the school or the park.
+9 Is Bill in the cinema? 	no	5
+10 Bill is in the school.
+11 Julie went to the bedroom.
+12 Is Bill in the cinema? 	no	10
+13 Julie is either in the kitchen or the school.
+14 Julie journeyed to the office.
+15 Is Julie in the office? 	yes	14
+1 Fred is in the park.
+2 Bill is in the kitchen.
+3 Is Fred in the park? 	yes	1
+4 Mary travelled to the cinema.
+5 Bill went to the cinema.
+6 Is Bill in the park? 	no	5
+7 Fred is in the kitchen.
+8 Mary moved to the school.
+9 Is Mary in the cinema? 	no	8
+10 Bill went to the park.
+11 Fred is in the cinema.
+12 Is Fred in the park? 	no	11
+13 Fred went to the park.
+14 Mary is in the cinema.
+15 Is Mary in the bedroom? 	no	14
+1 Fred is in the bedroom.
+2 Mary is in the cinema.
+3 Is Fred in the bedroom? 	yes	1
+4 Julie went to the kitchen.
+5 Bill is either in the office or the park.
+6 Is Fred in the kitchen? 	no	1
+7 Julie journeyed to the office.
+8 Bill moved to the school.
+9 Is Julie in the school? 	no	7
+10 Julie travelled to the bedroom.
+11 Fred travelled to the cinema.
+12 Is Julie in the cinema? 	no	10
+13 Mary journeyed to the bedroom.
+14 Bill journeyed to the cinema.
+15 Is Bill in the cinema? 	yes	14
+1 Julie went to the kitchen.
+2 Julie went to the office.
+3 Is Julie in the office? 	yes	2
+4 Mary is in the bedroom.
+5 Bill is in the park.
+6 Is Julie in the school? 	no	2
+7 Mary went to the park.
+8 Bill went to the bedroom.
+9 Is Mary in the park? 	yes	7
+10 Bill is either in the kitchen or the cinema.
+11 Bill is in the kitchen.
+12 Is Bill in the kitchen? 	yes	11
+13 Julie went to the park.
+14 Mary went to the school.
+15 Is Bill in the kitchen? 	yes	11
+1 Julie travelled to the bedroom.
+2 Fred is in the kitchen.
+3 Is Fred in the school? 	no	2
+4 Fred travelled to the park.
+5 Mary went to the kitchen.
+6 Is Julie in the bedroom? 	yes	1
+7 Mary went back to the office.
+8 Bill is in the kitchen.
+9 Is Mary in the bedroom? 	no	7
+10 Bill is either in the school or the school.
+11 Fred is in the kitchen.
+12 Is Mary in the park? 	no	7
+13 Mary is in the bedroom.
+14 Julie travelled to the school.
+15 Is Mary in the cinema? 	no	13
+1 Julie is in the cinema.
+2 Bill journeyed to the kitchen.
+3 Is Julie in the school? 	no	1
+4 Julie is in the school.
+5 Mary went back to the office.
+6 Is Mary in the office? 	yes	5
+7 Fred went back to the park.
+8 Bill journeyed to the school.
+9 Is Bill in the school? 	yes	8
+10 Fred journeyed to the cinema.
+11 Mary went to the kitchen.
+12 Is Bill in the bedroom? 	no	8
+13 Julie is either in the kitchen or the cinema.
+14 Bill went to the bedroom.
+15 Is Julie in the kitchen? 	maybe	13
+1 Fred travelled to the school.
+2 Bill is in the park.
+3 Is Bill in the park? 	yes	2
+4 Mary went to the kitchen.
+5 Fred is in the bedroom.
+6 Is Fred in the cinema? 	no	5
+7 Julie went to the school.
+8 Fred is in the cinema.
+9 Is Mary in the park? 	no	4
+10 Bill went back to the cinema.
+11 Julie went to the cinema.
+12 Is Bill in the bedroom? 	no	10
+13 Mary journeyed to the park.
+14 Julie moved to the school.
+15 Is Mary in the cinema? 	no	13
+1 Bill travelled to the school.
+2 Mary is either in the kitchen or the cinema.
+3 Is Bill in the school? 	yes	1
+4 Julie is in the school.
+5 Fred is either in the office or the cinema.
+6 Is Julie in the school? 	yes	4
+7 Bill went back to the kitchen.
+8 Mary moved to the school.
+9 Is Fred in the office? 	maybe	5
+10 Bill moved to the park.
+11 Mary is either in the bedroom or the park.
+12 Is Mary in the bedroom? 	maybe	11
+13 Mary travelled to the bedroom.
+14 Julie is in the office.
+15 Is Julie in the kitchen? 	no	14
+1 Julie moved to the office.
+2 Fred is either in the kitchen or the cinema.
+3 Is Julie in the office? 	yes	1
+4 Bill is in the cinema.
+5 Fred is in the school.
+6 Is Fred in the office? 	no	5
+7 Julie travelled to the kitchen.
+8 Fred moved to the park.
+9 Is Bill in the park? 	no	4
+10 Bill is in the park.
+11 Julie moved to the school.
+12 Is Julie in the school? 	yes	11
+13 Bill is in the school.
+14 Mary is either in the school or the office.
+15 Is Fred in the park? 	yes	8
+1 Julie went to the school.
+2 Julie is either in the bedroom or the office.
+3 Is Julie in the kitchen? 	no	2
+4 Fred journeyed to the kitchen.
+5 Bill is in the cinema.
+6 Is Julie in the office? 	maybe	2
+7 Julie is in the bedroom.
+8 Mary is either in the bedroom or the park.
+9 Is Julie in the bedroom? 	yes	7
+10 Mary is in the park.
+11 Bill journeyed to the bedroom.
+12 Is Julie in the bedroom? 	yes	7
+13 Julie is either in the kitchen or the school.
+14 Julie is either in the office or the cinema.
+15 Is Bill in the kitchen? 	no	11
+1 Bill is either in the bedroom or the kitchen.
+2 Julie is either in the school or the school.
+3 Is Julie in the cinema? 	no	2
+4 Bill journeyed to the bedroom.
+5 Julie is in the office.
+6 Is Julie in the office? 	yes	5
+7 Julie is either in the park or the kitchen.
+8 Bill is in the school.
+9 Is Bill in the office? 	no	8
+10 Mary is in the office.
+11 Mary went back to the bedroom.
+12 Is Bill in the park? 	no	8
+13 Julie is either in the office or the school.
+14 Bill went to the bedroom.
+15 Is Bill in the office? 	no	14
+1 Fred journeyed to the office.
+2 Julie is in the cinema.
+3 Is Fred in the school? 	no	1
+4 Bill journeyed to the park.
+5 Julie is either in the park or the kitchen.
+6 Is Fred in the cinema? 	no	1
+7 Julie is either in the cinema or the office.
+8 Fred went back to the park.
+9 Is Julie in the cinema? 	maybe	7
+10 Mary went to the park.
+11 Fred went to the office.
+12 Is Fred in the office? 	yes	11
+13 Julie travelled to the school.
+14 Fred went back to the kitchen.
+15 Is Fred in the office? 	no	14
+1 Julie moved to the office.
+2 Fred is in the office.
+3 Is Fred in the cinema? 	no	2
+4 Julie is in the school.
+5 Fred journeyed to the park.
+6 Is Julie in the school? 	yes	4
+7 Bill went to the cinema.
+8 Julie went back to the kitchen.
+9 Is Fred in the school? 	no	5
+10 Bill is either in the kitchen or the bedroom.
+11 Fred went back to the school.
+12 Is Fred in the park? 	no	11
+13 Fred is in the cinema.
+14 Julie is in the park.
+15 Is Julie in the park? 	yes	14
+1 Mary is in the office.
+2 Bill moved to the cinema.
+3 Is Bill in the cinema? 	yes	2
+4 Mary is either in the kitchen or the cinema.
+5 Bill went back to the bedroom.
+6 Is Bill in the bedroom? 	yes	5
+7 Fred travelled to the school.
+8 Bill journeyed to the school.
+9 Is Fred in the school? 	yes	7
+10 Julie is in the cinema.
+11 Mary is in the school.
+12 Is Bill in the school? 	yes	8
+13 Julie moved to the park.
+14 Mary is either in the kitchen or the kitchen.
+15 Is Julie in the kitchen? 	no	13
+1 Bill went to the kitchen.
+2 Bill is either in the office or the school.
+3 Is Bill in the office? 	maybe	2
+4 Mary journeyed to the school.
+5 Mary moved to the office.
+6 Is Mary in the office? 	yes	5
+7 Fred is either in the cinema or the kitchen.
+8 Fred journeyed to the office.
+9 Is Bill in the kitchen? 	no	2
+10 Julie travelled to the office.
+11 Fred is in the cinema.
+12 Is Mary in the office? 	yes	5
+13 Fred went to the park.
+14 Fred is either in the kitchen or the office.
+15 Is Julie in the office? 	yes	10
+1 Mary is in the office.
+2 Bill is either in the park or the school.
+3 Is Mary in the office? 	yes	1
+4 Fred went back to the cinema.
+5 Fred went back to the bedroom.
+6 Is Fred in the office? 	no	5
+7 Fred is either in the school or the kitchen.
+8 Fred is in the kitchen.
+9 Is Fred in the kitchen? 	yes	8
+10 Julie is either in the bedroom or the kitchen.
+11 Mary went to the cinema.
+12 Is Julie in the office? 	no	10
+13 Bill is in the cinema.
+14 Fred travelled to the school.
+15 Is Fred in the office? 	no	14
+1 Fred is either in the school or the office.
+2 Mary is either in the school or the bedroom.
+3 Is Mary in the cinema? 	no	2
+4 Julie moved to the kitchen.
+5 Bill is either in the bedroom or the bedroom.
+6 Is Julie in the kitchen? 	yes	4
+7 Mary is in the office.
+8 Mary is either in the cinema or the cinema.
+9 Is Bill in the school? 	no	5
+10 Fred is in the bedroom.
+11 Mary travelled to the kitchen.
+12 Is Mary in the kitchen? 	yes	11
+13 Fred is either in the kitchen or the bedroom.
+14 Julie journeyed to the school.
+15 Is Fred in the park? 	no	13
+1 Mary went back to the cinema.
+2 Mary went to the bedroom.
+3 Is Mary in the bedroom? 	yes	2
+4 Julie went back to the school.
+5 Fred is in the office.
+6 Is Mary in the bedroom? 	yes	2
+7 Mary is either in the school or the cinema.
+8 Bill is either in the bedroom or the office.
+9 Is Julie in the office? 	no	4
+10 Mary went to the park.
+11 Fred journeyed to the park.
+12 Is Mary in the kitchen? 	no	10
+13 Julie is in the bedroom.
+14 Fred went to the bedroom.
+15 Is Mary in the park? 	yes	10
+1 Bill went to the school.
+2 Fred is either in the kitchen or the park.
+3 Is Bill in the school? 	yes	1
+4 Bill journeyed to the cinema.
+5 Fred is in the bedroom.
+6 Is Bill in the bedroom? 	no	4
+7 Bill travelled to the park.
+8 Bill is either in the cinema or the school.
+9 Is Bill in the park? 	no	8
+10 Fred moved to the school.
+11 Mary is in the kitchen.
+12 Is Fred in the school? 	yes	10
+13 Mary is in the office.
+14 Bill is in the kitchen.
+15 Is Bill in the school? 	no	14
+1 Bill is in the park.
+2 Fred went back to the park.
+3 Is Fred in the park? 	yes	2
+4 Bill went to the bedroom.
+5 Julie moved to the bedroom.
+6 Is Bill in the bedroom? 	yes	4
+7 Julie is either in the kitchen or the school.
+8 Mary went to the office.
+9 Is Bill in the bedroom? 	yes	4
+10 Mary travelled to the school.
+11 Julie travelled to the kitchen.
+12 Is Julie in the kitchen? 	yes	11
+13 Bill journeyed to the office.
+14 Julie journeyed to the park.
+15 Is Julie in the park? 	yes	14
+1 Bill went back to the office.
+2 Bill is either in the kitchen or the park.
+3 Is Bill in the cinema? 	no	2
+4 Fred went to the bedroom.
+5 Julie is either in the park or the office.
+6 Is Bill in the kitchen? 	maybe	2
+7 Julie is in the kitchen.
+8 Mary journeyed to the office.
+9 Is Bill in the kitchen? 	maybe	2
+10 Julie went to the park.
+11 Bill travelled to the bedroom.
+12 Is Julie in the park? 	yes	10
+13 Mary is either in the school or the bedroom.
+14 Mary is in the school.
+15 Is Bill in the office? 	no	11
+1 Mary went to the kitchen.
+2 Fred travelled to the park.
+3 Is Mary in the park? 	no	1
+4 Julie is either in the kitchen or the school.
+5 Bill is either in the school or the office.
+6 Is Bill in the school? 	maybe	5
+7 Mary journeyed to the school.
+8 Bill moved to the bedroom.
+9 Is Bill in the kitchen? 	no	8
+10 Julie went to the bedroom.
+11 Fred moved to the cinema.
+12 Is Mary in the office? 	no	7
+13 Mary is either in the park or the school.
+14 Fred is either in the kitchen or the bedroom.
+15 Is Fred in the cinema? 	no	14
+1 Mary is in the kitchen.
+2 Julie is either in the cinema or the park.
+3 Is Julie in the kitchen? 	no	2
+4 Mary is in the bedroom.
+5 Bill travelled to the park.
+6 Is Mary in the office? 	no	4
+7 Mary went back to the office.
+8 Bill is in the office.
+9 Is Mary in the office? 	yes	7
+10 Bill is either in the office or the cinema.
+11 Bill travelled to the park.
+12 Is Bill in the bedroom? 	no	11
+13 Fred is in the park.
+14 Bill is in the office.
+15 Is Fred in the park? 	yes	13
+1 Fred is either in the kitchen or the school.
+2 Fred is either in the bedroom or the cinema.
+3 Is Fred in the bedroom? 	maybe	2
+4 Julie is in the kitchen.
+5 Julie is either in the park or the park.
+6 Is Fred in the bedroom? 	maybe	2
+7 Julie went back to the cinema.
+8 Julie is in the bedroom.
+9 Is Julie in the bedroom? 	yes	8
+10 Bill is either in the bedroom or the park.
+11 Fred is in the school.
+12 Is Fred in the park? 	no	11
+13 Bill is either in the cinema or the kitchen.
+14 Fred moved to the kitchen.
+15 Is Fred in the office? 	no	14
+1 Fred went back to the park.
+2 Fred is either in the cinema or the school.
+3 Is Fred in the cinema? 	maybe	2
+4 Bill is either in the school or the kitchen.
+5 Fred went to the kitchen.
+6 Is Fred in the kitchen? 	yes	5
+7 Mary moved to the bedroom.
+8 Mary is either in the park or the office.
+9 Is Mary in the park? 	maybe	8
+10 Mary went back to the bedroom.
+11 Fred is in the bedroom.
+12 Is Mary in the bedroom? 	yes	10
+13 Julie went back to the park.
+14 Mary is in the office.
+15 Is Mary in the office? 	yes	14
+1 Julie went back to the kitchen.
+2 Bill is in the bedroom.
+3 Is Bill in the bedroom? 	yes	2
+4 Fred went to the kitchen.
+5 Mary moved to the bedroom.
+6 Is Mary in the school? 	no	5
+7 Fred moved to the bedroom.
+8 Bill went to the school.
+9 Is Mary in the bedroom? 	yes	5
+10 Bill is either in the park or the office.
+11 Mary is in the kitchen.
+12 Is Fred in the bedroom? 	yes	7
+13 Julie travelled to the office.
+14 Fred is in the cinema.
+15 Is Bill in the park? 	maybe	10
+1 Julie moved to the park.
+2 Julie is in the bedroom.
+3 Is Julie in the kitchen? 	no	2
+4 Mary is either in the bedroom or the cinema.
+5 Julie is in the kitchen.
+6 Is Mary in the cinema? 	maybe	4
+7 Mary went back to the school.
+8 Bill is either in the school or the bedroom.
+9 Is Julie in the kitchen? 	yes	5
+10 Bill went back to the office.
+11 Mary went to the office.
+12 Is Bill in the office? 	yes	10
+13 Julie is either in the park or the office.
+14 Bill moved to the kitchen.
+15 Is Bill in the cinema? 	no	14
+1 Fred went back to the bedroom.
+2 Fred is either in the office or the park.
+3 Is Fred in the park? 	maybe	2
+4 Bill journeyed to the office.
+5 Bill is in the bedroom.
+6 Is Fred in the office? 	maybe	2
+7 Fred travelled to the park.
+8 Julie travelled to the park.
+9 Is Fred in the kitchen? 	no	7
+10 Fred is in the school.
+11 Julie went to the bedroom.
+12 Is Fred in the school? 	yes	10
+13 Mary journeyed to the kitchen.
+14 Julie travelled to the school.
+15 Is Mary in the kitchen? 	yes	13
+1 Mary is either in the kitchen or the kitchen.
+2 Bill is in the park.
+3 Is Mary in the bedroom? 	no	1
+4 Mary is either in the school or the school.
+5 Julie moved to the school.
+6 Is Mary in the kitchen? 	no	4
+7 Julie journeyed to the park.
+8 Fred is either in the kitchen or the bedroom.
+9 Is Julie in the kitchen? 	no	7
+10 Fred went to the school.
+11 Bill is either in the school or the kitchen.
+12 Is Bill in the kitchen? 	maybe	11
+13 Julie travelled to the school.
+14 Julie went back to the cinema.
+15 Is Julie in the cinema? 	yes	14
+1 Julie is either in the office or the kitchen.
+2 Bill travelled to the office.
+3 Is Bill in the cinema? 	no	2
+4 Bill is in the school.
+5 Bill went to the cinema.
+6 Is Julie in the kitchen? 	maybe	1
+7 Mary is either in the school or the office.
+8 Fred is in the school.
+9 Is Bill in the cinema? 	yes	5
+10 Fred is either in the bedroom or the park.
+11 Bill is in the park.
+12 Is Fred in the bedroom? 	maybe	10
+13 Bill is either in the office or the cinema.
+14 Bill is in the school.
+15 Is Bill in the kitchen? 	no	14
+1 Fred is either in the cinema or the kitchen.
+2 Julie went to the office.
+3 Is Fred in the school? 	no	1
+4 Fred moved to the park.
+5 Mary travelled to the cinema.
+6 Is Julie in the cinema? 	no	2
+7 Julie is either in the kitchen or the bedroom.
+8 Mary went back to the kitchen.
+9 Is Julie in the kitchen? 	maybe	7
+10 Bill is either in the school or the bedroom.
+11 Bill went back to the park.
+12 Is Julie in the school? 	no	7
+13 Mary is in the office.
+14 Fred went to the office.
+15 Is Mary in the school? 	no	13
+1 Bill is either in the kitchen or the office.
+2 Julie journeyed to the park.
+3 Is Bill in the kitchen? 	maybe	1
+4 Fred moved to the kitchen.
+5 Bill is either in the park or the school.
+6 Is Julie in the kitchen? 	no	2
+7 Bill went to the kitchen.
+8 Julie went to the cinema.
+9 Is Bill in the kitchen? 	yes	7
+10 Julie is either in the office or the kitchen.
+11 Fred went to the bedroom.
+12 Is Fred in the bedroom? 	yes	11
+13 Bill is either in the park or the park.
+14 Fred moved to the park.
+15 Is Fred in the kitchen? 	no	14
+1 Julie is in the school.
+2 Fred journeyed to the kitchen.
+3 Is Julie in the school? 	yes	1
+4 Fred went to the park.
+5 Julie moved to the bedroom.
+6 Is Fred in the school? 	no	4
+7 Bill journeyed to the kitchen.
+8 Fred went to the school.
+9 Is Julie in the bedroom? 	yes	5
+10 Mary is in the kitchen.
+11 Mary journeyed to the school.
+12 Is Mary in the school? 	yes	11
+13 Bill journeyed to the bedroom.
+14 Fred is in the park.
+15 Is Fred in the cinema? 	no	14
+1 Bill journeyed to the kitchen.
+2 Fred is in the office.
+3 Is Bill in the kitchen? 	yes	1
+4 Fred is either in the office or the school.
+5 Bill journeyed to the park.
+6 Is Fred in the office? 	maybe	4
+7 Bill journeyed to the office.
+8 Julie is in the cinema.
+9 Is Julie in the cinema? 	yes	8
+10 Julie travelled to the bedroom.
+11 Julie is in the office.
+12 Is Bill in the school? 	no	7
+13 Mary travelled to the office.
+14 Fred is either in the bedroom or the cinema.
+15 Is Mary in the school? 	no	13
+1 Mary is in the cinema.
+2 Julie is in the school.
+3 Is Julie in the bedroom? 	no	2
+4 Julie went to the kitchen.
+5 Julie went to the cinema.
+6 Is Mary in the park? 	no	1
+7 Julie is in the school.
+8 Mary went back to the kitchen.
+9 Is Julie in the park? 	no	7
+10 Fred went to the cinema.
+11 Mary is either in the cinema or the kitchen.
+12 Is Mary in the park? 	no	11
+13 Fred is either in the office or the school.
+14 Mary is either in the school or the kitchen.
+15 Is Mary in the kitchen? 	maybe	14
+1 Julie went back to the school.
+2 Bill went to the cinema.
+3 Is Julie in the school? 	yes	1
+4 Mary went to the office.
+5 Mary is in the kitchen.
+6 Is Julie in the school? 	yes	1
+7 Julie went back to the office.
+8 Julie is either in the kitchen or the school.
+9 Is Mary in the kitchen? 	yes	5
+10 Bill moved to the school.
+11 Fred moved to the bedroom.
+12 Is Mary in the kitchen? 	yes	5
+13 Bill went back to the park.
+14 Mary is in the cinema.
+15 Is Bill in the park? 	yes	13
+1 Julie is in the kitchen.
+2 Bill went to the school.
+3 Is Julie in the kitchen? 	yes	1
+4 Bill journeyed to the cinema.
+5 Julie is either in the park or the office.
+6 Is Bill in the cinema? 	yes	4
+7 Fred is either in the park or the kitchen.
+8 Fred is either in the office or the school.
+9 Is Fred in the school? 	maybe	8
+10 Mary moved to the office.
+11 Julie is either in the school or the park.
+12 Is Julie in the cinema? 	no	11
+13 Julie is either in the park or the office.
+14 Fred is in the bedroom.
+15 Is Fred in the bedroom? 	yes	14
+1 Julie moved to the park.
+2 Fred travelled to the cinema.
+3 Is Fred in the office? 	no	2
+4 Julie is in the school.
+5 Mary is either in the school or the school.
+6 Is Mary in the bedroom? 	no	5
+7 Fred is either in the school or the cinema.
+8 Bill moved to the kitchen.
+9 Is Mary in the school? 	maybe	5
+10 Fred travelled to the office.
+11 Mary is in the park.
+12 Is Mary in the bedroom? 	no	11
+13 Bill went back to the school.
+14 Bill is in the bedroom.
+15 Is Bill in the bedroom? 	yes	14
+1 Mary journeyed to the park.
+2 Julie went to the bedroom.
+3 Is Mary in the park? 	yes	1
+4 Fred went back to the school.
+5 Bill is in the office.
+6 Is Mary in the kitchen? 	no	1
+7 Julie journeyed to the office.
+8 Mary is either in the school or the cinema.
+9 Is Mary in the office? 	no	8
+10 Fred is either in the park or the office.
+11 Bill journeyed to the bedroom.
+12 Is Bill in the school? 	no	11
+13 Fred is either in the park or the school.
+14 Julie is in the school.
+15 Is Julie in the cinema? 	no	14
+1 Fred is either in the bedroom or the school.
+2 Fred is either in the park or the park.
+3 Is Fred in the cinema? 	no	2
+4 Mary went to the bedroom.
+5 Fred went to the office.
+6 Is Fred in the office? 	yes	5
+7 Bill is in the office.
+8 Fred is either in the park or the school.
+9 Is Fred in the kitchen? 	no	8
+10 Mary went back to the cinema.
+11 Julie journeyed to the bedroom.
+12 Is Julie in the bedroom? 	yes	11
+13 Julie is in the office.
+14 Mary went back to the office.
+15 Is Julie in the office? 	yes	13
+1 Julie is in the bedroom.
+2 Fred went back to the park.
+3 Is Julie in the bedroom? 	yes	1
+4 Fred travelled to the office.
+5 Julie went back to the cinema.
+6 Is Fred in the office? 	yes	4
+7 Fred travelled to the kitchen.
+8 Fred went to the office.
+9 Is Fred in the office? 	yes	8
+10 Mary went to the office.
+11 Fred is either in the kitchen or the office.
+12 Is Mary in the kitchen? 	no	10
+13 Mary went back to the kitchen.
+14 Bill is either in the cinema or the kitchen.
+15 Is Fred in the park? 	no	11
+1 Julie journeyed to the school.
+2 Fred is in the school.
+3 Is Fred in the bedroom? 	no	2
+4 Bill is either in the office or the bedroom.
+5 Mary is in the school.
+6 Is Julie in the school? 	yes	1
+7 Fred is in the kitchen.
+8 Mary moved to the cinema.
+9 Is Mary in the park? 	no	8
+10 Fred travelled to the office.
+11 Bill travelled to the cinema.
+12 Is Mary in the cinema? 	yes	8
+13 Julie is in the cinema.
+14 Bill is either in the school or the office.
+15 Is Bill in the bedroom? 	no	14
+1 Mary is either in the cinema or the bedroom.
+2 Julie is either in the cinema or the park.
+3 Is Mary in the school? 	no	1
+4 Julie is either in the office or the cinema.
+5 Julie is either in the cinema or the park.
+6 Is Julie in the park? 	maybe	5
+7 Fred travelled to the bedroom.
+8 Bill went back to the cinema.
+9 Is Bill in the bedroom? 	no	8
+10 Julie travelled to the bedroom.
+11 Bill is in the kitchen.
+12 Is Julie in the bedroom? 	yes	10
+13 Bill went back to the park.
+14 Mary is either in the bedroom or the kitchen.
+15 Is Bill in the park? 	yes	13
+1 Mary is either in the school or the school.
+2 Julie is either in the school or the school.
+3 Is Mary in the school? 	maybe	1
+4 Mary is either in the bedroom or the bedroom.
+5 Fred travelled to the office.
+6 Is Mary in the bedroom? 	maybe	4
+7 Fred journeyed to the kitchen.
+8 Fred journeyed to the school.
+9 Is Mary in the office? 	no	4
+10 Mary moved to the kitchen.
+11 Julie journeyed to the bedroom.
+12 Is Julie in the kitchen? 	no	11
+13 Fred travelled to the office.
+14 Julie is in the school.
+15 Is Julie in the kitchen? 	no	14
+1 Julie went to the cinema.
+2 Mary is in the cinema.
+3 Is Julie in the cinema? 	yes	1
+4 Julie went to the kitchen.
+5 Fred went back to the school.
+6 Is Julie in the park? 	no	4
+7 Mary is in the park.
+8 Fred is either in the bedroom or the kitchen.
+9 Is Fred in the cinema? 	no	8
+10 Julie is in the school.
+11 Mary is in the school.
+12 Is Fred in the cinema? 	no	8
+13 Fred travelled to the cinema.
+14 Bill is either in the school or the park.
+15 Is Bill in the school? 	maybe	14
+1 Mary went back to the park.
+2 Julie travelled to the cinema.
+3 Is Mary in the school? 	no	1
+4 Julie moved to the park.
+5 Fred travelled to the school.
+6 Is Julie in the park? 	yes	4
+7 Fred is either in the school or the office.
+8 Fred went back to the kitchen.
+9 Is Fred in the office? 	no	8
+10 Julie travelled to the cinema.
+11 Bill went back to the school.
+12 Is Fred in the office? 	no	8
+13 Fred is in the cinema.
+14 Mary is either in the cinema or the kitchen.
+15 Is Julie in the cinema? 	yes	10
+1 Fred went to the cinema.
+2 Bill journeyed to the park.
+3 Is Bill in the park? 	yes	2
+4 Fred travelled to the office.
+5 Julie travelled to the school.
+6 Is Fred in the office? 	yes	4
+7 Julie is either in the kitchen or the cinema.
+8 Bill is in the office.
+9 Is Bill in the cinema? 	no	8
+10 Fred journeyed to the school.
+11 Bill moved to the park.
+12 Is Julie in the school? 	no	7
+13 Bill journeyed to the kitchen.
+14 Mary is either in the cinema or the school.
+15 Is Fred in the school? 	yes	10
+1 Mary moved to the park.
+2 Mary travelled to the cinema.
+3 Is Mary in the school? 	no	2
+4 Julie is either in the school or the kitchen.
+5 Bill is in the office.
+6 Is Mary in the bedroom? 	no	2
+7 Mary is either in the kitchen or the park.
+8 Julie is in the office.
+9 Is Julie in the school? 	no	8
+10 Fred went back to the office.
+11 Fred is either in the office or the kitchen.
+12 Is Julie in the cinema? 	no	8
+13 Bill went back to the cinema.
+14 Julie is either in the school or the office.
+15 Is Bill in the office? 	no	13
+1 Julie travelled to the park.
+2 Fred moved to the cinema.
+3 Is Fred in the cinema? 	yes	2
+4 Julie is either in the cinema or the park.
+5 Bill is in the cinema.
+6 Is Fred in the park? 	no	2
+7 Julie is in the school.
+8 Mary travelled to the school.
+9 Is Julie in the school? 	yes	7
+10 Julie went to the kitchen.
+11 Fred is in the bedroom.
+12 Is Mary in the school? 	yes	8
+13 Fred is either in the park or the office.
+14 Mary is either in the park or the kitchen.
+15 Is Fred in the office? 	maybe	13
+1 Bill is in the cinema.
+2 Julie is either in the bedroom or the office.
+3 Is Julie in the cinema? 	no	2
+4 Julie is either in the cinema or the park.
+5 Julie travelled to the school.
+6 Is Julie in the park? 	no	5
+7 Bill went back to the office.
+8 Bill is in the school.
+9 Is Bill in the kitchen? 	no	8
+10 Julie went to the park.
+11 Fred went to the office.
+12 Is Bill in the park? 	no	8
+13 Fred is either in the kitchen or the kitchen.
+14 Bill is in the cinema.
+15 Is Julie in the office? 	no	10
+1 Mary went to the park.
+2 Mary moved to the office.
+3 Is Mary in the office? 	yes	2
+4 Bill moved to the office.
+5 Fred is in the park.
+6 Is Mary in the park? 	no	2
+7 Bill is in the park.
+8 Fred is in the office.
+9 Is Fred in the office? 	yes	8
+10 Julie is in the park.
+11 Mary is in the school.
+12 Is Bill in the park? 	yes	7
+13 Julie is either in the school or the kitchen.
+14 Bill moved to the kitchen.
+15 Is Bill in the kitchen? 	yes	14
+1 Mary moved to the cinema.
+2 Fred went back to the school.
+3 Is Fred in the school? 	yes	2
+4 Julie is either in the office or the kitchen.
+5 Bill went back to the kitchen.
+6 Is Fred in the cinema? 	no	2
+7 Julie is in the cinema.
+8 Mary is in the bedroom.
+9 Is Mary in the park? 	no	8
+10 Fred is either in the bedroom or the cinema.
+11 Fred went back to the kitchen.
+12 Is Fred in the cinema? 	no	11
+13 Fred went back to the bedroom.
+14 Fred is in the office.
+15 Is Fred in the kitchen? 	no	14
+1 Julie is either in the office or the school.
+2 Julie travelled to the park.
+3 Is Julie in the park? 	yes	2
+4 Julie travelled to the bedroom.
+5 Fred is in the park.
+6 Is Fred in the kitchen? 	no	5
+7 Mary travelled to the park.
+8 Julie went to the park.
+9 Is Julie in the park? 	yes	8
+10 Fred is in the bedroom.
+11 Mary went to the kitchen.
+12 Is Mary in the kitchen? 	yes	11
+13 Fred travelled to the cinema.
+14 Fred travelled to the office.
+15 Is Julie in the kitchen? 	no	8
+1 Fred is in the kitchen.
+2 Fred went back to the office.
+3 Is Fred in the office? 	yes	2
+4 Fred is either in the school or the park.
+5 Mary is either in the bedroom or the cinema.
+6 Is Fred in the park? 	maybe	4
+7 Mary went back to the office.
+8 Mary went to the cinema.
+9 Is Fred in the park? 	maybe	4
+10 Fred moved to the school.
+11 Mary is in the office.
+12 Is Mary in the office? 	yes	11
+13 Bill is either in the school or the office.
+14 Bill moved to the office.
+15 Is Mary in the kitchen? 	no	11
+1 Julie went to the kitchen.
+2 Bill journeyed to the park.
+3 Is Bill in the school? 	no	2
+4 Mary moved to the cinema.
+5 Fred is in the school.
+6 Is Julie in the park? 	no	1
+7 Bill is in the cinema.
+8 Bill journeyed to the office.
+9 Is Fred in the cinema? 	no	5
+10 Julie went to the office.
+11 Julie travelled to the cinema.
+12 Is Julie in the cinema? 	yes	11
+13 Fred moved to the bedroom.
+14 Mary travelled to the park.
+15 Is Bill in the cinema? 	no	8
+1 Julie journeyed to the cinema.
+2 Mary travelled to the bedroom.
+3 Is Mary in the kitchen? 	no	2
+4 Mary is either in the kitchen or the park.
+5 Mary is either in the kitchen or the school.
+6 Is Julie in the cinema? 	yes	1
+7 Fred journeyed to the kitchen.
+8 Mary went to the kitchen.
+9 Is Mary in the kitchen? 	yes	8
+10 Fred went to the park.
+11 Mary is in the school.
+12 Is Fred in the school? 	no	10
+13 Fred is either in the kitchen or the cinema.
+14 Fred went back to the park.
+15 Is Fred in the bedroom? 	no	14
+1 Julie is in the kitchen.
+2 Julie is in the bedroom.
+3 Is Julie in the bedroom? 	yes	2
+4 Fred travelled to the kitchen.
+5 Fred moved to the school.
+6 Is Fred in the school? 	yes	5
+7 Mary is either in the park or the office.
+8 Bill is either in the office or the cinema.
+9 Is Fred in the park? 	no	5
+10 Julie journeyed to the office.
+11 Julie is either in the park or the park.
+12 Is Bill in the school? 	no	8
+13 Julie went back to the school.
+14 Bill is either in the school or the school.
+15 Is Bill in the school? 	maybe	14
+1 Mary is either in the school or the bedroom.
+2 Bill is in the office.
+3 Is Mary in the bedroom? 	maybe	1
+4 Bill is either in the bedroom or the bedroom.
+5 Bill is either in the park or the cinema.
+6 Is Bill in the cinema? 	maybe	5
+7 Bill went to the school.
+8 Mary is in the kitchen.
+9 Is Bill in the school? 	yes	7
+10 Mary is in the school.
+11 Fred is in the park.
+12 Is Bill in the kitchen? 	no	7
+13 Bill travelled to the park.
+14 Julie is either in the school or the bedroom.
+15 Is Julie in the park? 	no	14
+1 Julie moved to the school.
+2 Bill went to the school.
+3 Is Julie in the school? 	yes	1
+4 Fred is either in the office or the kitchen.
+5 Julie went to the cinema.
+6 Is Fred in the school? 	no	4
+7 Fred moved to the cinema.
+8 Julie travelled to the park.
+9 Is Bill in the school? 	yes	2
+10 Mary went back to the kitchen.
+11 Fred is either in the office or the kitchen.
+12 Is Julie in the park? 	yes	8
+13 Bill went back to the park.
+14 Julie moved to the cinema.
+15 Is Julie in the cinema? 	yes	14
+1 Bill is either in the office or the office.
+2 Mary went to the park.
+3 Is Mary in the park? 	yes	2
+4 Bill is either in the school or the park.
+5 Julie moved to the school.
+6 Is Bill in the cinema? 	no	4
+7 Fred is either in the school or the office.
+8 Julie is either in the park or the kitchen.
+9 Is Julie in the park? 	maybe	8
+10 Fred is in the school.
+11 Mary is either in the office or the park.
+12 Is Julie in the cinema? 	no	8
+13 Bill went to the kitchen.
+14 Julie is either in the office or the park.
+15 Is Mary in the office? 	maybe	11
+1 Mary went to the cinema.
+2 Julie went back to the cinema.
+3 Is Mary in the cinema? 	yes	1
+4 Fred went to the kitchen.
+5 Bill is in the school.
+6 Is Bill in the school? 	yes	5
+7 Julie journeyed to the kitchen.
+8 Fred is either in the cinema or the park.
+9 Is Julie in the bedroom? 	no	7
+10 Fred travelled to the office.
+11 Bill went to the cinema.
+12 Is Julie in the kitchen? 	yes	7
+13 Julie is in the bedroom.
+14 Fred is in the school.
+15 Is Julie in the bedroom? 	yes	13
+1 Fred travelled to the park.
+2 Bill travelled to the bedroom.
+3 Is Fred in the office? 	no	1
+4 Julie is either in the office or the bedroom.
+5 Fred is either in the school or the cinema.
+6 Is Julie in the park? 	no	4
+7 Julie went back to the cinema.
+8 Julie is in the office.
+9 Is Fred in the cinema? 	maybe	5
+10 Bill moved to the park.
+11 Julie went to the bedroom.
+12 Is Julie in the park? 	no	11
+13 Fred journeyed to the park.
+14 Fred travelled to the school.
+15 Is Julie in the bedroom? 	yes	11
+1 Bill is either in the bedroom or the kitchen.
+2 Bill is in the park.
+3 Is Bill in the cinema? 	no	2
+4 Bill went to the bedroom.
+5 Julie travelled to the kitchen.
+6 Is Bill in the school? 	no	4
+7 Fred is in the office.
+8 Bill went back to the office.
+9 Is Fred in the office? 	yes	7
+10 Fred went back to the kitchen.
+11 Mary moved to the bedroom.
+12 Is Fred in the kitchen? 	yes	10
+13 Julie moved to the park.
+14 Bill went to the school.
+15 Is Fred in the kitchen? 	yes	10
+1 Mary moved to the school.
+2 Mary is in the park.
+3 Is Mary in the park? 	yes	2
+4 Bill is either in the school or the park.
+5 Julie travelled to the cinema.
+6 Is Julie in the cinema? 	yes	5
+7 Mary went to the bedroom.
+8 Bill is either in the cinema or the cinema.
+9 Is Mary in the park? 	no	7
+10 Julie journeyed to the school.
+11 Julie is in the park.
+12 Is Julie in the office? 	no	11
+13 Fred moved to the park.
+14 Mary is in the cinema.
+15 Is Mary in the cinema? 	yes	14
+1 Fred is in the office.
+2 Bill travelled to the bedroom.
+3 Is Fred in the park? 	no	1
+4 Bill is in the school.
+5 Mary went to the office.
+6 Is Bill in the school? 	yes	4
+7 Bill is in the cinema.
+8 Bill is either in the bedroom or the cinema.
+9 Is Bill in the park? 	no	8
+10 Julie journeyed to the school.
+11 Fred is either in the park or the cinema.
+12 Is Bill in the bedroom? 	maybe	8
+13 Julie is in the cinema.
+14 Fred moved to the bedroom.
+15 Is Fred in the bedroom? 	yes	14
+1 Julie travelled to the office.
+2 Fred is either in the office or the park.
+3 Is Julie in the office? 	yes	1
+4 Fred went back to the school.
+5 Julie went back to the cinema.
+6 Is Fred in the park? 	no	4
+7 Fred moved to the kitchen.
+8 Bill is either in the cinema or the school.
+9 Is Fred in the office? 	no	7
+10 Mary moved to the office.
+11 Bill travelled to the bedroom.
+12 Is Julie in the school? 	no	5
+13 Julie went back to the bedroom.
+14 Mary is either in the park or the cinema.
+15 Is Julie in the kitchen? 	no	13
+1 Fred travelled to the bedroom.
+2 Fred is either in the park or the park.
+3 Is Fred in the school? 	no	2
+4 Bill went to the cinema.
+5 Fred is in the school.
+6 Is Fred in the school? 	yes	5
+7 Mary journeyed to the bedroom.
+8 Bill is in the kitchen.
+9 Is Mary in the bedroom? 	yes	7
+10 Bill is in the office.
+11 Julie went back to the school.
+12 Is Mary in the bedroom? 	yes	7
+13 Mary travelled to the school.
+14 Fred is in the kitchen.
+15 Is Mary in the school? 	yes	13
+1 Mary moved to the kitchen.
+2 Mary went back to the park.
+3 Is Mary in the park? 	yes	2
+4 Julie is in the park.
+5 Julie is in the kitchen.
+6 Is Julie in the school? 	no	5
+7 Fred journeyed to the kitchen.
+8 Julie journeyed to the office.
+9 Is Julie in the bedroom? 	no	8
+10 Bill is in the cinema.
+11 Julie moved to the park.
+12 Is Julie in the park? 	yes	11
+13 Fred moved to the bedroom.
+14 Bill is in the school.
+15 Is Bill in the school? 	yes	14
+1 Mary is either in the office or the bedroom.
+2 Fred moved to the kitchen.
+3 Is Fred in the cinema? 	no	2
+4 Bill moved to the cinema.
+5 Bill is either in the office or the school.
+6 Is Fred in the park? 	no	2
+7 Fred travelled to the cinema.
+8 Julie is either in the kitchen or the school.
+9 Is Fred in the cinema? 	yes	7
+10 Bill is in the cinema.
+11 Fred journeyed to the bedroom.
+12 Is Fred in the bedroom? 	yes	11
+13 Fred went to the park.
+14 Julie travelled to the bedroom.
+15 Is Julie in the bedroom? 	yes	14
+1 Fred is in the kitchen.
+2 Julie moved to the school.
+3 Is Julie in the school? 	yes	2
+4 Mary is in the cinema.
+5 Julie went back to the cinema.
+6 Is Mary in the bedroom? 	no	4
+7 Fred is either in the school or the office.
+8 Bill is in the bedroom.
+9 Is Fred in the cinema? 	no	7
+10 Mary is in the bedroom.
+11 Julie moved to the kitchen.
+12 Is Mary in the bedroom? 	yes	10
+13 Mary went back to the kitchen.
+14 Julie is either in the park or the bedroom.
+15 Is Julie in the kitchen? 	no	14
+1 Mary is either in the park or the office.
+2 Mary is in the school.
+3 Is Mary in the school? 	yes	2
+4 Bill went to the office.
+5 Bill travelled to the bedroom.
+6 Is Bill in the bedroom? 	yes	5
+7 Julie is in the park.
+8 Julie is in the office.
+9 Is Bill in the office? 	no	5
+10 Julie went to the bedroom.
+11 Mary is in the bedroom.
+12 Is Julie in the school? 	no	10
+13 Bill travelled to the kitchen.
+14 Mary travelled to the cinema.
+15 Is Julie in the bedroom? 	yes	10
+1 Julie travelled to the office.
+2 Julie travelled to the kitchen.
+3 Is Julie in the kitchen? 	yes	2
+4 Fred is either in the office or the school.
+5 Mary is in the bedroom.
+6 Is Julie in the park? 	no	2
+7 Julie journeyed to the bedroom.
+8 Julie journeyed to the office.
+9 Is Julie in the park? 	no	8
+10 Julie journeyed to the school.
+11 Julie is either in the cinema or the office.
+12 Is Julie in the cinema? 	maybe	11
+13 Bill is in the office.
+14 Julie is in the park.
+15 Is Julie in the park? 	yes	14
+1 Julie is either in the kitchen or the bedroom.
+2 Bill is in the park.
+3 Is Bill in the office? 	no	2
+4 Mary is either in the kitchen or the kitchen.
+5 Fred is either in the school or the school.
+6 Is Julie in the kitchen? 	maybe	1
+7 Mary is in the school.
+8 Mary is in the park.
+9 Is Bill in the park? 	yes	2
+10 Julie is in the park.
+11 Fred is in the park.
+12 Is Fred in the office? 	no	11
+13 Fred journeyed to the office.
+14 Bill is either in the bedroom or the office.
+15 Is Fred in the cinema? 	no	13
+1 Julie is in the office.
+2 Fred moved to the kitchen.
+3 Is Fred in the school? 	no	2
+4 Bill is in the park.
+5 Julie is either in the school or the school.
+6 Is Julie in the school? 	maybe	5
+7 Julie went back to the bedroom.
+8 Bill went to the school.
+9 Is Julie in the bedroom? 	yes	7
+10 Julie is either in the cinema or the kitchen.
+11 Mary moved to the school.
+12 Is Bill in the school? 	yes	8
+13 Fred went to the cinema.
+14 Fred moved to the school.
+15 Is Mary in the cinema? 	no	11
+1 Julie moved to the park.
+2 Julie is either in the cinema or the school.
+3 Is Julie in the bedroom? 	no	2
+4 Bill is either in the kitchen or the kitchen.
+5 Julie is in the kitchen.
+6 Is Julie in the school? 	no	5
+7 Mary is in the school.
+8 Bill went to the office.
+9 Is Mary in the school? 	yes	7
+10 Fred is either in the bedroom or the kitchen.
+11 Bill moved to the kitchen.
+12 Is Fred in the bedroom? 	maybe	10
+13 Fred is either in the school or the school.
+14 Fred travelled to the bedroom.
+15 Is Bill in the kitchen? 	yes	11
+1 Julie moved to the cinema.
+2 Mary is either in the park or the park.
+3 Is Julie in the cinema? 	yes	1
+4 Julie is either in the school or the cinema.
+5 Julie went to the bedroom.
+6 Is Julie in the bedroom? 	yes	5
+7 Fred is either in the school or the kitchen.
+8 Julie went back to the office.
+9 Is Julie in the office? 	yes	8
+10 Mary journeyed to the office.
+11 Fred is in the bedroom.
+12 Is Fred in the cinema? 	no	11
+13 Mary journeyed to the cinema.
+14 Bill is either in the park or the cinema.
+15 Is Bill in the bedroom? 	no	14
+1 Mary is either in the cinema or the kitchen.
+2 Bill is in the office.
+3 Is Mary in the office? 	no	1
+4 Fred is in the office.
+5 Mary is either in the bedroom or the school.
+6 Is Bill in the cinema? 	no	2
+7 Bill is either in the school or the park.
+8 Bill is in the cinema.
+9 Is Bill in the cinema? 	yes	8
+10 Julie is either in the bedroom or the kitchen.
+11 Julie is either in the kitchen or the office.
+12 Is Julie in the kitchen? 	maybe	11
+13 Julie travelled to the cinema.
+14 Julie travelled to the office.
+15 Is Julie in the cinema? 	no	14
+1 Fred moved to the bedroom.
+2 Julie is in the school.
+3 Is Fred in the office? 	no	1
+4 Fred is in the school.
+5 Mary travelled to the kitchen.
+6 Is Julie in the school? 	yes	2
+7 Mary is in the office.
+8 Fred moved to the bedroom.
+9 Is Fred in the bedroom? 	yes	8
+10 Bill is either in the cinema or the bedroom.
+11 Fred is in the school.
+12 Is Fred in the office? 	no	11
+13 Fred is in the bedroom.
+14 Fred is either in the kitchen or the office.
+15 Is Bill in the kitchen? 	no	10
+1 Fred journeyed to the office.
+2 Bill is in the cinema.
+3 Is Fred in the bedroom? 	no	1
+4 Julie travelled to the cinema.
+5 Fred moved to the school.
+6 Is Fred in the kitchen? 	no	5
+7 Julie is in the park.
+8 Bill moved to the kitchen.
+9 Is Julie in the kitchen? 	no	7
+10 Mary is in the cinema.
+11 Fred went to the cinema.
+12 Is Fred in the cinema? 	yes	11
+13 Bill travelled to the cinema.
+14 Mary travelled to the kitchen.
+15 Is Mary in the school? 	no	14
+1 Julie is in the park.
+2 Bill is either in the school or the park.
+3 Is Bill in the school? 	maybe	2
+4 Mary is either in the cinema or the park.
+5 Mary is in the kitchen.
+6 Is Bill in the bedroom? 	no	2
+7 Julie is in the school.
+8 Bill is in the bedroom.
+9 Is Mary in the kitchen? 	yes	5
+10 Mary went back to the park.
+11 Mary went to the school.
+12 Is Mary in the kitchen? 	no	11
+13 Julie is in the kitchen.
+14 Mary is in the park.
+15 Is Mary in the office? 	no	14
+1 Bill is either in the cinema or the school.
+2 Fred went to the bedroom.
+3 Is Fred in the school? 	no	2
+4 Julie journeyed to the park.
+5 Julie travelled to the kitchen.
+6 Is Fred in the cinema? 	no	2
+7 Bill moved to the cinema.
+8 Julie moved to the school.
+9 Is Julie in the bedroom? 	no	8
+10 Mary is either in the bedroom or the park.
+11 Bill went to the office.
+12 Is Bill in the kitchen? 	no	11
+13 Mary moved to the cinema.
+14 Julie is in the cinema.
+15 Is Mary in the bedroom? 	no	13
+1 Bill went to the school.
+2 Fred is in the park.
+3 Is Bill in the school? 	yes	1
+4 Mary is in the office.
+5 Julie moved to the office.
+6 Is Fred in the park? 	yes	2
+7 Mary went to the cinema.
+8 Bill moved to the kitchen.
+9 Is Fred in the kitchen? 	no	2
+10 Mary is in the kitchen.
+11 Fred is in the cinema.
+12 Is Bill in the cinema? 	no	8
+13 Mary is in the park.
+14 Fred is either in the kitchen or the kitchen.
+15 Is Fred in the park? 	no	14
+1 Fred travelled to the bedroom.
+2 Bill is in the bedroom.
+3 Is Fred in the office? 	no	1
+4 Fred went back to the cinema.
+5 Bill is either in the park or the kitchen.
+6 Is Fred in the kitchen? 	no	4
+7 Mary moved to the park.
+8 Mary is in the office.
+9 Is Mary in the office? 	yes	8
+10 Mary went to the cinema.
+11 Mary moved to the office.
+12 Is Bill in the park? 	maybe	5
+13 Mary travelled to the cinema.
+14 Mary went back to the office.
+15 Is Mary in the cinema? 	no	14
+1 Fred journeyed to the bedroom.
+2 Bill is either in the cinema or the bedroom.
+3 Is Bill in the bedroom? 	maybe	2
+4 Mary is either in the office or the bedroom.
+5 Mary travelled to the kitchen.
+6 Is Mary in the kitchen? 	yes	5
+7 Mary is in the school.
+8 Fred is in the park.
+9 Is Mary in the cinema? 	no	7
+10 Bill journeyed to the park.
+11 Mary went back to the park.
+12 Is Bill in the cinema? 	no	10
+13 Mary went back to the office.
+14 Bill is either in the bedroom or the cinema.
+15 Is Mary in the office? 	yes	13
+1 Mary is either in the park or the park.
+2 Julie is either in the bedroom or the cinema.
+3 Is Julie in the cinema? 	maybe	2
+4 Fred travelled to the cinema.
+5 Bill went back to the office.
+6 Is Fred in the cinema? 	yes	4
+7 Mary is either in the cinema or the office.
+8 Bill is in the school.
+9 Is Bill in the school? 	yes	8
+10 Julie is in the school.
+11 Julie moved to the cinema.
+12 Is Bill in the park? 	no	8
+13 Julie is in the bedroom.
+14 Mary journeyed to the park.
+15 Is Bill in the school? 	yes	8
+1 Julie is in the park.
+2 Bill moved to the office.
+3 Is Bill in the cinema? 	no	2
+4 Fred is either in the bedroom or the school.
+5 Fred journeyed to the park.
+6 Is Bill in the office? 	yes	2
+7 Julie went back to the office.
+8 Bill is either in the park or the office.
+9 Is Fred in the school? 	no	5
+10 Fred is in the bedroom.
+11 Julie journeyed to the kitchen.
+12 Is Bill in the park? 	maybe	8
+13 Julie is in the park.
+14 Fred is in the park.
+15 Is Julie in the cinema? 	no	13
+1 Julie is either in the school or the park.
+2 Fred journeyed to the bedroom.
+3 Is Fred in the kitchen? 	no	2
+4 Fred went back to the school.
+5 Bill went back to the office.
+6 Is Fred in the office? 	no	4
+7 Mary is in the kitchen.
+8 Bill is in the park.
+9 Is Bill in the park? 	yes	8
+10 Fred is either in the bedroom or the school.
+11 Julie travelled to the office.
+12 Is Mary in the kitchen? 	yes	7
+13 Mary is in the school.
+14 Fred travelled to the office.
+15 Is Fred in the kitchen? 	no	14
+1 Bill moved to the park.
+2 Mary is in the park.
+3 Is Bill in the park? 	yes	1
+4 Bill travelled to the office.
+5 Bill is in the school.
+6 Is Bill in the school? 	yes	5
+7 Fred went to the park.
+8 Bill travelled to the cinema.
+9 Is Bill in the cinema? 	yes	8
+10 Bill is in the park.
+11 Bill went to the bedroom.
+12 Is Fred in the park? 	yes	7
+13 Bill travelled to the park.
+14 Bill is either in the cinema or the cinema.
+15 Is Bill in the office? 	no	14
+1 Mary is either in the cinema or the park.
+2 Fred moved to the bedroom.
+3 Is Mary in the school? 	no	1
+4 Bill is in the office.
+5 Mary is in the school.
+6 Is Mary in the kitchen? 	no	5
+7 Fred is in the park.
+8 Fred is either in the kitchen or the cinema.
+9 Is Fred in the bedroom? 	no	8
+10 Bill is either in the kitchen or the kitchen.
+11 Fred moved to the bedroom.
+12 Is Mary in the kitchen? 	no	5
+13 Mary journeyed to the park.
+14 Julie went back to the cinema.
+15 Is Fred in the bedroom? 	yes	11
+1 Bill is either in the school or the cinema.
+2 Bill is either in the kitchen or the office.
+3 Is Bill in the office? 	maybe	2
+4 Fred went to the bedroom.
+5 Julie went back to the office.
+6 Is Bill in the office? 	maybe	2
+7 Julie is in the bedroom.
+8 Julie moved to the office.
+9 Is Julie in the kitchen? 	no	8
+10 Julie journeyed to the kitchen.
+11 Bill went back to the bedroom.
+12 Is Julie in the bedroom? 	no	10
+13 Bill is in the park.
+14 Mary is in the bedroom.
+15 Is Bill in the cinema? 	no	13
+1 Fred is either in the cinema or the park.
+2 Bill is in the office.
+3 Is Bill in the kitchen? 	no	2
+4 Julie is either in the kitchen or the kitchen.
+5 Bill is either in the bedroom or the school.
+6 Is Bill in the cinema? 	no	5
+7 Bill went back to the office.
+8 Fred is either in the cinema or the kitchen.
+9 Is Bill in the office? 	yes	7
+10 Bill went back to the kitchen.
+11 Fred is either in the park or the park.
+12 Is Bill in the park? 	no	10
+13 Fred journeyed to the kitchen.
+14 Fred journeyed to the bedroom.
+15 Is Fred in the office? 	no	14
+1 Julie went back to the school.
+2 Julie went back to the kitchen.
+3 Is Julie in the kitchen? 	yes	2
+4 Bill is in the office.
+5 Mary went to the bedroom.
+6 Is Julie in the school? 	no	2
+7 Julie is either in the school or the bedroom.
+8 Julie journeyed to the school.
+9 Is Julie in the bedroom? 	no	8
+10 Julie moved to the bedroom.
+11 Bill moved to the school.
+12 Is Bill in the school? 	yes	11
+13 Bill is in the kitchen.
+14 Fred is either in the kitchen or the school.
+15 Is Fred in the school? 	maybe	14
+1 Mary is either in the bedroom or the bedroom.
+2 Mary is either in the cinema or the school.
+3 Is Mary in the school? 	maybe	2
+4 Mary went back to the park.
+5 Mary is in the school.
+6 Is Mary in the kitchen? 	no	5
+7 Julie is in the park.
+8 Fred is in the kitchen.
+9 Is Fred in the school? 	no	8
+10 Bill travelled to the office.
+11 Mary journeyed to the kitchen.
+12 Is Mary in the kitchen? 	yes	11
+13 Bill journeyed to the school.
+14 Julie moved to the cinema.
+15 Is Fred in the kitchen? 	yes	8
+1 Mary went back to the park.
+2 Bill is either in the office or the cinema.
+3 Is Mary in the office? 	no	1
+4 Fred went back to the office.
+5 Mary is either in the school or the bedroom.
+6 Is Mary in the cinema? 	no	5
+7 Mary travelled to the park.
+8 Julie travelled to the bedroom.
+9 Is Mary in the park? 	yes	7
+10 Fred went to the cinema.
+11 Bill went to the cinema.
+12 Is Fred in the kitchen? 	no	10
+13 Julie journeyed to the park.
+14 Mary is in the school.
+15 Is Julie in the cinema? 	no	13
+1 Julie is either in the bedroom or the bedroom.
+2 Bill is in the park.
+3 Is Bill in the bedroom? 	no	2
+4 Fred travelled to the park.
+5 Julie is in the school.
+6 Is Julie in the school? 	yes	5
+7 Fred is either in the cinema or the school.
+8 Fred is in the park.
+9 Is Bill in the park? 	yes	2
+10 Fred went back to the bedroom.
+11 Bill went to the bedroom.
+12 Is Fred in the bedroom? 	yes	10
+13 Fred journeyed to the cinema.
+14 Julie travelled to the bedroom.
+15 Is Fred in the cinema? 	yes	13
+1 Bill is either in the bedroom or the school.
+2 Bill is either in the school or the kitchen.
+3 Is Bill in the kitchen? 	maybe	2
+4 Bill travelled to the bedroom.
+5 Bill is either in the bedroom or the park.
+6 Is Bill in the cinema? 	no	5
+7 Julie is in the park.
+8 Bill went to the office.
+9 Is Julie in the park? 	yes	7
+10 Mary travelled to the park.
+11 Julie is either in the bedroom or the school.
+12 Is Bill in the office? 	yes	8
+13 Fred is in the cinema.
+14 Mary journeyed to the school.
+15 Is Mary in the school? 	yes	14
+1 Mary is either in the school or the bedroom.
+2 Fred is either in the school or the kitchen.
+3 Is Mary in the bedroom? 	maybe	1
+4 Mary is in the office.
+5 Bill went back to the cinema.
+6 Is Mary in the office? 	yes	4
+7 Fred is in the park.
+8 Julie is in the school.
+9 Is Fred in the park? 	yes	7
+10 Mary is either in the cinema or the bedroom.
+11 Julie travelled to the office.
+12 Is Bill in the bedroom? 	no	5
+13 Julie moved to the kitchen.
+14 Bill is either in the office or the kitchen.
+15 Is Mary in the bedroom? 	maybe	10
+1 Fred journeyed to the office.
+2 Julie journeyed to the park.
+3 Is Fred in the office? 	yes	1
+4 Fred is in the cinema.
+5 Fred is in the office.
+6 Is Fred in the office? 	yes	5
+7 Julie travelled to the bedroom.
+8 Bill went to the kitchen.
+9 Is Bill in the cinema? 	no	8
+10 Julie went to the cinema.
+11 Fred is in the school.
+12 Is Fred in the kitchen? 	no	11
+13 Fred is in the park.
+14 Julie is in the bedroom.
+15 Is Julie in the cinema? 	no	14
+1 Fred moved to the cinema.
+2 Bill is in the cinema.
+3 Is Bill in the cinema? 	yes	2
+4 Mary is either in the kitchen or the bedroom.
+5 Mary journeyed to the office.
+6 Is Mary in the office? 	yes	5
+7 Fred journeyed to the office.
+8 Julie went back to the park.
+9 Is Bill in the park? 	no	2
+10 Bill is either in the park or the school.
+11 Fred is either in the park or the school.
+12 Is Fred in the bedroom? 	no	11
+13 Fred is either in the office or the bedroom.
+14 Julie is either in the office or the school.
+15 Is Julie in the kitchen? 	no	14
+1 Bill moved to the office.
+2 Bill journeyed to the cinema.
+3 Is Bill in the cinema? 	yes	2
+4 Julie is in the bedroom.
+5 Mary is either in the kitchen or the kitchen.
+6 Is Mary in the kitchen? 	maybe	5
+7 Julie travelled to the cinema.
+8 Fred moved to the kitchen.
+9 Is Julie in the park? 	no	7
+10 Fred is either in the school or the office.
+11 Fred is in the cinema.
+12 Is Mary in the bedroom? 	no	5
+13 Fred travelled to the school.
+14 Fred went to the park.
+15 Is Fred in the park? 	yes	14
+1 Fred went to the bedroom.
+2 Julie is either in the kitchen or the kitchen.
+3 Is Julie in the cinema? 	no	2
+4 Julie went back to the cinema.
+5 Julie moved to the kitchen.
+6 Is Fred in the park? 	no	1
+7 Bill is in the park.
+8 Julie went to the bedroom.
+9 Is Julie in the bedroom? 	yes	8
+10 Fred is in the cinema.
+11 Bill travelled to the office.
+12 Is Julie in the bedroom? 	yes	8
+13 Fred went to the kitchen.
+14 Fred travelled to the bedroom.
+15 Is Bill in the bedroom? 	no	11
+1 Mary went to the office.
+2 Julie is in the park.
+3 Is Julie in the park? 	yes	2
+4 Mary travelled to the kitchen.
+5 Fred is either in the park or the office.
+6 Is Mary in the school? 	no	4
+7 Fred went back to the cinema.
+8 Mary journeyed to the office.
+9 Is Mary in the office? 	yes	8
+10 Mary is in the school.
+11 Bill is in the cinema.
+12 Is Fred in the park? 	no	7
+13 Mary is in the park.
+14 Bill is either in the park or the park.
+15 Is Mary in the park? 	yes	13
+1 Fred journeyed to the bedroom.
+2 Mary is in the school.
+3 Is Mary in the school? 	yes	2
+4 Bill is in the office.
+5 Julie moved to the bedroom.
+6 Is Fred in the bedroom? 	yes	1
+7 Mary is in the cinema.
+8 Bill went back to the bedroom.
+9 Is Bill in the office? 	no	8
+10 Fred went back to the park.
+11 Julie travelled to the school.
+12 Is Bill in the bedroom? 	yes	8
+13 Julie travelled to the office.
+14 Bill is in the office.
+15 Is Bill in the office? 	yes	14
+1 Julie moved to the office.
+2 Julie is in the bedroom.
+3 Is Julie in the school? 	no	2
+4 Mary is either in the kitchen or the bedroom.
+5 Mary journeyed to the kitchen.
+6 Is Mary in the kitchen? 	yes	5
+7 Julie is either in the office or the office.
+8 Fred is either in the kitchen or the bedroom.
+9 Is Mary in the cinema? 	no	5
+10 Julie travelled to the park.
+11 Mary is in the park.
+12 Is Mary in the school? 	no	11
+13 Julie went to the kitchen.
+14 Fred moved to the cinema.
+15 Is Julie in the kitchen? 	yes	13
+1 Mary travelled to the bedroom.
+2 Mary moved to the school.
+3 Is Mary in the park? 	no	2
+4 Bill journeyed to the cinema.
+5 Fred is either in the cinema or the kitchen.
+6 Is Fred in the school? 	no	5
+7 Fred is in the park.
+8 Julie is either in the school or the cinema.
+9 Is Bill in the cinema? 	yes	4
+10 Bill is either in the bedroom or the office.
+11 Mary journeyed to the cinema.
+12 Is Fred in the park? 	yes	7
+13 Mary went back to the bedroom.
+14 Julie is in the office.
+15 Is Bill in the bedroom? 	maybe	10
+1 Mary is either in the bedroom or the cinema.
+2 Mary went to the bedroom.
+3 Is Mary in the park? 	no	2
+4 Bill is in the bedroom.
+5 Fred is either in the bedroom or the school.
+6 Is Mary in the kitchen? 	no	2
+7 Fred went to the bedroom.
+8 Bill journeyed to the school.
+9 Is Bill in the bedroom? 	no	8
+10 Mary travelled to the cinema.
+11 Fred is in the park.
+12 Is Fred in the park? 	yes	11
+13 Mary is either in the bedroom or the office.
+14 Fred is in the kitchen.
+15 Is Mary in the office? 	maybe	13

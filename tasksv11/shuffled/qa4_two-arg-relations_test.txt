@@ -1,0 +1,3000 @@
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	phaxbby	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	phaxbby	2
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh keqozhm?	phaxbby	1
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ptqzxbby jhlq bs?	rtxahm	1
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ptqzxbby	2
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh bsseoh?	keqozhm	1
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh ztuujti?	bsseoh	1
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh keqozhm.
+2 Rzh bsseoh el mbxqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	rtxahm	1
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	1
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	rtxahm	2
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh phaxbby?	rtxahm	1
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	2
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	1
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh keqozhm el mbxqz bs qzh phaxbby.
+2 Rzh rtxahm el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	rtxahm	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	rtxahm	1
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	rtxahm	2
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	rtxahm	2
+1 Rzh keqozhm el lbdqz bs qzh phaxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	2
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ztuujti	1
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh bsseoh el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh phaxbby?	bsseoh	1
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+2 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	rtxahm	1
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh keqozhm?	phaxbby	1
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	keqozhm	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	keqozhm	1
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	phaxbby	2
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh ptqzxbby htlq bs?	rtxahm	1
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ztuujti?	bsseoh	1
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	phaxbby	2
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh ptqzxbby htlq bs?	phaxbby	1
+1 Rzh bsseoh el lbdqz bs qzh keqozhm.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	bsseoh	2
+1 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+2 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh keqozhm?	ptqzxbby	1
+1 Rzh phaxbby el jhlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh bsseoh?	phaxbby	1
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh rtxahm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	rtxahm	2
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	rtxahm	1
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ztuujti	2
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh bsseoh?	rtxahm	1
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh phaxbby?	rtxahm	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	rtxahm	1
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh ztuujti mbxqz bs?	phaxbby	1
+1 Rzh bsseoh el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	1
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh keqozhm.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ztuujti	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	1
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	phaxbby	2
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh phaxbby?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	phaxbby	2
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh phaxbby mbxqz bs?	bsseoh	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ptqzxbby	2
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	bsseoh	2
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	1
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ptqzxbby	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	ptqzxbby	2
+1 Rzh rtxahm el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	phaxbby	2
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh bsseoh?	ptqzxbby	1
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh rtxahm?	keqozhm	1
+1 Rzh bsseoh el lbdqz bs qzh keqozhm.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ztuujti	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	rtxahm	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el qzh phaxbby jhlq bs?	bsseoh	1
+1 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh jhlq bs?	rtxahm	1
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	ptqzxbby	2
+1 Rzh bsseoh el jhlq bs qzh rtxahm.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh rtxahm?	bsseoh	1
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh ptqzxbby?	rtxahm	1
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ptqzxbby	2
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	keqozhm	1
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el qzh ptqzxbby lbdqz bs?	bsseoh	1
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	bsseoh	2
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh bsseoh?	phaxbby	1
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ptqzxbby	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	rtxahm	2
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	2
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	phaxbby	1
+1 Rzh bsseoh el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	2
+1 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh keqozhm mbxqz bs?	ptqzxbby	1
+1 Rzh phaxbby el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	2
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh ztuujti?	phaxbby	1
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	2
+1 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	phaxbby	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	ptqzxbby	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh rtxahm el htlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	1
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh keqozhm lbdqz bs?	bsseoh	1
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti jhlq bs?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh keqozhm lbdqz bs?	ztuujti	1
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh phaxbby el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ztuujti	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	phaxbby	2
+1 Rzh bsseoh el jhlq bs qzh rtxahm.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	bsseoh	1
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	phaxbby	1
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el qzh rtxahm jhlq bs?	phaxbby	1
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	1
+1 Rzh bsseoh el jhlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh ztuujti?	bsseoh	1
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	phaxbby	1
+1 Rzh phaxbby el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	keqozhm	2
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh ztuujti?	ptqzxbby	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ptqzxbby	2
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh rtxahm?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	2
+1 Rzh phaxbby el mbxqz bs qzh keqozhm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	rtxahm	2
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	rtxahm	2
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	keqozhm	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	keqozhm	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	ptqzxbby	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	bsseoh	2
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	1
+1 Rzh phaxbby el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	2
+1 Rzh keqozhm el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	2
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	ztuujti	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	1
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	bsseoh	1
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	ptqzxbby	2
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh keqozhm el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el qzh bsseoh lbdqz bs?	keqozhm	1
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh keqozhm mbxqz bs?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ztuujti	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	ztuujti	2
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ztuujti?	ptqzxbby	1
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	rtxahm	2
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el qzh ptqzxbby htlq bs?	keqozhm	1
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh bsseoh el mbxqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	ztuujti	1
+1 Rzh phaxbby el mbxqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	ztuujti	2
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh phaxbby jhlq bs?	rtxahm	1
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	bsseoh	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	rtxahm	1
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	phaxbby	2
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh phaxbby el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	ztuujti	1
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	1
+1 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ztuujti	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	1
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	1
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh ztuujti?	bsseoh	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	1
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	2
+1 Rzh bsseoh el mbxqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	2
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh ztuujti jhlq bs?	ptqzxbby	1
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh ptqzxbby mbxqz bs?	ztuujti	1
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	ptqzxbby	2
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ztuujti	2
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	ztuujti	2
+1 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	keqozhm	2
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ptqzxbby	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	1
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	ptqzxbby	1
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh bsseoh el htlq bs qzh rtxahm.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	phaxbby	2
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh bsseoh jhlq bs?	rtxahm	1
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	keqozhm	2
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	1
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	ptqzxbby	2
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ptqzxbby	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	phaxbby	2
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	bsseoh	1
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh rtxahm?	phaxbby	1
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	keqozhm	1
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh keqozhm lbdqz bs?	bsseoh	1
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh ztuujti?	rtxahm	1
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	keqozhm	2
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	phaxbby	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el qzh ptqzxbby mbxqz bs?	bsseoh	1
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	bsseoh	1
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	rtxahm	2
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	rtxahm	1
+1 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh keqozhm?	ptqzxbby	1
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	bsseoh	2
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh phaxbby?	bsseoh	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ztuujti	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ztuujti?	phaxbby	1
+1 Rzh phaxbby el jhlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh bsseoh?	phaxbby	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	2
+1 Rzh keqozhm el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	bsseoh	2
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	1
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh rtxahm?	keqozhm	1
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	phaxbby	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	keqozhm	2
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	2
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	1
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ztuujti	2
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh phaxbby el lbdqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	rtxahm	2
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	ztuujti	2
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	phaxbby	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	2
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh phaxbby?	keqozhm	1
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	bsseoh	2
+1 Rzh rtxahm el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	2
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	bsseoh	2
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	rtxahm	2
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	1
+1 Rzh bsseoh el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	bsseoh	1
+1 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	bsseoh	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	rtxahm	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	bsseoh	2
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh ztuujti jhlq bs?	phaxbby	1
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	2
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	bsseoh	2
+1 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	2
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	ptqzxbby	2
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	keqozhm	2
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	1
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	1
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	rtxahm	1
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	bsseoh	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	1
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	keqozhm	2
+1 Rzh rtxahm el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh phaxbby?	rtxahm	1
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ztuujti	1
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	phaxbby	2
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh ztuujti?	ptqzxbby	1
+1 Rzh keqozhm el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh phaxbby lbdqz bs?	keqozhm	1
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ztuujti	1
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	keqozhm	1
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	bsseoh	2
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	2
+1 Rzh rtxahm el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	ptqzxbby	2
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	phaxbby	1
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	bsseoh	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	2
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	ztuujti	2
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	1
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti lbdqz bs?	rtxahm	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	1
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh phaxbby?	ptqzxbby	1
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh rtxahm el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	rtxahm	2
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh ptqzxbby?	rtxahm	1
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh phaxbby jhlq bs?	rtxahm	1
+1 Rzh ztuujti el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	rtxahm	2
+1 Rzh keqozhm el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ptqzxbby	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	bsseoh	2
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	1
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	keqozhm	2
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	bsseoh	2
+1 Rzh keqozhm el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	ptqzxbby	2
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	phaxbby	2
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	rtxahm	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh bsseoh?	phaxbby	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	phaxbby	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh htlq bs?	rtxahm	1
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh ztuujti jhlq bs?	keqozhm	1
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh ptqzxbby?	rtxahm	1
+1 Rzh bsseoh el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	rtxahm	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	phaxbby	1
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh rtxahm el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	1
+1 Rzh keqozhm el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	bsseoh	2
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	bsseoh	2
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	phaxbby	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	1
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	phaxbby	2
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	ztuujti	1
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ptqzxbby	2
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	rtxahm	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el qzh rtxahm jhlq bs?	ptqzxbby	1
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	ztuujti	2
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	2
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ptqzxbby	1
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	bsseoh	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh rtxahm?	ztuujti	1
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	ptqzxbby	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	1
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	keqozhm	2
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	2
+1 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh bsseoh?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	rtxahm	2
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh bsseoh?	rtxahm	1
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	ptqzxbby	2
+1 Rzh bsseoh el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh rtxahm lbdqz bs?	bsseoh	1
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ztuujti	1
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	phaxbby	1
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	2
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	2
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	rtxahm	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	1
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh rtxahm mbxqz bs?	ptqzxbby	1
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh ztuujti mbxqz bs?	rtxahm	1
+1 Rzh bsseoh el jhlq bs qzh keqozhm.
+2 Rzh ztuujti el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	ztuujti	2
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	ptqzxbby	2
+1 Rzh phaxbby el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el qzh keqozhm mbxqz bs?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	phaxbby	2
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh bsseoh el mbxqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	1
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh bsseoh?	ztuujti	1
+1 Rzh keqozhm el mbxqz bs qzh bsseoh.
+2 Rzh phaxbby el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	phaxbby	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	1
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh ztuujti el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	ptqzxbby	1
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	1
+1 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	phaxbby	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh ztuujti.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	1
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh phaxbby?	ztuujti	1
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh phaxbby?	rtxahm	1
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	keqozhm	1
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ptqzxbby	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	ptqzxbby	2
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	bsseoh	2
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	bsseoh	2
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh keqozhm?	ptqzxbby	1
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh jhlq bs?	keqozhm	1
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	rtxahm	2
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh phaxbby.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	bsseoh	2
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ztuujti	2
+1 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	ptqzxbby	1
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	1
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh rtxahm?	phaxbby	1
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	ptqzxbby	2
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	2
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	phaxbby	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ztuujti	1
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	keqozhm	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh rtxahm?	keqozhm	1
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	rtxahm	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	phaxbby	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ptqzxbby	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	phaxbby	1
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	phaxbby	1
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	keqozhm	2
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	1
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	rtxahm	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	1
+1 Rzh bsseoh el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	phaxbby	1
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	1
+1 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh ztuujti?	ptqzxbby	1
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	rtxahm	2
+1 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+2 Rzh phaxbby el lbdqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ptqzxbby	1
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	2
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	bsseoh	1
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ptqzxbby	1
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	ztuujti	1
+1 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti mbxqz bs?	ptqzxbby	1
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh bsseoh lbdqz bs?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	bsseoh	2
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	keqozhm	2
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	keqozhm	2
+1 Rzh bsseoh el htlq bs qzh rtxahm.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	bsseoh	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	rtxahm	2
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	bsseoh	2
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el qzh ztuujti lbdqz bs?	ptqzxbby	1
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh rtxahm mbxqz bs?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	keqozhm	1
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	phaxbby	1
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	keqozhm	2
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh keqozhm?	rtxahm	1
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh rtxahm el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	1
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	rtxahm	2
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ptqzxbby	1
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	phaxbby	1
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh bsseoh lbdqz bs?	rtxahm	1
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	ptqzxbby	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	keqozhm	2
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh bsseoh?	phaxbby	1
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	ptqzxbby	1
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	phaxbby	1
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	bsseoh	2
+1 Rzh rtxahm el lbdqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	rtxahm	2
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	rtxahm	2
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	1
+1 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	ztuujti	2
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	phaxbby	2
+1 Rzh bsseoh el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	keqozhm	2
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	phaxbby	2
+1 Rzh phaxbby el lbdqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh keqozhm?	phaxbby	1
+1 Rzh keqozhm el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	keqozhm	2
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh ztuujti?	phaxbby	1
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	keqozhm	2
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh bsseoh el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh rtxahm?	bsseoh	1
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	rtxahm	2
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	1
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ptqzxbby el htlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	rtxahm	1
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	bsseoh	1
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	keqozhm	2
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	ztuujti	2
+1 Rzh ztuujti el htlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	bsseoh	2
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ztuujti?	ptqzxbby	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el qzh rtxahm jhlq bs?	ptqzxbby	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh bsseoh?	phaxbby	1
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ztuujti	2
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	keqozhm	2
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh keqozhm.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	1
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	ptqzxbby	2
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	1
+1 Rzh rtxahm el lbdqz bs qzh phaxbby.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh keqozhm htlq bs?	phaxbby	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh phaxbby el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	phaxbby	2
+1 Rzh ztuujti el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	ztuujti	1
+1 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+2 Rzh bsseoh el mbxqz bs qzh keqozhm.
+3 Mztq el qzh bsseoh lbdqz bs?	ptqzxbby	1
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ztuujti	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh keqozhm.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	rtxahm	1
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh rtxahm?	bsseoh	1
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	phaxbby	2
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh phaxbby?	ztuujti	1
+1 Rzh bsseoh el mbxqz bs qzh phaxbby.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	bsseoh	1
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh bsseoh mbxqz bs?	phaxbby	1
+1 Rzh keqozhm el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh htlq bs?	keqozhm	1
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	bsseoh	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	phaxbby	1
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh ztuujti jhlq bs?	phaxbby	1
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	rtxahm	1
+1 Rzh phaxbby el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	phaxbby	1
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	phaxbby	1
+1 Rzh rtxahm el lbdqz bs qzh keqozhm.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ptqzxbby	2
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	bsseoh	2
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh htlq bs?	ztuujti	1
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ztuujti	2
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	1
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	rtxahm	2
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	ptqzxbby	2
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	rtxahm	2
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	bsseoh	1
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh ztuujti?	bsseoh	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	rtxahm	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	1
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	rtxahm	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	bsseoh	2
+1 Rzh bsseoh el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh bsseoh?	ztuujti	1
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh phaxbby?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	bsseoh	2
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	rtxahm	2
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	keqozhm	2
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	keqozhm	1
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	1
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ptqzxbby lbdqz bs?	ztuujti	1
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	rtxahm	1
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh keqozhm?	rtxahm	1
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	bsseoh	2
+1 Rzh keqozhm el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ztuujti	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	2
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh phaxbby el lbdqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	bsseoh	1
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	1
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh ptqzxbby?	ztuujti	1
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	bsseoh	1
+1 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	ptqzxbby	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh phaxbby?	ztuujti	1
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	1
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	bsseoh	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	keqozhm	1
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ptqzxbby	2
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	rtxahm	1
+1 Rzh bsseoh el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	keqozhm	2
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	phaxbby	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ztuujti	2
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	phaxbby	1
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	keqozhm	1
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ptqzxbby	2
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	ptqzxbby	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh rtxahm?	phaxbby	1
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	keqozhm	2
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ptqzxbby	2
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	2
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	phaxbby	2
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	bsseoh	1
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	bsseoh	2
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh keqozhm.
+2 Rzh rtxahm el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	rtxahm	2
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	keqozhm	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el qzh phaxbby jhlq bs?	bsseoh	1
+1 Rzh ztuujti el htlq bs qzh keqozhm.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	keqozhm	2
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	bsseoh	1
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	2
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh phaxbby?	rtxahm	1
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	keqozhm	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	bsseoh	2
+1 Rzh bsseoh el lbdqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	bsseoh	1
+1 Rzh ptqzxbby el htlq bs qzh keqozhm.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el qzh keqozhm jhlq bs?	ptqzxbby	1
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	ztuujti	2
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	2
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh ztuujti?	bsseoh	1
+1 Rzh phaxbby el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh bsseoh?	phaxbby	1
+1 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	bsseoh	1
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	ptqzxbby	2
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ptqzxbby	2
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	keqozhm	2
+1 Rzh keqozhm el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	ztuujti	2
+1 Rzh rtxahm el lbdqz bs qzh keqozhm.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	2
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	phaxbby	2
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh rtxahm?	ztuujti	1
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh keqozhm jhlq bs?	bsseoh	1
+1 Rzh keqozhm el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	keqozhm	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el qzh phaxbby lbdqz bs?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh ztuujti el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	ztuujti	2
+1 Rzh keqozhm el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh phaxbby mbxqz bs?	keqozhm	1
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	bsseoh	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh bsseoh mbxqz bs?	ztuujti	1
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	ztuujti	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	rtxahm	1
+1 Rzh bsseoh el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	bsseoh	1
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	keqozhm	2
+1 Rzh rtxahm el mbxqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	ztuujti	2
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	2
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	phaxbby	2
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh keqozhm lbdqz bs?	bsseoh	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	keqozhm	2
+1 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	2
+1 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh keqozhm?	ptqzxbby	1
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh phaxbby?	bsseoh	1
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	2
+1 Rzh ztuujti el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	ptqzxbby	2
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	rtxahm	1
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	ptqzxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	ptqzxbby	1
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	phaxbby	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh bsseoh?	phaxbby	1
+1 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	phaxbby	2
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	phaxbby	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	2
+1 Rzh keqozhm el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el qzh bsseoh htlq bs?	keqozhm	1
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh phaxbby?	keqozhm	1
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	phaxbby	2
+1 Rzh bsseoh el jhlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	bsseoh	1
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el qzh phaxbby htlq bs?	bsseoh	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	rtxahm	2
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	bsseoh	2
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	phaxbby	2
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	ptqzxbby	1
+1 Rzh bsseoh el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	rtxahm	2
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	bsseoh	1
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	rtxahm	2
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	ztuujti	1
+1 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	bsseoh	2
+1 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh rtxahm?	keqozhm	1
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh ztuujti?	rtxahm	1
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh keqozhm?	rtxahm	1
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	1
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh bsseoh?	phaxbby	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	bsseoh	2
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el qzh ztuujti mbxqz bs?	keqozhm	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	1
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ptqzxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ztuujti	1
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	rtxahm	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	1
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	keqozhm	2
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh phaxbby el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	phaxbby	2
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh keqozhm?	rtxahm	1
+1 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh ptqzxbby?	phaxbby	1
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	rtxahm	1
+1 Rzh bsseoh el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh phaxbby?	bsseoh	1
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	2
+1 Rzh phaxbby el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	bsseoh	2
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti lbdqz bs?	rtxahm	1
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	bsseoh	1
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	rtxahm	1
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	2
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	bsseoh	2
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	2
+1 Rzh phaxbby el lbdqz bs qzh keqozhm.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	phaxbby	2
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	bsseoh	2
+1 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh keqozhm?	ptqzxbby	1
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	rtxahm	2
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el qzh ztuujti lbdqz bs?	keqozhm	1
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	bsseoh	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	bsseoh	2
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	keqozhm	1
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh rtxahm el htlq bs qzh phaxbby.
+3 Mztq el qzh ztuujti jhlq bs?	phaxbby	1
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	bsseoh	2
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el qzh phaxbby htlq bs?	keqozhm	1
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	bsseoh	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh phaxbby?	bsseoh	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	phaxbby	2
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh bsseoh?	phaxbby	1
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	phaxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	ztuujti	2
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	rtxahm	2
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	bsseoh	2
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	ptqzxbby	2
+1 Rzh bsseoh el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ptqzxbby	2
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh ptqzxbby lbdqz bs?	rtxahm	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	phaxbby	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh ztuujti?	ptqzxbby	1
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh keqozhm el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	rtxahm	2
+1 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	ztuujti	2
+1 Rzh ztuujti el lbdqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	ztuujti	1
+1 Rzh phaxbby el lbdqz bs qzh keqozhm.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ztuujti	1
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	phaxbby	2
+1 Rzh bsseoh el lbdqz bs qzh keqozhm.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ztuujti	2
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh bsseoh el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	phaxbby	1
+1 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	keqozhm	2
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	ztuujti	2
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh rtxahm?	phaxbby	1
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh bsseoh?	phaxbby	1
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	phaxbby	2
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	ztuujti	2
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	1
+1 Rzh keqozhm el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh ztuujti?	keqozhm	1
+1 Rzh ztuujti el htlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	rtxahm	2
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh jhlq bs?	keqozhm	1
+1 Rzh rtxahm el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	rtxahm	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	1
+1 Rzh ptqzxbby el htlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ptqzxbby	1
+1 Rzh keqozhm el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	keqozhm	1
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ptqzxbby	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	bsseoh	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	ptqzxbby	2
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	rtxahm	1
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh keqozhm?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	phaxbby	2
+1 Rzh ztuujti el htlq bs qzh keqozhm.
+2 Rzh phaxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	phaxbby	2
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	ptqzxbby	2
+1 Rzh rtxahm el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	bsseoh	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	phaxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh ptqzxbby.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh ztuujti.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	keqozhm	2
+1 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh keqozhm.
+3 Mztq el qzh ptqzxbby htlq bs?	keqozhm	1
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh jhlq bs?	ptqzxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	ptqzxbby	1
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el qzh rtxahm jhlq bs?	phaxbby	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	1
+1 Rzh bsseoh el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh ptqzxbby mbxqz bs?	ztuujti	1
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	phaxbby	1
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh phaxbby mbxqz bs?	ztuujti	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	ztuujti	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	bsseoh	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	ptqzxbby	1
+1 Rzh phaxbby el mbxqz bs qzh bsseoh.
+2 Rzh rtxahm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	2
+1 Rzh phaxbby el mbxqz bs qzh bsseoh.
+2 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby lbdqz bs?	bsseoh	2
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh ptqzxbby?	keqozhm	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	2
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	2
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	2
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	ztuujti	2
+1 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	ptqzxbby	2
+1 Rzh bsseoh el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ztuujti	2
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ptqzxbby	2
+1 Rzh bsseoh el mbxqz bs qzh phaxbby.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	keqozhm	2
+1 Rzh keqozhm el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	bsseoh	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el qzh keqozhm htlq bs?	phaxbby	1
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh ptqzxbby?	ztuujti	1
+1 Rzh keqozhm el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	1
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	1
+1 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh ptqzxbby?	bsseoh	1
+1 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh bsseoh mbxqz bs?	ptqzxbby	1
+1 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	rtxahm	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	keqozhm	2
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	phaxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ztuujti	2
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh keqozhm.
+2 Rzh ztuujti el htlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	bsseoh	1
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh rtxahm el htlq bs qzh keqozhm.
+3 Mztq el qzh ztuujti jhlq bs?	keqozhm	1
+1 Rzh phaxbby el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el lbdqz bs qzh bsseoh?	keqozhm	2
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh ztuujti mbxqz bs?	bsseoh	1
+1 Rzh phaxbby el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	rtxahm	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ztuujti	1
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ztuujti	1
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	rtxahm	1
+1 Rzh phaxbby el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ztuujti	2
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	ztuujti	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	ptqzxbby	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	1
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	bsseoh	2
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	1
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh ptqzxbby?	rtxahm	1
+1 Rzh phaxbby el lbdqz bs qzh keqozhm.
+2 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	phaxbby	1
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	phaxbby	2
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el htlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	1
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	rtxahm	1
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	phaxbby	2
+1 Rzh rtxahm el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti jhlq bs?	rtxahm	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	phaxbby	1
+1 Rzh bsseoh el htlq bs qzh rtxahm.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el qzh rtxahm jhlq bs?	bsseoh	1
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	1
+1 Rzh keqozhm el htlq bs qzh phaxbby.
+2 Rzh phaxbby el htlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh phaxbby?	keqozhm	1
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	phaxbby	1
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh phaxbby?	ztuujti	1
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	keqozhm	1
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	ptqzxbby	2
+1 Rzh ztuujti el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	bsseoh	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	ptqzxbby	2
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	ptqzxbby	2
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	ptqzxbby	1
+1 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	bsseoh	2
+1 Rzh phaxbby el mbxqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	phaxbby	1
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh bsseoh?	keqozhm	1
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el qzh ptqzxbby htlq bs?	phaxbby	1
+1 Rzh keqozhm el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	phaxbby	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	keqozhm	2
+1 Rzh bsseoh el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	bsseoh	2
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	rtxahm	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+2 Rzh bsseoh el mbxqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	bsseoh	2
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	phaxbby	2
+1 Rzh ptqzxbby el lbdqz bs qzh ztuujti.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	ptqzxbby	1
+1 Rzh ztuujti el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	ztuujti	2
+1 Rzh phaxbby el mbxqz bs qzh keqozhm.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	ztuujti	2
+1 Rzh bsseoh el lbdqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	rtxahm	2
+1 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ptqzxbby	2
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el qzh phaxbby jhlq bs?	ztuujti	1
+1 Rzh keqozhm el htlq bs qzh ztuujti.
+2 Rzh phaxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh keqozhm?	phaxbby	2
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh bsseoh?	keqozhm	1
+1 Rzh rtxahm el jhlq bs qzh bsseoh.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh htlq bs?	rtxahm	1
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ptqzxbby	2
+1 Rzh bsseoh el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	phaxbby	2
+1 Rzh bsseoh el htlq bs qzh ptqzxbby.
+2 Rzh ptqzxbby el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ptqzxbby?	bsseoh	1
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	phaxbby	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	keqozhm	2
+1 Rzh ztuujti el mbxqz bs qzh phaxbby.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ztuujti	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh rtxahm el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	rtxahm	2
+1 Rzh rtxahm el jhlq bs qzh keqozhm.
+2 Rzh ptqzxbby el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	rtxahm	1
+1 Rzh bsseoh el mbxqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	bsseoh	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	ztuujti	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	rtxahm	2
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh rtxahm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh rtxahm?	ztuujti	1
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	rtxahm	2
+1 Rzh ptqzxbby el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el lbdqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh lbdqz bs?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	keqozhm	1
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh keqozhm?	phaxbby	1
+1 Rzh rtxahm el lbdqz bs qzh phaxbby.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh phaxbby?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh phaxbby el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh keqozhm?	ztuujti	1
+1 Rzh ptqzxbby el htlq bs qzh bsseoh.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh bsseoh?	ptqzxbby	1
+1 Rzh bsseoh el jhlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh rtxahm?	bsseoh	1
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	phaxbby	1
+1 Rzh ztuujti el htlq bs qzh keqozhm.
+2 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+3 Mztq el jhlq bs qzh keqozhm?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh bsseoh.
+2 Rzh ptqzxbby el htlq bs qzh rtxahm.
+3 Mztq el qzh bsseoh jhlq bs?	rtxahm	1
+1 Rzh ptqzxbby el mbxqz bs qzh keqozhm.
+2 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh keqozhm?	ptqzxbby	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh bsseoh el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	keqozhm	1
+1 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	ztuujti	2
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh ztuujti el htlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	ztuujti	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	2
+1 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+2 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+3 Mztq el mbxqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+2 Rzh keqozhm el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	2
+1 Rzh keqozhm el jhlq bs qzh ztuujti.
+2 Rzh rtxahm el htlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	1
+1 Rzh ptqzxbby el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el qzh bsseoh htlq bs?	ptqzxbby	1
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	rtxahm	2
+1 Rzh bsseoh el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	keqozhm	2
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh keqozhm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh bsseoh?	ztuujti	1
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	phaxbby	1
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el jhlq bs qzh keqozhm?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	bsseoh	2
+1 Rzh keqozhm el lbdqz bs qzh phaxbby.
+2 Rzh rtxahm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	rtxahm	2
+1 Rzh phaxbby el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby htlq bs?	keqozhm	2
+1 Rzh bsseoh el lbdqz bs qzh ptqzxbby.
+2 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	bsseoh	1
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby htlq bs?	keqozhm	2
+1 Rzh phaxbby el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	bsseoh	2
+1 Rzh phaxbby el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	phaxbby	2
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el qzh rtxahm lbdqz bs?	phaxbby	1
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh ztuujti el lbdqz bs qzh keqozhm.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	1
+1 Rzh keqozhm el htlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh bsseoh.
+3 Mztq el jhlq bs qzh bsseoh?	keqozhm	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el htlq bs qzh rtxahm?	ztuujti	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh phaxbby el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	1
+1 Rzh rtxahm el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	2
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh ptqzxbby el htlq bs qzh ztuujti.
+2 Rzh ztuujti el htlq bs qzh keqozhm.
+3 Mztq el htlq bs qzh ztuujti?	ptqzxbby	1
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh rtxahm?	keqozhm	1
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	bsseoh	2
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	ztuujti	2
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el lbdqz bs qzh keqozhm?	bsseoh	2
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh keqozhm el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ptqzxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh keqozhm.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el qzh keqozhm htlq bs?	ptqzxbby	1
+1 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+2 Rzh rtxahm el mbxqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm lbdqz bs?	rtxahm	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh ztuujti el mbxqz bs qzh phaxbby.
+3 Mztq el qzh ptqzxbby mbxqz bs?	ztuujti	1
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh ptqzxbby?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby mbxqz bs?	ptqzxbby	2
+1 Rzh keqozhm el lbdqz bs qzh rtxahm.
+2 Rzh rtxahm el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh rtxahm mbxqz bs?	keqozhm	1
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh bsseoh.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	1
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el lbdqz bs qzh rtxahm?	ptqzxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ptqzxbby	2
+1 Rzh ztuujti el jhlq bs qzh keqozhm.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh keqozhm?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh ztuujti el jhlq bs qzh phaxbby.
+3 Mztq el qzh rtxahm htlq bs?	phaxbby	1
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh bsseoh el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	bsseoh	2
+1 Rzh ztuujti el mbxqz bs qzh ptqzxbby.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	keqozhm	2
+1 Rzh phaxbby el mbxqz bs qzh keqozhm.
+2 Rzh rtxahm el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	rtxahm	2
+1 Rzh keqozhm el lbdqz bs qzh phaxbby.
+2 Rzh ztuujti el mbxqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	keqozhm	1
+1 Rzh keqozhm el jhlq bs qzh phaxbby.
+2 Rzh phaxbby el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	phaxbby	2
+1 Rzh bsseoh el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el lbdqz bs qzh ztuujti?	rtxahm	2
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el htlq bs qzh ptqzxbby.
+3 Mztq el qzh ptqzxbby jhlq bs?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh keqozhm.
+2 Rzh bsseoh el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	bsseoh	2
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh bsseoh el htlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh phaxbby el mbxqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm mbxqz bs?	ptqzxbby	1
+1 Rzh bsseoh el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh phaxbby.
+3 Mztq el qzh rtxahm mbxqz bs?	bsseoh	1
+1 Rzh rtxahm el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	phaxbby	2
+1 Rzh phaxbby el lbdqz bs qzh ptqzxbby.
+2 Rzh ptqzxbby el lbdqz bs qzh keqozhm.
+3 Mztq el qzh keqozhm mbxqz bs?	ptqzxbby	2
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti mbxqz bs?	bsseoh	2
+1 Rzh phaxbby el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh bsseoh el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti lbdqz bs?	ptqzxbby	1
+1 Rzh rtxahm el jhlq bs qzh phaxbby.
+2 Rzh ptqzxbby el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	ptqzxbby	2
+1 Rzh rtxahm el htlq bs qzh ptqzxbby.
+2 Rzh phaxbby el jhlq bs qzh ptqzxbby.
+3 Mztq el htlq bs qzh ptqzxbby?	rtxahm	1
+1 Rzh rtxahm el lbdqz bs qzh bsseoh.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el qzh bsseoh mbxqz bs?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh bsseoh el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	bsseoh	2
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh ztuujti el jhlq bs qzh bsseoh.
+3 Mztq el qzh bsseoh htlq bs?	ztuujti	2
+1 Rzh keqozhm el jhlq bs qzh rtxahm.
+2 Rzh ztuujti el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	keqozhm	1
+1 Rzh ptqzxbby el lbdqz bs qzh rtxahm.
+2 Rzh bsseoh el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	bsseoh	2
+1 Rzh bsseoh el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	bsseoh	1
+1 Rzh rtxahm el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh keqozhm?	rtxahm	1
+1 Rzh phaxbby el jhlq bs qzh rtxahm.
+2 Rzh keqozhm el htlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	phaxbby	1
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh rtxahm el jhlq bs qzh bsseoh.
+3 Mztq el htlq bs qzh bsseoh?	keqozhm	1
+1 Rzh bsseoh el htlq bs qzh keqozhm.
+2 Rzh rtxahm el jhlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	rtxahm	2
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh rtxahm el lbdqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	ptqzxbby	1
+1 Rzh rtxahm el mbxqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el qzh phaxbby lbdqz bs?	rtxahm	1
+1 Rzh ptqzxbby el jhlq bs qzh rtxahm.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh keqozhm el htlq bs qzh bsseoh.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh bsseoh?	keqozhm	1
+1 Rzh bsseoh el mbxqz bs qzh rtxahm.
+2 Rzh phaxbby el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	bsseoh	1
+1 Rzh bsseoh el htlq bs qzh ztuujti.
+2 Rzh phaxbby el jhlq bs qzh ztuujti.
+3 Mztq el qzh ztuujti jhlq bs?	bsseoh	1
+1 Rzh ptqzxbby el htlq bs qzh rtxahm.
+2 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh rtxahm?	ptqzxbby	1
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti htlq bs?	rtxahm	1
+1 Rzh rtxahm el jhlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm htlq bs?	rtxahm	1
+1 Rzh ztuujti el mbxqz bs qzh bsseoh.
+2 Rzh keqozhm el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh keqozhm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	keqozhm	2
+1 Rzh ptqzxbby el mbxqz bs qzh rtxahm.
+2 Rzh ptqzxbby el lbdqz bs qzh phaxbby.
+3 Mztq el lbdqz bs qzh phaxbby?	ptqzxbby	2
+1 Rzh phaxbby el mbxqz bs qzh keqozhm.
+2 Rzh keqozhm el mbxqz bs qzh ptqzxbby.
+3 Mztq el qzh keqozhm lbdqz bs?	phaxbby	1
+1 Rzh ptqzxbby el jhlq bs qzh phaxbby.
+2 Rzh rtxahm el jhlq bs qzh ptqzxbby.
+3 Mztq el jhlq bs qzh phaxbby?	ptqzxbby	1
+1 Rzh ztuujti el jhlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	bsseoh	2
+1 Rzh ptqzxbby el jhlq bs qzh ztuujti.
+2 Rzh keqozhm el htlq bs qzh ztuujti.
+3 Mztq el htlq bs qzh ztuujti?	keqozhm	2
+1 Rzh ztuujti el lbdqz bs qzh bsseoh.
+2 Rzh rtxahm el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	rtxahm	2
+1 Rzh phaxbby el mbxqz bs qzh rtxahm.
+2 Rzh rtxahm el mbxqz bs qzh ztuujti.
+3 Mztq el mbxqz bs qzh rtxahm?	phaxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh phaxbby.
+2 Rzh keqozhm el lbdqz bs qzh phaxbby.
+3 Mztq el qzh phaxbby lbdqz bs?	ptqzxbby	1
+1 Rzh ptqzxbby el mbxqz bs qzh ztuujti.
+2 Rzh ztuujti el mbxqz bs qzh bsseoh.
+3 Mztq el mbxqz bs qzh bsseoh?	ztuujti	2
+1 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+2 Rzh phaxbby el mbxqz bs qzh ptqzxbby.
+3 Mztq el lbdqz bs qzh ptqzxbby?	ztuujti	1
+1 Rzh phaxbby el htlq bs qzh keqozhm.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh phaxbby jhlq bs?	bsseoh	2
+1 Rzh keqozhm el mbxqz bs qzh rtxahm.
+2 Rzh ztuujti el lbdqz bs qzh rtxahm.
+3 Mztq el qzh rtxahm lbdqz bs?	keqozhm	1
+1 Rzh ztuujti el htlq bs qzh rtxahm.
+2 Rzh bsseoh el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm jhlq bs?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh bsseoh.
+2 Rzh bsseoh el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ztuujti?	bsseoh	2
+1 Rzh ztuujti el htlq bs qzh bsseoh.
+2 Rzh bsseoh el htlq bs qzh phaxbby.
+3 Mztq el qzh bsseoh jhlq bs?	ztuujti	1
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el qzh ztuujti htlq bs?	phaxbby	1
+1 Rzh keqozhm el lbdqz bs qzh ztuujti.
+2 Rzh phaxbby el mbxqz bs qzh ztuujti.
+3 Mztq el qzh ztuujti lbdqz bs?	phaxbby	2
+1 Rzh phaxbby el jhlq bs qzh ztuujti.
+2 Rzh ztuujti el jhlq bs qzh rtxahm.
+3 Mztq el qzh rtxahm htlq bs?	ztuujti	2
+1 Rzh phaxbby el lbdqz bs qzh ztuujti.
+2 Rzh ztuujti el lbdqz bs qzh ptqzxbby.
+3 Mztq el qzh ztuujti mbxqz bs?	phaxbby	1
+1 Rzh ztuujti el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el htlq bs qzh phaxbby?	ztuujti	1
+1 Rzh ztuujti el jhlq bs qzh ptqzxbby.
+2 Rzh rtxahm el jhlq bs qzh ztuujti.
+3 Mztq el jhlq bs qzh ptqzxbby?	ztuujti	1
+1 Rzh phaxbby el lbdqz bs qzh rtxahm.
+2 Rzh keqozhm el mbxqz bs qzh rtxahm.
+3 Mztq el mbxqz bs qzh rtxahm?	keqozhm	2
+1 Rzh rtxahm el htlq bs qzh phaxbby.
+2 Rzh keqozhm el jhlq bs qzh phaxbby.
+3 Mztq el jhlq bs qzh phaxbby?	keqozhm	2
+1 Rzh ztuujti el lbdqz bs qzh phaxbby.
+2 Rzh keqozhm el mbxqz bs qzh phaxbby.
+3 Mztq el mbxqz bs qzh phaxbby?	keqozhm	2
+1 Rzh rtxahm el jhlq bs qzh ztuujti.
+2 Rzh rtxahm el htlq bs qzh keqozhm.
+3 Mztq el qzh keqozhm jhlq bs?	rtxahm	2

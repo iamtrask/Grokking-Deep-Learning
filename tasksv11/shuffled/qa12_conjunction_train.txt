@@ -1,0 +1,3000 @@
+1 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+2 Hbzm tma Ytmehu qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+5 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+8 Utxi tma Ytmehu ybnha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	phaxbby	7
+10 Ytmehu tma Utxi jhmq qb qzh ptqzxbby.
+11 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	ptqzxbby	10
+13 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+14 Hbzm tma Otmaxt jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+2 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+5 Hbzm tma Utxi jhmq qb qzh keqozhm.
+6 Mzhxh el Utxi? 	keqozhm	5
+7 Otmaxt tma Hbzm cbdxmhiha qb qzh rtxahm.
+8 Otmaxt tma Hbzm qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el Hbzm? 	keqozhm	8
+10 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+11 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+14 Ytmehu tma Otmaxt cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	bsseoh	13
+1 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+2 Ytmehu tma Hbzm qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	keqozhm	2
+4 Otmaxt tma Ytmehu ybnha qb qzh ztuujti.
+5 Ytmehu tma Utxi cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	rtxahm	5
+7 Ytmehu tma Utxi cbdxmhiha qb qzh ptqzxbby.
+8 Ytmehu tma Utxi ybnha qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	8
+10 Hbzm tma Utxi jhmq ptok qb qzh ptqzxbby.
+11 Ytmehu tma Utxi jhmq qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ztuujti	14
+1 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+2 Ytmehu tma Hbzm cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	bsseoh	1
+4 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+5 Hbzm tma Ytmehu jhmq ptok qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	ztuujti	5
+7 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+8 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	rtxahm	7
+10 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+11 Utxi tma Otmaxt jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	keqozhm	10
+13 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+14 Hbzm tma Utxi cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	rtxahm	13
+1 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+2 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	ztuujti	1
+4 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+5 Ytmehu tma Utxi jhmq ptok qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	rtxahm	4
+7 Ytmehu tma Hbzm jhmq ptok qb qzh keqozhm.
+8 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	ptqzxbby	8
+10 Utxi tma Otmaxt cbdxmhiha qb qzh rtxahm.
+11 Hbzm tma Otmaxt ybnha qb qzh ztuujti.
+12 Mzhxh el Utxi? 	rtxahm	10
+13 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+14 Utxi tma Hbzm cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+2 Otmaxt tma Hbzm jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Utxi? 	rtxahm	1
+4 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+5 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	5
+7 Otmaxt tma Hbzm jhmq ptok qb qzh ptqzxbby.
+8 Utxi tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	7
+10 Otmaxt tma Hbzm qxtnhuuha qb qzh rtxahm.
+11 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Ytmehu? 	ptqzxbby	8
+13 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+14 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+15 Mzhxh el Utxi? 	bsseoh	11
+1 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+2 Hbzm tma Otmaxt jhmq qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+5 Utxi tma Ytmehu ybnha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	keqozhm	4
+7 Otmaxt tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+8 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Hbzm? 	phaxbby	8
+10 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+11 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Ytmehu? 	bsseoh	11
+13 Otmaxt tma Utxi jhmq ptok qb qzh rtxahm.
+14 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	rtxahm	13
+1 Otmaxt tma Hbzm jhmq ptok qb qzh ptqzxbby.
+2 Utxi tma Hbzm jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Otmaxt tma Utxi jhmq ptok qb qzh ztuujti.
+5 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	ztuujti	4
+7 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+8 Utxi tma Hbzm cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Utxi? 	keqozhm	8
+10 Otmaxt tma Hbzm jhmq ptok qb qzh bsseoh.
+11 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Utxi tma Hbzm cbdxmhiha qb qzh bsseoh.
+2 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+3 Mzhxh el Utxi? 	bsseoh	1
+4 Ytmehu tma Utxi cbdxmhiha qb qzh phaxbby.
+5 Utxi tma Otmaxt ybnha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	4
+7 Utxi tma Hbzm qxtnhuuha qb qzh bsseoh.
+8 Otmaxt tma Utxi jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	8
+10 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+11 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	ztuujti	10
+13 Otmaxt tma Hbzm ybnha qb qzh bsseoh.
+14 Hbzm tma Utxi jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	phaxbby	14
+1 Hbzm tma Utxi ybnha qb qzh phaxbby.
+2 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+5 Hbzm tma Ytmehu cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	rtxahm	5
+7 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+8 Utxi tma Ytmehu ybnha qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+11 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Otmaxt tma Hbzm cbdxmhiha qb qzh rtxahm.
+14 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	rtxahm	13
+1 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+2 Utxi tma Hbzm qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	phaxbby	1
+4 Hbzm tma Utxi jhmq qb qzh ztuujti.
+5 Utxi tma Ytmehu jhmq qb qzh ptqzxbby.
+6 Mzhxh el Utxi? 	ptqzxbby	5
+7 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+8 Ytmehu tma Otmaxt jhmq qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Hbzm tma Utxi ybnha qb qzh phaxbby.
+11 Utxi tma Ytmehu jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	phaxbby	10
+13 Otmaxt tma Utxi cbdxmhiha qb qzh rtxahm.
+14 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	rtxahm	13
+1 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Ytmehu tma Hbzm ybnha qb qzh ptqzxbby.
+5 Otmaxt tma Utxi qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	ptqzxbby	4
+7 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+8 Otmaxt tma Utxi cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	8
+10 Ytmehu tma Otmaxt jhmq ptok qb qzh phaxbby.
+11 Ytmehu tma Hbzm jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Utxi? 	rtxahm	8
+13 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+14 Hbzm tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+2 Hbzm tma Otmaxt jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Utxi? 	ptqzxbby	1
+4 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+5 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	bsseoh	5
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+8 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+9 Mzhxh el Ytmehu? 	bsseoh	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+11 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+12 Mzhxh el Otmaxt? 	keqozhm	11
+13 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+14 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	keqozhm	14
+1 Ytmehu tma Hbzm jhmq ptok qb qzh phaxbby.
+2 Utxi tma Ytmehu ybnha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+5 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	keqozhm	4
+7 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+8 Utxi tma Hbzm ybnha qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Hbzm tma Utxi jhmq qb qzh phaxbby.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+14 Utxi tma Hbzm qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+2 Ytmehu tma Hbzm cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Utxi? 	rtxahm	1
+4 Hbzm tma Otmaxt jhmq ptok qb qzh phaxbby.
+5 Hbzm tma Utxi jhmq qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Ytmehu tma Utxi jhmq qb qzh rtxahm.
+8 Hbzm tma Otmaxt cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	7
+10 Hbzm tma Otmaxt jhmq qb qzh phaxbby.
+11 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	ptqzxbby	11
+13 Utxi tma Hbzm ybnha qb qzh bsseoh.
+14 Ytmehu tma Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	bsseoh	13
+1 Utxi tma Hbzm ybnha qb qzh keqozhm.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+5 Hbzm tma Ytmehu cbdxmhiha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Utxi tma Hbzm jhmq qb qzh ptqzxbby.
+8 Utxi tma Hbzm cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	keqozhm	5
+10 Ytmehu tma Hbzm cbdxmhiha qb qzh phaxbby.
+11 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+14 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	bsseoh	14
+1 Utxi tma Otmaxt ybnha qb qzh keqozhm.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+5 Ytmehu tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+8 Ytmehu tma Utxi jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Otmaxt? 	rtxahm	7
+10 Utxi tma Otmaxt jhmq qb qzh bsseoh.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+14 Hbzm tma Utxi jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Utxi? 	bsseoh	14
+1 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+2 Hbzm tma Otmaxt ybnha qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Otmaxt tma Ytmehu cbdxmhiha qb qzh keqozhm.
+5 Ytmehu tma Otmaxt jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	bsseoh	5
+7 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+8 Ytmehu tma Hbzm jhmq qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Hbzm tma Utxi jhmq ptok qb qzh ptqzxbby.
+11 Utxi tma Hbzm cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+14 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	rtxahm	13
+1 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+2 Hbzm tma Otmaxt jhmq qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Utxi tma Hbzm jhmq qb qzh rtxahm.
+5 Ytmehu tma Utxi ybnha qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Utxi tma Otmaxt ybnha qb qzh phaxbby.
+8 Otmaxt tma Ytmehu jhmq qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	phaxbby	7
+10 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+11 Utxi tma Hbzm ybnha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	8
+13 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+14 Hbzm tma Otmaxt jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Hbzm tma Otmaxt ybnha qb qzh rtxahm.
+2 Ytmehu tma Hbzm cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	rtxahm	1
+4 Hbzm tma Ytmehu jhmq ptok qb qzh ztuujti.
+5 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+8 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	ztuujti	8
+10 Ytmehu tma Hbzm ybnha qb qzh ptqzxbby.
+11 Utxi tma Ytmehu jhmq qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	ptqzxbby	10
+13 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+14 Utxi tma Hbzm jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+2 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Hbzm tma Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Utxi tma Otmaxt qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Utxi tma Hbzm qxtnhuuha qb qzh phaxbby.
+8 Otmaxt tma Hbzm qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+11 Otmaxt tma Utxi jhmq qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Ytmehu tma Otmaxt cbdxmhiha qb qzh phaxbby.
+14 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+15 Mzhxh el Ytmehu? 	ztuujti	14
+1 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+2 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+3 Mzhxh el Utxi? 	keqozhm	2
+4 Utxi tma Hbzm jhmq ptok qb qzh phaxbby.
+5 Utxi tma Otmaxt qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	phaxbby	4
+7 Hbzm tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+8 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Ytmehu tma Otmaxt ybnha qb qzh keqozhm.
+11 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+14 Utxi tma Ytmehu cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	phaxbby	13
+1 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+2 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	keqozhm	1
+4 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+5 Hbzm tma Utxi ybnha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	phaxbby	4
+7 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+8 Utxi tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Hbzm tma Ytmehu cbdxmhiha qb qzh keqozhm.
+11 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Otmaxt tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+14 Utxi tma Hbzm ybnha qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	phaxbby	14
+1 Ytmehu tma Utxi ybnha qb qzh bsseoh.
+2 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+3 Mzhxh el Utxi? 	ztuujti	2
+4 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+8 Utxi tma Hbzm jhmq ptok qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Utxi tma Otmaxt ybnha qb qzh ptqzxbby.
+11 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Otmaxt tma Hbzm jhmq ptok qb qzh ztuujti.
+14 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+2 Ytmehu tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Utxi? 	ztuujti	1
+4 Hbzm tma Utxi ybnha qb qzh bsseoh.
+5 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+6 Mzhxh el Otmaxt? 	ztuujti	5
+7 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+8 Utxi tma Hbzm jhmq qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	8
+10 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+11 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	ztuujti	10
+13 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+14 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	keqozhm	13
+1 Utxi tma Hbzm jhmq ptok qb qzh keqozhm.
+2 Hbzm tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Hbzm? 	ptqzxbby	2
+4 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+5 Otmaxt tma Ytmehu jhmq qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+8 Utxi tma Otmaxt jhmq qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ptqzxbby	5
+10 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+11 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Otmaxt tma Hbzm ybnha qb qzh ztuujti.
+14 Hbzm tma Ytmehu ybnha qb qzh rtxahm.
+15 Mzhxh el Otmaxt? 	ztuujti	13
+1 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+2 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	ztuujti	1
+4 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+5 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	keqozhm	4
+7 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+8 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Utxi tma Hbzm cbdxmhiha qb qzh phaxbby.
+11 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+14 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	ztuujti	13
+1 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+2 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	1
+4 Hbzm tma Otmaxt jhmq qb qzh rtxahm.
+5 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	rtxahm	4
+7 Hbzm tma Ytmehu qxtnhuuha qb qzh keqozhm.
+8 Hbzm tma Utxi qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	keqozhm	7
+10 Hbzm tma Ytmehu jhmq ptok qb qzh bsseoh.
+11 Utxi tma Ytmehu ybnha qb qzh keqozhm.
+12 Mzhxh el Ytmehu? 	keqozhm	11
+13 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Utxi? 	bsseoh	13
+1 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+2 Hbzm tma Otmaxt ybnha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+5 Ytmehu tma Otmaxt jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	phaxbby	4
+7 Ytmehu tma Otmaxt ybnha qb qzh keqozhm.
+8 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	keqozhm	7
+10 Ytmehu tma Otmaxt cbdxmhiha qb qzh phaxbby.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Otmaxt tma Utxi qxtnhuuha qb qzh bsseoh.
+14 Utxi tma Otmaxt jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	phaxbby	14
+1 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+2 Utxi tma Ytmehu jhmq qb qzh rtxahm.
+3 Mzhxh el Ytmehu? 	rtxahm	2
+4 Utxi tma Ytmehu jhmq ptok qb qzh bsseoh.
+5 Otmaxt tma Utxi jhmq qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Otmaxt tma Utxi cbdxmhiha qb qzh keqozhm.
+8 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	ztuujti	8
+10 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	ztuujti	11
+13 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+14 Utxi tma Otmaxt qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Utxi tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+2 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+3 Mzhxh el Ytmehu? 	rtxahm	2
+4 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+5 Otmaxt tma Ytmehu cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+8 Ytmehu tma Hbzm ybnha qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	phaxbby	8
+10 Hbzm tma Otmaxt jhmq ptok qb qzh rtxahm.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	10
+13 Ytmehu tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+14 Utxi tma Otmaxt qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Ytmehu? 	ptqzxbby	2
+4 Hbzm tma Otmaxt jhmq ptok qb qzh phaxbby.
+5 Ytmehu tma Utxi ybnha qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	phaxbby	4
+7 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+8 Otmaxt tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	ptqzxbby	8
+10 Utxi tma Otmaxt jhmq ptok qb qzh keqozhm.
+11 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	ztuujti	11
+13 Ytmehu tma Hbzm jhmq ptok qb qzh phaxbby.
+14 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	phaxbby	13
+1 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+3 Mzhxh el Utxi? 	keqozhm	1
+4 Otmaxt tma Hbzm jhmq ptok qb qzh ztuujti.
+5 Hbzm tma Ytmehu ybnha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Hbzm tma Otmaxt ybnha qb qzh rtxahm.
+8 Otmaxt tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Hbzm tma Otmaxt qxtnhuuha qb qzh phaxbby.
+11 Hbzm tma Utxi jhmq ptok qb qzh ztuujti.
+12 Mzhxh el Utxi? 	ztuujti	11
+13 Hbzm tma Utxi jhmq qb qzh keqozhm.
+14 Hbzm tma Utxi jhmq qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+2 Ytmehu tma Otmaxt qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	ztuujti	1
+4 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+8 Ytmehu tma Hbzm cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	ptqzxbby	7
+10 Ytmehu tma Hbzm jhmq ptok qb qzh bsseoh.
+11 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	bsseoh	10
+13 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+14 Ytmehu tma Utxi jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Utxi? 	bsseoh	14
+1 Ytmehu tma Otmaxt jhmq qb qzh bsseoh.
+2 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	bsseoh	1
+4 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+5 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+6 Mzhxh el Otmaxt? 	rtxahm	4
+7 Utxi tma Ytmehu ybnha qb qzh rtxahm.
+8 Hbzm tma Utxi cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Utxi? 	keqozhm	8
+10 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+14 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+15 Mzhxh el Otmaxt? 	rtxahm	14
+1 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+5 Ytmehu tma Utxi jhmq qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Hbzm tma Utxi ybnha qb qzh ptqzxbby.
+8 Utxi tma Ytmehu cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Utxi tma Ytmehu ybnha qb qzh bsseoh.
+11 Utxi tma Otmaxt cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	bsseoh	10
+13 Otmaxt tma Ytmehu cbdxmhiha qb qzh rtxahm.
+14 Utxi tma Ytmehu ybnha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	rtxahm	13
+1 Hbzm tma Ytmehu ybnha qb qzh ztuujti.
+2 Utxi tma Otmaxt qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	1
+4 Ytmehu tma Hbzm ybnha qb qzh keqozhm.
+5 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+8 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+11 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Hbzm tma Otmaxt jhmq ptok qb qzh keqozhm.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+2 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Ytmehu tma Hbzm ybnha qb qzh keqozhm.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	keqozhm	4
+7 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+8 Ytmehu tma Hbzm cbdxmhiha qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	phaxbby	8
+10 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+11 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	ptqzxbby	10
+13 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+14 Utxi tma Hbzm jhmq qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	rtxahm	13
+1 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+2 Hbzm tma Utxi jhmq qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+5 Ytmehu tma Hbzm cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	ztuujti	5
+7 Ytmehu tma Utxi jhmq qb qzh ptqzxbby.
+8 Ytmehu tma Utxi jhmq qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+11 Utxi tma Hbzm qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	10
+13 Utxi tma Otmaxt ybnha qb qzh ztuujti.
+14 Ytmehu tma Utxi cbdxmhiha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	14
+1 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+2 Hbzm tma Ytmehu jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	bsseoh	1
+4 Otmaxt tma Utxi jhmq ptok qb qzh phaxbby.
+5 Otmaxt tma Utxi cbdxmhiha qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	keqozhm	5
+7 Utxi tma Hbzm ybnha qb qzh ptqzxbby.
+8 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Utxi? 	ztuujti	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh rtxahm.
+11 Utxi tma Ytmehu jhmq qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh phaxbby.
+14 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+2 Ytmehu tma Otmaxt qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+5 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Hbzm tma Ytmehu qxtnhuuha qb qzh phaxbby.
+8 Hbzm tma Utxi jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	ptqzxbby	8
+10 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+11 Hbzm tma Utxi jhmq ptok qb qzh rtxahm.
+12 Mzhxh el Utxi? 	rtxahm	11
+13 Hbzm tma Otmaxt jhmq qb qzh phaxbby.
+14 Utxi tma Otmaxt ybnha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	phaxbby	13
+1 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+2 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+5 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	5
+7 Otmaxt tma Ytmehu jhmq qb qzh rtxahm.
+8 Ytmehu tma Hbzm jhmq qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	ptqzxbby	8
+10 Ytmehu tma Otmaxt ybnha qb qzh keqozhm.
+11 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Hbzm tma Utxi ybnha qb qzh keqozhm.
+14 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	bsseoh	14
+1 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+2 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+5 Utxi tma Otmaxt ybnha qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	bsseoh	2
+7 Hbzm tma Utxi jhmq qb qzh ptqzxbby.
+8 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+9 Mzhxh el Hbzm? 	ptqzxbby	7
+10 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+11 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Utxi? 	phaxbby	8
+13 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+14 Utxi tma Hbzm jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Utxi? 	bsseoh	14
+1 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+2 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Ytmehu tma Hbzm jhmq ptok qb qzh keqozhm.
+5 Otmaxt tma Hbzm jhmq qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	bsseoh	5
+7 Ytmehu tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+8 Hbzm tma Otmaxt jhmq ptok qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Hbzm tma Utxi ybnha qb qzh rtxahm.
+11 Ytmehu tma Hbzm jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Utxi? 	rtxahm	10
+13 Ytmehu tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+14 Utxi tma Ytmehu jhmq qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ptqzxbby	13
+1 Otmaxt tma Utxi jhmq qb qzh keqozhm.
+2 Otmaxt tma Hbzm cbdxmhiha qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+5 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	phaxbby	5
+7 Ytmehu tma Utxi qxtnhuuha qb qzh ztuujti.
+8 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+11 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Ytmehu tma Utxi ybnha qb qzh ztuujti.
+14 Ytmehu tma Utxi ybnha qb qzh rtxahm.
+15 Mzhxh el Utxi? 	rtxahm	14
+1 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Utxi tma Ytmehu jhmq qb qzh keqozhm.
+5 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Utxi? 	ztuujti	5
+7 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+8 Utxi tma Ytmehu jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+11 Hbzm tma Utxi qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	rtxahm	8
+13 Hbzm tma Utxi jhmq qb qzh phaxbby.
+14 Otmaxt tma Ytmehu cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	rtxahm	2
+4 Ytmehu tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+5 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	bsseoh	5
+7 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+8 Otmaxt tma Hbzm cbdxmhiha qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	rtxahm	7
+10 Ytmehu tma Otmaxt cbdxmhiha qb qzh bsseoh.
+11 Otmaxt tma Ytmehu ybnha qb qzh ztuujti.
+12 Mzhxh el Otmaxt? 	ztuujti	11
+13 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+14 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	keqozhm	13
+1 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+2 Ytmehu tma Otmaxt qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+5 Hbzm tma Utxi qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	rtxahm	4
+7 Utxi tma Hbzm cbdxmhiha qb qzh keqozhm.
+8 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Hbzm tma Ytmehu cbdxmhiha qb qzh bsseoh.
+11 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	rtxahm	11
+13 Otmaxt tma Utxi ybnha qb qzh phaxbby.
+14 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	bsseoh	14
+1 Ytmehu tma Utxi jhmq ptok qb qzh phaxbby.
+2 Otmaxt tma Hbzm jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+5 Ytmehu tma Utxi jhmq qb qzh keqozhm.
+6 Mzhxh el Utxi? 	keqozhm	5
+7 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+8 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+9 Mzhxh el Otmaxt? 	phaxbby	8
+10 Hbzm tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+11 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Otmaxt? 	keqozhm	11
+13 Ytmehu tma Hbzm ybnha qb qzh phaxbby.
+14 Ytmehu tma Hbzm ybnha qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+2 Otmaxt tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	ptqzxbby	2
+4 Utxi tma Hbzm jhmq ptok qb qzh ptqzxbby.
+5 Utxi tma Ytmehu cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Utxi? 	ztuujti	5
+7 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+8 Otmaxt tma Hbzm qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+11 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	ptqzxbby	10
+13 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Utxi? 	phaxbby	11
+1 Otmaxt tma Utxi ybnha qb qzh rtxahm.
+2 Hbzm tma Utxi jhmq qb qzh phaxbby.
+3 Mzhxh el Utxi? 	phaxbby	2
+4 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+5 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	ztuujti	4
+7 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+8 Otmaxt tma Hbzm jhmq qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Otmaxt tma Hbzm jhmq qb qzh ptqzxbby.
+11 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	ztuujti	11
+13 Otmaxt tma Utxi ybnha qb qzh ptqzxbby.
+14 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	ztuujti	11
+1 Hbzm tma Utxi qxtnhuuha qb qzh phaxbby.
+2 Utxi tma Otmaxt qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Utxi tma Otmaxt jhmq ptok qb qzh keqozhm.
+5 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	ptqzxbby	5
+7 Hbzm tma Utxi ybnha qb qzh phaxbby.
+8 Utxi tma Ytmehu ybnha qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+11 Ytmehu tma Hbzm qxtnhuuha qb qzh ztuujti.
+12 Mzhxh el Utxi? 	ptqzxbby	10
+13 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+14 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	14
+1 Ytmehu tma Hbzm qxtnhuuha qb qzh ztuujti.
+2 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Hbzm tma Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Hbzm tma Utxi jhmq qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	bsseoh	5
+7 Hbzm tma Ytmehu jhmq ptok qb qzh keqozhm.
+8 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Otmaxt tma Utxi cbdxmhiha qb qzh keqozhm.
+11 Otmaxt tma Utxi qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Utxi tma Hbzm cbdxmhiha qb qzh phaxbby.
+14 Utxi tma Hbzm qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Utxi? 	ztuujti	14
+1 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+2 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+3 Mzhxh el Utxi? 	rtxahm	1
+4 Utxi tma Otmaxt qxtnhuuha qb qzh phaxbby.
+5 Ytmehu tma Hbzm cbdxmhiha qb qzh keqozhm.
+6 Mzhxh el Utxi? 	phaxbby	4
+7 Otmaxt tma Ytmehu jhmq qb qzh ztuujti.
+8 Otmaxt tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	keqozhm	5
+10 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+11 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+14 Ytmehu tma Otmaxt jhmq qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Ytmehu tma Utxi jhmq qb qzh bsseoh.
+2 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	bsseoh	1
+4 Hbzm tma Ytmehu ybnha qb qzh phaxbby.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	4
+7 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+8 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	ztuujti	7
+10 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Utxi tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Hbzm? 	bsseoh	10
+13 Hbzm tma Ytmehu jhmq ptok qb qzh keqozhm.
+14 Utxi tma Hbzm jhmq qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	keqozhm	13
+1 Utxi tma Hbzm jhmq ptok qb qzh ztuujti.
+2 Utxi tma Hbzm ybnha qb qzh phaxbby.
+3 Mzhxh el Utxi? 	phaxbby	2
+4 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+5 Hbzm tma Ytmehu qxtnhuuha qb qzh ztuujti.
+6 Mzhxh el Utxi? 	keqozhm	4
+7 Hbzm tma Otmaxt jhmq ptok qb qzh rtxahm.
+8 Otmaxt tma Utxi cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Hbzm tma Utxi ybnha qb qzh phaxbby.
+11 Hbzm tma Utxi ybnha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+14 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+15 Mzhxh el Utxi? 	rtxahm	14
+1 Otmaxt tma Hbzm ybnha qb qzh ztuujti.
+2 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	ztuujti	1
+4 Otmaxt tma Utxi ybnha qb qzh ptqzxbby.
+5 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	rtxahm	5
+7 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+8 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+11 Ytmehu tma Otmaxt jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+14 Hbzm tma Utxi ybnha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	bsseoh	11
+1 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+2 Utxi tma Ytmehu qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Hbzm tma Otmaxt jhmq qb qzh keqozhm.
+5 Otmaxt tma Utxi ybnha qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Ytmehu tma Utxi jhmq ptok qb qzh rtxahm.
+8 Ytmehu tma Otmaxt qxtnhuuha qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	phaxbby	8
+10 Ytmehu tma Hbzm jhmq qb qzh ptqzxbby.
+11 Hbzm tma Ytmehu qxtnhuuha qb qzh ztuujti.
+12 Mzhxh el Ytmehu? 	ztuujti	11
+13 Otmaxt tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+14 Ytmehu tma Hbzm qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	keqozhm	14
+1 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+2 Utxi tma Hbzm ybnha qb qzh ptqzxbby.
+3 Mzhxh el Hbzm? 	ptqzxbby	2
+4 Hbzm tma Otmaxt ybnha qb qzh bsseoh.
+5 Ytmehu tma Otmaxt qxtnhuuha qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	bsseoh	4
+7 Otmaxt tma Utxi jhmq qb qzh phaxbby.
+8 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+11 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+14 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ztuujti	14
+1 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+2 Hbzm tma Otmaxt jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh keqozhm.
+5 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+8 Otmaxt tma Utxi ybnha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Utxi tma Hbzm qxtnhuuha qb qzh keqozhm.
+11 Otmaxt tma Hbzm cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+14 Otmaxt tma Utxi jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Ytmehu tma Hbzm qxtnhuuha qb qzh phaxbby.
+2 Otmaxt tma Hbzm ybnha qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Otmaxt tma Ytmehu cbdxmhiha qb qzh rtxahm.
+5 Hbzm tma Utxi cbdxmhiha qb qzh phaxbby.
+6 Mzhxh el Utxi? 	phaxbby	5
+7 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+8 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	8
+10 Utxi tma Otmaxt ybnha qb qzh ztuujti.
+11 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el Otmaxt? 	phaxbby	11
+13 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+14 Hbzm tma Utxi cbdxmhiha qb qzh ptqzxbby.
+15 Mzhxh el Utxi? 	ptqzxbby	14
+1 Ytmehu tma Hbzm qxtnhuuha qb qzh phaxbby.
+2 Otmaxt tma Ytmehu cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Ytmehu tma Otmaxt jhmq qb qzh rtxahm.
+5 Utxi tma Otmaxt qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Utxi? 	keqozhm	5
+7 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+8 Otmaxt tma Utxi jhmq ptok qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	bsseoh	7
+10 Utxi tma Hbzm cbdxmhiha qb qzh bsseoh.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	bsseoh	10
+13 Hbzm tma Ytmehu cbdxmhiha qb qzh phaxbby.
+14 Hbzm tma Ytmehu qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Utxi tma Hbzm ybnha qb qzh ztuujti.
+2 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+5 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Ytmehu tma Utxi cbdxmhiha qb qzh bsseoh.
+8 Utxi tma Ytmehu jhmq qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Hbzm tma Ytmehu cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el Otmaxt? 	bsseoh	10
+13 Ytmehu tma Hbzm qxtnhuuha qb qzh keqozhm.
+14 Otmaxt tma Ytmehu ybnha qb qzh ztuujti.
+15 Mzhxh el Ytmehu? 	ztuujti	14
+1 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+2 Otmaxt tma Hbzm qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	keqozhm	2
+4 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+5 Hbzm tma Utxi jhmq qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	keqozhm	4
+7 Otmaxt tma Utxi ybnha qb qzh ztuujti.
+8 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+9 Mzhxh el Otmaxt? 	phaxbby	8
+10 Hbzm tma Utxi jhmq qb qzh keqozhm.
+11 Utxi tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	8
+13 Hbzm tma Ytmehu ybnha qb qzh rtxahm.
+14 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	13
+1 Otmaxt tma Ytmehu qxtnhuuha qb qzh rtxahm.
+2 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+3 Mzhxh el Ytmehu? 	ptqzxbby	2
+4 Utxi tma Ytmehu qxtnhuuha qb qzh phaxbby.
+5 Utxi tma Hbzm ybnha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Otmaxt tma Hbzm qxtnhuuha qb qzh keqozhm.
+8 Hbzm tma Otmaxt jhmq ptok qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Hbzm tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+14 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+2 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+5 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	ptqzxbby	5
+7 Hbzm tma Ytmehu qxtnhuuha qb qzh phaxbby.
+8 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Hbzm tma Ytmehu jhmq ptok qb qzh keqozhm.
+11 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	keqozhm	10
+13 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+14 Hbzm tma Utxi jhmq ptok qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	ptqzxbby	13
+1 Utxi tma Hbzm qxtnhuuha qb qzh bsseoh.
+2 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	2
+4 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+5 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	ptqzxbby	5
+7 Otmaxt tma Hbzm jhmq qb qzh bsseoh.
+8 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Otmaxt tma Hbzm jhmq ptok qb qzh ptqzxbby.
+11 Ytmehu tma Otmaxt cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Ytmehu? 	keqozhm	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh bsseoh.
+14 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	phaxbby	14
+1 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+2 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	bsseoh	1
+4 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+5 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Hbzm tma Ytmehu ybnha qb qzh ztuujti.
+8 Hbzm tma Ytmehu ybnha qb qzh keqozhm.
+9 Mzhxh el Hbzm? 	keqozhm	8
+10 Hbzm tma Utxi qxtnhuuha qb qzh phaxbby.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	phaxbby	13
+1 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+2 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+3 Mzhxh el Ytmehu? 	rtxahm	2
+4 Hbzm tma Ytmehu qxtnhuuha qb qzh ztuujti.
+5 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Ytmehu? 	keqozhm	5
+7 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+8 Hbzm tma Utxi cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Otmaxt tma Hbzm jhmq qb qzh phaxbby.
+11 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Utxi? 	rtxahm	11
+13 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+14 Utxi tma Hbzm ybnha qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	ztuujti	13
+1 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+2 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	ptqzxbby	2
+4 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+5 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	rtxahm	5
+7 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+8 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	keqozhm	7
+10 Otmaxt tma Utxi cbdxmhiha qb qzh ptqzxbby.
+11 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+14 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	rtxahm	13
+1 Utxi tma Hbzm cbdxmhiha qb qzh bsseoh.
+2 Otmaxt tma Ytmehu jhmq qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	bsseoh	1
+4 Utxi tma Otmaxt qxtnhuuha qb qzh phaxbby.
+5 Otmaxt tma Ytmehu jhmq qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	keqozhm	5
+7 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+8 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+11 Utxi tma Otmaxt ybnha qb qzh bsseoh.
+12 Mzhxh el Ytmehu? 	ptqzxbby	10
+13 Utxi tma Otmaxt cbdxmhiha qb qzh ztuujti.
+14 Hbzm tma Ytmehu jhmq qb qzh ztuujti.
+15 Mzhxh el Utxi? 	ztuujti	13
+1 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+2 Hbzm tma Ytmehu jhmq qb qzh phaxbby.
+3 Mzhxh el Utxi? 	ztuujti	1
+4 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+5 Utxi tma Ytmehu jhmq qb qzh ztuujti.
+6 Mzhxh el Utxi? 	ztuujti	5
+7 Utxi tma Hbzm jhmq ptok qb qzh bsseoh.
+8 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Hbzm? 	bsseoh	7
+10 Otmaxt tma Utxi jhmq ptok qb qzh rtxahm.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh ztuujti.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Utxi? 	bsseoh	11
+1 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+2 Hbzm tma Utxi ybnha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	rtxahm	1
+4 Otmaxt tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+5 Utxi tma Hbzm jhmq ptok qb qzh ztuujti.
+6 Mzhxh el Utxi? 	ztuujti	5
+7 Utxi tma Hbzm ybnha qb qzh rtxahm.
+8 Utxi tma Ytmehu ybnha qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+11 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Hbzm? 	ptqzxbby	11
+13 Hbzm tma Otmaxt ybnha qb qzh ztuujti.
+14 Otmaxt tma Hbzm jhmq qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Utxi tma Ytmehu cbdxmhiha qb qzh phaxbby.
+2 Hbzm tma Otmaxt ybnha qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+5 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Otmaxt? 	bsseoh	5
+7 Otmaxt tma Hbzm qxtnhuuha qb qzh rtxahm.
+8 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+11 Hbzm tma Otmaxt qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Hbzm tma Otmaxt cbdxmhiha qb qzh keqozhm.
+14 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+15 Mzhxh el Ytmehu? 	ztuujti	14
+1 Utxi tma Ytmehu jhmq qb qzh ptqzxbby.
+2 Utxi tma Otmaxt jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Utxi? 	phaxbby	2
+4 Utxi tma Hbzm jhmq qb qzh ptqzxbby.
+5 Hbzm tma Otmaxt jhmq qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+8 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+11 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Otmaxt tma Ytmehu jhmq ptok qb qzh rtxahm.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Ytmehu tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+2 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	ptqzxbby	1
+4 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+5 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	phaxbby	4
+7 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+8 Hbzm tma Ytmehu jhmq qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Ytmehu tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+11 Utxi tma Hbzm jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Ytmehu? 	ptqzxbby	10
+13 Ytmehu tma Utxi jhmq ptok qb qzh rtxahm.
+14 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Utxi? 	ptqzxbby	14
+1 Otmaxt tma Hbzm ybnha qb qzh ztuujti.
+2 Hbzm tma Otmaxt cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Hbzm tma Ytmehu ybnha qb qzh ztuujti.
+5 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	2
+7 Utxi tma Otmaxt ybnha qb qzh ptqzxbby.
+8 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Hbzm tma Otmaxt jhmq qb qzh bsseoh.
+11 Utxi tma Hbzm jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+14 Hbzm tma Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	keqozhm	14
+1 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+2 Hbzm tma Ytmehu jhmq qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+5 Ytmehu tma Hbzm jhmq qb qzh ptqzxbby.
+6 Mzhxh el Utxi? 	ztuujti	4
+7 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+8 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Otmaxt tma Hbzm cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	phaxbby	11
+13 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+14 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Utxi tma Ytmehu qxtnhuuha qb qzh bsseoh.
+2 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	rtxahm	2
+4 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+5 Otmaxt tma Hbzm qxtnhuuha qb qzh ztuujti.
+6 Mzhxh el Otmaxt? 	ztuujti	5
+7 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+8 Utxi tma Ytmehu ybnha qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+11 Utxi tma Otmaxt qxtnhuuha qb qzh ztuujti.
+12 Mzhxh el Utxi? 	ztuujti	11
+13 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	bsseoh	14
+1 Hbzm tma Utxi ybnha qb qzh rtxahm.
+2 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+3 Mzhxh el Utxi? 	rtxahm	1
+4 Otmaxt tma Hbzm jhmq ptok qb qzh rtxahm.
+5 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	ztuujti	5
+7 Otmaxt tma Utxi ybnha qb qzh phaxbby.
+8 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+11 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	phaxbby	10
+13 Ytmehu tma Utxi ybnha qb qzh ztuujti.
+14 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+2 Hbzm tma Ytmehu ybnha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Utxi tma Hbzm ybnha qb qzh bsseoh.
+5 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	bsseoh	5
+7 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+8 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+11 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Hbzm tma Ytmehu jhmq ptok qb qzh ztuujti.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+15 Mzhxh el Otmaxt? 	rtxahm	14
+1 Utxi tma Hbzm ybnha qb qzh phaxbby.
+2 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Otmaxt tma Hbzm jhmq qb qzh keqozhm.
+5 Ytmehu tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	keqozhm	4
+7 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+8 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Ytmehu? 	bsseoh	7
+10 Otmaxt tma Hbzm jhmq qb qzh keqozhm.
+11 Utxi tma Hbzm cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Hbzm tma Utxi jhmq ptok qb qzh ptqzxbby.
+14 Utxi tma Hbzm jhmq qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	ztuujti	14
+1 Utxi tma Ytmehu qxtnhuuha qb qzh rtxahm.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	rtxahm	1
+4 Ytmehu tma Hbzm cbdxmhiha qb qzh ztuujti.
+5 Otmaxt tma Utxi qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Utxi? 	ptqzxbby	5
+7 Hbzm tma Utxi ybnha qb qzh rtxahm.
+8 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Hbzm? 	rtxahm	7
+10 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+11 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Otmaxt? 	rtxahm	11
+13 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+14 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	keqozhm	13
+1 Otmaxt tma Ytmehu qxtnhuuha qb qzh keqozhm.
+2 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+5 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	phaxbby	4
+7 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+8 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+9 Mzhxh el Utxi? 	ztuujti	8
+10 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Otmaxt? 	ztuujti	10
+13 Hbzm tma Otmaxt qxtnhuuha qb qzh keqozhm.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Utxi? 	keqozhm	11
+1 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+2 Hbzm tma Otmaxt jhmq ptok qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	phaxbby	1
+4 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+5 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+6 Mzhxh el Utxi? 	bsseoh	4
+7 Utxi tma Hbzm ybnha qb qzh ztuujti.
+8 Otmaxt tma Utxi jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Hbzm tma Otmaxt qxtnhuuha qb qzh phaxbby.
+11 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Otmaxt? 	ztuujti	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh keqozhm.
+14 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Hbzm tma Utxi jhmq qb qzh rtxahm.
+2 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Ytmehu tma Otmaxt qxtnhuuha qb qzh bsseoh.
+5 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	bsseoh	4
+7 Utxi tma Ytmehu ybnha qb qzh rtxahm.
+8 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Hbzm tma Ytmehu jhmq qb qzh phaxbby.
+11 Hbzm tma Utxi ybnha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Hbzm tma Utxi jhmq ptok qb qzh bsseoh.
+14 Ytmehu tma Utxi ybnha qb qzh ptqzxbby.
+15 Mzhxh el Utxi? 	ptqzxbby	14
+1 Otmaxt tma Utxi jhmq qb qzh keqozhm.
+2 Utxi tma Hbzm ybnha qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Otmaxt tma Hbzm qxtnhuuha qb qzh rtxahm.
+5 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	rtxahm	4
+7 Hbzm tma Otmaxt jhmq qb qzh keqozhm.
+8 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	ztuujti	8
+10 Hbzm tma Otmaxt jhmq ptok qb qzh keqozhm.
+11 Hbzm tma Ytmehu jhmq qb qzh ztuujti.
+12 Mzhxh el Otmaxt? 	keqozhm	10
+13 Utxi tma Hbzm ybnha qb qzh ptqzxbby.
+14 Otmaxt tma Ytmehu qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	phaxbby	14
+1 Utxi tma Ytmehu qxtnhuuha qb qzh ztuujti.
+2 Ytmehu tma Utxi jhmq qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Hbzm tma Utxi jhmq qb qzh ptqzxbby.
+5 Hbzm tma Utxi jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Hbzm tma Utxi jhmq ptok qb qzh bsseoh.
+8 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+11 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Otmaxt? 	phaxbby	10
+13 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+14 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Ytmehu? 	ztuujti	14
+1 Ytmehu tma Utxi qxtnhuuha qb qzh ztuujti.
+2 Otmaxt tma Utxi qxtnhuuha qb qzh ptqzxbby.
+3 Mzhxh el Ytmehu? 	ztuujti	1
+4 Hbzm tma Ytmehu jhmq ptok qb qzh rtxahm.
+5 Hbzm tma Otmaxt ybnha qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	rtxahm	4
+7 Otmaxt tma Ytmehu qxtnhuuha qb qzh ztuujti.
+8 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Ytmehu tma Hbzm cbdxmhiha qb qzh keqozhm.
+11 Otmaxt tma Hbzm jhmq ptok qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+14 Hbzm tma Otmaxt ybnha qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	phaxbby	13
+1 Otmaxt tma Hbzm jhmq ptok qb qzh rtxahm.
+2 Ytmehu tma Otmaxt ybnha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	bsseoh	2
+4 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+5 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	keqozhm	5
+7 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+8 Hbzm tma Otmaxt qxtnhuuha qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	7
+10 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+11 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	ptqzxbby	11
+13 Utxi tma Otmaxt ybnha qb qzh bsseoh.
+14 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ztuujti	14
+1 Hbzm tma Utxi cbdxmhiha qb qzh keqozhm.
+2 Utxi tma Hbzm jhmq qb qzh bsseoh.
+3 Mzhxh el Utxi? 	bsseoh	2
+4 Hbzm tma Utxi jhmq ptok qb qzh ztuujti.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Otmaxt tma Utxi jhmq ptok qb qzh phaxbby.
+8 Utxi tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Hbzm tma Ytmehu jhmq qb qzh rtxahm.
+11 Ytmehu tma Utxi jhmq qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	rtxahm	10
+13 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+14 Otmaxt tma Ytmehu qxtnhuuha qb qzh rtxahm.
+15 Mzhxh el Utxi? 	phaxbby	11
+1 Ytmehu tma Utxi ybnha qb qzh keqozhm.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el Utxi? 	bsseoh	2
+4 Utxi tma Hbzm ybnha qb qzh phaxbby.
+5 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	ztuujti	5
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+8 Otmaxt tma Hbzm cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Ytmehu tma Hbzm jhmq ptok qb qzh phaxbby.
+11 Hbzm tma Utxi ybnha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Ytmehu tma Otmaxt cbdxmhiha qb qzh ztuujti.
+14 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Hbzm tma Utxi jhmq qb qzh rtxahm.
+2 Utxi tma Ytmehu jhmq qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	rtxahm	1
+4 Otmaxt tma Utxi jhmq qb qzh ptqzxbby.
+5 Ytmehu tma Otmaxt jhmq qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	bsseoh	5
+7 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+8 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+11 Otmaxt tma Utxi jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	8
+13 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+14 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	keqozhm	13
+1 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+2 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+3 Mzhxh el Ytmehu? 	ztuujti	1
+4 Otmaxt tma Hbzm jhmq ptok qb qzh rtxahm.
+5 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+6 Mzhxh el Otmaxt? 	ztuujti	5
+7 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+8 Ytmehu tma Hbzm jhmq ptok qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Hbzm tma Utxi jhmq qb qzh ztuujti.
+11 Utxi tma Hbzm ybnha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+14 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+2 Otmaxt tma Ytmehu cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	keqozhm	2
+4 Hbzm tma Utxi jhmq qb qzh ztuujti.
+5 Ytmehu tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+8 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+11 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	keqozhm	11
+13 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+14 Otmaxt tma Ytmehu jhmq qb qzh ptqzxbby.
+15 Mzhxh el Utxi? 	ztuujti	13
+1 Ytmehu tma Hbzm jhmq qb qzh rtxahm.
+2 Utxi tma Ytmehu jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Otmaxt tma Utxi cbdxmhiha qb qzh rtxahm.
+5 Otmaxt tma Utxi cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+8 Hbzm tma Utxi cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Utxi? 	keqozhm	8
+10 Utxi tma Hbzm ybnha qb qzh phaxbby.
+11 Hbzm tma Ytmehu ybnha qb qzh ptqzxbby.
+12 Mzhxh el Hbzm? 	ptqzxbby	11
+13 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+14 Utxi tma Otmaxt qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	bsseoh	14
+1 Utxi tma Hbzm qxtnhuuha qb qzh keqozhm.
+2 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	2
+4 Otmaxt tma Ytmehu jhmq qb qzh ptqzxbby.
+5 Hbzm tma Ytmehu cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	ptqzxbby	4
+7 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+8 Hbzm tma Otmaxt ybnha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Hbzm tma Ytmehu jhmq qb qzh ztuujti.
+11 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+12 Mzhxh el Otmaxt? 	rtxahm	11
+13 Ytmehu tma Otmaxt cbdxmhiha qb qzh ztuujti.
+14 Utxi tma Otmaxt jhmq qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	ztuujti	13
+1 Ytmehu tma Hbzm qxtnhuuha qb qzh phaxbby.
+2 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+5 Ytmehu tma Utxi ybnha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Ytmehu tma Utxi cbdxmhiha qb qzh phaxbby.
+8 Hbzm tma Ytmehu cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Utxi? 	phaxbby	7
+10 Ytmehu tma Otmaxt cbdxmhiha qb qzh ztuujti.
+11 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+14 Utxi tma Otmaxt qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	ztuujti	13
+1 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+2 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+3 Mzhxh el Ytmehu? 	rtxahm	2
+4 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+5 Hbzm tma Otmaxt cbdxmhiha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+8 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+11 Hbzm tma Otmaxt qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	phaxbby	11
+13 Otmaxt tma Utxi jhmq qb qzh ptqzxbby.
+14 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	ptqzxbby	13
+1 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+2 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Utxi tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+5 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	rtxahm	2
+7 Otmaxt tma Hbzm jhmq qb qzh keqozhm.
+8 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Otmaxt? 	keqozhm	7
+10 Otmaxt tma Utxi ybnha qb qzh ztuujti.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Ytmehu tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+14 Utxi tma Hbzm cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	phaxbby	14
+1 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+2 Otmaxt tma Hbzm jhmq qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Ytmehu tma Otmaxt jhmq qb qzh rtxahm.
+5 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	phaxbby	5
+7 Otmaxt tma Utxi cbdxmhiha qb qzh ptqzxbby.
+8 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Ytmehu tma Otmaxt ybnha qb qzh bsseoh.
+11 Otmaxt tma Utxi jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	ztuujti	8
+13 Utxi tma Otmaxt ybnha qb qzh ztuujti.
+14 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Otmaxt tma Hbzm cbdxmhiha qb qzh phaxbby.
+2 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+5 Ytmehu tma Hbzm jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Utxi? 	rtxahm	4
+7 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+8 Ytmehu tma Utxi cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	bsseoh	5
+10 Ytmehu tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Utxi? 	rtxahm	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Otmaxt tma Utxi cbdxmhiha qb qzh keqozhm.
+2 Otmaxt tma Utxi ybnha qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	ptqzxbby	2
+4 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+5 Hbzm tma Ytmehu ybnha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	bsseoh	4
+7 Utxi tma Ytmehu jhmq ptok qb qzh ztuujti.
+8 Ytmehu tma Otmaxt jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Otmaxt? 	phaxbby	8
+10 Hbzm tma Ytmehu ybnha qb qzh keqozhm.
+11 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	keqozhm	10
+13 Utxi tma Hbzm jhmq ptok qb qzh ptqzxbby.
+14 Otmaxt tma Utxi ybnha qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+2 Hbzm tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Utxi? 	bsseoh	1
+4 Utxi tma Otmaxt jhmq ptok qb qzh ztuujti.
+5 Hbzm tma Ytmehu qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Ytmehu? 	keqozhm	5
+7 Otmaxt tma Hbzm jhmq qb qzh rtxahm.
+8 Utxi tma Hbzm cbdxmhiha qb qzh phaxbby.
+9 Mzhxh el Hbzm? 	phaxbby	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Utxi tma Ytmehu jhmq ptok qb qzh ztuujti.
+12 Mzhxh el Utxi? 	ztuujti	11
+13 Ytmehu tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+14 Utxi tma Hbzm jhmq qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	ptqzxbby	13
+1 Utxi tma Hbzm jhmq qb qzh rtxahm.
+2 Utxi tma Otmaxt qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	rtxahm	1
+4 Ytmehu tma Otmaxt cbdxmhiha qb qzh bsseoh.
+5 Otmaxt tma Utxi cbdxmhiha qb qzh phaxbby.
+6 Mzhxh el Utxi? 	phaxbby	5
+7 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+8 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	7
+10 Otmaxt tma Ytmehu jhmq ptok qb qzh rtxahm.
+11 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Hbzm tma Ytmehu cbdxmhiha qb qzh rtxahm.
+14 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Hbzm tma Otmaxt ybnha qb qzh ptqzxbby.
+2 Utxi tma Ytmehu cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	ptqzxbby	1
+4 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+5 Utxi tma Otmaxt jhmq qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	keqozhm	4
+7 Otmaxt tma Hbzm jhmq qb qzh keqozhm.
+8 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Otmaxt? 	keqozhm	7
+10 Utxi tma Otmaxt qxtnhuuha qb qzh ztuujti.
+11 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Utxi tma Hbzm jhmq ptok qb qzh phaxbby.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	phaxbby	13
+1 Otmaxt tma Utxi qxtnhuuha qb qzh bsseoh.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	bsseoh	1
+4 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+5 Ytmehu tma Utxi ybnha qb qzh keqozhm.
+6 Mzhxh el Ytmehu? 	keqozhm	5
+7 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+8 Hbzm tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	phaxbby	7
+10 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+11 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Hbzm tma Otmaxt ybnha qb qzh phaxbby.
+14 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	phaxbby	13
+1 Utxi tma Ytmehu jhmq ptok qb qzh rtxahm.
+2 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Utxi? 	rtxahm	1
+4 Hbzm tma Otmaxt ybnha qb qzh ptqzxbby.
+5 Ytmehu tma Hbzm qxtnhuuha qb qzh phaxbby.
+6 Mzhxh el Hbzm? 	phaxbby	5
+7 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+8 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Hbzm? 	keqozhm	8
+10 Otmaxt tma Hbzm cbdxmhiha qb qzh rtxahm.
+11 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh bsseoh.
+14 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	13
+1 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+2 Otmaxt tma Ytmehu jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Utxi tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+5 Utxi tma Hbzm jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	ptqzxbby	4
+7 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+8 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Utxi? 	ztuujti	8
+10 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+11 Hbzm tma Otmaxt jhmq qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	ptqzxbby	11
+13 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+14 Ytmehu tma Utxi jhmq qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	keqozhm	13
+1 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+2 Hbzm tma Ytmehu jhmq qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	rtxahm	1
+4 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+5 Utxi tma Ytmehu cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+8 Ytmehu tma Hbzm ybnha qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	ptqzxbby	8
+10 Otmaxt tma Utxi jhmq ptok qb qzh keqozhm.
+11 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+12 Mzhxh el Otmaxt? 	phaxbby	11
+13 Hbzm tma Utxi jhmq ptok qb qzh bsseoh.
+14 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	bsseoh	13
+1 Otmaxt tma Utxi qxtnhuuha qb qzh keqozhm.
+2 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	keqozhm	1
+4 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+5 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+6 Mzhxh el Hbzm? 	phaxbby	4
+7 Utxi tma Ytmehu jhmq ptok qb qzh ztuujti.
+8 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	ptqzxbby	8
+10 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+11 Utxi tma Hbzm cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Otmaxt? 	rtxahm	10
+13 Hbzm tma Ytmehu ybnha qb qzh ptqzxbby.
+14 Otmaxt tma Ytmehu qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	ptqzxbby	13
+1 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Utxi? 	ptqzxbby	1
+4 Ytmehu tma Utxi cbdxmhiha qb qzh rtxahm.
+5 Ytmehu tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	ptqzxbby	5
+7 Ytmehu tma Hbzm jhmq qb qzh bsseoh.
+8 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	ptqzxbby	8
+10 Hbzm tma Ytmehu qxtnhuuha qb qzh keqozhm.
+11 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Otmaxt tma Utxi jhmq ptok qb qzh ztuujti.
+14 Hbzm tma Ytmehu qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Hbzm tma Otmaxt ybnha qb qzh bsseoh.
+2 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	bsseoh	1
+4 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+5 Hbzm tma Otmaxt qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	keqozhm	5
+7 Hbzm tma Utxi jhmq ptok qb qzh phaxbby.
+8 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Utxi? 	ztuujti	8
+10 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+11 Otmaxt tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	10
+13 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+14 Hbzm tma Utxi ybnha qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	phaxbby	14
+1 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+2 Ytmehu tma Otmaxt jhmq qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	rtxahm	2
+4 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+5 Hbzm tma Otmaxt ybnha qb qzh phaxbby.
+6 Mzhxh el Hbzm? 	phaxbby	5
+7 Utxi tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Hbzm tma Otmaxt ybnha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Utxi tma Ytmehu cbdxmhiha qb qzh phaxbby.
+11 Ytmehu tma Hbzm cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	phaxbby	10
+13 Ytmehu tma Otmaxt qxtnhuuha qb qzh phaxbby.
+14 Ytmehu tma Utxi ybnha qb qzh ztuujti.
+15 Mzhxh el Utxi? 	ztuujti	14
+1 Ytmehu tma Otmaxt jhmq ptok qb qzh bsseoh.
+2 Utxi tma Otmaxt qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	bsseoh	1
+4 Ytmehu tma Utxi jhmq ptok qb qzh rtxahm.
+5 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	4
+7 Ytmehu tma Hbzm jhmq ptok qb qzh keqozhm.
+8 Hbzm tma Ytmehu cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+11 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+14 Hbzm tma Ytmehu jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Utxi? 	keqozhm	13
+1 Utxi tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+2 Ytmehu tma Utxi ybnha qb qzh ztuujti.
+3 Mzhxh el Utxi? 	ztuujti	2
+4 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+5 Otmaxt tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	ptqzxbby	5
+7 Hbzm tma Otmaxt jhmq ptok qb qzh ztuujti.
+8 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Utxi tma Hbzm ybnha qb qzh ptqzxbby.
+11 Hbzm tma Ytmehu jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Utxi? 	ptqzxbby	10
+13 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+14 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ztuujti	14
+1 Hbzm tma Otmaxt cbdxmhiha qb qzh rtxahm.
+2 Utxi tma Hbzm qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Ytmehu tma Hbzm jhmq ptok qb qzh ztuujti.
+5 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh phaxbby.
+8 Utxi tma Hbzm jhmq ptok qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+11 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Utxi tma Hbzm jhmq ptok qb qzh phaxbby.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Utxi? 	phaxbby	13
+1 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+2 Utxi tma Otmaxt qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+5 Utxi tma Hbzm qxtnhuuha qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	ptqzxbby	4
+7 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+8 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Hbzm tma Utxi jhmq ptok qb qzh ztuujti.
+11 Hbzm tma Otmaxt jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	keqozhm	11
+13 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+14 Hbzm tma Utxi cbdxmhiha qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+2 Ytmehu tma Utxi qxtnhuuha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+5 Ytmehu tma Hbzm jhmq qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ztuujti	4
+7 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+8 Ytmehu tma Hbzm jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Hbzm tma Otmaxt cbdxmhiha qb qzh keqozhm.
+11 Utxi tma Otmaxt qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	keqozhm	10
+13 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+14 Hbzm tma Ytmehu cbdxmhiha qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	bsseoh	14
+1 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+2 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Hbzm tma Ytmehu jhmq ptok qb qzh rtxahm.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Utxi? 	ptqzxbby	5
+7 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+8 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Utxi? 	ztuujti	8
+10 Otmaxt tma Ytmehu jhmq qb qzh ztuujti.
+11 Hbzm tma Ytmehu jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+14 Hbzm tma Ytmehu ybnha qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+2 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+5 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	ptqzxbby	4
+7 Ytmehu tma Utxi ybnha qb qzh ztuujti.
+8 Hbzm tma Utxi qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	8
+10 Utxi tma Ytmehu jhmq qb qzh keqozhm.
+11 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+14 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Utxi? 	ztuujti	2
+4 Ytmehu tma Utxi ybnha qb qzh bsseoh.
+5 Utxi tma Otmaxt jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Ytmehu tma Hbzm ybnha qb qzh ptqzxbby.
+8 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Hbzm tma Utxi qxtnhuuha qb qzh rtxahm.
+11 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Otmaxt tma Ytmehu cbdxmhiha qb qzh rtxahm.
+14 Ytmehu tma Hbzm jhmq qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Utxi tma Ytmehu jhmq ptok qb qzh rtxahm.
+2 Utxi tma Otmaxt jhmq ptok qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	rtxahm	1
+4 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+5 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	ztuujti	4
+7 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+8 Utxi tma Hbzm qxtnhuuha qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	8
+10 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+11 Hbzm tma Utxi ybnha qb qzh ptqzxbby.
+12 Mzhxh el Hbzm? 	ptqzxbby	11
+13 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+14 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Utxi tma Ytmehu qxtnhuuha qb qzh ztuujti.
+2 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+3 Mzhxh el Utxi? 	ztuujti	1
+4 Utxi tma Hbzm ybnha qb qzh phaxbby.
+5 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	rtxahm	5
+7 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+8 Otmaxt tma Utxi qxtnhuuha qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+11 Utxi tma Ytmehu jhmq qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Hbzm tma Otmaxt jhmq qb qzh rtxahm.
+14 Hbzm tma Ytmehu qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	bsseoh	14
+1 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu tma Otmaxt qxtnhuuha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	ptqzxbby	1
+4 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+5 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	phaxbby	5
+7 Ytmehu tma Utxi jhmq ptok qb qzh phaxbby.
+8 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+11 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+14 Utxi tma Otmaxt jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	phaxbby	13
+1 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+2 Ytmehu tma Otmaxt cbdxmhiha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	2
+4 Otmaxt tma Ytmehu qxtnhuuha qb qzh rtxahm.
+5 Hbzm tma Ytmehu jhmq ptok qb qzh keqozhm.
+6 Mzhxh el Ytmehu? 	keqozhm	5
+7 Ytmehu tma Utxi jhmq ptok qb qzh phaxbby.
+8 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	ztuujti	8
+10 Utxi tma Otmaxt ybnha qb qzh keqozhm.
+11 Utxi tma Ytmehu qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+14 Hbzm tma Ytmehu ybnha qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Ytmehu tma Utxi ybnha qb qzh bsseoh.
+2 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Hbzm tma Ytmehu qxtnhuuha qb qzh bsseoh.
+5 Hbzm tma Otmaxt cbdxmhiha qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	phaxbby	5
+7 Utxi tma Hbzm jhmq ptok qb qzh rtxahm.
+8 Utxi tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+11 Utxi tma Hbzm jhmq qb qzh phaxbby.
+12 Mzhxh el Otmaxt? 	rtxahm	10
+13 Utxi tma Otmaxt cbdxmhiha qb qzh ztuujti.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Utxi? 	ztuujti	13
+1 Otmaxt tma Hbzm jhmq ptok qb qzh phaxbby.
+2 Otmaxt tma Hbzm jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Hbzm? 	ptqzxbby	2
+4 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+5 Ytmehu tma Utxi jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Otmaxt? 	keqozhm	4
+7 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+8 Hbzm tma Utxi ybnha qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+11 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Hbzm tma Utxi cbdxmhiha qb qzh keqozhm.
+14 Ytmehu tma Hbzm qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ptqzxbby	11
+1 Utxi tma Hbzm ybnha qb qzh bsseoh.
+2 Hbzm tma Ytmehu cbdxmhiha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	2
+4 Otmaxt tma Hbzm ybnha qb qzh ztuujti.
+5 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	2
+7 Hbzm tma Utxi jhmq ptok qb qzh rtxahm.
+8 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	rtxahm	7
+10 Otmaxt tma Utxi jhmq qb qzh ztuujti.
+11 Utxi tma Hbzm jhmq qb qzh phaxbby.
+12 Mzhxh el Utxi? 	phaxbby	11
+13 Hbzm tma Ytmehu jhmq qb qzh bsseoh.
+14 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Hbzm tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+2 Utxi tma Otmaxt jhmq qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Ytmehu tma Otmaxt jhmq qb qzh rtxahm.
+5 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	5
+7 Hbzm tma Ytmehu cbdxmhiha qb qzh keqozhm.
+8 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ptqzxbby	8
+10 Otmaxt tma Ytmehu cbdxmhiha qb qzh bsseoh.
+11 Utxi tma Ytmehu jhmq ptok qb qzh rtxahm.
+12 Mzhxh el Otmaxt? 	bsseoh	10
+13 Utxi tma Hbzm ybnha qb qzh phaxbby.
+14 Utxi tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Hbzm tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+2 Utxi tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Ytmehu? 	ptqzxbby	2
+4 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+5 Ytmehu tma Hbzm cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Otmaxt? 	rtxahm	4
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh phaxbby.
+8 Utxi tma Otmaxt jhmq qb qzh bsseoh.
+9 Mzhxh el Otmaxt? 	bsseoh	8
+10 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+11 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Utxi tma Hbzm jhmq qb qzh phaxbby.
+14 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	phaxbby	13
+1 Ytmehu tma Utxi cbdxmhiha qb qzh ptqzxbby.
+2 Otmaxt tma Ytmehu cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	rtxahm	2
+4 Otmaxt tma Hbzm jhmq ptok qb qzh phaxbby.
+5 Otmaxt tma Utxi jhmq ptok qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	phaxbby	4
+7 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+8 Otmaxt tma Ytmehu cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Utxi? 	ptqzxbby	7
+10 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+11 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	ztuujti	8
+13 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+14 Ytmehu tma Otmaxt qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el Utxi? 	ztuujti	13
+1 Utxi tma Otmaxt ybnha qb qzh phaxbby.
+2 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+3 Mzhxh el Utxi? 	keqozhm	2
+4 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+5 Otmaxt tma Utxi ybnha qb qzh phaxbby.
+6 Mzhxh el Utxi? 	phaxbby	5
+7 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+8 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	ptqzxbby	7
+10 Utxi tma Otmaxt qxtnhuuha qb qzh ztuujti.
+11 Otmaxt tma Utxi qxtnhuuha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+14 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+15 Mzhxh el Otmaxt? 	rtxahm	14
+1 Hbzm tma Otmaxt jhmq ptok qb qzh keqozhm.
+2 Otmaxt tma Hbzm jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+5 Hbzm tma Utxi ybnha qb qzh ptqzxbby.
+6 Mzhxh el Utxi? 	ptqzxbby	5
+7 Ytmehu tma Utxi ybnha qb qzh keqozhm.
+8 Hbzm tma Ytmehu cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Ytmehu? 	bsseoh	8
+10 Otmaxt tma Utxi jhmq qb qzh phaxbby.
+11 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Ytmehu? 	bsseoh	8
+13 Utxi tma Hbzm cbdxmhiha qb qzh rtxahm.
+14 Ytmehu tma Hbzm qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	ztuujti	14
+1 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+2 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+3 Mzhxh el Ytmehu? 	phaxbby	2
+4 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+5 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	keqozhm	4
+7 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+8 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	ptqzxbby	8
+10 Hbzm tma Utxi ybnha qb qzh phaxbby.
+11 Hbzm tma Utxi jhmq qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Utxi tma Ytmehu cbdxmhiha qb qzh ztuujti.
+14 Utxi tma Hbzm jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	ztuujti	13
+1 Otmaxt tma Hbzm jhmq qb qzh ptqzxbby.
+2 Hbzm tma Utxi jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Otmaxt tma Hbzm jhmq ptok qb qzh phaxbby.
+5 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Otmaxt? 	bsseoh	5
+7 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+8 Ytmehu tma Utxi ybnha qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	rtxahm	7
+10 Otmaxt tma Utxi jhmq qb qzh ptqzxbby.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Otmaxt? 	ptqzxbby	10
+13 Utxi tma Hbzm jhmq ptok qb qzh keqozhm.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	phaxbby	14
+1 Otmaxt tma Hbzm jhmq ptok qb qzh rtxahm.
+2 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+5 Otmaxt tma Ytmehu qxtnhuuha qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	ztuujti	5
+7 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+8 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	ztuujti	8
+10 Otmaxt tma Hbzm jhmq ptok qb qzh bsseoh.
+11 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+12 Mzhxh el Otmaxt? 	ztuujti	11
+13 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+14 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+15 Mzhxh el Ytmehu? 	phaxbby	13
+1 Ytmehu tma Otmaxt cbdxmhiha qb qzh ztuujti.
+2 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Otmaxt tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+5 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	keqozhm	5
+7 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+8 Utxi tma Hbzm jhmq qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	ztuujti	7
+10 Otmaxt tma Ytmehu jhmq ptok qb qzh rtxahm.
+11 Utxi tma Otmaxt qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Utxi? 	phaxbby	11
+13 Utxi tma Hbzm jhmq ptok qb qzh ztuujti.
+14 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	bsseoh	14
+1 Otmaxt tma Hbzm qxtnhuuha qb qzh bsseoh.
+2 Hbzm tma Utxi jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Utxi tma Ytmehu cbdxmhiha qb qzh ztuujti.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	ztuujti	4
+7 Utxi tma Hbzm jhmq qb qzh ztuujti.
+8 Hbzm tma Otmaxt jhmq qb qzh bsseoh.
+9 Mzhxh el Utxi? 	ztuujti	7
+10 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+11 Ytmehu tma Otmaxt qxtnhuuha qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	rtxahm	10
+13 Utxi tma Ytmehu ybnha qb qzh bsseoh.
+14 Utxi tma Otmaxt jhmq ptok qb qzh rtxahm.
+15 Mzhxh el Utxi? 	rtxahm	14
+1 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Utxi? 	ztuujti	2
+4 Otmaxt tma Hbzm jhmq qb qzh bsseoh.
+5 Ytmehu tma Otmaxt ybnha qb qzh phaxbby.
+6 Mzhxh el Hbzm? 	bsseoh	4
+7 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+8 Ytmehu tma Otmaxt qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+11 Utxi tma Otmaxt cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	ptqzxbby	10
+13 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+14 Ytmehu tma Utxi jhmq qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	keqozhm	11
+1 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+2 Utxi tma Hbzm ybnha qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+5 Hbzm tma Utxi jhmq qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh bsseoh.
+8 Ytmehu tma Utxi qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Hbzm tma Ytmehu cbdxmhiha qb qzh bsseoh.
+11 Hbzm tma Ytmehu cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+14 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	keqozhm	13
+1 Hbzm tma Ytmehu ybnha qb qzh ztuujti.
+2 Utxi tma Hbzm cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+5 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	5
+7 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+8 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Utxi tma Hbzm ybnha qb qzh bsseoh.
+11 Ytmehu tma Utxi ybnha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Otmaxt tma Ytmehu jhmq qb qzh ztuujti.
+14 Utxi tma Hbzm qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	keqozhm	14
+1 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+2 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+3 Mzhxh el Utxi? 	ptqzxbby	2
+4 Hbzm tma Ytmehu jhmq ptok qb qzh bsseoh.
+5 Hbzm tma Utxi ybnha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Ytmehu tma Utxi jhmq ptok qb qzh ptqzxbby.
+8 Ytmehu tma Utxi jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	8
+10 Hbzm tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+11 Otmaxt tma Ytmehu qxtnhuuha qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	ptqzxbby	10
+13 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+14 Utxi tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Utxi tma Ytmehu cbdxmhiha qb qzh phaxbby.
+2 Ytmehu tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+3 Mzhxh el Utxi? 	phaxbby	1
+4 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+5 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+6 Mzhxh el Otmaxt? 	ztuujti	5
+7 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+8 Hbzm tma Ytmehu jhmq qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+11 Hbzm tma Ytmehu jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Ytmehu? 	bsseoh	11
+13 Hbzm tma Utxi ybnha qb qzh ztuujti.
+14 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	phaxbby	14
+1 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+2 Hbzm tma Ytmehu cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Utxi? 	rtxahm	1
+4 Ytmehu tma Otmaxt jhmq ptok qb qzh ztuujti.
+5 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Hbzm tma Utxi jhmq ptok qb qzh bsseoh.
+8 Utxi tma Ytmehu jhmq qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+11 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	keqozhm	11
+13 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+14 Otmaxt tma Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+2 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	phaxbby	1
+4 Otmaxt tma Ytmehu jhmq qb qzh ztuujti.
+5 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	ztuujti	5
+7 Utxi tma Hbzm jhmq qb qzh rtxahm.
+8 Otmaxt tma Ytmehu qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+11 Otmaxt tma Hbzm jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	ztuujti	10
+13 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+14 Ytmehu tma Otmaxt ybnha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	bsseoh	14
+1 Hbzm tma Utxi ybnha qb qzh keqozhm.
+2 Otmaxt tma Hbzm jhmq qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Hbzm tma Utxi jhmq qb qzh phaxbby.
+5 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+8 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Ytmehu tma Hbzm ybnha qb qzh keqozhm.
+11 Hbzm tma Ytmehu ybnha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Otmaxt tma Utxi qxtnhuuha qb qzh ptqzxbby.
+14 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+2 Utxi tma Hbzm jhmq qb qzh bsseoh.
+3 Mzhxh el Utxi? 	bsseoh	2
+4 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Otmaxt tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+8 Hbzm tma Utxi jhmq qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	8
+10 Utxi tma Ytmehu jhmq ptok qb qzh bsseoh.
+11 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Utxi? 	bsseoh	10
+13 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+14 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+15 Mzhxh el Otmaxt? 	rtxahm	14
+1 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Otmaxt tma Hbzm ybnha qb qzh ztuujti.
+5 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	ztuujti	4
+7 Otmaxt tma Utxi jhmq ptok qb qzh ztuujti.
+8 Utxi tma Ytmehu jhmq qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	8
+10 Hbzm tma Utxi jhmq qb qzh keqozhm.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	keqozhm	10
+13 Ytmehu tma Otmaxt qxtnhuuha qb qzh keqozhm.
+14 Utxi tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	ptqzxbby	14
+1 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+2 Otmaxt tma Utxi jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+5 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Otmaxt? 	ptqzxbby	4
+7 Utxi tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+8 Otmaxt tma Ytmehu jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+11 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	keqozhm	10
+13 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+14 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ptqzxbby	14
+1 Utxi tma Hbzm ybnha qb qzh bsseoh.
+2 Hbzm tma Utxi jhmq qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Ytmehu tma Otmaxt cbdxmhiha qb qzh bsseoh.
+5 Hbzm tma Utxi jhmq ptok qb qzh ptqzxbby.
+6 Mzhxh el Hbzm? 	ptqzxbby	5
+7 Hbzm tma Otmaxt qxtnhuuha qb qzh ztuujti.
+8 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+11 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	bsseoh	11
+13 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+14 Otmaxt tma Ytmehu jhmq qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+2 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el Utxi? 	bsseoh	2
+4 Utxi tma Otmaxt jhmq qb qzh ptqzxbby.
+5 Utxi tma Otmaxt ybnha qb qzh ztuujti.
+6 Mzhxh el Utxi? 	ztuujti	5
+7 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+8 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Otmaxt tma Hbzm cbdxmhiha qb qzh phaxbby.
+11 Otmaxt tma Utxi cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+14 Otmaxt tma Hbzm cbdxmhiha qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	bsseoh	14
+1 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+2 Utxi tma Otmaxt qxtnhuuha qb qzh bsseoh.
+3 Mzhxh el Utxi? 	bsseoh	2
+4 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+5 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Otmaxt tma Ytmehu cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	rtxahm	5
+10 Utxi tma Ytmehu jhmq qb qzh ptqzxbby.
+11 Hbzm tma Utxi qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Utxi? 	phaxbby	11
+13 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+14 Hbzm tma Utxi jhmq qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+2 Utxi tma Ytmehu cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	keqozhm	1
+4 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+5 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	keqozhm	4
+7 Utxi tma Hbzm jhmq qb qzh ztuujti.
+8 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	ptqzxbby	8
+10 Utxi tma Otmaxt qxtnhuuha qb qzh bsseoh.
+11 Utxi tma Otmaxt cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Otmaxt? 	ztuujti	11
+13 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+14 Utxi tma Ytmehu jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+2 Hbzm tma Ytmehu ybnha qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Otmaxt tma Utxi jhmq ptok qb qzh ztuujti.
+5 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Otmaxt? 	bsseoh	5
+7 Ytmehu tma Hbzm jhmq ptok qb qzh bsseoh.
+8 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ztuujti	8
+10 Otmaxt tma Hbzm jhmq qb qzh ptqzxbby.
+11 Otmaxt tma Hbzm qxtnhuuha qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	ztuujti	11
+13 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	ptqzxbby	13
+1 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+2 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Otmaxt tma Utxi jhmq qb qzh keqozhm.
+5 Ytmehu tma Utxi ybnha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	keqozhm	4
+7 Utxi tma Ytmehu jhmq qb qzh keqozhm.
+8 Utxi tma Otmaxt cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+11 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Otmaxt? 	ptqzxbby	8
+13 Utxi tma Hbzm jhmq qb qzh ztuujti.
+14 Otmaxt tma Ytmehu jhmq qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Ytmehu tma Otmaxt ybnha qb qzh ztuujti.
+2 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+5 Utxi tma Otmaxt qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+8 Otmaxt tma Utxi jhmq qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	8
+10 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+11 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+12 Mzhxh el Ytmehu? 	bsseoh	11
+13 Ytmehu tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+14 Utxi tma Hbzm jhmq ptok qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Utxi tma Hbzm cbdxmhiha qb qzh bsseoh.
+2 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	keqozhm	2
+4 Utxi tma Hbzm jhmq ptok qb qzh ztuujti.
+5 Ytmehu tma Utxi jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	rtxahm	5
+7 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+8 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el Utxi? 	keqozhm	8
+10 Otmaxt tma Utxi cbdxmhiha qb qzh phaxbby.
+11 Otmaxt tma Hbzm jhmq qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+14 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+15 Mzhxh el Hbzm? 	rtxahm	14
+1 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+2 Otmaxt tma Hbzm jhmq ptok qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	rtxahm	2
+4 Otmaxt tma Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	4
+7 Utxi tma Ytmehu cbdxmhiha qb qzh phaxbby.
+8 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+9 Mzhxh el Utxi? 	phaxbby	7
+10 Otmaxt tma Utxi qxtnhuuha qb qzh rtxahm.
+11 Hbzm tma Otmaxt qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+14 Utxi tma Otmaxt jhmq ptok qb qzh ztuujti.
+15 Mzhxh el Utxi? 	ztuujti	14
+1 Otmaxt tma Hbzm jhmq ptok qb qzh bsseoh.
+2 Utxi tma Hbzm qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	phaxbby	2
+4 Hbzm tma Ytmehu cbdxmhiha qb qzh rtxahm.
+5 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	rtxahm	4
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Ytmehu tma Utxi jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh phaxbby.
+11 Otmaxt tma Ytmehu cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Utxi? 	phaxbby	10
+13 Otmaxt tma Hbzm jhmq ptok qb qzh ztuujti.
+14 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+15 Mzhxh el Ytmehu? 	ztuujti	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh phaxbby.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Hbzm? 	bsseoh	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+5 Utxi tma Hbzm cbdxmhiha qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Ytmehu tma Otmaxt qxtnhuuha qb qzh rtxahm.
+8 Hbzm tma Ytmehu cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Ytmehu tma Utxi cbdxmhiha qb qzh ptqzxbby.
+11 Ytmehu tma Utxi jhmq qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	rtxahm	11
+13 Ytmehu tma Otmaxt cbdxmhiha qb qzh phaxbby.
+14 Otmaxt tma Utxi jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	keqozhm	14
+1 Hbzm tma Utxi cbdxmhiha qb qzh ptqzxbby.
+2 Hbzm tma Ytmehu ybnha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	ptqzxbby	1
+4 Hbzm tma Ytmehu jhmq ptok qb qzh ztuujti.
+5 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	ztuujti	4
+7 Hbzm tma Ytmehu cbdxmhiha qb qzh phaxbby.
+8 Ytmehu tma Utxi qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el Utxi? 	keqozhm	8
+10 Ytmehu tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+11 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	ptqzxbby	10
+13 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+14 Hbzm tma Ytmehu jhmq qb qzh bsseoh.
+15 Mzhxh el Otmaxt? 	phaxbby	13
+1 Otmaxt tma Utxi jhmq ptok qb qzh rtxahm.
+2 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+3 Mzhxh el Otmaxt? 	bsseoh	2
+4 Hbzm tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+5 Utxi tma Hbzm jhmq qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Ytmehu tma Otmaxt jhmq qb qzh bsseoh.
+8 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	bsseoh	7
+10 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+11 Utxi tma Otmaxt jhmq qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ztuujti	10
+13 Hbzm tma Otmaxt ybnha qb qzh keqozhm.
+14 Otmaxt tma Utxi ybnha qb qzh rtxahm.
+15 Mzhxh el Utxi? 	rtxahm	14
+1 Otmaxt tma Hbzm jhmq ptok qb qzh bsseoh.
+2 Ytmehu tma Hbzm jhmq ptok qb qzh ztuujti.
+3 Mzhxh el Hbzm? 	ztuujti	2
+4 Ytmehu tma Hbzm ybnha qb qzh rtxahm.
+5 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+6 Mzhxh el Hbzm? 	rtxahm	4
+7 Hbzm tma Utxi jhmq qb qzh bsseoh.
+8 Otmaxt tma Utxi jhmq qb qzh phaxbby.
+9 Mzhxh el Hbzm? 	bsseoh	7
+10 Hbzm tma Otmaxt ybnha qb qzh ztuujti.
+11 Utxi tma Otmaxt ybnha qb qzh keqozhm.
+12 Mzhxh el Otmaxt? 	keqozhm	11
+13 Otmaxt tma Utxi ybnha qb qzh rtxahm.
+14 Utxi tma Hbzm jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Utxi? 	keqozhm	14
+1 Hbzm tma Otmaxt jhmq ptok qb qzh bsseoh.
+2 Hbzm tma Utxi ybnha qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Utxi tma Hbzm ybnha qb qzh bsseoh.
+5 Otmaxt tma Ytmehu jhmq qb qzh keqozhm.
+6 Mzhxh el Utxi? 	bsseoh	4
+7 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+8 Utxi tma Hbzm ybnha qb qzh ztuujti.
+9 Mzhxh el Otmaxt? 	bsseoh	7
+10 Otmaxt tma Utxi ybnha qb qzh rtxahm.
+11 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	rtxahm	10
+13 Utxi tma Hbzm jhmq qb qzh bsseoh.
+14 Otmaxt tma Utxi cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Hbzm tma Utxi jhmq qb qzh rtxahm.
+2 Utxi tma Otmaxt jhmq ptok qb qzh phaxbby.
+3 Mzhxh el Hbzm? 	rtxahm	1
+4 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+5 Otmaxt tma Hbzm jhmq qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Otmaxt tma Hbzm ybnha qb qzh bsseoh.
+8 Utxi tma Ytmehu qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	bsseoh	7
+10 Hbzm tma Otmaxt qxtnhuuha qb qzh phaxbby.
+11 Otmaxt tma Ytmehu qxtnhuuha qb qzh keqozhm.
+12 Mzhxh el Otmaxt? 	keqozhm	11
+13 Utxi tma Hbzm cbdxmhiha qb qzh bsseoh.
+14 Otmaxt tma Hbzm cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Hbzm? 	phaxbby	14
+1 Otmaxt tma Ytmehu qxtnhuuha qb qzh rtxahm.
+2 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	ptqzxbby	2
+4 Utxi tma Hbzm ybnha qb qzh rtxahm.
+5 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+6 Mzhxh el Ytmehu? 	phaxbby	5
+7 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+8 Otmaxt tma Utxi cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Otmaxt tma Hbzm cbdxmhiha qb qzh keqozhm.
+11 Otmaxt tma Hbzm jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Utxi? 	ptqzxbby	8
+13 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+14 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	14
+1 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+2 Hbzm tma Utxi cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	ztuujti	1
+4 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+5 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+6 Mzhxh el Utxi? 	phaxbby	4
+7 Hbzm tma Ytmehu ybnha qb qzh ptqzxbby.
+8 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+9 Mzhxh el Ytmehu? 	ptqzxbby	7
+10 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+11 Ytmehu tma Otmaxt ybnha qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Hbzm tma Otmaxt jhmq qb qzh ptqzxbby.
+14 Hbzm tma Otmaxt ybnha qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	phaxbby	14
+1 Utxi tma Otmaxt cbdxmhiha qb qzh rtxahm.
+2 Ytmehu tma Utxi jhmq qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	rtxahm	1
+4 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	ptqzxbby	4
+7 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+8 Utxi tma Ytmehu qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Utxi? 	rtxahm	8
+10 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Utxi? 	ztuujti	11
+13 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+14 Otmaxt tma Ytmehu cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Utxi? 	ztuujti	11
+1 Utxi tma Hbzm ybnha qb qzh bsseoh.
+2 Utxi tma Hbzm cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+5 Ytmehu tma Utxi qxtnhuuha qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	rtxahm	2
+7 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+8 Ytmehu tma Utxi jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+11 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+14 Hbzm tma Utxi cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el Hbzm? 	keqozhm	14
+1 Utxi tma Hbzm jhmq qb qzh phaxbby.
+2 Otmaxt tma Utxi ybnha qb qzh rtxahm.
+3 Mzhxh el Otmaxt? 	rtxahm	2
+4 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+5 Utxi tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+6 Mzhxh el Utxi? 	ptqzxbby	5
+7 Ytmehu tma Utxi cbdxmhiha qb qzh ztuujti.
+8 Ytmehu tma Hbzm jhmq qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Otmaxt tma Utxi qxtnhuuha qb qzh bsseoh.
+11 Hbzm tma Utxi ybnha qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	bsseoh	10
+13 Otmaxt tma Ytmehu ybnha qb qzh ztuujti.
+14 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	ptqzxbby	14
+1 Otmaxt tma Utxi jhmq ptok qb qzh rtxahm.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Ytmehu tma Hbzm ybnha qb qzh bsseoh.
+5 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	ptqzxbby	5
+7 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+8 Ytmehu tma Utxi jhmq qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Utxi tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+11 Hbzm tma Utxi ybnha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	phaxbby	11
+13 Ytmehu tma Hbzm jhmq qb qzh rtxahm.
+14 Utxi tma Ytmehu qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	rtxahm	13
+1 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+2 Utxi tma Otmaxt cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Utxi? 	ztuujti	2
+4 Utxi tma Hbzm jhmq ptok qb qzh phaxbby.
+5 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Utxi tma Ytmehu ybnha qb qzh keqozhm.
+8 Utxi tma Hbzm ybnha qb qzh ptqzxbby.
+9 Mzhxh el Utxi? 	ptqzxbby	8
+10 Hbzm tma Utxi jhmq qb qzh keqozhm.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	keqozhm	10
+13 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+14 Hbzm tma Otmaxt qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	phaxbby	14
+1 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+2 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	keqozhm	1
+4 Otmaxt tma Ytmehu cbdxmhiha qb qzh rtxahm.
+5 Otmaxt tma Hbzm cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	ptqzxbby	5
+7 Otmaxt tma Ytmehu ybnha qb qzh ztuujti.
+8 Otmaxt tma Hbzm qxtnhuuha qb qzh bsseoh.
+9 Mzhxh el Hbzm? 	bsseoh	8
+10 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+11 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Utxi tma Ytmehu qxtnhuuha qb qzh rtxahm.
+14 Otmaxt tma Utxi qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	phaxbby	11
+1 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+2 Otmaxt tma Hbzm ybnha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	keqozhm	2
+4 Utxi tma Otmaxt qxtnhuuha qb qzh bsseoh.
+5 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+6 Mzhxh el Otmaxt? 	bsseoh	4
+7 Otmaxt tma Ytmehu jhmq ptok qb qzh rtxahm.
+8 Ytmehu tma Otmaxt jhmq qb qzh phaxbby.
+9 Mzhxh el Otmaxt? 	phaxbby	8
+10 Utxi tma Hbzm ybnha qb qzh rtxahm.
+11 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Otmaxt tma Hbzm jhmq qb qzh ptqzxbby.
+14 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Otmaxt? 	ptqzxbby	13
+1 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu tma Otmaxt cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	ptqzxbby	1
+4 Utxi tma Ytmehu jhmq qb qzh rtxahm.
+5 Hbzm tma Ytmehu jhmq qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	keqozhm	2
+7 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+8 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+9 Mzhxh el Otmaxt? 	bsseoh	8
+10 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+11 Utxi tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	keqozhm	10
+13 Utxi tma Hbzm qxtnhuuha qb qzh ztuujti.
+14 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+15 Mzhxh el Utxi? 	bsseoh	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+2 Hbzm tma Otmaxt qxtnhuuha qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Hbzm tma Ytmehu ybnha qb qzh phaxbby.
+5 Ytmehu tma Otmaxt ybnha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	ptqzxbby	5
+7 Hbzm tma Otmaxt ybnha qb qzh ztuujti.
+8 Hbzm tma Otmaxt cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Utxi tma Otmaxt jhmq qb qzh ztuujti.
+11 Otmaxt tma Utxi jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	bsseoh	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh ztuujti.
+14 Otmaxt tma Utxi qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+2 Hbzm tma Ytmehu cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Hbzm tma Ytmehu qxtnhuuha qb qzh ptqzxbby.
+5 Utxi tma Otmaxt jhmq qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	ptqzxbby	4
+7 Hbzm tma Ytmehu ybnha qb qzh rtxahm.
+8 Hbzm tma Ytmehu jhmq qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	phaxbby	8
+10 Hbzm tma Otmaxt ybnha qb qzh rtxahm.
+11 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el Otmaxt? 	rtxahm	10
+13 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+14 Ytmehu tma Utxi jhmq qb qzh rtxahm.
+15 Mzhxh el Otmaxt? 	phaxbby	13
+1 Ytmehu tma Otmaxt cbdxmhiha qb qzh phaxbby.
+2 Ytmehu tma Utxi ybnha qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	1
+4 Ytmehu tma Otmaxt cbdxmhiha qb qzh rtxahm.
+5 Otmaxt tma Ytmehu qxtnhuuha qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	ztuujti	5
+7 Otmaxt tma Ytmehu ybnha qb qzh keqozhm.
+8 Utxi tma Ytmehu cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	rtxahm	8
+10 Otmaxt tma Ytmehu ybnha qb qzh bsseoh.
+11 Hbzm tma Utxi cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el Ytmehu? 	bsseoh	10
+13 Ytmehu tma Otmaxt jhmq ptok qb qzh phaxbby.
+14 Utxi tma Otmaxt jhmq qb qzh bsseoh.
+15 Mzhxh el Utxi? 	bsseoh	14
+1 Ytmehu tma Otmaxt jhmq qb qzh ptqzxbby.
+2 Otmaxt tma Ytmehu jhmq qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Hbzm tma Otmaxt jhmq ptok qb qzh phaxbby.
+5 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+6 Mzhxh el Hbzm? 	keqozhm	5
+7 Ytmehu tma Otmaxt jhmq qb qzh bsseoh.
+8 Utxi tma Otmaxt jhmq ptok qb qzh rtxahm.
+9 Mzhxh el Ytmehu? 	bsseoh	7
+10 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+11 Ytmehu tma Utxi jhmq ptok qb qzh bsseoh.
+12 Mzhxh el Otmaxt? 	keqozhm	10
+13 Ytmehu tma Utxi ybnha qb qzh rtxahm.
+14 Utxi tma Ytmehu qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Hbzm tma Utxi ybnha qb qzh rtxahm.
+2 Utxi tma Otmaxt ybnha qb qzh ztuujti.
+3 Mzhxh el Utxi? 	ztuujti	2
+4 Otmaxt tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+5 Otmaxt tma Utxi jhmq qb qzh keqozhm.
+6 Mzhxh el Utxi? 	keqozhm	5
+7 Otmaxt tma Ytmehu cbdxmhiha qb qzh phaxbby.
+8 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+9 Mzhxh el Utxi? 	keqozhm	5
+10 Hbzm tma Ytmehu cbdxmhiha qb qzh phaxbby.
+11 Hbzm tma Utxi jhmq qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Otmaxt tma Utxi jhmq qb qzh rtxahm.
+14 Otmaxt tma Hbzm ybnha qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	phaxbby	14
+1 Otmaxt tma Hbzm qxtnhuuha qb qzh bsseoh.
+2 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el Hbzm? 	rtxahm	2
+4 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+5 Hbzm tma Otmaxt ybnha qb qzh rtxahm.
+6 Mzhxh el Ytmehu? 	ptqzxbby	4
+7 Otmaxt tma Utxi jhmq qb qzh keqozhm.
+8 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+9 Mzhxh el Otmaxt? 	keqozhm	7
+10 Hbzm tma Otmaxt jhmq qb qzh phaxbby.
+11 Ytmehu tma Hbzm jhmq qb qzh ztuujti.
+12 Mzhxh el Ytmehu? 	ztuujti	11
+13 Ytmehu tma Otmaxt qxtnhuuha qb qzh keqozhm.
+14 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+15 Mzhxh el Hbzm? 	bsseoh	14
+1 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+2 Hbzm tma Otmaxt qxtnhuuha qb qzh ptqzxbby.
+3 Mzhxh el Otmaxt? 	ptqzxbby	2
+4 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+5 Ytmehu tma Hbzm qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Otmaxt? 	bsseoh	4
+7 Ytmehu tma Otmaxt jhmq ptok qb qzh keqozhm.
+8 Utxi tma Hbzm jhmq qb qzh ptqzxbby.
+9 Mzhxh el Hbzm? 	ptqzxbby	8
+10 Utxi tma Otmaxt cbdxmhiha qb qzh rtxahm.
+11 Ytmehu tma Hbzm cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el Hbzm? 	bsseoh	11
+13 Utxi tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+14 Utxi tma Hbzm jhmq qb qzh phaxbby.
+15 Mzhxh el Utxi? 	phaxbby	14
+1 Ytmehu tma Utxi jhmq qb qzh phaxbby.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el Utxi? 	bsseoh	2
+4 Ytmehu tma Hbzm qxtnhuuha qb qzh keqozhm.
+5 Hbzm tma Utxi jhmq qb qzh rtxahm.
+6 Mzhxh el Utxi? 	rtxahm	5
+7 Otmaxt tma Hbzm jhmq ptok qb qzh keqozhm.
+8 Hbzm tma Otmaxt jhmq ptok qb qzh bsseoh.
+9 Mzhxh el Utxi? 	rtxahm	5
+10 Ytmehu tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+11 Ytmehu tma Utxi ybnha qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Ytmehu tma Otmaxt qxtnhuuha qb qzh rtxahm.
+14 Utxi tma Ytmehu ybnha qb qzh ztuujti.
+15 Mzhxh el Ytmehu? 	ztuujti	14
+1 Ytmehu tma Otmaxt jhmq ptok qb qzh rtxahm.
+2 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	rtxahm	1
+4 Otmaxt tma Hbzm jhmq ptok qb qzh ptqzxbby.
+5 Hbzm tma Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Mzhxh el Otmaxt? 	rtxahm	5
+7 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+8 Otmaxt tma Ytmehu qxtnhuuha qb qzh bsseoh.
+9 Mzhxh el Otmaxt? 	bsseoh	8
+10 Utxi tma Otmaxt jhmq qb qzh ztuujti.
+11 Ytmehu tma Hbzm jhmq qb qzh rtxahm.
+12 Mzhxh el Ytmehu? 	rtxahm	11
+13 Ytmehu tma Hbzm jhmq qb qzh phaxbby.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Otmaxt tma Hbzm ybnha qb qzh ztuujti.
+2 Ytmehu tma Otmaxt ybnha qb qzh keqozhm.
+3 Mzhxh el Otmaxt? 	keqozhm	2
+4 Otmaxt tma Hbzm qxtnhuuha qb qzh phaxbby.
+5 Ytmehu tma Utxi qxtnhuuha qb qzh bsseoh.
+6 Mzhxh el Ytmehu? 	bsseoh	5
+7 Hbzm tma Utxi jhmq qb qzh keqozhm.
+8 Ytmehu tma Hbzm ybnha qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	phaxbby	8
+10 Otmaxt tma Utxi ybnha qb qzh ztuujti.
+11 Otmaxt tma Utxi ybnha qb qzh phaxbby.
+12 Mzhxh el Utxi? 	phaxbby	11
+13 Otmaxt tma Ytmehu jhmq qb qzh ztuujti.
+14 Hbzm tma Utxi qxtnhuuha qb qzh ztuujti.
+15 Mzhxh el Otmaxt? 	ztuujti	13
+1 Hbzm tma Ytmehu ybnha qb qzh rtxahm.
+2 Hbzm tma Utxi jhmq qb qzh keqozhm.
+3 Mzhxh el Ytmehu? 	rtxahm	1
+4 Ytmehu tma Utxi qxtnhuuha qb qzh phaxbby.
+5 Hbzm tma Otmaxt jhmq ptok qb qzh rtxahm.
+6 Mzhxh el Hbzm? 	rtxahm	5
+7 Hbzm tma Otmaxt cbdxmhiha qb qzh ztuujti.
+8 Utxi tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+9 Mzhxh el Otmaxt? 	ztuujti	7
+10 Hbzm tma Ytmehu jhmq ptok qb qzh keqozhm.
+11 Otmaxt tma Hbzm cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el Hbzm? 	rtxahm	11
+13 Ytmehu tma Hbzm ybnha qb qzh phaxbby.
+14 Ytmehu tma Hbzm cbdxmhiha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	14
+1 Hbzm tma Utxi jhmq ptok qb qzh ptqzxbby.
+2 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Otmaxt tma Hbzm jhmq qb qzh bsseoh.
+5 Utxi tma Otmaxt jhmq qb qzh phaxbby.
+6 Mzhxh el Hbzm? 	bsseoh	4
+7 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+8 Utxi tma Hbzm jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	bsseoh	7
+10 Ytmehu tma Utxi cbdxmhiha qb qzh phaxbby.
+11 Ytmehu tma Utxi cbdxmhiha qb qzh keqozhm.
+12 Mzhxh el Utxi? 	keqozhm	11
+13 Utxi tma Otmaxt ybnha qb qzh rtxahm.
+14 Otmaxt tma Utxi jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Otmaxt? 	phaxbby	14
+1 Utxi tma Ytmehu cbdxmhiha qb qzh keqozhm.
+2 Ytmehu tma Utxi ybnha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Hbzm tma Otmaxt ybnha qb qzh ztuujti.
+5 Utxi tma Otmaxt cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Utxi? 	bsseoh	5
+7 Utxi tma Otmaxt jhmq qb qzh keqozhm.
+8 Hbzm tma Utxi qxtnhuuha qb qzh bsseoh.
+9 Mzhxh el Utxi? 	bsseoh	8
+10 Otmaxt tma Ytmehu jhmq qb qzh ptqzxbby.
+11 Hbzm tma Ytmehu jhmq ptok qb qzh phaxbby.
+12 Mzhxh el Otmaxt? 	ptqzxbby	10
+13 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+14 Otmaxt tma Ytmehu ybnha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	14
+1 Hbzm tma Utxi qxtnhuuha qb qzh keqozhm.
+2 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+3 Mzhxh el Utxi? 	keqozhm	1
+4 Otmaxt tma Ytmehu jhmq qb qzh keqozhm.
+5 Otmaxt tma Ytmehu ybnha qb qzh ptqzxbby.
+6 Mzhxh el Ytmehu? 	ptqzxbby	5
+7 Utxi tma Ytmehu jhmq qb qzh bsseoh.
+8 Ytmehu tma Utxi jhmq qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	keqozhm	8
+10 Hbzm tma Utxi ybnha qb qzh rtxahm.
+11 Utxi tma Hbzm qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Hbzm? 	phaxbby	11
+13 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+14 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+15 Mzhxh el Otmaxt? 	ptqzxbby	14
+1 Ytmehu tma Hbzm jhmq qb qzh ptqzxbby.
+2 Ytmehu tma Otmaxt qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el Otmaxt? 	phaxbby	2
+4 Hbzm tma Otmaxt cbdxmhiha qb qzh rtxahm.
+5 Hbzm tma Ytmehu cbdxmhiha qb qzh bsseoh.
+6 Mzhxh el Hbzm? 	bsseoh	5
+7 Utxi tma Hbzm ybnha qb qzh rtxahm.
+8 Utxi tma Hbzm jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Ytmehu? 	bsseoh	5
+10 Hbzm tma Utxi qxtnhuuha qb qzh rtxahm.
+11 Hbzm tma Utxi cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el Utxi? 	phaxbby	11
+13 Hbzm tma Ytmehu jhmq qb qzh ptqzxbby.
+14 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+15 Mzhxh el Ytmehu? 	keqozhm	14
+1 Ytmehu tma Utxi jhmq ptok qb qzh phaxbby.
+2 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+3 Mzhxh el Ytmehu? 	ptqzxbby	2
+4 Ytmehu tma Hbzm cbdxmhiha qb qzh phaxbby.
+5 Hbzm tma Utxi ybnha qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	ztuujti	5
+7 Otmaxt tma Ytmehu jhmq ptok qb qzh bsseoh.
+8 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+9 Mzhxh el Utxi? 	ztuujti	5
+10 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+11 Utxi tma Ytmehu qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el Ytmehu? 	phaxbby	11
+13 Ytmehu tma Hbzm jhmq qb qzh bsseoh.
+14 Hbzm tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+15 Mzhxh el Ytmehu? 	ptqzxbby	14
+1 Otmaxt tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+2 Hbzm tma Otmaxt jhmq qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Hbzm tma Utxi ybnha qb qzh phaxbby.
+5 Ytmehu tma Otmaxt qxtnhuuha qb qzh keqozhm.
+6 Mzhxh el Utxi? 	phaxbby	4
+7 Ytmehu tma Utxi cbdxmhiha qb qzh ptqzxbby.
+8 Ytmehu tma Hbzm qxtnhuuha qb qzh rtxahm.
+9 Mzhxh el Hbzm? 	rtxahm	8
+10 Otmaxt tma Utxi jhmq ptok qb qzh rtxahm.
+11 Ytmehu tma Utxi qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Utxi? 	ptqzxbby	11
+13 Utxi tma Ytmehu cbdxmhiha qb qzh rtxahm.
+14 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	phaxbby	14
+1 Utxi tma Hbzm ybnha qb qzh rtxahm.
+2 Hbzm tma Ytmehu qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Ytmehu? 	ztuujti	2
+4 Ytmehu tma Hbzm cbdxmhiha qb qzh phaxbby.
+5 Utxi tma Ytmehu cbdxmhiha qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	ztuujti	5
+7 Utxi tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Hbzm tma Otmaxt jhmq ptok qb qzh bsseoh.
+9 Mzhxh el Ytmehu? 	ztuujti	5
+10 Utxi tma Ytmehu ybnha qb qzh keqozhm.
+11 Utxi tma Hbzm qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el Utxi? 	rtxahm	11
+13 Hbzm tma Utxi jhmq qb qzh ztuujti.
+14 Otmaxt tma Ytmehu jhmq ptok qb qzh ptqzxbby.
+15 Mzhxh el Hbzm? 	ztuujti	13
+1 Hbzm tma Ytmehu ybnha qb qzh ptqzxbby.
+2 Utxi tma Hbzm jhmq qb qzh keqozhm.
+3 Mzhxh el Hbzm? 	keqozhm	2
+4 Utxi tma Hbzm cbdxmhiha qb qzh ztuujti.
+5 Otmaxt tma Ytmehu qxtnhuuha qb qzh rtxahm.
+6 Mzhxh el Utxi? 	ztuujti	4
+7 Otmaxt tma Ytmehu jhmq qb qzh bsseoh.
+8 Utxi tma Hbzm jhmq ptok qb qzh phaxbby.
+9 Mzhxh el Ytmehu? 	bsseoh	7
+10 Hbzm tma Ytmehu jhmq ptok qb qzh ztuujti.
+11 Utxi tma Ytmehu cbdxmhiha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Otmaxt tma Ytmehu ybnha qb qzh phaxbby.
+14 Ytmehu tma Otmaxt ybnha qb qzh rtxahm.
+15 Mzhxh el Ytmehu? 	rtxahm	14
+1 Utxi tma Otmaxt ybnha qb qzh keqozhm.
+2 Otmaxt tma Utxi cbdxmhiha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	2
+4 Ytmehu tma Otmaxt jhmq ptok qb qzh bsseoh.
+5 Otmaxt tma Ytmehu jhmq qb qzh phaxbby.
+6 Mzhxh el Otmaxt? 	phaxbby	5
+7 Utxi tma Otmaxt jhmq qb qzh rtxahm.
+8 Otmaxt tma Ytmehu jhmq ptok qb qzh keqozhm.
+9 Mzhxh el Otmaxt? 	keqozhm	8
+10 Utxi tma Otmaxt jhmq qb qzh ptqzxbby.
+11 Ytmehu tma Hbzm qxtnhuuha qb qzh ptqzxbby.
+12 Mzhxh el Ytmehu? 	ptqzxbby	11
+13 Hbzm tma Ytmehu cbdxmhiha qb qzh rtxahm.
+14 Ytmehu tma Hbzm ybnha qb qzh ztuujti.
+15 Mzhxh el Hbzm? 	ztuujti	14
+1 Otmaxt tma Utxi ybnha qb qzh bsseoh.
+2 Utxi tma Ytmehu qxtnhuuha qb qzh rtxahm.
+3 Mzhxh el Utxi? 	rtxahm	2
+4 Hbzm tma Otmaxt jhmq qb qzh rtxahm.
+5 Ytmehu tma Otmaxt jhmq qb qzh ztuujti.
+6 Mzhxh el Hbzm? 	rtxahm	4
+7 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+8 Otmaxt tma Utxi jhmq ptok qb qzh ptqzxbby.
+9 Mzhxh el Ytmehu? 	keqozhm	7
+10 Ytmehu tma Hbzm jhmq ptok qb qzh ptqzxbby.
+11 Otmaxt tma Utxi ybnha qb qzh ztuujti.
+12 Mzhxh el Hbzm? 	ptqzxbby	10
+13 Utxi tma Ytmehu qxtnhuuha qb qzh bsseoh.
+14 Utxi tma Ytmehu jhmq ptok qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	phaxbby	14
+1 Hbzm tma Otmaxt jhmq ptok qb qzh keqozhm.
+2 Utxi tma Ytmehu ybnha qb qzh rtxahm.
+3 Mzhxh el Ytmehu? 	rtxahm	2
+4 Hbzm tma Otmaxt jhmq ptok qb qzh ptqzxbby.
+5 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+6 Mzhxh el Ytmehu? 	ztuujti	5
+7 Hbzm tma Otmaxt cbdxmhiha qb qzh bsseoh.
+8 Otmaxt tma Hbzm cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el Otmaxt? 	rtxahm	8
+10 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+11 Hbzm tma Utxi jhmq ptok qb qzh keqozhm.
+12 Mzhxh el Hbzm? 	keqozhm	11
+13 Hbzm tma Ytmehu qxtnhuuha qb qzh rtxahm.
+14 Ytmehu tma Utxi cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el Ytmehu? 	phaxbby	14
+1 Utxi tma Otmaxt jhmq ptok qb qzh bsseoh.
+2 Utxi tma Ytmehu ybnha qb qzh phaxbby.
+3 Mzhxh el Utxi? 	phaxbby	2
+4 Otmaxt tma Hbzm ybnha qb qzh rtxahm.
+5 Hbzm tma Ytmehu jhmq qb qzh keqozhm.
+6 Mzhxh el Ytmehu? 	keqozhm	5
+7 Hbzm tma Utxi cbdxmhiha qb qzh bsseoh.
+8 Hbzm tma Utxi jhmq qb qzh phaxbby.
+9 Mzhxh el Hbzm? 	phaxbby	8
+10 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+11 Ytmehu tma Utxi jhmq ptok qb qzh ztuujti.
+12 Mzhxh el Utxi? 	ztuujti	11
+13 Hbzm tma Utxi ybnha qb qzh bsseoh.
+14 Utxi tma Otmaxt cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Utxi? 	ztuujti	14
+1 Otmaxt tma Hbzm cbdxmhiha qb qzh ztuujti.
+2 Ytmehu tma Utxi qxtnhuuha qb qzh ztuujti.
+3 Mzhxh el Otmaxt? 	ztuujti	1
+4 Otmaxt tma Ytmehu jhmq ptok qb qzh phaxbby.
+5 Hbzm tma Utxi ybnha qb qzh keqozhm.
+6 Mzhxh el Ytmehu? 	phaxbby	4
+7 Otmaxt tma Ytmehu cbdxmhiha qb qzh bsseoh.
+8 Otmaxt tma Hbzm qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el Hbzm? 	ztuujti	8
+10 Ytmehu tma Hbzm jhmq qb qzh keqozhm.
+11 Otmaxt tma Hbzm ybnha qb qzh ptqzxbby.
+12 Mzhxh el Hbzm? 	ptqzxbby	11
+13 Ytmehu tma Utxi jhmq ptok qb qzh rtxahm.
+14 Utxi tma Otmaxt cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el Utxi? 	ztuujti	14

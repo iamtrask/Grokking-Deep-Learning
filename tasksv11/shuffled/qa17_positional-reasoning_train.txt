@@ -1,0 +1,1250 @@
+1 Rzh qxetmruh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh qxetmruh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+4 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+6 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+9 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+1 Rzh xha lvzhxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh xha lvzhxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+4 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+8 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+9 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+10 Xl qzh vemk xhoqtmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+1 Rzh xha lvzhxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	ihl	1 2
+6 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+8 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+1 Rzh pudh lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+4 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+5 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+6 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	mb	1 2
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+10 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+1 Rzh xha lvzhxh el phubj qzh ihuubj lfdtxh.
+2 Rzh xha lvzhxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+4 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+1 Rzh xha lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh xha lfdtxh el phubj qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh tpbnh qzh qxetmruh?	ihl	2 1
+4 Xl qzh qxetmruh phubj qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh qxetmruh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh pudh lfdtxh tpbnh qzh qxetmruh?	ihl	2 1
+8 Xl qzh qxetmruh phubj qzh pudh lfdtxh?	ihl	1 2
+9 Xl qzh qxetmruh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+1 Rzh xha lfdtxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh xha lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+3 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	1 2
+6 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh xha lfdtxh.
+2 Rzh xha lfdtxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+8 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+9 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+1 Rzh qxetmruh el phubj qzh pudh lfdtxh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh qxetmruh.
+3 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+4 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+5 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	ihl	2 1
+6 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+7 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+8 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	mb	2 1
+10 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+1 Rzh xha lvzhxh el phubj qzh qxetmruh.
+2 Rzh xha lvzhxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+3 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+6 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	2 1
+8 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh pudh lfdtxh el qb qzh xerzq bs qzh xha lvzhxh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh qxetmruh.
+3 Xl qzh qxetmruh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+4 Xl qzh qxetmruh phubj qzh pudh lfdtxh?	mb	2 1
+5 Xl qzh pudh lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+6 Xl qzh qxetmruh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+7 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+8 Xl qzh qxetmruh phubj qzh pudh lfdtxh?	mb	2 1
+9 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+1 Rzh pudh lfdtxh el phubj qzh xha lfdtxh.
+2 Rzh pudh lfdtxh el tpbnh qzh qxetmruh.
+3 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	mb	2 1
+4 Xl qzh qxetmruh phubj qzh xha lfdtxh?	ihl	2 1
+5 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	2 1
+6 Xl qzh qxetmruh phubj qzh xha lfdtxh?	ihl	2 1
+7 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	ihl	1 2
+8 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	ihl	1 2
+9 Xl qzh qxetmruh phubj qzh xha lfdtxh?	ihl	2 1
+10 Xl qzh qxetmruh phubj qzh xha lfdtxh?	ihl	2 1
+1 Rzh xha lfdtxh el phubj qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+5 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+6 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+8 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	mb	2 1
+10 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh pudh lfdtxh el phubj qzh vemk xhoqtmruh.
+2 Rzh pudh lfdtxh el tpbnh qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+6 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+8 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+9 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh xha lvzhxh.
+3 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	1 2
+4 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	mb	2 1
+5 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+8 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+9 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+10 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+1 Rzh qxetmruh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+2 Rzh pudh lfdtxh el phubj qzh qxetmruh.
+3 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+4 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+5 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+1 Rzh qxetmruh el phubj qzh xha lfdtxh.
+2 Rzh qxetmruh el qb qzh uhsq bs qzh pudh lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh pudh lfdtxh phubj qzh xha lfdtxh?	ihl	2 1
+5 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	mb	1 2
+6 Xl qzh pudh lfdtxh tpbnh qzh xha lfdtxh?	mb	2 1
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+8 Xl qzh xha lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+10 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	mb	1 2
+1 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh qxetmruh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+4 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+6 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+7 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+8 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+9 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+10 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el phubj qzh ihuubj lfdtxh.
+3 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+4 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	mb	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+8 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+10 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	mb	2 1
+4 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+8 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+10 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+1 Rzh ihuubj lfdtxh el tpbnh qzh xha lvzhxh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh pudh lfdtxh.
+3 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+4 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+5 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh xha lfdtxh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh vemk xhoqtmruh.
+3 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	2 1
+6 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+8 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	ihl	2 1
+1 Rzh vemk xhoqtmruh el phubj qzh pudh lfdtxh.
+2 Rzh qxetmruh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+3 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	mb	1 2
+4 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	mb	1 2
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+6 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh qxetmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+8 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	mb	1 2
+9 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	mb	1 2
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+1 Rzh qxetmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh vemk xhoqtmruh el tpbnh qzh qxetmruh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+4 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+6 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	mb	2 1
+8 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh ihuubj lfdtxh el phubj qzh vemk xhoqtmruh.
+2 Rzh xha lvzhxh el phubj qzh ihuubj lfdtxh.
+3 Xl qzh xha lvzhxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	mb	1 2
+5 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+6 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	ihl	1 2
+9 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el phubj qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+3 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+8 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	mb	2 1
+9 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el phubj qzh pudh lfdtxh.
+2 Rzh vemk xhoqtmruh el tpbnh qzh qxetmruh.
+3 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+4 Xl qzh qxetmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+5 Xl qzh qxetmruh phubj qzh pudh lfdtxh?	ihl	2 1
+6 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	mb	2 1
+8 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	mb	2 1
+9 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+10 Xl qzh qxetmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+1 Rzh pudh lfdtxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+4 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh phubj qzh ihuubj lfdtxh?	ihl	1 2
+9 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+1 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh qxetmruh.
+2 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+4 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+5 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+6 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+7 Xl qzh ihuubj lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+8 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+9 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh qxetmruh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+4 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+5 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	mb	2 1
+9 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	mb	1 2
+1 Rzh vemk xhoqtmruh el tpbnh qzh xha lvzhxh.
+2 Rzh xha lfdtxh el tpbnh qzh vemk xhoqtmruh.
+3 Xl qzh xha lfdtxh phubj qzh xha lvzhxh?	mb	2 1
+4 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	1 2
+5 Xl qzh xha lvzhxh tpbnh qzh xha lfdtxh?	mb	1 2
+6 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	1 2
+7 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+8 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh xha lvzhxh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh qxetmruh el tpbnh qzh xha lvzhxh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+4 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+5 Xl qzh ihuubj lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+7 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh ihuubj lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh xha lvzhxh el qb qzh uhsq bs qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el phubj qzh pudh lfdtxh.
+3 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	mb	1 2
+4 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+5 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+6 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	ihl	1 2
+7 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+8 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	ihl	1 2
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+2 Rzh ihuubj lfdtxh el phubj qzh qxetmruh.
+3 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+4 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+5 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+8 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+1 Rzh qxetmruh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+2 Rzh vemk xhoqtmruh el tpbnh qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh phubj qzh qxetmruh?	ihl	2 1
+4 Xl qzh xha lvzhxh tpbnh qzh qxetmruh?	mb	2 1
+5 Xl qzh xha lvzhxh tpbnh qzh qxetmruh?	mb	2 1
+6 Xl qzh qxetmruh tpbnh qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh xha lvzhxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+8 Xl qzh xha lvzhxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+9 Xl qzh xha lvzhxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+10 Xl qzh qxetmruh tpbnh qzh xha lvzhxh?	ihl	1 2
+1 Rzh xha lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh ihuubj lfdtxh el phubj qzh xha lfdtxh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+4 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+5 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+8 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	1 2
+9 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+10 Xl qzh ihuubj lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+1 Rzh qxetmruh el tpbnh qzh xha lvzhxh.
+2 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh xha lvzhxh.
+3 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	2 1
+5 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+6 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	2 1
+9 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+1 Rzh ihuubj lfdtxh el tpbnh qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el tpbnh qzh xha lvzhxh.
+3 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+4 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+8 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh pudh lfdtxh el tpbnh qzh xha lfdtxh.
+2 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh xha lfdtxh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+4 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+6 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	ihl	2 1
+1 Rzh xha lvzhxh el phubj qzh vemk xhoqtmruh.
+2 Rzh xha lvzhxh el qb qzh uhsq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+4 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+6 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+8 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+10 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+1 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh xha lvzhxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	ihl	2 1
+4 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+5 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+6 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+1 Rzh xha lvzhxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh pudh lfdtxh.
+3 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+8 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	ihl	1 2
+9 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+1 Rzh xha lfdtxh el tpbnh qzh xha lvzhxh.
+2 Rzh xha lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+3 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+4 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+5 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+6 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+7 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+8 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+9 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh xha lvzhxh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+4 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+5 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+8 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+9 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el phubj qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+4 Xl qzh xha lvzhxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+5 Xl qzh xha lvzhxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+6 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	2 1
+8 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+9 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+10 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+9 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+10 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+1 Rzh qxetmruh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh qxetmruh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+1 Rzh xha lfdtxh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+2 Rzh qxetmruh el tpbnh qzh vemk xhoqtmruh.
+3 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+4 Xl qzh qxetmruh phubj qzh xha lfdtxh?	mb	2 1
+5 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+6 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+7 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+8 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+9 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+10 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh qxetmruh el tpbnh qzh xha lvzhxh.
+3 Xl qzh pudh lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+4 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+5 Xl qzh qxetmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+6 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	1 2
+7 Xl qzh pudh lfdtxh tpbnh qzh qxetmruh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+9 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	ihl	2 1
+10 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	ihl	2 1
+1 Rzh xha lfdtxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+4 Xl qzh xha lfdtxh phubj qzh ihuubj lfdtxh?	mb	1 2
+5 Xl qzh xha lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+8 Xl qzh ihuubj lfdtxh phubj qzh xha lfdtxh?	ihl	2 1
+9 Xl qzh xha lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh phubj qzh xha lfdtxh?	ihl	2 1
+1 Rzh xha lfdtxh el phubj qzh xha lvzhxh.
+2 Rzh xha lfdtxh el qb qzh uhsq bs qzh pudh lfdtxh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	1 2
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+8 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+9 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+1 Rzh pudh lfdtxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+2 Rzh pudh lfdtxh el qb qzh xerzq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+6 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh xha lvzhxh el phubj qzh qxetmruh.
+2 Rzh xha lvzhxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	2 1
+4 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	2 1
+5 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+8 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	2 1
+9 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+10 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	2 1
+1 Rzh xha lfdtxh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh xha lfdtxh el phubj qzh pudh lfdtxh.
+3 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	ihl	1 2
+4 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+7 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el tpbnh qzh qxetmruh.
+2 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+3 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+6 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+8 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+10 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el phubj qzh ihuubj lfdtxh.
+2 Rzh qxetmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+3 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+4 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+5 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	1 2
+7 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	1 2
+9 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+10 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+1 Rzh qxetmruh el qb qzh uhsq bs qzh xha lvzhxh.
+2 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh qxetmruh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+4 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	mb	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+9 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+10 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+1 Rzh xha lfdtxh el phubj qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh xerzq bs qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh tpbnh qzh xha lfdtxh?	ihl	2 1
+4 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+5 Xl qzh xha lvzhxh tpbnh qzh xha lfdtxh?	ihl	2 1
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+7 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+8 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+10 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	mb	2 1
+1 Rzh pudh lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh pudh lfdtxh el tpbnh qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh phubj qzh qxetmruh?	ihl	2 1
+4 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+5 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+7 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh qxetmruh phubj qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lvzhxh phubj qzh qxetmruh?	ihl	2 1
+10 Xl qzh xha lvzhxh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+1 Rzh ihuubj lfdtxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh xha lfdtxh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+6 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	1 2
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	ihl	1 2
+1 Rzh qxetmruh el tpbnh qzh xha lfdtxh.
+2 Rzh vemk xhoqtmruh el tpbnh qzh qxetmruh.
+3 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+5 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+6 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+7 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+8 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+9 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+10 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh qxetmruh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh qxetmruh.
+3 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	mb	2 1
+4 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	mb	1 2
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh xha lfdtxh el phubj qzh ihuubj lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh xerzq bs qzh xha lfdtxh.
+3 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el tpbnh qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el tpbnh qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+4 Xl qzh xha lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lfdtxh?	mb	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+7 Xl qzh ihuubj lfdtxh tpbnh qzh xha lfdtxh?	ihl	1 2
+8 Xl qzh xha lfdtxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh ihuubj lfdtxh tpbnh qzh xha lfdtxh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh xha lfdtxh.
+2 Rzh vemk xhoqtmruh el phubj qzh xha lfdtxh.
+3 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	ihl	2 1
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+6 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+9 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el tpbnh qzh xha lvzhxh.
+2 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+6 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+9 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh xha lvzhxh.
+2 Rzh xha lfdtxh el tpbnh qzh vemk xhoqtmruh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh xha lvzhxh phubj qzh vemk xhoqtmruh?	mb	1 2
+5 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+6 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh xha lvzhxh phubj qzh vemk xhoqtmruh?	mb	1 2
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+9 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	2 1
+10 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+1 Rzh qxetmruh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh xha lvzhxh el tpbnh qzh qxetmruh.
+3 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+4 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+7 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+9 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+1 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+2 Rzh xha lfdtxh el phubj qzh ihuubj lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+4 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+5 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+10 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	mb	1 2
+1 Rzh ihuubj lfdtxh el phubj qzh qxetmruh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	2 1
+4 Xl qzh pudh lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+5 Xl qzh qxetmruh phubj qzh pudh lfdtxh?	mb	1 2
+6 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+8 Xl qzh qxetmruh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+9 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	ihl	2 1
+10 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el phubj qzh xha lfdtxh.
+2 Rzh qxetmruh el tpbnh qzh xha lfdtxh.
+3 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+4 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+5 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+7 Xl qzh qxetmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+1 Rzh ihuubj lfdtxh el phubj qzh vemk xhoqtmruh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	mb	1 2
+5 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh vemk xhoqtmruh phubj qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	mb	1 2
+1 Rzh qxetmruh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh qxetmruh.
+3 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+8 Xl qzh vemk xhoqtmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh xha lvzhxh el phubj qzh xha lfdtxh.
+2 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh xha lvzhxh.
+3 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+5 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+6 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	2 1
+9 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	2 1
+1 Rzh xha lfdtxh el phubj qzh xha lvzhxh.
+2 Rzh xha lfdtxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	mb	2 1
+5 Xl qzh xha lvzhxh phubj qzh vemk xhoqtmruh?	mb	1 2
+6 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+9 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	ihl	2 1
+10 Xl qzh vemk xhoqtmruh phubj qzh xha lvzhxh?	ihl	2 1
+1 Rzh xha lfdtxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh xha lfdtxh.
+3 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+4 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+5 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	mb	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+8 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	mb	2 1
+9 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el phubj qzh xha lvzhxh.
+3 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	mb	1 2
+5 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	2 1
+1 Rzh pudh lfdtxh el tpbnh qzh xha lfdtxh.
+2 Rzh pudh lfdtxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+4 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+5 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+6 Xl qzh xha lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+8 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	ihl	1 2
+9 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	ihl	2 1
+10 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh xha lvzhxh el phubj qzh xha lfdtxh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh qxetmruh.
+3 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+4 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+5 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+6 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	ihl	1 2
+7 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+9 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+10 Xl qzh xha lfdtxh phubj qzh qxetmruh?	mb	1 2
+1 Rzh xha lvzhxh el qb qzh uhsq bs qzh xha lfdtxh.
+2 Rzh xha lfdtxh el phubj qzh pudh lfdtxh.
+3 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+4 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+7 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+9 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+1 Rzh pudh lfdtxh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh xha lfdtxh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+4 Xl qzh xha lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh tpbnh qzh xha lfdtxh?	mb	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh xha lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh phubj qzh xha lfdtxh?	mb	1 2
+1 Rzh vemk xhoqtmruh el tpbnh qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh vemk xhoqtmruh.
+3 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+4 Xl qzh pudh lfdtxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	1 2
+9 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	mb	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+1 Rzh vemk xhoqtmruh el phubj qzh ihuubj lfdtxh.
+2 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+4 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+1 Rzh qxetmruh el tpbnh qzh xha lvzhxh.
+2 Rzh qxetmruh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+3 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+4 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	mb	2 1
+6 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+7 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+9 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	mb	2 1
+1 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh qxetmruh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+4 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+6 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+7 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+8 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	1 2
+9 Xl qzh pudh lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+1 Rzh pudh lfdtxh el tpbnh qzh xha lvzhxh.
+2 Rzh xha lvzhxh el qb qzh xerzq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	2 1
+4 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	2 1
+5 Xl qzh xha lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+6 Xl qzh xha lfdtxh tpbnh qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh pudh lfdtxh phubj qzh xha lfdtxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+9 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	2 1
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh qxetmruh el qb qzh uhsq bs qzh xha lfdtxh.
+2 Rzh xha lvzhxh el phubj qzh qxetmruh.
+3 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	2 1
+4 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	2 1
+5 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+6 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	1 2
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	2 1
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	1 2
+10 Xl qzh xha lvzhxh tpbnh qzh xha lfdtxh?	mb	2 1
+1 Rzh vemk xhoqtmruh el phubj qzh xha lfdtxh.
+2 Rzh xha lvzhxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+4 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	2 1
+5 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+6 Xl qzh xha lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+7 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh xha lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	1 2
+10 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	1 2
+1 Rzh qxetmruh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+2 Rzh vemk xhoqtmruh el tpbnh qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+4 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+5 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+6 Xl qzh qxetmruh phubj qzh xha lfdtxh?	mb	1 2
+7 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+8 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+10 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+1 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh pudh lfdtxh.
+2 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+3 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	mb	2 1
+4 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	1 2
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+8 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	2 1
+9 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+10 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	2 1
+1 Rzh pudh lfdtxh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh vemk xhoqtmruh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh vemk xhoqtmruh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+4 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+8 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh vemk xhoqtmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+1 Rzh xha lvzhxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh xha lvzhxh.
+3 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+5 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	mb	1 2
+6 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	2 1
+8 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	2 1
+9 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh qxetmruh el tpbnh qzh xha lvzhxh.
+2 Rzh qxetmruh el qb qzh uhsq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+4 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+5 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+6 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+10 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh qxetmruh el phubj qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh qxetmruh phubj qzh vemk xhoqtmruh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	ihl	2 1
+5 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	ihl	2 1
+6 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	2 1
+8 Xl qzh qxetmruh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+9 Xl qzh qxetmruh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh pudh lfdtxh.
+3 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh xha lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	ihl	2 1
+6 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	ihl	2 1
+7 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	mb	2 1
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	mb	2 1
+1 Rzh xha lfdtxh el qb qzh xerzq bs qzh qxetmruh.
+2 Rzh pudh lfdtxh el tpbnh qzh qxetmruh.
+3 Xl qzh xha lfdtxh tpbnh qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+5 Xl qzh xha lfdtxh tpbnh qzh pudh lfdtxh?	mb	1 2
+6 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	1 2
+8 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+9 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	1 2
+10 Xl qzh xha lfdtxh tpbnh qzh pudh lfdtxh?	mb	1 2
+1 Rzh qxetmruh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh qxetmruh el phubj qzh xha lvzhxh.
+3 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+4 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+6 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	2 1
+7 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	1 2
+9 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	1 2
+10 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh qxetmruh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+4 Xl qzh qxetmruh phubj qzh xha lfdtxh?	mb	1 2
+5 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+6 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+8 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+10 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+1 Rzh ihuubj lfdtxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh ihuubj lfdtxh el phubj qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	1 2
+5 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	1 2
+6 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+8 Xl qzh xha lfdtxh phubj qzh vemk xhoqtmruh?	mb	2 1
+9 Xl qzh xha lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh tpbnh qzh xha lfdtxh?	mb	1 2
+1 Rzh vemk xhoqtmruh el phubj qzh xha lvzhxh.
+2 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+4 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+5 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+6 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+7 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+8 Xl qzh ihuubj lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	ihl	1 2
+10 Xl qzh ihuubj lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+1 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh xha lfdtxh.
+2 Rzh xha lvzhxh el tpbnh qzh xha lfdtxh.
+3 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+5 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+6 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+8 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	mb	1 2
+9 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	1 2
+10 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+1 Rzh xha lvzhxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+2 Rzh xha lvzhxh el phubj qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+4 Xl qzh vemk xhoqtmruh phubj qzh xha lfdtxh?	ihl	1 2
+5 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+6 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+7 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh xha lfdtxh tpbnh qzh vemk xhoqtmruh?	ihl	2 1
+9 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lfdtxh?	ihl	1 2
+10 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh pudh lfdtxh el phubj qzh xha lvzhxh.
+2 Rzh pudh lfdtxh el qb qzh uhsq bs qzh vemk xhoqtmruh.
+3 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh xha lvzhxh tpbnh qzh vemk xhoqtmruh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+6 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+8 Xl qzh vemk xhoqtmruh tpbnh qzh xha lvzhxh?	mb	2 1
+9 Xl qzh xha lvzhxh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	1 2
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh vemk xhoqtmruh?	ihl	1 2
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el qb qzh uhsq bs qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh tpbnh qzh xha lfdtxh?	mb	2 1
+4 Xl qzh xha lvzhxh tpbnh qzh xha lfdtxh?	mb	2 1
+5 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	ihl	2 1
+6 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	ihl	2 1
+8 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	mb	2 1
+9 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+10 Xl qzh xha lfdtxh phubj qzh xha lvzhxh?	mb	1 2
+1 Rzh pudh lfdtxh el qb qzh uhsq bs qzh xha lvzhxh.
+2 Rzh xha lvzhxh el tpbnh qzh xha lfdtxh.
+3 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+4 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+5 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+6 Xl qzh xha lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+8 Xl qzh xha lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+9 Xl qzh xha lfdtxh phubj qzh pudh lfdtxh?	ihl	2 1
+10 Xl qzh pudh lfdtxh phubj qzh xha lfdtxh?	mb	1 2
+1 Rzh xha lvzhxh el tpbnh qzh xha lfdtxh.
+2 Rzh xha lvzhxh el phubj qzh ihuubj lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+4 Xl qzh xha lfdtxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+5 Xl qzh ihuubj lfdtxh phubj qzh xha lfdtxh?	mb	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lfdtxh?	mb	2 1
+7 Xl qzh xha lfdtxh tpbnh qzh ihuubj lfdtxh?	mb	1 2
+8 Xl qzh xha lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	1 2
+9 Xl qzh ihuubj lfdtxh tpbnh qzh xha lfdtxh?	ihl	2 1
+10 Xl qzh xha lfdtxh phubj qzh ihuubj lfdtxh?	ihl	1 2
+1 Rzh qxetmruh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh pudh lfdtxh el qb qzh xerzq bs qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh phubj qzh qxetmruh?	mb	2 1
+4 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+5 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+6 Xl qzh xha lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	2 1
+7 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	ihl	1 2
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+9 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	ihl	1 2
+10 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	mb	1 2
+1 Rzh ihuubj lfdtxh el phubj qzh qxetmruh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh tpbnh qzh qxetmruh?	mb	2 1
+4 Xl qzh qxetmruh tpbnh qzh xha lfdtxh?	ihl	1 2
+5 Xl qzh xha lfdtxh phubj qzh qxetmruh?	ihl	2 1
+6 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	2 1
+7 Xl qzh qxetmruh phubj qzh xha lfdtxh?	mb	1 2
+8 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+9 Xl qzh xha lfdtxh phubj qzh qxetmruh?	ihl	2 1
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+1 Rzh qxetmruh el tpbnh qzh xha lvzhxh.
+2 Rzh qxetmruh el phubj qzh xha lfdtxh.
+3 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+4 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+5 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+6 Xl qzh xha lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+7 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh xha lvzhxh qb qzh uhsq bs qzh xha lfdtxh?	mb	1 2
+9 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	ihl	1 2
+10 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	ihl	2 1
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh qxetmruh el tpbnh qzh xha lfdtxh.
+3 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+4 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+7 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+8 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+9 Xl qzh ihuubj lfdtxh phubj qzh qxetmruh?	ihl	1 2
+10 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	mb	2 1
+1 Rzh xha lvzhxh el tpbnh qzh ihuubj lfdtxh.
+2 Rzh pudh lfdtxh el phubj qzh ihuubj lfdtxh.
+3 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+4 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	1 2
+5 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+6 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+8 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+9 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh xha lfdtxh el qb qzh xerzq bs qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+4 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	1 2
+7 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	mb	2 1
+8 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh xha lfdtxh el tpbnh qzh qxetmruh.
+3 Xl qzh ihuubj lfdtxh tpbnh qzh qxetmruh?	ihl	1 2
+4 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+6 Xl qzh qxetmruh phubj qzh ihuubj lfdtxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh tpbnh qzh qxetmruh?	ihl	1 2
+8 Xl qzh qxetmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+1 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh xha lfdtxh.
+2 Rzh qxetmruh el tpbnh qzh xha lfdtxh.
+3 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh phubj qzh qxetmruh?	ihl	1 2
+5 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+6 Xl qzh vemk xhoqtmruh tpbnh qzh qxetmruh?	mb	1 2
+7 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+9 Xl qzh qxetmruh qb qzh xerzq bs qzh vemk xhoqtmruh?	mb	2 1
+10 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+1 Rzh xha lfdtxh el qb qzh uhsq bs qzh xha lvzhxh.
+2 Rzh qxetmruh el phubj qzh xha lfdtxh.
+3 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+4 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+5 Xl qzh qxetmruh tpbnh qzh xha lvzhxh?	mb	2 1
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+7 Xl qzh xha lvzhxh qb qzh uhsq bs qzh qxetmruh?	mb	1 2
+8 Xl qzh xha lvzhxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+9 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lvzhxh?	mb	2 1
+10 Xl qzh xha lvzhxh phubj qzh qxetmruh?	mb	1 2
+1 Rzh xha lfdtxh el qb qzh xerzq bs qzh ihuubj lfdtxh.
+2 Rzh qxetmruh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+3 Xl qzh qxetmruh phubj qzh xha lfdtxh?	mb	2 1
+4 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+5 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+6 Xl qzh qxetmruh qb qzh uhsq bs qzh xha lfdtxh?	ihl	2 1
+7 Xl qzh qxetmruh qb qzh xerzq bs qzh xha lfdtxh?	mb	2 1
+8 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+9 Xl qzh xha lfdtxh qb qzh xerzq bs qzh qxetmruh?	ihl	1 2
+10 Xl qzh qxetmruh phubj qzh xha lfdtxh?	mb	2 1
+1 Rzh ihuubj lfdtxh el tpbnh qzh qxetmruh.
+2 Rzh qxetmruh el qb qzh uhsq bs qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+4 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh xha lvzhxh qb qzh xerzq bs qzh ihuubj lfdtxh?	ihl	2 1
+6 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+7 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	ihl	1 2
+8 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+9 Xl qzh xha lvzhxh tpbnh qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh xha lvzhxh phubj qzh ihuubj lfdtxh?	ihl	2 1
+1 Rzh pudh lfdtxh el tpbnh qzh vemk xhoqtmruh.
+2 Rzh ihuubj lfdtxh el phubj qzh vemk xhoqtmruh.
+3 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	ihl	2 1
+4 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+5 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+6 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh ihuubj lfdtxh?	mb	1 2
+7 Xl qzh ihuubj lfdtxh tpbnh qzh pudh lfdtxh?	mb	2 1
+8 Xl qzh ihuubj lfdtxh phubj qzh pudh lfdtxh?	ihl	2 1
+9 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+10 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	1 2
+1 Rzh ihuubj lfdtxh el qb qzh xerzq bs qzh pudh lfdtxh.
+2 Rzh ihuubj lfdtxh el phubj qzh xha lvzhxh.
+3 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	2 1
+4 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	2 1
+5 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	mb	2 1
+6 Xl qzh xha lvzhxh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+7 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	2 1
+8 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	2 1
+9 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	2 1
+10 Xl qzh pudh lfdtxh tpbnh qzh xha lvzhxh?	mb	1 2
+1 Rzh vemk xhoqtmruh el qb qzh xerzq bs qzh xha lvzhxh.
+2 Rzh xha lfdtxh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+3 Xl qzh xha lvzhxh phubj qzh xha lfdtxh?	mb	1 2
+4 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+5 Xl qzh xha lvzhxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+6 Xl qzh xha lfdtxh qb qzh xerzq bs qzh xha lvzhxh?	ihl	2 1
+7 Xl qzh xha lvzhxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+8 Xl qzh xha lvzhxh qb qzh uhsq bs qzh xha lfdtxh?	ihl	1 2
+9 Xl qzh xha lvzhxh qb qzh xerzq bs qzh xha lfdtxh?	mb	1 2
+10 Xl qzh xha lfdtxh tpbnh qzh xha lvzhxh?	mb	2 1
+1 Rzh qxetmruh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh qxetmruh el qb qzh xerzq bs qzh vemk xhoqtmruh.
+3 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+4 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+5 Xl qzh ihuubj lfdtxh tpbnh qzh vemk xhoqtmruh?	mb	1 2
+6 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+7 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh ihuubj lfdtxh?	ihl	2 1
+8 Xl qzh ihuubj lfdtxh qb qzh xerzq bs qzh vemk xhoqtmruh?	ihl	1 2
+9 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh ihuubj lfdtxh?	mb	2 1
+10 Xl qzh ihuubj lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	1 2
+1 Rzh vemk xhoqtmruh el phubj qzh xha lvzhxh.
+2 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh pudh lfdtxh.
+3 Xl qzh pudh lfdtxh phubj qzh xha lvzhxh?	ihl	2 1
+4 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+5 Xl qzh xha lvzhxh tpbnh qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh xha lvzhxh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh xha lvzhxh?	mb	2 1
+9 Xl qzh xha lvzhxh phubj qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh xha lvzhxh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+1 Rzh pudh lfdtxh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh qxetmruh.
+3 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+4 Xl qzh pudh lfdtxh qb qzh xerzq bs qzh qxetmruh?	mb	1 2
+5 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	mb	2 1
+6 Xl qzh pudh lfdtxh phubj qzh qxetmruh?	mb	1 2
+7 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+8 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh qxetmruh?	ihl	1 2
+9 Xl qzh qxetmruh tpbnh qzh pudh lfdtxh?	mb	2 1
+10 Xl qzh qxetmruh qb qzh xerzq bs qzh pudh lfdtxh?	ihl	2 1
+1 Rzh vemk xhoqtmruh el qb qzh uhsq bs qzh ihuubj lfdtxh.
+2 Rzh ihuubj lfdtxh el tpbnh qzh pudh lfdtxh.
+3 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+4 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1
+5 Xl qzh vemk xhoqtmruh tpbnh qzh pudh lfdtxh?	ihl	1 2
+6 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+7 Xl qzh pudh lfdtxh phubj qzh vemk xhoqtmruh?	ihl	2 1
+8 Xl qzh vemk xhoqtmruh qb qzh uhsq bs qzh pudh lfdtxh?	ihl	1 2
+9 Xl qzh vemk xhoqtmruh qb qzh xerzq bs qzh pudh lfdtxh?	mb	1 2
+10 Xl qzh pudh lfdtxh qb qzh uhsq bs qzh vemk xhoqtmruh?	mb	2 1

@@ -1,0 +1,3372 @@
+1 Bill went back to the cinema yesterday.
+2 Julie went to the school this morning.
+3 Fred went to the park yesterday.
+4 Yesterday Julie went to the office.
+5 Where was Julie before the school? 	office	2 4
+6 This afternoon Julie travelled to the cinema.
+7 Yesterday Mary travelled to the park.
+8 Where was Julie before the school? 	office	2 4
+9 Bill went back to the school this morning.
+10 This evening Julie went to the school.
+11 Where was Julie before the school? 	cinema	10 6
+12 Fred moved to the office this morning.
+13 This afternoon Bill went to the park.
+14 Where was Bill before the school? 	cinema	9 1
+15 This afternoon Fred moved to the park.
+16 Bill moved to the school this evening.
+17 Where was Bill before the school? 	park	16 13
+1 This morning Fred went to the kitchen.
+2 Fred journeyed to the bedroom yesterday.
+3 Mary travelled to the bedroom this morning.
+4 Yesterday Mary went to the cinema.
+5 Where was Mary before the bedroom? 	cinema	3 4
+6 This morning Julie moved to the office.
+7 Yesterday Julie went back to the cinema.
+8 Where was Julie before the office? 	cinema	6 7
+9 This afternoon Julie moved to the bedroom.
+10 This afternoon Fred travelled to the cinema.
+11 Where was Mary before the bedroom? 	cinema	3 4
+12 Fred went to the kitchen this evening.
+13 Bill travelled to the kitchen yesterday.
+14 Where was Fred before the kitchen? 	cinema	12 10
+15 Julie moved to the cinema this evening.
+16 This morning Bill journeyed to the office.
+17 Where was Julie before the bedroom? 	office	9 6
+1 Yesterday Julie went back to the park.
+2 Julie went to the bedroom this morning.
+3 Bill journeyed to the cinema yesterday.
+4 This morning Bill went back to the park.
+5 Where was Bill before the park? 	cinema	4 3
+6 This evening Julie went to the school.
+7 This afternoon Julie went back to the park.
+8 Where was Julie before the bedroom? 	park	2 1
+9 Fred went to the cinema yesterday.
+10 Yesterday Mary moved to the kitchen.
+11 Where was Julie before the bedroom? 	park	2 1
+12 This morning Mary moved to the bedroom.
+13 Bill moved to the kitchen this afternoon.
+14 Where was Julie before the school? 	park	6 7
+15 This afternoon Mary went to the office.
+16 Fred journeyed to the office this morning.
+17 Where was Mary before the office? 	bedroom	15 12
+1 Bill travelled to the school yesterday.
+2 Yesterday Julie moved to the school.
+3 Yesterday Mary went to the cinema.
+4 Bill travelled to the office this morning.
+5 Where was Bill before the office? 	school	4 1
+6 This evening Bill travelled to the school.
+7 Bill went back to the park this afternoon.
+8 Where was Bill before the office? 	school	4 1
+9 This afternoon Mary went to the office.
+10 This morning Mary went to the kitchen.
+11 Where was Mary before the kitchen? 	cinema	10 3
+12 This morning Julie moved to the office.
+13 Yesterday Fred went to the cinema.
+14 Where was Mary before the office? 	kitchen	9 10
+15 This morning Fred moved to the park.
+16 This afternoon Julie journeyed to the cinema.
+17 Where was Julie before the cinema? 	office	16 12
+1 Yesterday Mary went to the park.
+2 Fred went back to the school yesterday.
+3 Julie moved to the cinema yesterday.
+4 This morning Mary travelled to the office.
+5 Where was Mary before the office? 	park	4 1
+6 This afternoon Mary journeyed to the park.
+7 Yesterday Bill journeyed to the kitchen.
+8 Where was Mary before the office? 	park	4 1
+9 This morning Bill travelled to the bedroom.
+10 Fred went to the kitchen this morning.
+11 Where was Mary before the park? 	office	6 4
+12 This evening Fred went back to the office.
+13 Fred moved to the bedroom this afternoon.
+14 Where was Bill before the bedroom? 	kitchen	9 7
+15 This afternoon Julie went to the school.
+16 Julie travelled to the kitchen this morning.
+17 Where was Bill before the bedroom? 	kitchen	9 7
+1 Bill journeyed to the kitchen this morning.
+2 Fred went back to the kitchen this morning.
+3 Yesterday Fred moved to the cinema.
+4 Bill journeyed to the bedroom yesterday.
+5 Where was Fred before the kitchen? 	cinema	2 3
+6 This afternoon Fred went to the cinema.
+7 Mary went back to the cinema yesterday.
+8 Where was Fred before the kitchen? 	cinema	2 3
+9 Fred moved to the school this evening.
+10 Bill went to the bedroom this afternoon.
+11 Where was Fred before the school? 	cinema	9 6
+12 This evening Bill went to the school.
+13 Julie went back to the cinema yesterday.
+14 Where was Bill before the school? 	bedroom	12 10
+15 Julie went back to the park this afternoon.
+16 Julie travelled to the office this morning.
+17 Where was Julie before the park? 	office	15 16
+1 Mary journeyed to the cinema this morning.
+2 Yesterday Mary went back to the park.
+3 Julie moved to the park yesterday.
+4 Yesterday Fred went back to the kitchen.
+5 Where was Mary before the cinema? 	park	1 2
+6 This morning Fred journeyed to the office.
+7 Mary went to the office this afternoon.
+8 Where was Mary before the cinema? 	park	1 2
+9 Julie journeyed to the office this morning.
+10 Yesterday Bill moved to the school.
+11 Where was Julie before the office? 	park	9 3
+12 Fred went back to the school this afternoon.
+13 This morning Bill went to the park.
+14 Where was Fred before the school? 	office	12 6
+15 This evening Fred went back to the cinema.
+16 Mary travelled to the school this evening.
+17 Where was Fred before the school? 	office	12 6
+1 Julie went to the park this morning.
+2 Julie moved to the kitchen yesterday.
+3 Where was Julie before the park? 	kitchen	1 2
+4 Julie moved to the bedroom this afternoon.
+5 Mary journeyed to the school yesterday.
+6 Where was Julie before the bedroom? 	park	4 1
+7 This morning Bill moved to the park.
+8 Yesterday Bill travelled to the kitchen.
+9 Where was Julie before the park? 	kitchen	1 2
+10 This morning Mary moved to the office.
+11 This evening Julie journeyed to the kitchen.
+12 Where was Julie before the kitchen? 	bedroom	11 4
+13 This afternoon Mary moved to the cinema.
+14 This afternoon Bill travelled to the kitchen.
+15 Where was Bill before the kitchen? 	park	14 7
+1 Mary journeyed to the bedroom yesterday.
+2 Julie journeyed to the park yesterday.
+3 Fred travelled to the park yesterday.
+4 This morning Fred journeyed to the cinema.
+5 Where was Fred before the cinema? 	park	4 3
+6 This afternoon Fred went back to the office.
+7 Julie went back to the office this morning.
+8 Where was Fred before the office? 	cinema	6 4
+9 This afternoon Julie journeyed to the kitchen.
+10 This morning Mary journeyed to the cinema.
+11 Where was Mary before the cinema? 	bedroom	10 1
+12 Yesterday Bill journeyed to the cinema.
+13 This evening Fred moved to the cinema.
+14 Where was Mary before the cinema? 	bedroom	10 1
+15 This evening Mary went to the kitchen.
+16 Mary went to the office this afternoon.
+17 Where was Mary before the kitchen? 	office	15 16
+1 This morning Fred journeyed to the park.
+2 Mary moved to the school yesterday.
+3 Yesterday Bill travelled to the kitchen.
+4 Fred travelled to the office yesterday.
+5 Where was Fred before the park? 	office	1 4
+6 Fred went back to the school this evening.
+7 Fred moved to the bedroom this afternoon.
+8 Where was Fred before the school? 	bedroom	6 7
+9 This morning Bill went back to the park.
+10 This morning Mary went to the park.
+11 Where was Fred before the school? 	bedroom	6 7
+12 Yesterday Julie travelled to the park.
+13 This afternoon Mary went to the kitchen.
+14 Where was Bill before the park? 	kitchen	9 3
+15 Mary went to the office this evening.
+16 Julie journeyed to the kitchen this morning.
+17 Where was Bill before the park? 	kitchen	9 3
+1 This morning Julie travelled to the office.
+2 Yesterday Julie went to the park.
+3 Where was Julie before the office? 	park	1 2
+4 This morning Mary travelled to the kitchen.
+5 Yesterday Mary travelled to the park.
+6 Where was Julie before the office? 	park	1 2
+7 This afternoon Mary travelled to the school.
+8 Julie moved to the bedroom this afternoon.
+9 Where was Mary before the kitchen? 	park	4 5
+10 This morning Bill journeyed to the kitchen.
+11 Bill journeyed to the bedroom yesterday.
+12 Where was Julie before the bedroom? 	office	8 1
+13 Fred travelled to the kitchen yesterday.
+14 Mary journeyed to the cinema this evening.
+15 Where was Bill before the kitchen? 	bedroom	10 11
+1 Julie went to the cinema this morning.
+2 Julie went back to the school yesterday.
+3 Where was Julie before the cinema? 	school	1 2
+4 Bill travelled to the bedroom yesterday.
+5 Yesterday Mary went back to the cinema.
+6 Where was Julie before the cinema? 	school	1 2
+7 Yesterday Fred journeyed to the cinema.
+8 This morning Bill went back to the kitchen.
+9 Where was Bill before the kitchen? 	bedroom	8 4
+10 This afternoon Bill journeyed to the cinema.
+11 Fred travelled to the park this morning.
+12 Where was Bill before the kitchen? 	bedroom	8 4
+13 Bill moved to the bedroom this evening.
+14 This afternoon Julie journeyed to the office.
+15 Where was Bill before the bedroom? 	cinema	13 10
+1 Mary travelled to the cinema yesterday.
+2 Yesterday Julie travelled to the cinema.
+3 This morning Julie travelled to the bedroom.
+4 Yesterday Bill moved to the park.
+5 Where was Julie before the bedroom? 	cinema	3 2
+6 Mary moved to the school this morning.
+7 Julie moved to the kitchen this afternoon.
+8 Where was Julie before the kitchen? 	bedroom	7 3
+9 Julie went back to the park this evening.
+10 This morning Bill went back to the office.
+11 Where was Mary before the school? 	cinema	6 1
+12 Yesterday Fred journeyed to the cinema.
+13 Mary journeyed to the office this afternoon.
+14 Where was Bill before the office? 	park	10 4
+15 Fred went back to the park this morning.
+16 Mary went back to the school this evening.
+17 Where was Julie before the park? 	kitchen	9 7
+1 Yesterday Bill moved to the cinema.
+2 Fred travelled to the cinema this morning.
+3 Yesterday Julie went back to the park.
+4 Fred travelled to the park yesterday.
+5 Where was Fred before the cinema? 	park	2 4
+6 Bill travelled to the school this morning.
+7 Yesterday Mary went back to the bedroom.
+8 Where was Fred before the cinema? 	park	2 4
+9 This morning Mary journeyed to the school.
+10 Julie journeyed to the bedroom this morning.
+11 Where was Julie before the bedroom? 	park	10 3
+12 Mary went back to the cinema this afternoon.
+13 Julie went to the school this afternoon.
+14 Where was Julie before the bedroom? 	park	10 3
+15 Julie moved to the cinema this evening.
+16 This afternoon Fred travelled to the park.
+17 Where was Julie before the cinema? 	school	15 13
+1 Mary moved to the cinema this morning.
+2 Mary went back to the bedroom yesterday.
+3 Where was Mary before the cinema? 	bedroom	1 2
+4 Yesterday Julie went back to the bedroom.
+5 Mary travelled to the bedroom this afternoon.
+6 Where was Mary before the bedroom? 	cinema	5 1
+7 This morning Julie moved to the kitchen.
+8 Bill moved to the bedroom yesterday.
+9 Where was Mary before the bedroom? 	cinema	5 1
+10 Mary went back to the school this evening.
+11 Julie travelled to the park this afternoon.
+12 Where was Mary before the school? 	bedroom	10 5
+13 Bill travelled to the office this afternoon.
+14 This morning Bill travelled to the park.
+15 Where was Julie before the kitchen? 	bedroom	7 4
+1 Mary travelled to the bedroom this morning.
+2 Mary journeyed to the school yesterday.
+3 Where was Mary before the bedroom? 	school	1 2
+4 This afternoon Mary journeyed to the office.
+5 Bill went back to the park yesterday.
+6 Where was Mary before the bedroom? 	school	1 2
+7 Yesterday Julie went back to the school.
+8 Bill travelled to the school this morning.
+9 Where was Mary before the bedroom? 	school	1 2
+10 This afternoon Julie journeyed to the kitchen.
+11 This morning Julie journeyed to the office.
+12 Where was Julie before the office? 	school	11 7
+13 This afternoon Bill went back to the cinema.
+14 This evening Mary went back to the cinema.
+15 Where was Mary before the cinema? 	office	14 4
+1 Fred went back to the cinema this morning.
+2 Mary travelled to the kitchen this morning.
+3 Yesterday Mary went back to the office.
+4 Fred travelled to the school yesterday.
+5 Where was Mary before the kitchen? 	office	2 3
+6 Fred went back to the office this afternoon.
+7 Mary went to the office this afternoon.
+8 Where was Fred before the cinema? 	school	1 4
+9 This morning Julie moved to the school.
+10 Julie moved to the park yesterday.
+11 Where was Fred before the cinema? 	school	1 4
+12 Fred went to the park this evening.
+13 This evening Mary travelled to the school.
+14 Where was Fred before the park? 	office	12 6
+15 This afternoon Julie went back to the cinema.
+16 Bill went back to the cinema yesterday.
+17 Where was Julie before the cinema? 	school	15 9
+1 Mary moved to the park this morning.
+2 Fred journeyed to the cinema yesterday.
+3 Yesterday Julie travelled to the park.
+4 Yesterday Mary travelled to the office.
+5 Where was Mary before the park? 	office	1 4
+6 Mary moved to the office this afternoon.
+7 This morning Fred went to the kitchen.
+8 Where was Mary before the office? 	park	6 1
+9 Julie went to the bedroom this morning.
+10 This afternoon Fred went to the cinema.
+11 Where was Fred before the cinema? 	kitchen	10 7
+12 This afternoon Julie journeyed to the school.
+13 Yesterday Bill went to the park.
+14 Where was Fred before the cinema? 	kitchen	10 7
+15 This morning Bill journeyed to the cinema.
+16 This evening Mary journeyed to the school.
+17 Where was Julie before the school? 	bedroom	12 9
+1 Fred went to the cinema this morning.
+2 Fred went to the park yesterday.
+3 Where was Fred before the cinema? 	park	1 2
+4 This afternoon Fred went to the kitchen.
+5 Yesterday Mary went to the office.
+6 Where was Fred before the kitchen? 	cinema	4 1
+7 This morning Julie went back to the park.
+8 Julie moved to the bedroom yesterday.
+9 Where was Fred before the cinema? 	park	1 2
+10 This afternoon Mary journeyed to the office.
+11 This morning Mary moved to the kitchen.
+12 Where was Mary before the kitchen? 	office	11 5
+13 This evening Fred journeyed to the school.
+14 This afternoon Julie travelled to the office.
+15 Where was Mary before the kitchen? 	office	11 5
+1 This morning Julie journeyed to the cinema.
+2 Mary moved to the cinema yesterday.
+3 This afternoon Julie went to the bedroom.
+4 Julie journeyed to the office yesterday.
+5 Where was Julie before the cinema? 	office	1 4
+6 This evening Julie went to the park.
+7 Mary journeyed to the kitchen this morning.
+8 Where was Julie before the park? 	bedroom	6 3
+9 Yesterday Fred moved to the office.
+10 Yesterday Bill went back to the cinema.
+11 Where was Mary before the kitchen? 	cinema	7 2
+12 This afternoon Mary went back to the office.
+13 Fred journeyed to the kitchen this morning.
+14 Where was Fred before the kitchen? 	office	13 9
+15 This evening Mary journeyed to the cinema.
+16 This morning Bill journeyed to the office.
+17 Where was Fred before the kitchen? 	office	13 9
+1 Mary went to the kitchen this morning.
+2 Mary went back to the bedroom yesterday.
+3 Where was Mary before the kitchen? 	bedroom	1 2
+4 This evening Mary moved to the kitchen.
+5 This afternoon Mary travelled to the cinema.
+6 Where was Mary before the kitchen? 	cinema	4 5
+7 Yesterday Julie journeyed to the park.
+8 Yesterday Bill went back to the cinema.
+9 Where was Mary before the cinema? 	kitchen	5 1
+10 Julie moved to the cinema this afternoon.
+11 This morning Julie went back to the office.
+12 Where was Julie before the office? 	park	11 7
+13 Fred journeyed to the park yesterday.
+14 This morning Bill journeyed to the school.
+15 Where was Bill before the school? 	cinema	14 8
+1 Yesterday Fred went back to the office.
+2 Fred travelled to the kitchen this morning.
+3 Mary travelled to the kitchen yesterday.
+4 This morning Mary moved to the office.
+5 Where was Mary before the office? 	kitchen	4 3
+6 Yesterday Bill moved to the school.
+7 Mary journeyed to the bedroom this afternoon.
+8 Where was Mary before the office? 	kitchen	4 3
+9 Mary moved to the school this evening.
+10 This afternoon Fred travelled to the bedroom.
+11 Where was Mary before the school? 	bedroom	9 7
+12 Julie went to the bedroom yesterday.
+13 Bill went to the kitchen this morning.
+14 Where was Mary before the school? 	bedroom	9 7
+15 Fred went back to the park this evening.
+16 Julie went back to the kitchen this morning.
+17 Where was Mary before the school? 	bedroom	9 7
+1 This morning Julie moved to the bedroom.
+2 Yesterday Bill moved to the kitchen.
+3 Yesterday Julie went to the park.
+4 Yesterday Mary moved to the park.
+5 Where was Julie before the bedroom? 	park	1 3
+6 This morning Bill journeyed to the cinema.
+7 Yesterday Fred moved to the school.
+8 Where was Bill before the cinema? 	kitchen	6 2
+9 Julie journeyed to the school this afternoon.
+10 Mary moved to the bedroom this morning.
+11 Where was Julie before the school? 	bedroom	9 1
+12 This morning Fred travelled to the park.
+13 This afternoon Bill went back to the bedroom.
+14 Where was Fred before the park? 	school	12 7
+15 This evening Bill went back to the kitchen.
+16 Mary journeyed to the school this afternoon.
+17 Where was Julie before the school? 	bedroom	9 1
+1 Yesterday Mary journeyed to the office.
+2 This morning Mary travelled to the cinema.
+3 Yesterday Julie travelled to the bedroom.
+4 Julie travelled to the cinema this morning.
+5 Yesterday Bill travelled to the kitchen.
+6 Yesterday Fred travelled to the kitchen.
+7 Where was Mary before the cinema? 	office	2 1
+8 This morning Bill went back to the bedroom.
+9 This morning Fred moved to the bedroom.
+10 Where was Mary before the cinema? 	office	2 1
+11 This afternoon Bill went to the office.
+12 Mary travelled to the office this afternoon.
+13 Where was Bill before the office? 	bedroom	11 8
+14 This afternoon Julie journeyed to the school.
+15 Fred journeyed to the school this afternoon.
+16 Where was Fred before the school? 	bedroom	15 9
+17 This evening Bill travelled to the cinema.
+18 Mary journeyed to the park this evening.
+19 Where was Bill before the office? 	bedroom	11 8
+1 This morning Julie went back to the bedroom.
+2 Yesterday Fred travelled to the office.
+3 Julie went back to the park this afternoon.
+4 Julie journeyed to the office yesterday.
+5 Where was Julie before the bedroom? 	office	1 4
+6 This morning Fred went to the kitchen.
+7 Yesterday Mary moved to the park.
+8 Where was Julie before the park? 	bedroom	3 1
+9 Bill went back to the bedroom yesterday.
+10 This morning Mary travelled to the office.
+11 Where was Fred before the kitchen? 	office	6 2
+12 This morning Bill journeyed to the cinema.
+13 This evening Julie moved to the school.
+14 Where was Fred before the kitchen? 	office	6 2
+15 Fred moved to the bedroom this evening.
+16 Fred went to the office this afternoon.
+17 Where was Fred before the office? 	kitchen	16 6
+1 Bill travelled to the office this morning.
+2 Bill travelled to the cinema yesterday.
+3 Where was Bill before the office? 	cinema	1 2
+4 Bill journeyed to the kitchen this afternoon.
+5 Mary went to the cinema yesterday.
+6 Where was Bill before the kitchen? 	office	4 1
+7 Fred went to the office yesterday.
+8 This evening Bill travelled to the cinema.
+9 Where was Bill before the kitchen? 	office	4 1
+10 Fred travelled to the kitchen this afternoon.
+11 Fred went to the park this morning.
+12 Where was Bill before the cinema? 	kitchen	8 4
+13 This morning Mary journeyed to the bedroom.
+14 This evening Fred travelled to the park.
+15 Where was Fred before the kitchen? 	park	10 11
+1 Mary journeyed to the office this morning.
+2 Yesterday Mary travelled to the park.
+3 Where was Mary before the office? 	park	1 2
+4 Mary travelled to the park this afternoon.
+5 Yesterday Julie travelled to the kitchen.
+6 Where was Mary before the park? 	office	4 1
+7 Yesterday Bill went to the cinema.
+8 Mary went to the school this evening.
+9 Where was Mary before the office? 	park	1 2
+10 Fred journeyed to the kitchen this morning.
+11 Yesterday Fred journeyed to the office.
+12 Where was Mary before the school? 	park	8 4
+13 Fred went to the office this evening.
+14 Fred moved to the cinema this afternoon.
+15 Where was Fred before the office? 	cinema	13 14
+1 This morning Bill moved to the kitchen.
+2 Julie journeyed to the school yesterday.
+3 Bill moved to the school this afternoon.
+4 Bill journeyed to the office yesterday.
+5 Where was Bill before the school? 	kitchen	3 1
+6 Bill went back to the cinema this evening.
+7 Yesterday Fred travelled to the park.
+8 Where was Bill before the kitchen? 	office	1 4
+9 This afternoon Julie went back to the park.
+10 This morning Julie went back to the office.
+11 Where was Julie before the park? 	office	9 10
+12 This evening Julie went back to the kitchen.
+13 Yesterday Mary journeyed to the school.
+14 Where was Bill before the cinema? 	school	6 3
+15 Fred travelled to the cinema this morning.
+16 Mary moved to the bedroom this morning.
+17 Where was Mary before the bedroom? 	school	16 13
+1 This morning Mary journeyed to the office.
+2 Yesterday Mary went back to the bedroom.
+3 Yesterday Julie travelled to the bedroom.
+4 Bill moved to the park yesterday.
+5 Where was Mary before the office? 	bedroom	1 2
+6 Mary went to the cinema this evening.
+7 This afternoon Mary went to the kitchen.
+8 Where was Mary before the kitchen? 	office	7 1
+9 This morning Fred went to the park.
+10 Fred went to the office yesterday.
+11 Where was Mary before the office? 	bedroom	1 2
+12 Fred went to the office this evening.
+13 Fred went back to the cinema this afternoon.
+14 Where was Fred before the park? 	office	9 10
+15 Bill travelled to the school this afternoon.
+16 This morning Bill went to the office.
+17 Where was Fred before the office? 	cinema	12 13
+1 Fred moved to the park yesterday.
+2 This morning Julie journeyed to the bedroom.
+3 Julie went back to the park this afternoon.
+4 Julie moved to the park yesterday.
+5 Where was Julie before the park? 	bedroom	3 2
+6 Bill journeyed to the park this morning.
+7 Bill went to the bedroom yesterday.
+8 Where was Bill before the park? 	bedroom	6 7
+9 Mary journeyed to the school yesterday.
+10 Julie journeyed to the school this evening.
+11 Where was Julie before the park? 	bedroom	3 2
+12 Bill went to the bedroom this afternoon.
+13 This morning Fred moved to the kitchen.
+14 Where was Bill before the bedroom? 	park	12 6
+15 This morning Mary travelled to the kitchen.
+16 Fred moved to the bedroom this afternoon.
+17 Where was Fred before the bedroom? 	kitchen	16 13
+1 Bill journeyed to the kitchen yesterday.
+2 This morning Julie travelled to the kitchen.
+3 Yesterday Julie moved to the office.
+4 Yesterday Fred journeyed to the cinema.
+5 Where was Julie before the kitchen? 	office	2 3
+6 Julie went back to the bedroom this afternoon.
+7 This morning Bill moved to the office.
+8 Where was Bill before the office? 	kitchen	7 1
+9 This evening Julie went to the office.
+10 Yesterday Mary moved to the school.
+11 Where was Julie before the office? 	bedroom	9 6
+12 This morning Fred went back to the kitchen.
+13 Bill went to the park this afternoon.
+14 Where was Bill before the park? 	office	13 7
+15 This evening Fred moved to the park.
+16 This afternoon Fred journeyed to the school.
+17 Where was Fred before the park? 	school	15 16
+1 This afternoon Julie went to the kitchen.
+2 Julie journeyed to the bedroom yesterday.
+3 Yesterday Bill went to the bedroom.
+4 This morning Julie went to the office.
+5 Where was Julie before the kitchen? 	office	1 4
+6 Mary went to the office yesterday.
+7 This evening Julie went to the school.
+8 Where was Julie before the school? 	kitchen	7 1
+9 This morning Fred travelled to the office.
+10 Fred travelled to the bedroom yesterday.
+11 Where was Julie before the kitchen? 	office	1 4
+12 Bill went back to the school this morning.
+13 Fred moved to the school this afternoon.
+14 Where was Fred before the office? 	bedroom	9 10
+15 Mary journeyed to the bedroom this morning.
+16 This afternoon Bill moved to the office.
+17 Where was Bill before the school? 	bedroom	12 3
+1 Yesterday Bill moved to the park.
+2 Bill went back to the school this morning.
+3 Julie went to the school yesterday.
+4 Yesterday Mary went to the school.
+5 Where was Bill before the school? 	park	2 1
+6 Mary travelled to the kitchen this morning.
+7 This morning Julie travelled to the kitchen.
+8 Where was Bill before the school? 	park	2 1
+9 Fred went to the park yesterday.
+10 This afternoon Mary journeyed to the school.
+11 Where was Julie before the kitchen? 	school	7 3
+12 Julie travelled to the office this afternoon.
+13 Fred went back to the kitchen this morning.
+14 Where was Mary before the school? 	kitchen	10 6
+15 Bill went to the office this afternoon.
+16 Mary travelled to the bedroom this evening.
+17 Where was Mary before the bedroom? 	school	16 10
+1 This morning Fred moved to the office.
+2 Bill travelled to the cinema yesterday.
+3 Julie travelled to the cinema yesterday.
+4 Fred went back to the school yesterday.
+5 Where was Fred before the office? 	school	1 4
+6 This afternoon Julie moved to the park.
+7 This morning Julie went to the school.
+8 Where was Fred before the office? 	school	1 4
+9 Mary travelled to the office yesterday.
+10 Fred moved to the park this afternoon.
+11 Where was Julie before the park? 	school	6 7
+12 Bill went to the bedroom this afternoon.
+13 Bill travelled to the school this morning.
+14 Where was Bill before the bedroom? 	school	12 13
+15 Mary moved to the kitchen this morning.
+16 Fred moved to the bedroom this evening.
+17 Where was Fred before the bedroom? 	park	16 10
+1 Bill moved to the kitchen this morning.
+2 Yesterday Bill went back to the park.
+3 Where was Bill before the kitchen? 	park	1 2
+4 Yesterday Mary travelled to the school.
+5 This afternoon Bill journeyed to the office.
+6 Where was Bill before the kitchen? 	park	1 2
+7 Yesterday Julie went back to the school.
+8 Yesterday Fred travelled to the school.
+9 Where was Bill before the office? 	kitchen	5 1
+10 This morning Mary travelled to the park.
+11 Julie moved to the cinema this morning.
+12 Where was Julie before the cinema? 	school	11 7
+13 Mary went back to the kitchen this afternoon.
+14 Bill travelled to the bedroom this evening.
+15 Where was Mary before the kitchen? 	park	13 10
+1 Yesterday Mary journeyed to the kitchen.
+2 This morning Fred went back to the cinema.
+3 Yesterday Julie journeyed to the cinema.
+4 Fred journeyed to the bedroom yesterday.
+5 Where was Fred before the cinema? 	bedroom	2 4
+6 Julie went back to the bedroom this morning.
+7 Fred journeyed to the school this afternoon.
+8 Where was Julie before the bedroom? 	cinema	6 3
+9 Mary travelled to the bedroom this morning.
+10 This afternoon Julie went back to the park.
+11 Where was Fred before the school? 	cinema	7 2
+12 Mary went back to the kitchen this afternoon.
+13 This evening Julie moved to the kitchen.
+14 Where was Mary before the kitchen? 	bedroom	12 9
+15 Yesterday Bill went to the cinema.
+16 Mary went back to the cinema this evening.
+17 Where was Julie before the kitchen? 	park	13 10
+1 This morning Bill moved to the school.
+2 Bill travelled to the office yesterday.
+3 Bill went back to the office this afternoon.
+4 Yesterday Fred went to the school.
+5 Where was Bill before the school? 	office	1 2
+6 Yesterday Julie travelled to the office.
+7 This evening Bill went to the kitchen.
+8 Where was Bill before the office? 	school	3 1
+9 Fred journeyed to the bedroom this morning.
+10 Yesterday Mary went to the kitchen.
+11 Where was Bill before the kitchen? 	office	7 3
+12 This morning Julie went back to the school.
+13 This afternoon Fred went to the school.
+14 Where was Fred before the bedroom? 	school	9 4
+15 Mary journeyed to the park this afternoon.
+16 Mary journeyed to the cinema this morning.
+17 Where was Mary before the park? 	cinema	15 16
+1 Yesterday Julie journeyed to the bedroom.
+2 Fred went to the kitchen this morning.
+3 Fred went back to the cinema yesterday.
+4 Mary went back to the cinema yesterday.
+5 Where was Fred before the kitchen? 	cinema	2 3
+6 This morning Bill moved to the school.
+7 Yesterday Bill moved to the park.
+8 Where was Fred before the kitchen? 	cinema	2 3
+9 This afternoon Julie travelled to the office.
+10 Julie moved to the kitchen this morning.
+11 Where was Julie before the office? 	kitchen	9 10
+12 Bill went back to the bedroom this afternoon.
+13 This morning Mary went to the bedroom.
+14 Where was Bill before the bedroom? 	school	12 6
+15 This evening Julie moved to the park.
+16 Mary moved to the kitchen this afternoon.
+17 Where was Bill before the bedroom? 	school	12 6
+1 Bill went to the school this morning.
+2 Bill went back to the cinema yesterday.
+3 Where was Bill before the school? 	cinema	1 2
+4 This afternoon Bill moved to the bedroom.
+5 Yesterday Julie travelled to the cinema.
+6 Where was Bill before the bedroom? 	school	4 1
+7 Mary went back to the school yesterday.
+8 This evening Bill travelled to the cinema.
+9 Where was Bill before the school? 	cinema	1 2
+10 Julie moved to the bedroom this morning.
+11 Mary travelled to the park this morning.
+12 Where was Bill before the bedroom? 	school	4 1
+13 Yesterday Fred journeyed to the kitchen.
+14 Mary went to the cinema this afternoon.
+15 Where was Mary before the cinema? 	park	14 11
+1 Yesterday Julie went to the kitchen.
+2 Julie went back to the cinema this morning.
+3 Fred went to the bedroom yesterday.
+4 Yesterday Mary travelled to the park.
+5 Where was Julie before the cinema? 	kitchen	2 1
+6 Bill journeyed to the cinema yesterday.
+7 This morning Mary went to the bedroom.
+8 Where was Mary before the bedroom? 	park	7 4
+9 This morning Bill moved to the school.
+10 Fred went to the office this morning.
+11 Where was Fred before the office? 	bedroom	10 3
+12 This evening Julie went to the cinema.
+13 This afternoon Julie moved to the park.
+14 Where was Julie before the park? 	cinema	13 2
+15 This afternoon Bill moved to the cinema.
+16 This afternoon Fred went to the bedroom.
+17 Where was Bill before the school? 	cinema	9 6
+1 Fred moved to the kitchen yesterday.
+2 Mary went back to the school yesterday.
+3 Mary travelled to the park this morning.
+4 Yesterday Julie travelled to the office.
+5 Where was Mary before the park? 	school	3 2
+6 This morning Fred journeyed to the school.
+7 This morning Julie went to the school.
+8 Where was Fred before the school? 	kitchen	6 1
+9 Fred journeyed to the school this evening.
+10 This afternoon Fred went back to the bedroom.
+11 Where was Fred before the school? 	bedroom	9 10
+12 Bill went to the bedroom yesterday.
+13 This afternoon Mary went to the bedroom.
+14 Where was Fred before the bedroom? 	school	10 6
+15 This afternoon Bill moved to the school.
+16 This morning Bill journeyed to the office.
+17 Where was Fred before the school? 	bedroom	9 10
+1 Bill went back to the cinema yesterday.
+2 Bill travelled to the park this morning.
+3 Yesterday Julie moved to the bedroom.
+4 Mary moved to the park yesterday.
+5 Where was Bill before the park? 	cinema	2 1
+6 Mary travelled to the kitchen this morning.
+7 This afternoon Bill moved to the kitchen.
+8 Where was Bill before the kitchen? 	park	7 2
+9 Mary went to the office this afternoon.
+10 This evening Bill moved to the cinema.
+11 Where was Bill before the kitchen? 	park	7 2
+12 Mary went to the kitchen this evening.
+13 Yesterday Fred went to the school.
+14 Where was Mary before the kitchen? 	office	12 9
+15 This afternoon Fred went back to the school.
+16 Fred went to the bedroom this morning.
+17 Where was Fred before the school? 	bedroom	15 16
+1 This morning Bill travelled to the school.
+2 Yesterday Mary went to the bedroom.
+3 Yesterday Bill went to the office.
+4 Julie went back to the kitchen yesterday.
+5 Where was Bill before the school? 	office	1 3
+6 This evening Bill travelled to the park.
+7 This afternoon Bill travelled to the bedroom.
+8 Where was Bill before the park? 	bedroom	6 7
+9 This morning Mary journeyed to the cinema.
+10 This morning Julie travelled to the office.
+11 Where was Mary before the cinema? 	bedroom	9 2
+12 This afternoon Mary went back to the kitchen.
+13 This afternoon Julie went back to the park.
+14 Where was Julie before the park? 	office	13 10
+15 Julie journeyed to the office this evening.
+16 Yesterday Fred went to the park.
+17 Where was Julie before the park? 	office	13 10
+1 Mary went to the school this afternoon.
+2 Mary journeyed to the office this morning.
+3 Mary moved to the kitchen yesterday.
+4 Yesterday Fred went to the office.
+5 Where was Mary before the office? 	kitchen	2 3
+6 This morning Fred went to the cinema.
+7 This evening Mary journeyed to the park.
+8 Where was Mary before the office? 	kitchen	2 3
+9 This morning Julie went back to the cinema.
+10 Yesterday Julie travelled to the kitchen.
+11 Where was Mary before the park? 	school	7 1
+12 This afternoon Fred went back to the bedroom.
+13 Bill travelled to the bedroom yesterday.
+14 Where was Fred before the bedroom? 	cinema	12 6
+15 This afternoon Bill went back to the school.
+16 Bill went back to the office this morning.
+17 Where was Bill before the school? 	office	15 16
+1 Yesterday Fred went back to the park.
+2 Yesterday Mary went back to the cinema.
+3 Julie travelled to the cinema this morning.
+4 Julie went to the school yesterday.
+5 Where was Julie before the cinema? 	school	3 4
+6 Bill moved to the school yesterday.
+7 Julie went to the bedroom this afternoon.
+8 Where was Julie before the cinema? 	school	3 4
+9 Bill went to the bedroom this afternoon.
+10 Bill travelled to the office this morning.
+11 Where was Julie before the cinema? 	school	3 4
+12 This evening Bill travelled to the office.
+13 Mary journeyed to the park this morning.
+14 Where was Bill before the bedroom? 	office	9 10
+15 This evening Mary moved to the park.
+16 Mary travelled to the office this afternoon.
+17 Where was Mary before the park? 	office	15 16
+1 This morning Fred moved to the school.
+2 Julie went back to the cinema yesterday.
+3 Mary travelled to the bedroom yesterday.
+4 Fred journeyed to the bedroom yesterday.
+5 Where was Fred before the school? 	bedroom	1 4
+6 Bill travelled to the kitchen yesterday.
+7 This afternoon Fred journeyed to the office.
+8 Where was Fred before the school? 	bedroom	1 4
+9 Fred travelled to the park this evening.
+10 Mary went to the office this morning.
+11 Where was Fred before the office? 	school	7 1
+12 This afternoon Mary went back to the cinema.
+13 This morning Julie travelled to the office.
+14 Where was Mary before the office? 	bedroom	10 3
+15 This morning Bill went to the park.
+16 Julie went back to the bedroom this afternoon.
+17 Where was Julie before the bedroom? 	office	16 13
+1 Yesterday Bill journeyed to the park.
+2 Bill went to the kitchen this morning.
+3 Yesterday Mary went back to the school.
+4 Yesterday Fred went back to the cinema.
+5 Where was Bill before the kitchen? 	park	2 1
+6 Yesterday Julie travelled to the bedroom.
+7 Mary went to the bedroom this morning.
+8 Where was Bill before the kitchen? 	park	2 1
+9 This morning Fred travelled to the kitchen.
+10 This afternoon Bill went back to the cinema.
+11 Where was Fred before the kitchen? 	cinema	9 4
+12 This evening Bill travelled to the office.
+13 Julie went back to the school this morning.
+14 Where was Julie before the school? 	bedroom	13 6
+15 This evening Mary went back to the bedroom.
+16 Mary journeyed to the office this afternoon.
+17 Where was Mary before the bedroom? 	office	15 16
+1 Yesterday Fred travelled to the kitchen.
+2 This afternoon Julie moved to the cinema.
+3 Julie moved to the park yesterday.
+4 This morning Julie journeyed to the kitchen.
+5 Where was Julie before the kitchen? 	park	4 3
+6 This morning Fred went to the school.
+7 Yesterday Mary went to the bedroom.
+8 Where was Julie before the kitchen? 	park	4 3
+9 Yesterday Bill travelled to the office.
+10 This morning Mary went to the cinema.
+11 Where was Fred before the school? 	kitchen	6 1
+12 This evening Julie moved to the park.
+13 Fred travelled to the kitchen this afternoon.
+14 Where was Fred before the kitchen? 	school	13 6
+15 This morning Bill journeyed to the bedroom.
+16 Fred went back to the bedroom this evening.
+17 Where was Bill before the bedroom? 	office	15 9
+1 Yesterday Bill went to the office.
+2 This morning Julie journeyed to the cinema.
+3 Julie travelled to the bedroom yesterday.
+4 Yesterday Fred moved to the school.
+5 Where was Julie before the cinema? 	bedroom	2 3
+6 This afternoon Julie moved to the park.
+7 Mary journeyed to the office yesterday.
+8 Where was Julie before the cinema? 	bedroom	2 3
+9 Julie went to the bedroom this evening.
+10 This morning Fred travelled to the bedroom.
+11 Where was Julie before the park? 	cinema	6 2
+12 Bill went back to the office this afternoon.
+13 Bill travelled to the kitchen this morning.
+14 Where was Julie before the bedroom? 	park	9 6
+15 Fred journeyed to the cinema this afternoon.
+16 This evening Bill went back to the cinema.
+17 Where was Julie before the bedroom? 	park	9 6
+1 This morning Mary went to the school.
+2 This afternoon Mary went back to the bedroom.
+3 Bill moved to the cinema yesterday.
+4 Yesterday Mary moved to the kitchen.
+5 Where was Mary before the school? 	kitchen	1 4
+6 Fred journeyed to the school this morning.
+7 Fred went to the bedroom yesterday.
+8 Where was Mary before the school? 	kitchen	1 4
+9 Fred journeyed to the office this afternoon.
+10 Mary went back to the school this evening.
+11 Where was Fred before the office? 	school	9 6
+12 This morning Bill journeyed to the office.
+13 This evening Fred journeyed to the park.
+14 Where was Fred before the office? 	school	9 6
+15 Julie moved to the cinema this morning.
+16 Julie travelled to the kitchen yesterday.
+17 Where was Bill before the office? 	cinema	12 3
+1 Yesterday Julie journeyed to the kitchen.
+2 Fred went to the kitchen this morning.
+3 Yesterday Fred journeyed to the cinema.
+4 Julie moved to the office this morning.
+5 Yesterday Bill went back to the school.
+6 Mary journeyed to the kitchen yesterday.
+7 Where was Julie before the office? 	kitchen	4 1
+8 This evening Julie went back to the kitchen.
+9 This afternoon Julie went to the school.
+10 Where was Julie before the office? 	kitchen	4 1
+11 Mary journeyed to the office this morning.
+12 This morning Bill went back to the bedroom.
+13 Where was Julie before the office? 	kitchen	4 1
+14 This evening Fred moved to the office.
+15 Fred journeyed to the cinema this afternoon.
+16 Where was Bill before the bedroom? 	school	12 5
+17 Bill travelled to the office this afternoon.
+18 Mary went to the bedroom this afternoon.
+19 Where was Mary before the office? 	kitchen	11 6
+1 Julie travelled to the bedroom yesterday.
+2 Fred went to the park yesterday.
+3 Bill went back to the cinema yesterday.
+4 Bill travelled to the bedroom this morning.
+5 Where was Bill before the bedroom? 	cinema	4 3
+6 Mary moved to the bedroom this morning.
+7 Mary travelled to the school yesterday.
+8 Where was Bill before the bedroom? 	cinema	4 3
+9 This morning Julie travelled to the cinema.
+10 This afternoon Bill went to the office.
+11 Where was Julie before the cinema? 	bedroom	9 1
+12 Fred travelled to the kitchen this morning.
+13 This afternoon Julie went back to the kitchen.
+14 Where was Julie before the kitchen? 	cinema	13 9
+15 This afternoon Mary moved to the park.
+16 This evening Julie journeyed to the cinema.
+17 Where was Mary before the park? 	bedroom	15 6
+1 Julie travelled to the cinema this morning.
+2 Yesterday Julie moved to the school.
+3 Fred went to the cinema yesterday.
+4 Mary journeyed to the bedroom yesterday.
+5 Where was Julie before the cinema? 	school	1 2
+6 This afternoon Julie went to the kitchen.
+7 Yesterday Bill moved to the office.
+8 Where was Julie before the kitchen? 	cinema	6 1
+9 Mary moved to the office this morning.
+10 This evening Julie journeyed to the school.
+11 Where was Julie before the school? 	kitchen	10 6
+12 Mary went back to the cinema this evening.
+13 This afternoon Mary travelled to the school.
+14 Where was Mary before the school? 	office	13 9
+15 Bill went to the school this morning.
+16 This morning Fred travelled to the bedroom.
+17 Where was Mary before the school? 	office	13 9
+1 Yesterday Julie moved to the kitchen.
+2 Yesterday Fred travelled to the school.
+3 This morning Julie travelled to the cinema.
+4 Bill moved to the cinema yesterday.
+5 Where was Julie before the cinema? 	kitchen	3 1
+6 Fred went back to the cinema this morning.
+7 Yesterday Mary travelled to the cinema.
+8 Where was Fred before the cinema? 	school	6 2
+9 Bill travelled to the cinema this afternoon.
+10 This morning Bill journeyed to the park.
+11 Where was Bill before the park? 	cinema	10 4
+12 Mary moved to the office this morning.
+13 This afternoon Fred moved to the office.
+14 Where was Fred before the office? 	cinema	13 6
+15 This evening Fred journeyed to the kitchen.
+16 This afternoon Mary went back to the park.
+17 Where was Fred before the kitchen? 	office	15 13
+1 Fred journeyed to the cinema yesterday.
+2 This morning Bill moved to the school.
+3 Mary journeyed to the office yesterday.
+4 Bill went to the office yesterday.
+5 Where was Bill before the school? 	office	2 4
+6 Yesterday Julie went back to the cinema.
+7 This afternoon Bill went back to the park.
+8 Where was Bill before the park? 	school	7 2
+9 This morning Fred went back to the school.
+10 This evening Bill travelled to the office.
+11 Where was Fred before the school? 	cinema	9 1
+12 This morning Julie went to the bedroom.
+13 Mary moved to the kitchen this morning.
+14 Where was Bill before the office? 	park	10 7
+15 Fred journeyed to the bedroom this evening.
+16 This afternoon Fred travelled to the kitchen.
+17 Where was Fred before the kitchen? 	school	16 9
+1 Bill went back to the bedroom yesterday.
+2 Yesterday Fred journeyed to the kitchen.
+3 This morning Bill journeyed to the kitchen.
+4 Mary journeyed to the office this morning.
+5 Julie went to the school yesterday.
+6 Mary went back to the school yesterday.
+7 Where was Mary before the office? 	school	4 6
+8 This morning Fred travelled to the school.
+9 Mary journeyed to the school this afternoon.
+10 Where was Mary before the school? 	office	9 4
+11 Julie went back to the bedroom this morning.
+12 Mary moved to the office this evening.
+13 Where was Bill before the kitchen? 	bedroom	3 1
+14 This afternoon Julie went to the cinema.
+15 Fred went back to the kitchen this afternoon.
+16 Where was Julie before the bedroom? 	school	11 5
+17 Fred moved to the cinema this evening.
+18 This evening Julie went back to the park.
+19 Where was Julie before the bedroom? 	school	11 5
+1 Bill moved to the kitchen this afternoon.
+2 Bill went to the school this morning.
+3 Yesterday Fred journeyed to the office.
+4 Yesterday Bill journeyed to the office.
+5 Where was Bill before the kitchen? 	school	1 2
+6 Yesterday Julie went to the office.
+7 This evening Bill moved to the bedroom.
+8 Where was Bill before the bedroom? 	kitchen	7 1
+9 Fred journeyed to the school this morning.
+10 Julie went to the cinema this morning.
+11 Where was Julie before the cinema? 	office	10 6
+12 Fred travelled to the kitchen this afternoon.
+13 Julie moved to the office this afternoon.
+14 Where was Julie before the office? 	cinema	13 10
+15 This evening Fred travelled to the office.
+16 This evening Julie journeyed to the kitchen.
+17 Where was Julie before the kitchen? 	office	16 13
+1 Julie travelled to the cinema yesterday.
+2 Yesterday Mary went back to the park.
+3 This morning Bill went to the kitchen.
+4 Fred journeyed to the kitchen yesterday.
+5 Yesterday Bill went back to the school.
+6 This morning Fred travelled to the cinema.
+7 Where was Fred before the cinema? 	kitchen	6 4
+8 This morning Mary went to the school.
+9 This afternoon Bill went back to the cinema.
+10 Where was Fred before the cinema? 	kitchen	6 4
+11 Julie journeyed to the cinema this afternoon.
+12 This morning Julie moved to the kitchen.
+13 Where was Julie before the kitchen? 	cinema	12 1
+14 This afternoon Mary travelled to the bedroom.
+15 Julie moved to the office this evening.
+16 Where was Julie before the kitchen? 	cinema	12 1
+17 Bill went to the bedroom this evening.
+18 This afternoon Fred moved to the park.
+19 Where was Julie before the cinema? 	kitchen	11 12
+1 Yesterday Julie went to the bedroom.
+2 Yesterday Bill travelled to the kitchen.
+3 This morning Julie went back to the kitchen.
+4 Yesterday Mary went to the park.
+5 Fred went back to the bedroom yesterday.
+6 Fred went to the cinema this morning.
+7 Where was Fred before the cinema? 	bedroom	6 5
+8 Fred went to the office this evening.
+9 Fred travelled to the bedroom this afternoon.
+10 Where was Fred before the bedroom? 	cinema	9 6
+11 This afternoon Julie moved to the bedroom.
+12 Mary journeyed to the school this morning.
+13 Where was Fred before the bedroom? 	cinema	9 6
+14 This evening Mary journeyed to the bedroom.
+15 This afternoon Mary went to the kitchen.
+16 Where was Mary before the bedroom? 	kitchen	14 15
+17 Bill moved to the bedroom this afternoon.
+18 Bill moved to the cinema this morning.
+19 Where was Bill before the cinema? 	kitchen	18 2
+1 Yesterday Julie moved to the kitchen.
+2 This morning Mary moved to the park.
+3 Yesterday Mary journeyed to the school.
+4 Bill went to the bedroom yesterday.
+5 Where was Mary before the park? 	school	2 3
+6 This morning Fred went back to the office.
+7 Fred went to the bedroom yesterday.
+8 Where was Fred before the office? 	bedroom	6 7
+9 This afternoon Bill travelled to the bedroom.
+10 Bill travelled to the park this morning.
+11 Where was Bill before the bedroom? 	park	9 10
+12 Julie went to the office this morning.
+13 This evening Bill journeyed to the cinema.
+14 Where was Bill before the park? 	bedroom	10 4
+15 Fred moved to the cinema this afternoon.
+16 This afternoon Julie travelled to the cinema.
+17 Where was Julie before the office? 	kitchen	12 1
+1 Bill moved to the kitchen this morning.
+2 Yesterday Bill went back to the school.
+3 Where was Bill before the kitchen? 	school	1 2
+4 This afternoon Bill travelled to the cinema.
+5 Yesterday Fred travelled to the office.
+6 Where was Bill before the cinema? 	kitchen	4 1
+7 This morning Fred went back to the park.
+8 Yesterday Mary went back to the office.
+9 Where was Bill before the kitchen? 	school	1 2
+10 Yesterday Julie moved to the bedroom.
+11 Bill journeyed to the bedroom this evening.
+12 Where was Bill before the cinema? 	kitchen	4 1
+13 This morning Mary went back to the park.
+14 This morning Julie travelled to the cinema.
+15 Where was Bill before the bedroom? 	cinema	11 4
+1 This morning Mary went back to the park.
+2 Mary journeyed to the bedroom yesterday.
+3 Where was Mary before the park? 	bedroom	1 2
+4 Julie went back to the school this morning.
+5 Yesterday Julie journeyed to the park.
+6 Where was Julie before the school? 	park	4 5
+7 This morning Bill travelled to the school.
+8 Yesterday Bill journeyed to the bedroom.
+9 Where was Bill before the school? 	bedroom	7 8
+10 Julie travelled to the cinema this afternoon.
+11 This afternoon Mary journeyed to the school.
+12 Where was Julie before the school? 	park	4 5
+13 This morning Fred journeyed to the office.
+14 Yesterday Fred moved to the bedroom.
+15 Where was Julie before the cinema? 	school	10 4
+1 Yesterday Bill moved to the cinema.
+2 Mary went back to the bedroom this morning.
+3 Fred moved to the cinema yesterday.
+4 Yesterday Mary travelled to the cinema.
+5 Where was Mary before the bedroom? 	cinema	2 4
+6 Julie went to the bedroom this morning.
+7 Julie journeyed to the kitchen yesterday.
+8 Where was Mary before the bedroom? 	cinema	2 4
+9 Bill moved to the bedroom this morning.
+10 Fred moved to the park this morning.
+11 Where was Mary before the bedroom? 	cinema	2 4
+12 Mary went back to the cinema this afternoon.
+13 Julie journeyed to the park this afternoon.
+14 Where was Bill before the bedroom? 	cinema	9 1
+15 This evening Mary went to the park.
+16 Fred went to the bedroom this afternoon.
+17 Where was Bill before the bedroom? 	cinema	9 1
+1 Mary travelled to the school yesterday.
+2 Yesterday Bill journeyed to the kitchen.
+3 Julie moved to the school this morning.
+4 Julie went to the park yesterday.
+5 Fred went back to the cinema yesterday.
+6 Mary journeyed to the cinema this morning.
+7 Where was Mary before the cinema? 	school	6 1
+8 Bill journeyed to the office this morning.
+9 Mary moved to the bedroom this afternoon.
+10 Where was Bill before the office? 	kitchen	8 2
+11 Fred travelled to the kitchen this morning.
+12 Mary journeyed to the park this evening.
+13 Where was Fred before the kitchen? 	cinema	11 5
+14 Julie moved to the office this evening.
+15 This afternoon Julie journeyed to the kitchen.
+16 Where was Bill before the office? 	kitchen	8 2
+17 Fred moved to the school this afternoon.
+18 This afternoon Bill journeyed to the park.
+19 Where was Julie before the office? 	kitchen	14 15
+1 Yesterday Mary went to the park.
+2 Bill went to the school yesterday.
+3 Julie went back to the school this morning.
+4 Julie moved to the bedroom yesterday.
+5 Where was Julie before the school? 	bedroom	3 4
+6 Yesterday Fred travelled to the cinema.
+7 Bill journeyed to the office this morning.
+8 Where was Julie before the school? 	bedroom	3 4
+9 Fred travelled to the park this afternoon.
+10 Fred travelled to the office this morning.
+11 Where was Bill before the office? 	school	7 2
+12 Mary went back to the school this morning.
+13 This afternoon Bill travelled to the bedroom.
+14 Where was Bill before the bedroom? 	office	13 7
+15 This afternoon Julie journeyed to the office.
+16 This afternoon Mary went back to the office.
+17 Where was Mary before the school? 	park	12 1
+1 Julie moved to the office this morning.
+2 Bill journeyed to the kitchen yesterday.
+3 Mary went back to the office yesterday.
+4 Yesterday Julie went to the bedroom.
+5 Where was Julie before the office? 	bedroom	1 4
+6 Julie went back to the cinema this afternoon.
+7 Fred went back to the park yesterday.
+8 Where was Julie before the cinema? 	office	6 1
+9 Julie went back to the school this evening.
+10 Bill went back to the cinema this morning.
+11 Where was Julie before the office? 	bedroom	1 4
+12 This afternoon Bill went to the school.
+13 Mary travelled to the school this morning.
+14 Where was Bill before the cinema? 	kitchen	10 2
+15 Mary moved to the cinema this afternoon.
+16 Fred moved to the cinema this morning.
+17 Where was Fred before the cinema? 	park	16 7
+1 Bill journeyed to the office yesterday.
+2 Yesterday Mary journeyed to the cinema.
+3 This morning Julie travelled to the kitchen.
+4 Julie journeyed to the bedroom yesterday.
+5 Where was Julie before the kitchen? 	bedroom	3 4
+6 Fred travelled to the bedroom yesterday.
+7 Julie journeyed to the park this afternoon.
+8 Where was Julie before the kitchen? 	bedroom	3 4
+9 This morning Bill went back to the bedroom.
+10 This morning Mary journeyed to the kitchen.
+11 Where was Bill before the bedroom? 	office	9 1
+12 Julie went to the bedroom this evening.
+13 This morning Fred went back to the school.
+14 Where was Mary before the kitchen? 	cinema	10 2
+15 Mary journeyed to the office this evening.
+16 This afternoon Mary journeyed to the park.
+17 Where was Mary before the park? 	kitchen	16 10
+1 This morning Fred moved to the park.
+2 Yesterday Fred journeyed to the office.
+3 Where was Fred before the park? 	office	1 2
+4 This afternoon Fred went to the office.
+5 Yesterday Mary journeyed to the office.
+6 Where was Fred before the office? 	park	4 1
+7 This morning Bill moved to the kitchen.
+8 Bill travelled to the cinema yesterday.
+9 Where was Fred before the park? 	office	1 2
+10 Bill journeyed to the park this afternoon.
+11 Yesterday Julie moved to the school.
+12 Where was Fred before the office? 	park	4 1
+13 This evening Bill went to the office.
+14 This evening Fred went back to the park.
+15 Where was Fred before the park? 	office	14 4
+1 Julie went back to the cinema this morning.
+2 Mary moved to the kitchen yesterday.
+3 Bill travelled to the bedroom yesterday.
+4 Yesterday Julie went to the bedroom.
+5 Where was Julie before the cinema? 	bedroom	1 4
+6 Fred moved to the cinema this morning.
+7 Fred journeyed to the kitchen yesterday.
+8 Where was Fred before the cinema? 	kitchen	6 7
+9 Fred moved to the school this afternoon.
+10 This morning Bill went to the cinema.
+11 Where was Fred before the school? 	cinema	9 6
+12 Julie went back to the bedroom this afternoon.
+13 Fred moved to the kitchen this evening.
+14 Where was Fred before the cinema? 	kitchen	6 7
+15 Mary travelled to the cinema this afternoon.
+16 This morning Mary travelled to the school.
+17 Where was Fred before the school? 	cinema	9 6
+1 This afternoon Fred moved to the bedroom.
+2 This morning Fred travelled to the kitchen.
+3 Yesterday Fred journeyed to the park.
+4 Yesterday Julie went back to the office.
+5 Where was Fred before the kitchen? 	park	2 3
+6 Yesterday Bill moved to the cinema.
+7 This evening Fred went back to the kitchen.
+8 Where was Fred before the bedroom? 	kitchen	1 2
+9 Yesterday Mary moved to the park.
+10 Bill travelled to the park this morning.
+11 Where was Bill before the park? 	cinema	10 6
+12 This morning Mary moved to the school.
+13 Bill travelled to the cinema this afternoon.
+14 Where was Mary before the school? 	park	12 9
+15 This morning Julie went back to the kitchen.
+16 This evening Bill travelled to the park.
+17 Where was Julie before the kitchen? 	office	15 4
+1 Yesterday Mary travelled to the park.
+2 Yesterday Bill journeyed to the park.
+3 This morning Fred went back to the kitchen.
+4 Julie moved to the cinema yesterday.
+5 Fred travelled to the cinema this afternoon.
+6 Yesterday Fred moved to the park.
+7 Where was Fred before the cinema? 	kitchen	5 3
+8 Bill went to the cinema this morning.
+9 This morning Julie went back to the school.
+10 Where was Fred before the kitchen? 	park	3 6
+11 This evening Fred travelled to the office.
+12 This morning Mary moved to the school.
+13 Where was Fred before the cinema? 	kitchen	5 3
+14 This evening Bill went to the kitchen.
+15 Bill travelled to the office this afternoon.
+16 Where was Mary before the school? 	park	12 1
+17 Julie journeyed to the kitchen this afternoon.
+18 This afternoon Mary journeyed to the bedroom.
+19 Where was Bill before the kitchen? 	office	14 15
+1 Bill travelled to the park this morning.
+2 Bill moved to the office yesterday.
+3 This morning Mary went to the cinema.
+4 Yesterday Mary went to the kitchen.
+5 Where was Mary before the cinema? 	kitchen	3 4
+6 Yesterday Julie travelled to the kitchen.
+7 Bill travelled to the school this afternoon.
+8 Where was Bill before the park? 	office	1 2
+9 This morning Julie went to the bedroom.
+10 Bill journeyed to the office this evening.
+11 Where was Mary before the cinema? 	kitchen	3 4
+12 Mary went to the park this afternoon.
+13 Julie travelled to the office this afternoon.
+14 Where was Julie before the bedroom? 	kitchen	9 6
+15 This evening Mary moved to the bedroom.
+16 This evening Julie moved to the kitchen.
+17 Where was Julie before the office? 	bedroom	13 9
+1 Mary went back to the school yesterday.
+2 Julie went back to the school this afternoon.
+3 Yesterday Julie journeyed to the office.
+4 Julie went to the park this morning.
+5 Where was Julie before the school? 	park	2 4
+6 This morning Fred went back to the school.
+7 Yesterday Fred travelled to the kitchen.
+8 Where was Fred before the school? 	kitchen	6 7
+9 Fred journeyed to the cinema this evening.
+10 This afternoon Fred moved to the office.
+11 Where was Fred before the cinema? 	office	9 10
+12 Julie went to the park this evening.
+13 Yesterday Bill went back to the bedroom.
+14 Where was Fred before the school? 	kitchen	6 7
+15 Bill travelled to the bedroom this afternoon.
+16 Bill journeyed to the office this morning.
+17 Where was Bill before the office? 	bedroom	16 13
+1 Yesterday Mary travelled to the office.
+2 Yesterday Bill journeyed to the kitchen.
+3 This morning Julie journeyed to the cinema.
+4 Julie journeyed to the kitchen yesterday.
+5 Where was Julie before the cinema? 	kitchen	3 4
+6 Julie travelled to the kitchen this afternoon.
+7 Yesterday Fred went to the park.
+8 Where was Julie before the kitchen? 	cinema	6 3
+9 This evening Julie went back to the school.
+10 This morning Fred moved to the bedroom.
+11 Where was Julie before the cinema? 	kitchen	3 4
+12 This morning Bill moved to the school.
+13 This afternoon Fred journeyed to the office.
+14 Where was Fred before the bedroom? 	park	10 7
+15 Mary travelled to the park this morning.
+16 Fred went back to the kitchen this evening.
+17 Where was Bill before the school? 	kitchen	12 2
+1 Fred journeyed to the school yesterday.
+2 This morning Fred journeyed to the kitchen.
+3 Fred journeyed to the office this afternoon.
+4 Bill went back to the cinema yesterday.
+5 Where was Fred before the kitchen? 	school	2 1
+6 This evening Fred went back to the school.
+7 This morning Bill journeyed to the school.
+8 Where was Bill before the school? 	cinema	7 4
+9 Bill went to the kitchen this afternoon.
+10 Yesterday Julie went to the cinema.
+11 Where was Fred before the school? 	office	6 3
+12 This evening Bill moved to the school.
+13 This morning Julie journeyed to the park.
+14 Where was Julie before the park? 	cinema	13 10
+15 Yesterday Mary moved to the school.
+16 Julie went back to the school this afternoon.
+17 Where was Bill before the kitchen? 	school	9 7
+1 Fred journeyed to the bedroom this morning.
+2 Fred went back to the park yesterday.
+3 Where was Fred before the bedroom? 	park	1 2
+4 Bill went back to the school yesterday.
+5 Julie journeyed to the office yesterday.
+6 Where was Fred before the bedroom? 	park	1 2
+7 This afternoon Fred went to the school.
+8 This morning Bill journeyed to the park.
+9 Where was Bill before the park? 	school	8 4
+10 Julie went back to the kitchen this morning.
+11 This evening Fred journeyed to the kitchen.
+12 Where was Julie before the kitchen? 	office	10 5
+13 Bill travelled to the bedroom this afternoon.
+14 Julie went back to the cinema this afternoon.
+15 Where was Fred before the kitchen? 	school	11 7
+1 This morning Julie went back to the office.
+2 Bill journeyed to the office yesterday.
+3 Mary travelled to the cinema yesterday.
+4 Julie went back to the park yesterday.
+5 Where was Julie before the office? 	park	1 4
+6 Fred journeyed to the bedroom yesterday.
+7 This morning Bill journeyed to the cinema.
+8 Where was Julie before the office? 	park	1 4
+9 This afternoon Julie moved to the bedroom.
+10 Fred went to the office this morning.
+11 Where was Bill before the cinema? 	office	7 2
+12 This morning Mary went back to the office.
+13 This afternoon Bill journeyed to the school.
+14 Where was Bill before the school? 	cinema	13 7
+15 Fred went to the kitchen this afternoon.
+16 This afternoon Mary went back to the park.
+17 Where was Mary before the park? 	office	16 12
+1 This morning Fred went to the kitchen.
+2 Mary went back to the office yesterday.
+3 Yesterday Bill travelled to the kitchen.
+4 Yesterday Fred moved to the bedroom.
+5 Where was Fred before the kitchen? 	bedroom	1 4
+6 This morning Bill travelled to the bedroom.
+7 This afternoon Fred moved to the office.
+8 Where was Fred before the kitchen? 	bedroom	1 4
+9 Julie went to the school yesterday.
+10 Fred went back to the kitchen this evening.
+11 Where was Bill before the bedroom? 	kitchen	6 3
+12 This morning Mary travelled to the kitchen.
+13 Julie journeyed to the cinema this morning.
+14 Where was Julie before the cinema? 	school	13 9
+15 This afternoon Julie went back to the school.
+16 Mary journeyed to the cinema this afternoon.
+17 Where was Julie before the school? 	cinema	15 13
+1 Yesterday Bill went back to the cinema.
+2 Yesterday Mary moved to the school.
+3 This morning Fred journeyed to the office.
+4 Fred moved to the cinema yesterday.
+5 Where was Fred before the office? 	cinema	3 4
+6 This evening Fred travelled to the bedroom.
+7 Fred went to the cinema this afternoon.
+8 Where was Fred before the cinema? 	office	7 3
+9 Bill travelled to the park this morning.
+10 Julie went to the bedroom yesterday.
+11 Where was Fred before the cinema? 	office	7 3
+12 This afternoon Bill went to the kitchen.
+13 Julie went back to the school this morning.
+14 Where was Bill before the park? 	cinema	9 1
+15 Mary went back to the park this afternoon.
+16 This morning Mary journeyed to the office.
+17 Where was Julie before the school? 	bedroom	13 10
+1 Bill went to the kitchen yesterday.
+2 Yesterday Julie went to the school.
+3 Yesterday Fred moved to the park.
+4 Julie moved to the kitchen this morning.
+5 Julie journeyed to the office this afternoon.
+6 Yesterday Mary travelled to the kitchen.
+7 Where was Julie before the office? 	kitchen	5 4
+8 This morning Bill journeyed to the cinema.
+9 Julie journeyed to the kitchen this evening.
+10 Where was Julie before the kitchen? 	office	9 5
+11 Fred journeyed to the kitchen this morning.
+12 This afternoon Bill moved to the kitchen.
+13 Where was Bill before the kitchen? 	cinema	12 8
+14 This evening Fred went to the school.
+15 Fred moved to the cinema this afternoon.
+16 Where was Bill before the kitchen? 	cinema	12 8
+17 This morning Mary travelled to the office.
+18 This evening Bill went to the school.
+19 Where was Fred before the school? 	cinema	14 15
+1 This morning Julie went to the kitchen.
+2 Julie travelled to the school yesterday.
+3 Where was Julie before the kitchen? 	school	1 2
+4 Yesterday Bill went to the kitchen.
+5 Julie moved to the cinema this afternoon.
+6 Where was Julie before the cinema? 	kitchen	5 1
+7 Mary travelled to the bedroom yesterday.
+8 Fred went to the park yesterday.
+9 Where was Julie before the kitchen? 	school	1 2
+10 Julie travelled to the office this evening.
+11 This morning Bill moved to the bedroom.
+12 Where was Bill before the bedroom? 	kitchen	11 4
+13 Fred went back to the school this afternoon.
+14 This morning Fred went to the office.
+15 Where was Bill before the bedroom? 	kitchen	11 4
+1 Mary journeyed to the kitchen this morning.
+2 Mary journeyed to the school yesterday.
+3 Where was Mary before the kitchen? 	school	1 2
+4 This morning Julie went to the school.
+5 Julie went back to the park yesterday.
+6 Where was Julie before the school? 	park	4 5
+7 Julie travelled to the cinema this afternoon.
+8 Mary moved to the park this afternoon.
+9 Where was Mary before the kitchen? 	school	1 2
+10 Bill journeyed to the cinema yesterday.
+11 Mary journeyed to the office this evening.
+12 Where was Julie before the cinema? 	school	7 4
+13 This morning Fred travelled to the cinema.
+14 Yesterday Fred went to the school.
+15 Where was Fred before the cinema? 	school	13 14
+1 This morning Julie went to the school.
+2 Mary moved to the park yesterday.
+3 Yesterday Fred journeyed to the kitchen.
+4 Yesterday Julie travelled to the cinema.
+5 Where was Julie before the school? 	cinema	1 4
+6 This evening Julie journeyed to the office.
+7 Julie went to the bedroom this afternoon.
+8 Where was Julie before the office? 	bedroom	6 7
+9 This afternoon Fred journeyed to the school.
+10 Fred went to the park this morning.
+11 Where was Fred before the school? 	park	9 10
+12 Mary journeyed to the cinema this morning.
+13 Bill travelled to the office yesterday.
+14 Where was Fred before the school? 	park	9 10
+15 Mary journeyed to the park this afternoon.
+16 This evening Fred travelled to the bedroom.
+17 Where was Fred before the bedroom? 	school	16 9
+1 Yesterday Mary went to the bedroom.
+2 This morning Mary journeyed to the kitchen.
+3 Bill moved to the bedroom yesterday.
+4 Fred went to the school yesterday.
+5 Where was Mary before the kitchen? 	bedroom	2 1
+6 This afternoon Bill moved to the school.
+7 This morning Bill moved to the cinema.
+8 Where was Bill before the school? 	cinema	6 7
+9 This morning Julie journeyed to the park.
+10 Yesterday Julie went to the bedroom.
+11 Where was Julie before the park? 	bedroom	9 10
+12 This morning Fred moved to the cinema.
+13 Bill went to the cinema this evening.
+14 Where was Fred before the cinema? 	school	12 4
+15 Julie journeyed to the kitchen this evening.
+16 Julie travelled to the office this afternoon.
+17 Where was Fred before the cinema? 	school	12 4
+1 Bill moved to the kitchen this morning.
+2 Bill journeyed to the bedroom yesterday.
+3 Yesterday Julie went back to the school.
+4 Mary went to the kitchen yesterday.
+5 Where was Bill before the kitchen? 	bedroom	1 2
+6 Julie moved to the cinema this morning.
+7 This morning Mary went back to the cinema.
+8 Where was Mary before the cinema? 	kitchen	7 4
+9 This afternoon Mary travelled to the kitchen.
+10 This afternoon Bill journeyed to the bedroom.
+11 Where was Mary before the cinema? 	kitchen	7 4
+12 This morning Fred went to the bedroom.
+13 Yesterday Fred went back to the school.
+14 Where was Bill before the bedroom? 	kitchen	10 1
+15 This afternoon Julie travelled to the school.
+16 This afternoon Fred moved to the school.
+17 Where was Fred before the bedroom? 	school	12 13
+1 Yesterday Mary went to the bedroom.
+2 This morning Bill journeyed to the bedroom.
+3 Julie went back to the cinema yesterday.
+4 Bill journeyed to the school yesterday.
+5 Where was Bill before the bedroom? 	school	2 4
+6 This afternoon Bill journeyed to the cinema.
+7 Fred journeyed to the bedroom yesterday.
+8 Where was Bill before the bedroom? 	school	2 4
+9 This morning Julie went to the school.
+10 Bill travelled to the school this evening.
+11 Where was Bill before the school? 	cinema	10 6
+12 This afternoon Julie travelled to the cinema.
+13 This morning Fred journeyed to the park.
+14 Where was Julie before the school? 	cinema	9 3
+15 This evening Julie journeyed to the park.
+16 This afternoon Fred went to the bedroom.
+17 Where was Julie before the cinema? 	school	12 9
+1 Bill went back to the school yesterday.
+2 Yesterday Julie travelled to the kitchen.
+3 Fred travelled to the bedroom this morning.
+4 Fred journeyed to the kitchen yesterday.
+5 Where was Fred before the bedroom? 	kitchen	3 4
+6 Mary moved to the kitchen yesterday.
+7 Julie went to the office this morning.
+8 Where was Fred before the bedroom? 	kitchen	3 4
+9 This afternoon Fred went to the school.
+10 Mary moved to the park this morning.
+11 Where was Fred before the bedroom? 	kitchen	3 4
+12 This afternoon Mary travelled to the bedroom.
+13 This afternoon Julie moved to the school.
+14 Where was Mary before the park? 	kitchen	10 6
+15 This evening Mary journeyed to the office.
+16 Bill moved to the park this morning.
+17 Where was Mary before the office? 	bedroom	15 12
+1 Bill went back to the park this morning.
+2 This morning Julie journeyed to the kitchen.
+3 Julie travelled to the bedroom yesterday.
+4 Bill moved to the cinema yesterday.
+5 Where was Bill before the park? 	cinema	1 4
+6 Bill went back to the kitchen this afternoon.
+7 Fred travelled to the park yesterday.
+8 Where was Bill before the kitchen? 	park	6 1
+9 This afternoon Julie went back to the school.
+10 Fred moved to the bedroom this morning.
+11 Where was Fred before the bedroom? 	park	10 7
+12 Mary moved to the kitchen this morning.
+13 Yesterday Mary journeyed to the school.
+14 Where was Mary before the kitchen? 	school	12 13
+15 Bill went back to the office this evening.
+16 Mary went to the park this afternoon.
+17 Where was Mary before the kitchen? 	school	12 13
+1 This morning Mary moved to the park.
+2 Mary moved to the office yesterday.
+3 Where was Mary before the park? 	office	1 2
+4 This afternoon Mary moved to the bedroom.
+5 Yesterday Julie moved to the cinema.
+6 Where was Mary before the park? 	office	1 2
+7 Yesterday Bill journeyed to the park.
+8 This evening Mary went to the park.
+9 Where was Mary before the park? 	bedroom	8 4
+10 Fred journeyed to the school this morning.
+11 Yesterday Fred went back to the park.
+12 Where was Mary before the bedroom? 	park	4 1
+13 Julie went back to the kitchen this afternoon.
+14 This morning Julie went to the office.
+15 Where was Fred before the school? 	park	10 11
+1 Mary went back to the school this morning.
+2 Yesterday Mary journeyed to the park.
+3 Where was Mary before the school? 	park	1 2
+4 Yesterday Bill moved to the school.
+5 Yesterday Fred moved to the school.
+6 Where was Mary before the school? 	park	1 2
+7 This morning Fred travelled to the cinema.
+8 This afternoon Mary went back to the cinema.
+9 Where was Mary before the cinema? 	school	8 1
+10 This evening Mary went to the park.
+11 Yesterday Julie went back to the cinema.
+12 Where was Mary before the cinema? 	school	8 1
+13 This morning Julie travelled to the kitchen.
+14 This morning Bill moved to the park.
+15 Where was Mary before the park? 	cinema	10 8
+1 Bill moved to the bedroom yesterday.
+2 Bill went back to the cinema this morning.
+3 Yesterday Mary moved to the office.
+4 Yesterday Fred went back to the park.
+5 Where was Bill before the cinema? 	bedroom	2 1
+6 Julie journeyed to the kitchen yesterday.
+7 This morning Fred moved to the bedroom.
+8 Where was Fred before the bedroom? 	park	7 4
+9 Bill went to the bedroom this afternoon.
+10 Julie travelled to the bedroom this morning.
+11 Where was Julie before the bedroom? 	kitchen	10 6
+12 This evening Bill went back to the school.
+13 Julie moved to the park this afternoon.
+14 Where was Bill before the bedroom? 	cinema	9 2
+15 This afternoon Mary went back to the park.
+16 Mary went back to the bedroom this morning.
+17 Where was Mary before the park? 	bedroom	15 16
+1 Mary journeyed to the bedroom this morning.
+2 Yesterday Bill moved to the kitchen.
+3 Yesterday Mary travelled to the cinema.
+4 Julie travelled to the office yesterday.
+5 Where was Mary before the bedroom? 	cinema	1 3
+6 This afternoon Julie journeyed to the bedroom.
+7 This morning Julie travelled to the cinema.
+8 Where was Julie before the cinema? 	office	7 4
+9 Fred went to the office yesterday.
+10 This afternoon Mary moved to the office.
+11 Where was Julie before the cinema? 	office	7 4
+12 This morning Fred travelled to the cinema.
+13 Julie moved to the office this evening.
+14 Where was Julie before the bedroom? 	cinema	6 7
+15 Fred moved to the kitchen this afternoon.
+16 This evening Mary went back to the cinema.
+17 Where was Julie before the office? 	bedroom	13 6
+1 Yesterday Julie travelled to the cinema.
+2 Bill travelled to the cinema yesterday.
+3 Yesterday Fred travelled to the park.
+4 Julie journeyed to the office this afternoon.
+5 Mary moved to the office yesterday.
+6 Julie journeyed to the bedroom this morning.
+7 Where was Julie before the office? 	bedroom	4 6
+8 Fred journeyed to the cinema this afternoon.
+9 This morning Fred moved to the office.
+10 Where was Julie before the office? 	bedroom	4 6
+11 Julie travelled to the park this evening.
+12 This morning Bill travelled to the office.
+13 Where was Fred before the office? 	park	9 3
+14 Mary went to the bedroom this morning.
+15 Bill travelled to the kitchen this afternoon.
+16 Where was Julie before the park? 	office	11 4
+17 This evening Fred travelled to the bedroom.
+18 Mary moved to the school this afternoon.
+19 Where was Julie before the park? 	office	11 4
+1 This morning Bill moved to the park.
+2 Bill journeyed to the school yesterday.
+3 Where was Bill before the park? 	school	1 2
+4 Julie travelled to the cinema yesterday.
+5 This afternoon Bill moved to the cinema.
+6 Where was Bill before the cinema? 	park	5 1
+7 This evening Bill went back to the park.
+8 Julie went to the park this morning.
+9 Where was Bill before the park? 	cinema	7 5
+10 This morning Fred travelled to the park.
+11 Yesterday Fred went to the bedroom.
+12 Where was Julie before the park? 	cinema	8 4
+13 Yesterday Mary travelled to the office.
+14 Julie went to the office this afternoon.
+15 Where was Julie before the office? 	park	14 8
+1 Julie moved to the kitchen this morning.
+2 Julie travelled to the office yesterday.
+3 Yesterday Fred moved to the school.
+4 Yesterday Mary went to the office.
+5 Where was Julie before the kitchen? 	office	1 2
+6 Yesterday Bill moved to the kitchen.
+7 This morning Mary went back to the park.
+8 Where was Mary before the park? 	office	7 4
+9 This evening Julie went back to the school.
+10 This afternoon Julie went back to the office.
+11 Where was Julie before the kitchen? 	office	1 2
+12 Bill moved to the office this morning.
+13 This afternoon Mary went to the school.
+14 Where was Julie before the office? 	kitchen	10 1
+15 Fred moved to the bedroom this morning.
+16 Bill journeyed to the park this afternoon.
+17 Where was Mary before the school? 	park	13 7
+1 Yesterday Julie journeyed to the kitchen.
+2 Bill moved to the bedroom yesterday.
+3 Mary moved to the park this morning.
+4 Yesterday Mary travelled to the school.
+5 Where was Mary before the park? 	school	3 4
+6 This morning Bill travelled to the school.
+7 This morning Julie went back to the park.
+8 Where was Bill before the school? 	bedroom	6 2
+9 Mary travelled to the school this afternoon.
+10 Fred went to the kitchen yesterday.
+11 Where was Bill before the school? 	bedroom	6 2
+12 Bill travelled to the cinema this afternoon.
+13 Julie moved to the kitchen this afternoon.
+14 Where was Bill before the cinema? 	school	12 6
+15 This evening Julie moved to the office.
+16 This evening Bill moved to the office.
+17 Where was Bill before the office? 	cinema	16 12
+1 Yesterday Fred travelled to the park.
+2 This morning Julie moved to the office.
+3 Yesterday Bill travelled to the cinema.
+4 Yesterday Julie moved to the cinema.
+5 Where was Julie before the office? 	cinema	2 4
+6 Julie went to the kitchen this evening.
+7 Julie went back to the bedroom this afternoon.
+8 Where was Julie before the bedroom? 	office	7 2
+9 This morning Fred moved to the kitchen.
+10 This morning Bill journeyed to the kitchen.
+11 Where was Bill before the kitchen? 	cinema	10 3
+12 This evening Fred went back to the bedroom.
+13 This afternoon Fred moved to the park.
+14 Where was Fred before the bedroom? 	park	12 13
+15 This morning Mary moved to the cinema.
+16 Yesterday Mary travelled to the school.
+17 Where was Fred before the bedroom? 	park	12 13
+1 Mary journeyed to the bedroom yesterday.
+2 Bill moved to the bedroom yesterday.
+3 This morning Julie moved to the bedroom.
+4 Yesterday Julie went back to the kitchen.
+5 Where was Julie before the bedroom? 	kitchen	3 4
+6 Fred travelled to the cinema yesterday.
+7 This morning Mary travelled to the cinema.
+8 Where was Julie before the bedroom? 	kitchen	3 4
+9 Julie went to the kitchen this afternoon.
+10 Mary travelled to the office this afternoon.
+11 Where was Mary before the cinema? 	bedroom	7 1
+12 Bill went to the office this afternoon.
+13 Bill travelled to the kitchen this morning.
+14 Where was Mary before the office? 	cinema	10 7
+15 Mary went to the school this evening.
+16 Bill journeyed to the cinema this evening.
+17 Where was Mary before the school? 	office	15 10
+1 Mary travelled to the school this morning.
+2 Mary travelled to the park yesterday.
+3 Where was Mary before the school? 	park	1 2
+4 Fred journeyed to the cinema yesterday.
+5 Yesterday Bill travelled to the park.
+6 Where was Mary before the school? 	park	1 2
+7 Yesterday Julie went back to the kitchen.
+8 Bill went to the cinema this morning.
+9 Where was Bill before the cinema? 	park	8 5
+10 Fred moved to the office this afternoon.
+11 This morning Fred journeyed to the bedroom.
+12 Where was Bill before the cinema? 	park	8 5
+13 Julie went to the bedroom this afternoon.
+14 This morning Julie moved to the park.
+15 Where was Julie before the park? 	kitchen	14 7
+1 Fred journeyed to the bedroom this morning.
+2 Fred went back to the school this afternoon.
+3 Fred travelled to the cinema yesterday.
+4 Mary journeyed to the park yesterday.
+5 Where was Fred before the school? 	bedroom	2 1
+6 Julie moved to the school yesterday.
+7 Fred moved to the kitchen this evening.
+8 Where was Fred before the bedroom? 	cinema	1 3
+9 This morning Bill went back to the kitchen.
+10 Yesterday Bill journeyed to the bedroom.
+11 Where was Bill before the kitchen? 	bedroom	9 10
+12 Bill moved to the office this afternoon.
+13 This morning Mary moved to the office.
+14 Where was Bill before the kitchen? 	bedroom	9 10
+15 Julie went back to the kitchen this morning.
+16 Bill travelled to the park this evening.
+17 Where was Bill before the park? 	office	16 12
+1 This morning Bill went back to the bedroom.
+2 Fred journeyed to the cinema yesterday.
+3 Yesterday Bill journeyed to the office.
+4 Fred travelled to the office this morning.
+5 Where was Bill before the bedroom? 	office	1 3
+6 Yesterday Mary went to the bedroom.
+7 Yesterday Julie travelled to the bedroom.
+8 Where was Fred before the office? 	cinema	4 2
+9 Fred went to the park this evening.
+10 Fred travelled to the cinema this afternoon.
+11 Where was Fred before the park? 	cinema	9 10
+12 Mary went to the school this morning.
+13 Julie journeyed to the park this morning.
+14 Where was Mary before the school? 	bedroom	12 6
+15 This afternoon Bill moved to the cinema.
+16 Mary went to the cinema this afternoon.
+17 Where was Mary before the school? 	bedroom	12 6
+1 Bill moved to the bedroom yesterday.
+2 This morning Bill went to the park.
+3 Mary travelled to the kitchen yesterday.
+4 Yesterday Julie travelled to the bedroom.
+5 Where was Bill before the park? 	bedroom	2 1
+6 Mary travelled to the office this morning.
+7 Yesterday Fred journeyed to the bedroom.
+8 Where was Bill before the park? 	bedroom	2 1
+9 Bill journeyed to the kitchen this afternoon.
+10 Julie moved to the office this morning.
+11 Where was Bill before the kitchen? 	park	9 2
+12 This afternoon Fred went back to the cinema.
+13 This morning Fred went to the kitchen.
+14 Where was Fred before the kitchen? 	bedroom	13 7
+15 Bill journeyed to the school this evening.
+16 This evening Fred travelled to the bedroom.
+17 Where was Bill before the kitchen? 	park	9 2
+1 Fred moved to the school yesterday.
+2 Fred journeyed to the office this morning.
+3 Mary went to the school yesterday.
+4 Yesterday Bill went back to the office.
+5 Where was Fred before the office? 	school	2 1
+6 Bill moved to the bedroom this morning.
+7 This afternoon Fred went to the kitchen.
+8 Where was Bill before the bedroom? 	office	6 4
+9 This evening Fred travelled to the cinema.
+10 This afternoon Bill moved to the park.
+11 Where was Bill before the park? 	bedroom	10 6
+12 This morning Mary went back to the bedroom.
+13 Bill travelled to the office this evening.
+14 Where was Bill before the park? 	bedroom	10 6
+15 Julie journeyed to the park yesterday.
+16 This afternoon Mary journeyed to the park.
+17 Where was Mary before the park? 	bedroom	16 12
+1 Fred travelled to the kitchen yesterday.
+2 This afternoon Fred went back to the park.
+3 Julie moved to the kitchen yesterday.
+4 This morning Fred journeyed to the cinema.
+5 Where was Fred before the park? 	cinema	2 4
+6 Bill went to the office this morning.
+7 Yesterday Bill went to the kitchen.
+8 Where was Bill before the office? 	kitchen	6 7
+9 This evening Fred went back to the office.
+10 Julie went to the cinema this morning.
+11 Where was Bill before the office? 	kitchen	6 7
+12 Julie moved to the kitchen this evening.
+13 Julie went back to the office this afternoon.
+14 Where was Julie before the cinema? 	kitchen	10 3
+15 Bill went back to the office this evening.
+16 This afternoon Bill went to the school.
+17 Where was Julie before the kitchen? 	office	12 13
+1 This morning Mary journeyed to the school.
+2 Fred went back to the bedroom yesterday.
+3 Yesterday Bill journeyed to the school.
+4 Yesterday Mary travelled to the office.
+5 Where was Mary before the school? 	office	1 4
+6 Fred travelled to the cinema this morning.
+7 Mary travelled to the bedroom this afternoon.
+8 Where was Mary before the bedroom? 	school	7 1
+9 This afternoon Fred travelled to the bedroom.
+10 Mary moved to the office this evening.
+11 Where was Mary before the school? 	office	1 4
+12 Julie went to the cinema this morning.
+13 Julie went to the kitchen yesterday.
+14 Where was Fred before the cinema? 	bedroom	6 2
+15 This afternoon Julie went to the office.
+16 Fred travelled to the school this evening.
+17 Where was Fred before the school? 	bedroom	16 9
+1 Yesterday Bill moved to the office.
+2 Mary journeyed to the park this morning.
+3 Yesterday Fred went to the school.
+4 Yesterday Mary moved to the bedroom.
+5 Where was Mary before the park? 	bedroom	2 4
+6 Julie moved to the school this morning.
+7 Yesterday Julie journeyed to the cinema.
+8 Where was Julie before the school? 	cinema	6 7
+9 Bill went to the cinema this morning.
+10 Julie went back to the office this afternoon.
+11 Where was Bill before the cinema? 	office	9 1
+12 Julie went back to the park this evening.
+13 Mary journeyed to the bedroom this afternoon.
+14 Where was Bill before the cinema? 	office	9 1
+15 This afternoon Bill journeyed to the kitchen.
+16 This morning Fred went to the cinema.
+17 Where was Julie before the park? 	office	12 10
+1 This morning Bill journeyed to the bedroom.
+2 Yesterday Julie journeyed to the kitchen.
+3 Yesterday Bill journeyed to the school.
+4 Fred went back to the school yesterday.
+5 Where was Bill before the bedroom? 	school	1 3
+6 Mary travelled to the bedroom yesterday.
+7 This morning Julie travelled to the bedroom.
+8 Where was Bill before the bedroom? 	school	1 3
+9 This afternoon Bill went to the school.
+10 This afternoon Julie travelled to the park.
+11 Where was Julie before the bedroom? 	kitchen	7 2
+12 This evening Bill travelled to the park.
+13 Mary went back to the park this morning.
+14 Where was Bill before the park? 	school	12 9
+15 This evening Mary went to the office.
+16 Mary went to the cinema this afternoon.
+17 Where was Bill before the school? 	bedroom	9 1
+1 Yesterday Mary journeyed to the park.
+2 This morning Julie moved to the office.
+3 This morning Mary went back to the kitchen.
+4 Julie moved to the school yesterday.
+5 Where was Julie before the office? 	school	2 4
+6 Yesterday Fred went back to the kitchen.
+7 Mary journeyed to the office this afternoon.
+8 Where was Mary before the office? 	kitchen	7 3
+9 Mary travelled to the bedroom this evening.
+10 Yesterday Bill journeyed to the school.
+11 Where was Mary before the office? 	kitchen	7 3
+12 Bill journeyed to the park this morning.
+13 Fred journeyed to the office this morning.
+14 Where was Bill before the park? 	school	12 10
+15 Fred went back to the bedroom this afternoon.
+16 Julie moved to the school this afternoon.
+17 Where was Fred before the bedroom? 	office	15 13
+1 Julie went back to the cinema yesterday.
+2 This morning Mary went to the office.
+3 Mary went to the school yesterday.
+4 Bill travelled to the park yesterday.
+5 Where was Mary before the office? 	school	2 3
+6 Mary went back to the park this afternoon.
+7 This morning Bill went to the bedroom.
+8 Where was Mary before the office? 	school	2 3
+9 This evening Bill went back to the office.
+10 This afternoon Bill moved to the school.
+11 Where was Bill before the bedroom? 	park	7 4
+12 Fred moved to the bedroom yesterday.
+13 Julie went back to the park this morning.
+14 Where was Bill before the office? 	school	9 10
+15 This afternoon Julie went to the cinema.
+16 This evening Mary journeyed to the school.
+17 Where was Julie before the park? 	cinema	13 1
+1 This morning Bill moved to the kitchen.
+2 Bill journeyed to the cinema yesterday.
+3 This morning Julie went to the park.
+4 Julie went to the kitchen yesterday.
+5 Where was Bill before the kitchen? 	cinema	1 2
+6 Mary journeyed to the cinema yesterday.
+7 Fred journeyed to the bedroom yesterday.
+8 Where was Bill before the kitchen? 	cinema	1 2
+9 Fred went to the park this afternoon.
+10 Fred went to the kitchen this morning.
+11 Where was Fred before the kitchen? 	bedroom	10 7
+12 This morning Mary travelled to the school.
+13 This afternoon Julie went back to the cinema.
+14 Where was Fred before the kitchen? 	bedroom	10 7
+15 Fred journeyed to the cinema this evening.
+16 This afternoon Mary moved to the bedroom.
+17 Where was Mary before the bedroom? 	school	16 12
+1 Mary went back to the cinema this morning.
+2 Yesterday Julie journeyed to the school.
+3 Yesterday Mary travelled to the kitchen.
+4 Yesterday Bill went back to the park.
+5 Where was Mary before the cinema? 	kitchen	1 3
+6 This morning Bill went to the school.
+7 Yesterday Fred moved to the school.
+8 Where was Bill before the school? 	park	6 4
+9 This morning Julie travelled to the cinema.
+10 This afternoon Bill travelled to the cinema.
+11 Where was Mary before the cinema? 	kitchen	1 3
+12 This afternoon Mary went back to the kitchen.
+13 Julie travelled to the office this afternoon.
+14 Where was Julie before the cinema? 	school	9 2
+15 Fred moved to the cinema this morning.
+16 This evening Bill went back to the bedroom.
+17 Where was Julie before the cinema? 	school	9 2
+1 This afternoon Mary journeyed to the bedroom.
+2 Mary went to the cinema this morning.
+3 Mary travelled to the park yesterday.
+4 Fred moved to the office yesterday.
+5 Where was Mary before the bedroom? 	cinema	1 2
+6 This morning Julie went to the bedroom.
+7 Julie moved to the kitchen yesterday.
+8 Where was Julie before the bedroom? 	kitchen	6 7
+9 Julie journeyed to the cinema this afternoon.
+10 This evening Mary journeyed to the park.
+11 Where was Mary before the bedroom? 	cinema	1 2
+12 Bill travelled to the bedroom this morning.
+13 Bill went to the school yesterday.
+14 Where was Julie before the bedroom? 	kitchen	6 7
+15 Fred journeyed to the bedroom this afternoon.
+16 This morning Fred moved to the school.
+17 Where was Fred before the school? 	office	16 4
+1 Yesterday Fred journeyed to the office.
+2 Julie journeyed to the bedroom yesterday.
+3 This morning Mary went to the school.
+4 Yesterday Mary went back to the kitchen.
+5 Where was Mary before the school? 	kitchen	3 4
+6 Fred travelled to the kitchen this morning.
+7 Bill went to the cinema yesterday.
+8 Where was Fred before the kitchen? 	office	6 1
+9 Bill journeyed to the office this morning.
+10 This afternoon Fred moved to the park.
+11 Where was Fred before the park? 	kitchen	10 6
+12 This evening Fred travelled to the cinema.
+13 Bill went to the cinema this afternoon.
+14 Where was Fred before the cinema? 	park	12 10
+15 Mary travelled to the cinema this afternoon.
+16 Bill journeyed to the park this evening.
+17 Where was Mary before the cinema? 	school	15 3
+1 Bill travelled to the office this morning.
+2 Yesterday Bill went back to the bedroom.
+3 Where was Bill before the office? 	bedroom	1 2
+4 Yesterday Mary moved to the cinema.
+5 This afternoon Bill travelled to the bedroom.
+6 Where was Bill before the bedroom? 	office	5 1
+7 Yesterday Julie moved to the school.
+8 This evening Bill went to the school.
+9 Where was Bill before the office? 	bedroom	1 2
+10 Mary travelled to the office this afternoon.
+11 Mary moved to the school this morning.
+12 Where was Mary before the school? 	cinema	11 4
+13 This evening Mary journeyed to the kitchen.
+14 This morning Julie moved to the park.
+15 Where was Mary before the office? 	school	10 11
+1 This morning Julie travelled to the office.
+2 Yesterday Julie went back to the bedroom.
+3 Mary moved to the school yesterday.
+4 Bill travelled to the kitchen yesterday.
+5 Where was Julie before the office? 	bedroom	1 2
+6 Mary went to the kitchen this morning.
+7 This morning Bill moved to the office.
+8 Where was Mary before the kitchen? 	school	6 3
+9 This afternoon Mary journeyed to the office.
+10 Julie went back to the kitchen this afternoon.
+11 Where was Mary before the office? 	kitchen	9 6
+12 Bill moved to the kitchen this afternoon.
+13 This evening Mary went back to the kitchen.
+14 Where was Bill before the kitchen? 	office	12 7
+15 Yesterday Fred went back to the bedroom.
+16 This evening Julie moved to the office.
+17 Where was Bill before the kitchen? 	office	12 7
+1 This morning Fred moved to the bedroom.
+2 Yesterday Mary went back to the office.
+3 Bill went to the office yesterday.
+4 Yesterday Fred moved to the park.
+5 Where was Fred before the bedroom? 	park	1 4
+6 This morning Mary went back to the bedroom.
+7 Julie went to the cinema yesterday.
+8 Where was Mary before the bedroom? 	office	6 2
+9 This afternoon Mary went back to the office.
+10 This morning Bill went to the bedroom.
+11 Where was Mary before the bedroom? 	office	6 2
+12 This evening Mary journeyed to the cinema.
+13 This morning Julie went back to the bedroom.
+14 Where was Mary before the cinema? 	office	12 9
+15 This afternoon Julie went back to the park.
+16 Fred travelled to the park this afternoon.
+17 Where was Julie before the bedroom? 	cinema	13 7
+1 Yesterday Fred travelled to the office.
+2 Bill journeyed to the office yesterday.
+3 Fred travelled to the park this morning.
+4 Mary travelled to the park yesterday.
+5 Where was Fred before the park? 	office	3 1
+6 Yesterday Julie journeyed to the cinema.
+7 This afternoon Fred journeyed to the school.
+8 Where was Fred before the park? 	office	3 1
+9 This morning Mary moved to the office.
+10 Julie moved to the kitchen this morning.
+11 Where was Fred before the park? 	office	3 1
+12 This evening Fred travelled to the park.
+13 Julie moved to the cinema this afternoon.
+14 Where was Julie before the cinema? 	kitchen	13 10
+15 Mary went back to the park this afternoon.
+16 This evening Julie journeyed to the kitchen.
+17 Where was Julie before the kitchen? 	cinema	16 13
+1 This morning Fred moved to the school.
+2 Bill journeyed to the kitchen yesterday.
+3 Mary moved to the kitchen yesterday.
+4 Fred went to the office yesterday.
+5 Where was Fred before the school? 	office	1 4
+6 This afternoon Fred went to the kitchen.
+7 Bill travelled to the park this morning.
+8 Where was Bill before the park? 	kitchen	7 2
+9 Bill journeyed to the cinema this afternoon.
+10 This morning Mary went to the park.
+11 Where was Bill before the cinema? 	park	9 7
+12 Julie moved to the office yesterday.
+13 This afternoon Mary went back to the bedroom.
+14 Where was Mary before the bedroom? 	park	13 10
+15 Fred travelled to the school this evening.
+16 This evening Mary moved to the office.
+17 Where was Mary before the office? 	bedroom	16 13
+1 Mary went back to the school this morning.
+2 Mary went back to the office yesterday.
+3 Where was Mary before the school? 	office	1 2
+4 Fred journeyed to the park yesterday.
+5 Yesterday Julie moved to the bedroom.
+6 Where was Mary before the school? 	office	1 2
+7 This afternoon Mary went back to the park.
+8 Bill journeyed to the cinema yesterday.
+9 Where was Mary before the school? 	office	1 2
+10 This morning Julie went back to the school.
+11 Fred went to the school this morning.
+12 Where was Fred before the school? 	park	11 4
+13 This afternoon Julie travelled to the cinema.
+14 This evening Mary went to the school.
+15 Where was Fred before the school? 	park	11 4
+1 Julie went back to the office this morning.
+2 Fred travelled to the cinema this morning.
+3 Yesterday Julie travelled to the bedroom.
+4 Fred went back to the kitchen yesterday.
+5 Yesterday Bill went to the park.
+6 Mary moved to the kitchen yesterday.
+7 Where was Julie before the office? 	bedroom	1 3
+8 Mary went back to the cinema this morning.
+9 This afternoon Julie travelled to the cinema.
+10 Where was Fred before the cinema? 	kitchen	2 4
+11 This afternoon Fred travelled to the bedroom.
+12 Julie journeyed to the kitchen this evening.
+13 Where was Julie before the kitchen? 	cinema	12 9
+14 Fred went to the cinema this evening.
+15 This morning Bill travelled to the bedroom.
+16 Where was Bill before the bedroom? 	park	15 5
+17 Bill travelled to the cinema this evening.
+18 This afternoon Bill travelled to the office.
+19 Where was Bill before the office? 	bedroom	18 15
+1 This morning Fred moved to the park.
+2 Bill journeyed to the cinema yesterday.
+3 Fred went to the office yesterday.
+4 Yesterday Julie moved to the school.
+5 This afternoon Fred journeyed to the school.
+6 Yesterday Mary went back to the park.
+7 Where was Fred before the school? 	park	5 1
+8 Bill travelled to the school this morning.
+9 Fred travelled to the cinema this evening.
+10 Where was Bill before the school? 	cinema	8 2
+11 This morning Julie went to the park.
+12 Bill moved to the cinema this afternoon.
+13 Where was Fred before the cinema? 	school	9 5
+14 This morning Mary went to the school.
+15 This evening Bill travelled to the park.
+16 Where was Bill before the school? 	cinema	8 2
+17 Mary journeyed to the kitchen this evening.
+18 This afternoon Mary went back to the office.
+19 Where was Mary before the kitchen? 	office	17 18
+1 This morning Julie travelled to the bedroom.
+2 Julie went to the office yesterday.
+3 Julie travelled to the kitchen this afternoon.
+4 Fred travelled to the bedroom yesterday.
+5 Where was Julie before the kitchen? 	bedroom	3 1
+6 Julie journeyed to the office this evening.
+7 This morning Fred went to the school.
+8 Where was Julie before the bedroom? 	office	1 2
+9 Mary journeyed to the school yesterday.
+10 Yesterday Bill went to the bedroom.
+11 Where was Fred before the school? 	bedroom	7 4
+12 Bill journeyed to the park this morning.
+13 Mary travelled to the kitchen this morning.
+14 Where was Bill before the park? 	bedroom	12 10
+15 Bill moved to the school this afternoon.
+16 This afternoon Fred travelled to the park.
+17 Where was Fred before the park? 	school	16 7
+1 Mary moved to the school this morning.
+2 Mary journeyed to the office yesterday.
+3 Where was Mary before the school? 	office	1 2
+4 Bill moved to the bedroom yesterday.
+5 Yesterday Julie went to the cinema.
+6 Where was Mary before the school? 	office	1 2
+7 This morning Bill journeyed to the school.
+8 Yesterday Fred journeyed to the bedroom.
+9 Where was Mary before the school? 	office	1 2
+10 Bill journeyed to the office this afternoon.
+11 This morning Julie moved to the office.
+12 Where was Bill before the office? 	school	10 7
+13 This morning Fred journeyed to the park.
+14 This afternoon Mary travelled to the kitchen.
+15 Where was Bill before the office? 	school	10 7
+1 Yesterday Julie moved to the bedroom.
+2 Yesterday Mary journeyed to the kitchen.
+3 Bill travelled to the school this morning.
+4 Bill went to the office yesterday.
+5 Where was Bill before the school? 	office	3 4
+6 This morning Julie journeyed to the cinema.
+7 Mary moved to the cinema this morning.
+8 Where was Julie before the cinema? 	bedroom	6 1
+9 Yesterday Fred moved to the school.
+10 This afternoon Mary travelled to the kitchen.
+11 Where was Bill before the school? 	office	3 4
+12 This morning Fred went back to the kitchen.
+13 Mary moved to the school this evening.
+14 Where was Fred before the kitchen? 	school	12 9
+15 Julie journeyed to the school this evening.
+16 Julie moved to the bedroom this afternoon.
+17 Where was Julie before the bedroom? 	cinema	16 6
+1 Julie went back to the cinema yesterday.
+2 Mary moved to the office yesterday.
+3 Julie journeyed to the kitchen this morning.
+4 Yesterday Bill went to the bedroom.
+5 Where was Julie before the kitchen? 	cinema	3 1
+6 Yesterday Fred went back to the bedroom.
+7 This morning Bill moved to the park.
+8 Where was Bill before the park? 	bedroom	7 4
+9 This morning Mary journeyed to the cinema.
+10 Fred went back to the kitchen this morning.
+11 Where was Mary before the cinema? 	office	9 2
+12 This evening Bill journeyed to the bedroom.
+13 This afternoon Bill moved to the office.
+14 Where was Mary before the cinema? 	office	9 2
+15 Mary travelled to the bedroom this afternoon.
+16 Fred went to the office this afternoon.
+17 Where was Bill before the office? 	park	13 7
+1 Julie went back to the park yesterday.
+2 Yesterday Fred went back to the school.
+3 Julie moved to the office this morning.
+4 Mary moved to the cinema yesterday.
+5 Where was Julie before the office? 	park	3 1
+6 This evening Julie went to the school.
+7 Julie travelled to the cinema this afternoon.
+8 Where was Julie before the office? 	park	3 1
+9 Fred journeyed to the office this morning.
+10 Bill moved to the office yesterday.
+11 Where was Julie before the office? 	park	3 1
+12 Mary travelled to the office this morning.
+13 This afternoon Fred went back to the park.
+14 Where was Mary before the office? 	cinema	12 4
+15 Fred went back to the cinema this evening.
+16 This afternoon Mary went back to the kitchen.
+17 Where was Fred before the park? 	office	13 9
+1 Bill travelled to the office yesterday.
+2 This morning Julie travelled to the school.
+3 Julie travelled to the park yesterday.
+4 Yesterday Mary travelled to the office.
+5 Where was Julie before the school? 	park	2 3
+6 Yesterday Fred moved to the park.
+7 This afternoon Julie journeyed to the cinema.
+8 Where was Julie before the school? 	park	2 3
+9 Mary journeyed to the cinema this morning.
+10 This morning Bill moved to the school.
+11 Where was Bill before the school? 	office	10 1
+12 This afternoon Mary went to the kitchen.
+13 This evening Julie went to the school.
+14 Where was Bill before the school? 	office	10 1
+15 This evening Bill travelled to the cinema.
+16 Bill travelled to the kitchen this afternoon.
+17 Where was Julie before the school? 	cinema	13 7
+1 This morning Bill journeyed to the bedroom.
+2 Yesterday Bill went to the cinema.
+3 Mary moved to the bedroom yesterday.
+4 Julie journeyed to the cinema yesterday.
+5 Where was Bill before the bedroom? 	cinema	1 2
+6 Julie went to the office this morning.
+7 This afternoon Bill travelled to the kitchen.
+8 Where was Julie before the office? 	cinema	6 4
+9 Fred went to the kitchen yesterday.
+10 Mary moved to the cinema this morning.
+11 Where was Bill before the bedroom? 	cinema	1 2
+12 Fred went to the bedroom this morning.
+13 Mary went back to the office this afternoon.
+14 Where was Fred before the bedroom? 	kitchen	12 9
+15 Mary journeyed to the bedroom this evening.
+16 Fred journeyed to the cinema this afternoon.
+17 Where was Fred before the cinema? 	bedroom	16 12
+1 This morning Mary journeyed to the office.
+2 Mary moved to the kitchen yesterday.
+3 Where was Mary before the office? 	kitchen	1 2
+4 Yesterday Fred journeyed to the park.
+5 Bill went back to the park yesterday.
+6 Where was Mary before the office? 	kitchen	1 2
+7 This afternoon Bill moved to the kitchen.
+8 Bill went to the bedroom this morning.
+9 Where was Mary before the office? 	kitchen	1 2
+10 This afternoon Mary journeyed to the bedroom.
+11 This morning Fred went to the office.
+12 Where was Bill before the bedroom? 	park	8 5
+13 Fred went back to the bedroom this afternoon.
+14 Mary moved to the park this evening.
+15 Where was Mary before the park? 	bedroom	14 10
+1 Julie went to the park this morning.
+2 Fred went to the park this morning.
+3 Yesterday Mary went back to the office.
+4 Yesterday Fred journeyed to the office.
+5 Yesterday Julie moved to the cinema.
+6 Yesterday Bill journeyed to the park.
+7 Where was Fred before the park? 	office	2 4
+8 This evening Julie went back to the school.
+9 Julie travelled to the kitchen this afternoon.
+10 Where was Julie before the kitchen? 	park	9 1
+11 This afternoon Fred journeyed to the cinema.
+12 This morning Bill journeyed to the school.
+13 Where was Bill before the school? 	park	12 6
+14 This evening Bill travelled to the school.
+15 Bill travelled to the kitchen this afternoon.
+16 Where was Bill before the school? 	kitchen	14 15
+17 This morning Mary journeyed to the park.
+18 Fred went to the kitchen this evening.
+19 Where was Bill before the school? 	kitchen	14 15
+1 Mary travelled to the cinema this morning.
+2 Mary went back to the park yesterday.
+3 Where was Mary before the cinema? 	park	1 2
+4 Mary journeyed to the school this evening.
+5 Mary went to the kitchen this afternoon.
+6 Where was Mary before the school? 	kitchen	4 5
+7 Yesterday Bill went back to the cinema.
+8 Yesterday Fred moved to the school.
+9 Where was Mary before the school? 	kitchen	4 5
+10 This morning Julie travelled to the office.
+11 Yesterday Julie journeyed to the bedroom.
+12 Where was Mary before the school? 	kitchen	4 5
+13 This morning Bill moved to the office.
+14 This afternoon Julie travelled to the park.
+15 Where was Bill before the office? 	cinema	13 7
+1 This morning Mary journeyed to the kitchen.
+2 Julie moved to the school yesterday.
+3 Mary travelled to the office yesterday.
+4 Yesterday Bill went back to the cinema.
+5 Where was Mary before the kitchen? 	office	1 3
+6 Fred travelled to the bedroom yesterday.
+7 This morning Bill journeyed to the park.
+8 Where was Mary before the kitchen? 	office	1 3
+9 Fred went to the park this morning.
+10 This morning Julie moved to the cinema.
+11 Where was Mary before the kitchen? 	office	1 3
+12 This evening Fred went to the cinema.
+13 This afternoon Fred journeyed to the office.
+14 Where was Fred before the park? 	bedroom	9 6
+15 This afternoon Bill went back to the school.
+16 Mary went to the park this afternoon.
+17 Where was Fred before the office? 	park	13 9
+1 Yesterday Julie journeyed to the school.
+2 Yesterday Fred went to the kitchen.
+3 Yesterday Mary went to the office.
+4 Fred travelled to the office this morning.
+5 Where was Fred before the office? 	kitchen	4 2
+6 This afternoon Mary journeyed to the bedroom.
+7 This morning Mary moved to the park.
+8 Where was Fred before the office? 	kitchen	4 2
+9 This afternoon Fred went to the bedroom.
+10 Julie went back to the office this morning.
+11 Where was Mary before the bedroom? 	park	6 7
+12 Bill moved to the cinema yesterday.
+13 This evening Mary moved to the kitchen.
+14 Where was Mary before the bedroom? 	park	6 7
+15 Fred travelled to the kitchen this evening.
+16 This morning Bill moved to the kitchen.
+17 Where was Mary before the kitchen? 	bedroom	13 6
+1 Bill went back to the bedroom yesterday.
+2 Fred travelled to the cinema yesterday.
+3 Mary went back to the office yesterday.
+4 This morning Mary travelled to the cinema.
+5 Where was Mary before the cinema? 	office	4 3
+6 This afternoon Fred moved to the park.
+7 Fred journeyed to the kitchen this morning.
+8 Where was Fred before the kitchen? 	cinema	7 2
+9 Fred moved to the school this evening.
+10 Mary journeyed to the bedroom this afternoon.
+11 Where was Fred before the park? 	kitchen	6 7
+12 This morning Bill went back to the kitchen.
+13 Mary journeyed to the office this evening.
+14 Where was Bill before the kitchen? 	bedroom	12 1
+15 This evening Bill went back to the school.
+16 Bill travelled to the office this afternoon.
+17 Where was Mary before the office? 	bedroom	13 10
+1 Bill went to the office this morning.
+2 Yesterday Bill moved to the school.
+3 Julie journeyed to the school yesterday.
+4 Yesterday Fred went back to the kitchen.
+5 Where was Bill before the office? 	school	1 2
+6 This morning Fred went back to the school.
+7 This morning Julie moved to the park.
+8 Where was Fred before the school? 	kitchen	6 4
+9 This afternoon Bill went to the cinema.
+10 Fred journeyed to the office this afternoon.
+11 Where was Fred before the school? 	kitchen	6 4
+12 This afternoon Julie travelled to the school.
+13 This evening Fred moved to the school.
+14 Where was Fred before the school? 	office	13 10
+15 This evening Bill moved to the park.
+16 Mary travelled to the school yesterday.
+17 Where was Bill before the cinema? 	office	9 1
+1 This morning Julie moved to the bedroom.
+2 Julie went to the park yesterday.
+3 Where was Julie before the bedroom? 	park	1 2
+4 Fred travelled to the cinema yesterday.
+5 Julie travelled to the cinema this afternoon.
+6 Where was Julie before the cinema? 	bedroom	5 1
+7 This afternoon Fred travelled to the park.
+8 This morning Fred journeyed to the kitchen.
+9 Where was Fred before the park? 	kitchen	7 8
+10 Yesterday Mary travelled to the office.
+11 This evening Julie went to the bedroom.
+12 Where was Julie before the bedroom? 	cinema	11 5
+13 Mary travelled to the kitchen this morning.
+14 This evening Fred moved to the school.
+15 Where was Mary before the kitchen? 	office	13 10
+1 Yesterday Fred travelled to the park.
+2 Yesterday Bill went back to the park.
+3 Julie went back to the office this morning.
+4 Julie went to the cinema yesterday.
+5 Where was Julie before the office? 	cinema	3 4
+6 Fred went to the school this morning.
+7 This morning Bill journeyed to the office.
+8 Where was Julie before the office? 	cinema	3 4
+9 This evening Bill went back to the bedroom.
+10 This afternoon Bill travelled to the school.
+11 Where was Bill before the school? 	office	10 7
+12 Yesterday Mary went back to the bedroom.
+13 This afternoon Julie moved to the bedroom.
+14 Where was Fred before the school? 	park	6 1
+15 Mary moved to the park this morning.
+16 Julie journeyed to the kitchen this evening.
+17 Where was Bill before the bedroom? 	school	9 10
+1 Mary went to the bedroom yesterday.
+2 Yesterday Bill went to the school.
+3 Mary moved to the school this morning.
+4 Yesterday Fred went back to the kitchen.
+5 Where was Mary before the school? 	bedroom	3 1
+6 This morning Fred went back to the office.
+7 Bill travelled to the park this morning.
+8 Where was Bill before the park? 	school	7 2
+9 Fred went to the school this afternoon.
+10 Mary journeyed to the kitchen this afternoon.
+11 Where was Mary before the school? 	bedroom	3 1
+12 This evening Fred went to the kitchen.
+13 This afternoon Bill travelled to the office.
+14 Where was Mary before the kitchen? 	school	10 3
+15 This evening Mary went to the park.
+16 Bill went to the school this evening.
+17 Where was Bill before the office? 	park	13 7
+1 This morning Bill went back to the office.
+2 Bill went to the school yesterday.
+3 Bill journeyed to the cinema this afternoon.
+4 Julie journeyed to the park yesterday.
+5 Where was Bill before the cinema? 	office	3 1
+6 This evening Bill journeyed to the bedroom.
+7 This morning Julie travelled to the office.
+8 Where was Bill before the cinema? 	office	3 1
+9 This evening Julie went back to the office.
+10 Julie journeyed to the kitchen this afternoon.
+11 Where was Bill before the cinema? 	office	3 1
+12 Mary travelled to the bedroom this morning.
+13 Mary travelled to the office yesterday.
+14 Where was Bill before the bedroom? 	cinema	6 3
+15 This afternoon Mary journeyed to the kitchen.
+16 Yesterday Fred journeyed to the school.
+17 Where was Mary before the bedroom? 	office	12 13
+1 This morning Fred travelled to the kitchen.
+2 Mary journeyed to the office yesterday.
+3 Yesterday Fred went to the bedroom.
+4 Julie went to the kitchen yesterday.
+5 Where was Fred before the kitchen? 	bedroom	1 3
+6 Julie journeyed to the park this morning.
+7 Fred moved to the school this afternoon.
+8 Where was Julie before the park? 	kitchen	6 4
+9 Mary travelled to the office this afternoon.
+10 This morning Mary travelled to the bedroom.
+11 Where was Mary before the office? 	bedroom	9 10
+12 Julie moved to the kitchen this afternoon.
+13 Bill went back to the office yesterday.
+14 Where was Julie before the kitchen? 	park	12 6
+15 This evening Fred moved to the kitchen.
+16 This evening Julie journeyed to the office.
+17 Where was Julie before the kitchen? 	park	12 6
+1 Bill travelled to the kitchen this afternoon.
+2 This morning Bill moved to the school.
+3 Bill travelled to the office yesterday.
+4 Yesterday Mary moved to the office.
+5 Where was Bill before the kitchen? 	school	1 2
+6 Yesterday Julie travelled to the school.
+7 Yesterday Fred went back to the kitchen.
+8 Where was Bill before the kitchen? 	school	1 2
+9 Bill went back to the office this evening.
+10 This morning Julie went to the park.
+11 Where was Bill before the kitchen? 	school	1 2
+12 This morning Fred moved to the park.
+13 Julie went to the office this afternoon.
+14 Where was Fred before the park? 	kitchen	12 7
+15 This evening Julie went to the park.
+16 This afternoon Fred travelled to the kitchen.
+17 Where was Bill before the office? 	kitchen	9 1
+1 This morning Julie travelled to the bedroom.
+2 Yesterday Mary travelled to the park.
+3 Fred moved to the kitchen yesterday.
+4 Fred moved to the bedroom this morning.
+5 Yesterday Julie went to the cinema.
+6 Yesterday Bill travelled to the bedroom.
+7 Where was Fred before the bedroom? 	kitchen	4 3
+8 Bill travelled to the park this morning.
+9 Julie travelled to the office this afternoon.
+10 Where was Julie before the bedroom? 	cinema	1 5
+11 Bill went to the school this afternoon.
+12 This evening Julie went back to the bedroom.
+13 Where was Julie before the office? 	bedroom	9 1
+14 Mary went back to the office this morning.
+15 Bill journeyed to the cinema this evening.
+16 Where was Bill before the cinema? 	school	15 11
+17 Fred travelled to the bedroom this evening.
+18 This afternoon Fred travelled to the office.
+19 Where was Bill before the cinema? 	school	15 11
+1 Mary journeyed to the park yesterday.
+2 Bill went back to the cinema this morning.
+3 Bill travelled to the kitchen yesterday.
+4 This morning Mary went to the cinema.
+5 Where was Mary before the cinema? 	park	4 1
+6 Julie travelled to the school yesterday.
+7 Yesterday Fred went to the kitchen.
+8 Where was Mary before the cinema? 	park	4 1
+9 Fred went to the cinema this morning.
+10 This afternoon Mary went to the school.
+11 Where was Bill before the cinema? 	kitchen	2 3
+12 Mary journeyed to the cinema this evening.
+13 Fred travelled to the school this afternoon.
+14 Where was Fred before the school? 	cinema	13 9
+15 Bill moved to the school this afternoon.
+16 Fred journeyed to the bedroom this evening.
+17 Where was Fred before the school? 	cinema	13 9
+1 This morning Mary travelled to the office.
+2 Mary went to the cinema yesterday.
+3 This afternoon Mary went back to the kitchen.
+4 Yesterday Fred journeyed to the school.
+5 Where was Mary before the office? 	cinema	1 2
+6 Mary travelled to the office this evening.
+7 This morning Fred moved to the bedroom.
+8 Where was Mary before the office? 	kitchen	6 3
+9 Yesterday Bill went to the kitchen.
+10 Fred moved to the park this afternoon.
+11 Where was Fred before the park? 	bedroom	10 7
+12 This morning Bill travelled to the cinema.
+13 Fred journeyed to the kitchen this evening.
+14 Where was Mary before the office? 	kitchen	6 3
+15 This morning Julie moved to the park.
+16 Yesterday Julie went back to the kitchen.
+17 Where was Bill before the cinema? 	kitchen	12 9
+1 Yesterday Julie moved to the park.
+2 Yesterday Mary went back to the cinema.
+3 This morning Julie journeyed to the cinema.
+4 Yesterday Fred went back to the cinema.
+5 Where was Julie before the cinema? 	park	3 1
+6 Bill went to the office this morning.
+7 Bill went back to the bedroom yesterday.
+8 Where was Julie before the cinema? 	park	3 1
+9 This afternoon Fred moved to the park.
+10 This morning Fred travelled to the school.
+11 Where was Fred before the park? 	school	9 10
+12 This afternoon Bill travelled to the cinema.
+13 This evening Fred went to the cinema.
+14 Where was Fred before the cinema? 	park	13 9
+15 This evening Bill moved to the kitchen.
+16 Julie travelled to the kitchen this afternoon.
+17 Where was Bill before the kitchen? 	cinema	15 12
+1 Mary moved to the bedroom yesterday.
+2 Fred moved to the cinema this morning.
+3 This morning Julie journeyed to the cinema.
+4 Yesterday Bill travelled to the park.
+5 Yesterday Julie moved to the park.
+6 Yesterday Fred travelled to the kitchen.
+7 Where was Fred before the cinema? 	kitchen	2 6
+8 Mary moved to the office this morning.
+9 Julie moved to the kitchen this afternoon.
+10 Where was Mary before the office? 	bedroom	8 1
+11 Fred went to the park this afternoon.
+12 Julie went to the school this evening.
+13 Where was Fred before the park? 	cinema	11 2
+14 Mary travelled to the cinema this evening.
+15 Mary went back to the park this afternoon.
+16 Where was Mary before the cinema? 	park	14 15
+17 Bill journeyed to the school this morning.
+18 Fred travelled to the kitchen this evening.
+19 Where was Mary before the park? 	office	15 8
+1 Mary travelled to the kitchen yesterday.
+2 Bill moved to the kitchen this morning.
+3 Julie journeyed to the park yesterday.
+4 Fred went to the kitchen yesterday.
+5 This morning Fred went back to the park.
+6 Bill travelled to the bedroom yesterday.
+7 Where was Bill before the kitchen? 	bedroom	2 6
+8 This afternoon Bill moved to the park.
+9 Fred moved to the bedroom this afternoon.
+10 Where was Bill before the kitchen? 	bedroom	2 6
+11 This afternoon Mary travelled to the cinema.
+12 This morning Mary went to the bedroom.
+13 Where was Bill before the park? 	kitchen	8 2
+14 Fred moved to the kitchen this evening.
+15 This evening Bill went back to the cinema.
+16 Where was Mary before the cinema? 	bedroom	11 12
+17 Julie went back to the cinema this morning.
+18 Mary went back to the school this evening.
+19 Where was Julie before the cinema? 	park	17 3
+1 This morning Fred moved to the school.
+2 Yesterday Fred journeyed to the cinema.
+3 Yesterday Bill went to the bedroom.
+4 Yesterday Mary travelled to the office.
+5 Where was Fred before the school? 	cinema	1 2
+6 Yesterday Julie journeyed to the cinema.
+7 This morning Mary journeyed to the school.
+8 Where was Mary before the school? 	office	7 4
+9 This morning Julie went back to the school.
+10 This afternoon Mary went back to the park.
+11 Where was Julie before the school? 	cinema	9 6
+12 Fred travelled to the office this afternoon.
+13 This evening Mary moved to the kitchen.
+14 Where was Mary before the park? 	school	10 7
+15 Julie travelled to the park this afternoon.
+16 Fred moved to the cinema this evening.
+17 Where was Julie before the school? 	cinema	9 6
+1 Fred travelled to the cinema this morning.
+2 Bill went to the bedroom yesterday.
+3 Yesterday Fred moved to the kitchen.
+4 Mary moved to the cinema yesterday.
+5 Where was Fred before the cinema? 	kitchen	1 3
+6 Julie moved to the bedroom yesterday.
+7 Fred went to the school this afternoon.
+8 Where was Fred before the cinema? 	kitchen	1 3
+9 Mary journeyed to the park this morning.
+10 Julie went to the kitchen this morning.
+11 Where was Julie before the kitchen? 	bedroom	10 6
+12 Mary moved to the school this afternoon.
+13 Fred moved to the office this evening.
+14 Where was Fred before the office? 	school	13 7
+15 Bill travelled to the park this morning.
+16 This afternoon Julie travelled to the school.
+17 Where was Fred before the office? 	school	13 7
+1 Bill journeyed to the school this morning.
+2 Yesterday Bill went to the office.
+3 Where was Bill before the school? 	office	1 2
+4 Fred went back to the school this morning.
+5 Yesterday Fred moved to the office.
+6 Where was Fred before the school? 	office	4 5
+7 This afternoon Bill travelled to the office.
+8 Mary went back to the office yesterday.
+9 Where was Bill before the school? 	office	1 2
+10 Fred moved to the office this afternoon.
+11 Mary travelled to the bedroom this morning.
+12 Where was Fred before the school? 	office	4 5
+13 This afternoon Mary went to the office.
+14 Bill went to the park this evening.
+15 Where was Bill before the park? 	office	14 7
+1 Bill journeyed to the park yesterday.
+2 Yesterday Fred went back to the cinema.
+3 This morning Fred went back to the kitchen.
+4 Mary travelled to the bedroom yesterday.
+5 Where was Fred before the kitchen? 	cinema	3 2
+6 Yesterday Julie went back to the office.
+7 This afternoon Fred went to the bedroom.
+8 Where was Fred before the bedroom? 	kitchen	7 3
+9 This morning Bill travelled to the office.
+10 This morning Julie journeyed to the park.
+11 Where was Fred before the kitchen? 	cinema	3 2
+12 This evening Bill went to the school.
+13 This afternoon Bill journeyed to the kitchen.
+14 Where was Bill before the kitchen? 	office	13 9
+15 This afternoon Julie journeyed to the office.
+16 This morning Mary journeyed to the office.
+17 Where was Bill before the kitchen? 	office	13 9
+1 Mary went back to the kitchen this afternoon.
+2 Yesterday Bill went to the bedroom.
+3 Julie went to the cinema yesterday.
+4 Yesterday Mary went to the cinema.
+5 Yesterday Fred travelled to the office.
+6 This morning Mary journeyed to the office.
+7 Where was Mary before the office? 	cinema	6 4
+8 Bill moved to the bedroom this afternoon.
+9 This morning Bill went back to the school.
+10 Where was Bill before the school? 	bedroom	9 2
+11 This morning Fred journeyed to the cinema.
+12 Bill journeyed to the park this evening.
+13 Where was Bill before the school? 	bedroom	9 2
+14 This morning Julie went back to the kitchen.
+15 Fred travelled to the kitchen this afternoon.
+16 Where was Bill before the park? 	bedroom	12 8
+17 Fred moved to the office this evening.
+18 Mary went to the park this evening.
+19 Where was Fred before the kitchen? 	cinema	15 11
+1 Julie moved to the park this morning.
+2 Fred journeyed to the office this morning.
+3 Yesterday Fred went back to the bedroom.
+4 Julie moved to the cinema yesterday.
+5 Where was Julie before the park? 	cinema	1 4
+6 This afternoon Fred went back to the school.
+7 Julie journeyed to the bedroom this afternoon.
+8 Where was Julie before the park? 	cinema	1 4
+9 Yesterday Mary journeyed to the school.
+10 This evening Julie moved to the park.
+11 Where was Julie before the park? 	bedroom	10 7
+12 This evening Fred went back to the office.
+13 Bill journeyed to the park yesterday.
+14 Where was Fred before the office? 	school	12 6
+15 This afternoon Mary moved to the bedroom.
+16 Mary moved to the park this morning.
+17 Where was Mary before the park? 	school	16 9
+1 Yesterday Bill travelled to the park.
+2 Bill went to the cinema this morning.
+3 This afternoon Bill went to the bedroom.
+4 Julie travelled to the cinema yesterday.
+5 Where was Bill before the bedroom? 	cinema	3 2
+6 Yesterday Mary went back to the office.
+7 Julie moved to the school this morning.
+8 Where was Julie before the school? 	cinema	7 4
+9 This afternoon Julie went to the park.
+10 Mary travelled to the bedroom this morning.
+11 Where was Mary before the bedroom? 	office	10 6
+12 Yesterday Fred journeyed to the kitchen.
+13 This evening Julie travelled to the kitchen.
+14 Where was Mary before the bedroom? 	office	10 6
+15 This morning Fred travelled to the cinema.
+16 Bill went to the school this evening.
+17 Where was Julie before the kitchen? 	park	13 9
+1 Bill went to the office this morning.
+2 Bill went to the school yesterday.
+3 Where was Bill before the office? 	school	1 2
+4 Julie moved to the kitchen yesterday.
+5 This afternoon Bill travelled to the park.
+6 Where was Bill before the park? 	office	5 1
+7 This morning Fred went back to the cinema.
+8 Yesterday Fred travelled to the office.
+9 Where was Bill before the park? 	office	5 1
+10 This evening Bill travelled to the cinema.
+11 This morning Julie moved to the bedroom.
+12 Where was Julie before the bedroom? 	kitchen	11 4
+13 Yesterday Mary went to the office.
+14 Fred went back to the office this afternoon.
+15 Where was Julie before the bedroom? 	kitchen	11 4
+1 This morning Fred moved to the cinema.
+2 Bill travelled to the park this morning.
+3 Bill went to the bedroom yesterday.
+4 Yesterday Fred journeyed to the school.
+5 Where was Bill before the park? 	bedroom	2 3
+6 This afternoon Bill went back to the kitchen.
+7 Yesterday Julie journeyed to the park.
+8 Where was Bill before the kitchen? 	park	6 2
+9 This afternoon Fred travelled to the kitchen.
+10 This morning Julie went back to the office.
+11 Where was Bill before the kitchen? 	park	6 2
+12 Mary went back to the kitchen this morning.
+13 Yesterday Mary moved to the office.
+14 Where was Fred before the kitchen? 	cinema	9 1
+15 Fred moved to the school this evening.
+16 This evening Bill went to the office.
+17 Where was Fred before the school? 	kitchen	15 9
+1 This morning Bill moved to the office.
+2 Bill travelled to the school this afternoon.
+3 Yesterday Fred journeyed to the school.
+4 Bill travelled to the school yesterday.
+5 Where was Bill before the office? 	school	1 4
+6 This morning Fred travelled to the bedroom.
+7 Yesterday Julie went back to the park.
+8 Where was Bill before the school? 	office	2 1
+9 Julie went to the school this morning.
+10 This afternoon Fred moved to the park.
+11 Where was Fred before the park? 	bedroom	10 6
+12 Mary went back to the cinema yesterday.
+13 This evening Fred journeyed to the school.
+14 Where was Fred before the school? 	park	13 10
+15 Mary moved to the office this afternoon.
+16 Mary went back to the kitchen this morning.
+17 Where was Julie before the school? 	park	9 7
+1 This afternoon Bill travelled to the school.
+2 Julie went to the kitchen yesterday.
+3 Yesterday Bill moved to the school.
+4 Bill moved to the cinema this morning.
+5 Where was Bill before the school? 	cinema	1 4
+6 Yesterday Fred travelled to the kitchen.
+7 This evening Bill went to the kitchen.
+8 Where was Bill before the cinema? 	school	4 3
+9 Mary journeyed to the bedroom this morning.
+10 Mary moved to the school yesterday.
+11 Where was Bill before the school? 	cinema	1 4
+12 This morning Fred went to the school.
+13 This afternoon Mary went to the school.
+14 Where was Mary before the school? 	bedroom	13 9
+15 Fred travelled to the office this afternoon.
+16 Julie moved to the office this morning.
+17 Where was Mary before the bedroom? 	school	9 10
+1 Fred went back to the school yesterday.
+2 Yesterday Mary moved to the bedroom.
+3 Julie went back to the park this morning.
+4 Julie journeyed to the school yesterday.
+5 Where was Julie before the park? 	school	3 4
+6 This afternoon Fred journeyed to the bedroom.
+7 Fred went to the kitchen this morning.
+8 Where was Fred before the bedroom? 	kitchen	6 7
+9 This morning Bill went to the park.
+10 Yesterday Bill journeyed to the bedroom.
+11 Where was Julie before the park? 	school	3 4
+12 This morning Mary went to the school.
+13 Bill went back to the cinema this afternoon.
+14 Where was Bill before the park? 	bedroom	9 10
+15 Bill journeyed to the park this evening.
+16 This afternoon Julie moved to the bedroom.
+17 Where was Mary before the school? 	bedroom	12 2
+1 Julie journeyed to the kitchen this morning.
+2 Julie journeyed to the park yesterday.
+3 Where was Julie before the kitchen? 	park	1 2
+4 Julie travelled to the bedroom this afternoon.
+5 Mary journeyed to the cinema yesterday.
+6 Where was Julie before the bedroom? 	kitchen	4 1
+7 This morning Mary went back to the park.
+8 Yesterday Bill moved to the kitchen.
+9 Where was Mary before the park? 	cinema	7 5
+10 Fred moved to the kitchen yesterday.
+11 This evening Julie travelled to the kitchen.
+12 Where was Julie before the bedroom? 	kitchen	4 1
+13 This evening Mary went back to the kitchen.
+14 Mary moved to the office this afternoon.
+15 Where was Julie before the kitchen? 	bedroom	11 4
+1 This morning Mary went back to the cinema.
+2 Yesterday Fred went back to the school.
+3 Mary moved to the office yesterday.
+4 Julie journeyed to the park yesterday.
+5 Where was Mary before the cinema? 	office	1 3
+6 Fred went to the bedroom this morning.
+7 Yesterday Bill journeyed to the school.
+8 Where was Fred before the bedroom? 	school	6 2
+9 Fred travelled to the kitchen this afternoon.
+10 Julie went to the bedroom this morning.
+11 Where was Julie before the bedroom? 	park	10 4
+12 Bill journeyed to the bedroom this morning.
+13 Mary travelled to the office this afternoon.
+14 Where was Mary before the office? 	cinema	13 1
+15 This afternoon Julie travelled to the kitchen.
+16 Bill moved to the cinema this afternoon.
+17 Where was Fred before the kitchen? 	bedroom	9 6
+1 Bill journeyed to the cinema yesterday.
+2 Julie moved to the kitchen this morning.
+3 This morning Mary moved to the office.
+4 Yesterday Julie travelled to the office.
+5 Fred travelled to the bedroom yesterday.
+6 Mary went to the bedroom yesterday.
+7 Where was Mary before the office? 	bedroom	3 6
+8 This afternoon Mary moved to the cinema.
+9 This morning Bill moved to the park.
+10 Where was Bill before the park? 	cinema	9 1
+11 Bill went to the cinema this afternoon.
+12 This afternoon Julie travelled to the bedroom.
+13 Where was Julie before the bedroom? 	kitchen	12 2
+14 This evening Julie went back to the kitchen.
+15 This evening Bill went back to the school.
+16 Where was Julie before the kitchen? 	bedroom	14 12
+17 Fred journeyed to the kitchen this morning.
+18 Mary travelled to the school this evening.
+19 Where was Julie before the kitchen? 	bedroom	14 12
+1 Yesterday Julie travelled to the kitchen.
+2 Mary journeyed to the bedroom yesterday.
+3 Yesterday Fred moved to the cinema.
+4 This morning Julie went to the cinema.
+5 Where was Julie before the cinema? 	kitchen	4 1
+6 Mary travelled to the school this morning.
+7 Fred went to the park this morning.
+8 Where was Julie before the cinema? 	kitchen	4 1
+9 Fred travelled to the bedroom this evening.
+10 Fred journeyed to the office this afternoon.
+11 Where was Fred before the office? 	park	10 7
+12 Yesterday Bill journeyed to the bedroom.
+13 Mary moved to the cinema this afternoon.
+14 Where was Mary before the school? 	bedroom	6 2
+15 This morning Bill travelled to the school.
+16 This evening Mary journeyed to the kitchen.
+17 Where was Mary before the cinema? 	school	13 6
+1 Fred moved to the cinema yesterday.
+2 Yesterday Julie travelled to the kitchen.
+3 Yesterday Bill went to the kitchen.
+4 This morning Bill moved to the park.
+5 Where was Bill before the park? 	kitchen	4 3
+6 This morning Julie journeyed to the park.
+7 Fred travelled to the school this morning.
+8 Where was Julie before the park? 	kitchen	6 2
+9 Julie travelled to the school this afternoon.
+10 This afternoon Fred went to the kitchen.
+11 Where was Fred before the school? 	cinema	7 1
+12 Fred moved to the park this evening.
+13 Julie travelled to the cinema this evening.
+14 Where was Julie before the school? 	park	9 6
+15 This evening Bill went to the bedroom.
+16 This afternoon Bill moved to the kitchen.
+17 Where was Bill before the bedroom? 	kitchen	15 16
+1 Mary moved to the bedroom yesterday.
+2 Fred travelled to the kitchen this morning.
+3 Julie travelled to the school yesterday.
+4 Fred moved to the office yesterday.
+5 Where was Fred before the kitchen? 	office	2 4
+6 This morning Mary moved to the cinema.
+7 This morning Julie went back to the office.
+8 Where was Fred before the kitchen? 	office	2 4
+9 Yesterday Bill moved to the school.
+10 This afternoon Julie journeyed to the bedroom.
+11 Where was Julie before the bedroom? 	office	10 7
+12 This evening Fred went back to the bedroom.
+13 Fred went to the cinema this afternoon.
+14 Where was Mary before the cinema? 	bedroom	6 1
+15 This evening Mary journeyed to the cinema.
+16 Mary went to the park this afternoon.
+17 Where was Fred before the bedroom? 	cinema	12 13
+1 Yesterday Julie went to the school.
+2 Julie moved to the bedroom this morning.
+3 Yesterday Mary moved to the kitchen.
+4 This morning Mary moved to the park.
+5 Where was Julie before the bedroom? 	school	2 1
+6 This morning Bill went back to the cinema.
+7 Yesterday Bill went to the bedroom.
+8 Where was Bill before the cinema? 	bedroom	6 7
+9 This afternoon Julie travelled to the office.
+10 Yesterday Fred travelled to the office.
+11 Where was Julie before the office? 	bedroom	9 2
+12 This evening Mary travelled to the cinema.
+13 Mary went to the office this afternoon.
+14 Where was Mary before the cinema? 	office	12 13
+15 Fred moved to the bedroom this morning.
+16 Julie journeyed to the kitchen this evening.
+17 Where was Mary before the cinema? 	office	12 13
+1 Fred journeyed to the school this morning.
+2 This afternoon Fred journeyed to the park.
+3 Yesterday Mary went to the park.
+4 Fred went back to the kitchen yesterday.
+5 Where was Fred before the school? 	kitchen	1 4
+6 Yesterday Bill moved to the kitchen.
+7 Fred went to the school this evening.
+8 Where was Fred before the school? 	park	7 2
+9 This morning Julie journeyed to the park.
+10 Yesterday Julie went back to the cinema.
+11 Where was Julie before the park? 	cinema	9 10
+12 Julie went to the office this afternoon.
+13 This morning Bill journeyed to the park.
+14 Where was Bill before the park? 	kitchen	13 6
+15 Bill went to the school this evening.
+16 This afternoon Bill went to the bedroom.
+17 Where was Julie before the office? 	park	12 9
+1 Mary travelled to the cinema yesterday.
+2 Fred moved to the park this morning.
+3 Yesterday Bill travelled to the school.
+4 Yesterday Fred travelled to the bedroom.
+5 Where was Fred before the park? 	bedroom	2 4
+6 This morning Bill travelled to the bedroom.
+7 Mary moved to the bedroom this morning.
+8 Where was Mary before the bedroom? 	cinema	7 1
+9 This morning Julie moved to the kitchen.
+10 Yesterday Julie moved to the bedroom.
+11 Where was Bill before the bedroom? 	school	6 3
+12 This afternoon Julie travelled to the cinema.
+13 Mary journeyed to the kitchen this afternoon.
+14 Where was Julie before the kitchen? 	bedroom	9 10
+15 Fred went to the bedroom this afternoon.
+16 Mary moved to the park this evening.
+17 Where was Mary before the park? 	kitchen	16 13
+1 Julie went to the park this morning.
+2 This morning Mary travelled to the bedroom.
+3 Julie journeyed to the office yesterday.
+4 Yesterday Mary journeyed to the kitchen.
+5 Where was Mary before the bedroom? 	kitchen	2 4
+6 This morning Fred moved to the school.
+7 Fred moved to the park yesterday.
+8 Where was Fred before the school? 	park	6 7
+9 This evening Mary went back to the office.
+10 This afternoon Mary journeyed to the school.
+11 Where was Mary before the office? 	school	9 10
+12 This evening Fred travelled to the cinema.
+13 Fred travelled to the office this afternoon.
+14 Where was Fred before the office? 	school	13 6
+15 Yesterday Bill went back to the park.
+16 This afternoon Julie went to the office.
+17 Where was Fred before the office? 	school	13 6
+1 Fred went to the office yesterday.
+2 Fred journeyed to the cinema this morning.
+3 This afternoon Fred travelled to the park.
+4 Yesterday Mary travelled to the office.
+5 Where was Fred before the park? 	cinema	3 2
+6 This morning Mary went back to the park.
+7 Yesterday Julie moved to the office.
+8 Where was Mary before the park? 	office	6 4
+9 Mary journeyed to the kitchen this afternoon.
+10 Bill went to the park yesterday.
+11 Where was Fred before the park? 	cinema	3 2
+12 This morning Bill went to the office.
+13 Mary travelled to the bedroom this evening.
+14 Where was Mary before the park? 	office	6 4
+15 This afternoon Bill went back to the kitchen.
+16 This evening Fred went to the cinema.
+17 Where was Fred before the cinema? 	park	16 3
+1 This morning Bill went to the kitchen.
+2 This morning Mary went to the bedroom.
+3 Yesterday Bill travelled to the bedroom.
+4 Yesterday Mary went to the school.
+5 Where was Bill before the kitchen? 	bedroom	1 3
+6 Mary moved to the office this afternoon.
+7 Julie journeyed to the school yesterday.
+8 Where was Mary before the bedroom? 	school	2 4
+9 This afternoon Bill went to the office.
+10 Yesterday Fred went back to the kitchen.
+11 Where was Bill before the office? 	kitchen	9 1
+12 Fred travelled to the office this morning.
+13 This evening Bill journeyed to the school.
+14 Where was Mary before the office? 	bedroom	6 2
+15 Mary went back to the cinema this evening.
+16 Julie travelled to the bedroom this morning.
+17 Where was Julie before the bedroom? 	school	16 7
+1 Yesterday Julie journeyed to the park.
+2 Fred moved to the bedroom yesterday.
+3 Yesterday Bill travelled to the bedroom.
+4 This morning Julie travelled to the kitchen.
+5 Where was Julie before the kitchen? 	park	4 1
+6 Fred journeyed to the kitchen this afternoon.
+7 Fred journeyed to the school this morning.
+8 Where was Julie before the kitchen? 	park	4 1
+9 Julie moved to the school this afternoon.
+10 Mary moved to the school yesterday.
+11 Where was Fred before the kitchen? 	school	6 7
+12 This morning Bill travelled to the school.
+13 Julie journeyed to the park this evening.
+14 Where was Julie before the park? 	school	13 9
+15 Bill went back to the cinema this afternoon.
+16 Fred went to the park this evening.
+17 Where was Julie before the school? 	kitchen	9 4
+1 This morning Mary journeyed to the office.
+2 Mary travelled to the kitchen yesterday.
+3 Bill travelled to the school yesterday.
+4 Yesterday Fred travelled to the office.
+5 Where was Mary before the office? 	kitchen	1 2
+6 This morning Fred journeyed to the school.
+7 Julie moved to the cinema yesterday.
+8 Where was Fred before the school? 	office	6 4
+9 This morning Bill went to the park.
+10 This afternoon Fred went back to the kitchen.
+11 Where was Bill before the park? 	school	9 3
+12 Mary journeyed to the park this afternoon.
+13 This evening Fred moved to the cinema.
+14 Where was Fred before the cinema? 	kitchen	13 10
+15 Julie went back to the school this morning.
+16 Mary went to the kitchen this evening.
+17 Where was Fred before the cinema? 	kitchen	13 10
+1 Mary went back to the kitchen yesterday.
+2 Yesterday Fred moved to the park.
+3 Mary travelled to the office this morning.
+4 Julie went back to the cinema yesterday.
+5 Bill went to the bedroom yesterday.
+6 Julie journeyed to the school this morning.
+7 Where was Mary before the office? 	kitchen	3 1
+8 Fred went to the park this afternoon.
+9 Fred went back to the kitchen this morning.
+10 Where was Mary before the office? 	kitchen	3 1
+11 This evening Fred moved to the office.
+12 Mary journeyed to the park this afternoon.
+13 Where was Mary before the park? 	office	12 3
+14 Mary journeyed to the office this evening.
+15 This morning Bill journeyed to the office.
+16 Where was Mary before the park? 	office	12 3
+17 Julie went back to the park this afternoon.
+18 This afternoon Bill journeyed to the cinema.
+19 Where was Bill before the office? 	bedroom	15 5
+1 Fred journeyed to the park this morning.
+2 Yesterday Fred went to the bedroom.
+3 Yesterday Mary went back to the school.
+4 Yesterday Julie travelled to the park.
+5 Where was Fred before the park? 	bedroom	1 2
+6 Yesterday Bill went to the park.
+7 Mary journeyed to the cinema this morning.
+8 Where was Mary before the cinema? 	school	7 3
+9 This evening Fred moved to the school.
+10 Fred moved to the kitchen this afternoon.
+11 Where was Fred before the kitchen? 	park	10 1
+12 This evening Mary went back to the office.
+13 This afternoon Mary went to the kitchen.
+14 Where was Mary before the office? 	kitchen	12 13
+15 Julie went to the school this afternoon.
+16 This morning Julie journeyed to the bedroom.
+17 Where was Mary before the office? 	kitchen	12 13
+1 Fred moved to the bedroom this morning.
+2 Mary moved to the bedroom yesterday.
+3 Bill went to the park yesterday.
+4 This morning Bill went to the kitchen.
+5 Julie moved to the office yesterday.
+6 Yesterday Fred went back to the kitchen.
+7 Where was Bill before the kitchen? 	park	4 3
+8 Julie went to the school this afternoon.
+9 Julie went to the bedroom this morning.
+10 Where was Bill before the kitchen? 	park	4 3
+11 This afternoon Bill went back to the office.
+12 This afternoon Fred journeyed to the office.
+13 Where was Julie before the school? 	bedroom	8 9
+14 Fred moved to the park this evening.
+15 Julie went to the cinema this evening.
+16 Where was Bill before the office? 	kitchen	11 4
+17 This morning Mary went back to the school.
+18 This evening Bill travelled to the bedroom.
+19 Where was Fred before the park? 	office	14 12
+1 Bill moved to the park this morning.
+2 Bill moved to the bedroom this afternoon.
+3 Julie went back to the kitchen yesterday.
+4 Yesterday Bill went to the office.
+5 Where was Bill before the park? 	office	1 4
+6 Fred moved to the kitchen this morning.
+7 Yesterday Fred went to the bedroom.
+8 Where was Bill before the bedroom? 	park	2 1
+9 This afternoon Fred went to the park.
+10 Julie went to the cinema this morning.
+11 Where was Fred before the park? 	kitchen	9 6
+12 Fred journeyed to the kitchen this evening.
+13 Julie went back to the bedroom this afternoon.
+14 Where was Fred before the park? 	kitchen	9 6
+15 Bill travelled to the park this evening.
+16 Yesterday Mary went back to the kitchen.
+17 Where was Bill before the park? 	bedroom	15 2
+1 Mary journeyed to the cinema this morning.
+2 Julie moved to the school this morning.
+3 Yesterday Julie travelled to the office.
+4 Mary moved to the park yesterday.
+5 Where was Mary before the cinema? 	park	1 4
+6 This morning Bill journeyed to the kitchen.
+7 Yesterday Bill journeyed to the park.
+8 Where was Bill before the kitchen? 	park	6 7
+9 Mary journeyed to the park this afternoon.
+10 Bill went to the office this afternoon.
+11 Where was Bill before the office? 	kitchen	10 6
+12 Fred went to the kitchen yesterday.
+13 This afternoon Julie journeyed to the kitchen.
+14 Where was Bill before the kitchen? 	park	6 7
+15 This morning Fred went to the park.
+16 This evening Julie went back to the cinema.
+17 Where was Mary before the park? 	cinema	9 1
+1 This morning Julie journeyed to the school.
+2 Yesterday Mary journeyed to the bedroom.
+3 Yesterday Julie journeyed to the kitchen.
+4 Yesterday Bill went to the park.
+5 Where was Julie before the school? 	kitchen	1 3
+6 This afternoon Julie went back to the park.
+7 Mary went back to the park this morning.
+8 Where was Julie before the park? 	school	6 1
+9 Mary travelled to the school this afternoon.
+10 This evening Julie moved to the school.
+11 Where was Julie before the school? 	park	10 6
+12 Bill journeyed to the kitchen this morning.
+13 This evening Mary went back to the kitchen.
+14 Where was Bill before the kitchen? 	park	12 4
+15 Bill went back to the cinema this afternoon.
+16 Fred travelled to the kitchen yesterday.
+17 Where was Bill before the kitchen? 	park	12 4
+1 Julie went to the bedroom this morning.
+2 Bill moved to the cinema yesterday.
+3 Yesterday Julie moved to the cinema.
+4 Mary went back to the office yesterday.
+5 Where was Julie before the bedroom? 	cinema	1 3
+6 Bill journeyed to the kitchen this morning.
+7 Julie journeyed to the kitchen this afternoon.
+8 Where was Julie before the kitchen? 	bedroom	7 1
+9 Bill travelled to the bedroom this evening.
+10 Bill journeyed to the park this afternoon.
+11 Where was Bill before the bedroom? 	park	9 10
+12 This morning Fred moved to the bedroom.
+13 Yesterday Fred went back to the park.
+14 Where was Bill before the park? 	kitchen	10 6
+15 This evening Fred went to the school.
+16 Fred journeyed to the park this afternoon.
+17 Where was Fred before the school? 	park	15 16
+1 Bill went back to the cinema yesterday.
+2 Mary journeyed to the bedroom yesterday.
+3 Mary travelled to the kitchen this morning.
+4 Yesterday Fred moved to the school.
+5 Where was Mary before the kitchen? 	bedroom	3 2
+6 Julie went to the kitchen this morning.
+7 Julie journeyed to the school yesterday.
+8 Where was Julie before the kitchen? 	school	6 7
+9 This morning Bill travelled to the school.
+10 Fred went to the office this morning.
+11 Where was Mary before the kitchen? 	bedroom	3 2
+12 Fred moved to the office this evening.
+13 This afternoon Fred went to the kitchen.
+14 Where was Fred before the office? 	kitchen	12 13
+15 This afternoon Mary travelled to the school.
+16 Julie moved to the office this afternoon.
+17 Where was Julie before the office? 	kitchen	16 6
+1 This morning Bill went to the cinema.
+2 Julie went to the bedroom yesterday.
+3 Yesterday Bill went to the kitchen.
+4 Mary went to the kitchen yesterday.
+5 Where was Bill before the cinema? 	kitchen	1 3
+6 Fred went back to the office yesterday.
+7 This morning Mary journeyed to the office.
+8 Where was Bill before the cinema? 	kitchen	1 3
+9 This afternoon Mary went to the park.
+10 Bill went back to the bedroom this afternoon.
+11 Where was Bill before the bedroom? 	cinema	10 1
+12 Bill journeyed to the cinema this evening.
+13 Julie moved to the school this morning.
+14 Where was Bill before the bedroom? 	cinema	10 1
+15 This morning Fred travelled to the school.
+16 This evening Mary journeyed to the kitchen.
+17 Where was Fred before the school? 	office	15 6
+1 Fred went to the bedroom this morning.
+2 Yesterday Mary journeyed to the park.
+3 Fred went to the park yesterday.
+4 Julie travelled to the office yesterday.
+5 Where was Fred before the bedroom? 	park	1 3
+6 This morning Mary travelled to the kitchen.
+7 This afternoon Fred went back to the office.
+8 Where was Fred before the office? 	bedroom	7 1
+9 Mary went back to the cinema this afternoon.
+10 This evening Fred went to the cinema.
+11 Where was Mary before the cinema? 	kitchen	9 6
+12 This morning Bill journeyed to the cinema.
+13 Bill travelled to the bedroom yesterday.
+14 Where was Mary before the kitchen? 	park	6 2
+15 Mary journeyed to the office this evening.
+16 Julie went to the cinema this morning.
+17 Where was Bill before the cinema? 	bedroom	12 13
+1 Julie moved to the bedroom yesterday.
+2 Yesterday Mary journeyed to the office.
+3 Yesterday Bill went to the school.
+4 This morning Bill travelled to the kitchen.
+5 Where was Bill before the kitchen? 	school	4 3
+6 This morning Julie went back to the school.
+7 Yesterday Fred moved to the office.
+8 Where was Bill before the kitchen? 	school	4 3
+9 This morning Mary journeyed to the school.
+10 This morning Fred journeyed to the cinema.
+11 Where was Julie before the school? 	bedroom	6 1
+12 Fred journeyed to the bedroom this afternoon.
+13 Mary moved to the kitchen this afternoon.
+14 Where was Mary before the school? 	office	9 2
+15 Fred went back to the cinema this evening.
+16 Bill went to the office this afternoon.
+17 Where was Fred before the cinema? 	bedroom	15 12
+1 Julie travelled to the kitchen this morning.
+2 Yesterday Fred journeyed to the bedroom.
+3 Yesterday Bill travelled to the bedroom.
+4 Julie journeyed to the office yesterday.
+5 Where was Julie before the kitchen? 	office	1 4
+6 Julie travelled to the cinema this afternoon.
+7 Yesterday Mary went to the cinema.
+8 Where was Julie before the cinema? 	kitchen	6 1
+9 Julie journeyed to the kitchen this evening.
+10 This morning Bill moved to the school.
+11 Where was Bill before the school? 	bedroom	10 3
+12 Bill went to the bedroom this afternoon.
+13 This morning Mary went to the park.
+14 Where was Julie before the cinema? 	kitchen	6 1
+15 This evening Bill went back to the office.
+16 This afternoon Mary moved to the office.
+17 Where was Bill before the office? 	bedroom	15 12
+1 This morning Julie moved to the park.
+2 This afternoon Julie journeyed to the cinema.
+3 Julie went to the cinema yesterday.
+4 Yesterday Bill went to the bedroom.
+5 Where was Julie before the cinema? 	park	2 1
+6 Mary went to the park this morning.
+7 Yesterday Mary journeyed to the office.
+8 Where was Julie before the park? 	cinema	1 3
+9 This afternoon Mary went to the school.
+10 Bill moved to the school this morning.
+11 Where was Mary before the park? 	office	6 7
+12 Mary travelled to the bedroom this evening.
+13 This afternoon Bill went to the bedroom.
+14 Where was Bill before the bedroom? 	school	13 10
+15 Fred went back to the office yesterday.
+16 Julie went back to the kitchen this evening.
+17 Where was Mary before the school? 	park	9 6
+1 This morning Julie travelled to the kitchen.
+2 Yesterday Julie journeyed to the school.
+3 Where was Julie before the kitchen? 	school	1 2
+4 This afternoon Julie went to the school.
+5 Yesterday Mary went to the office.
+6 Where was Julie before the school? 	kitchen	4 1
+7 Yesterday Bill travelled to the office.
+8 This evening Julie travelled to the park.
+9 Where was Julie before the kitchen? 	school	1 2
+10 Mary travelled to the park this morning.
+11 This morning Bill moved to the cinema.
+12 Where was Bill before the cinema? 	office	11 7
+13 Bill journeyed to the kitchen this evening.
+14 This afternoon Bill journeyed to the school.
+15 Where was Mary before the park? 	office	10 5
+1 This morning Fred moved to the park.
+2 Fred journeyed to the bedroom yesterday.
+3 Where was Fred before the park? 	bedroom	1 2
+4 This afternoon Fred travelled to the cinema.
+5 Julie travelled to the kitchen yesterday.
+6 Where was Fred before the park? 	bedroom	1 2
+7 This morning Mary travelled to the kitchen.
+8 Mary journeyed to the park yesterday.
+9 Where was Mary before the kitchen? 	park	7 8
+10 Fred went back to the bedroom this evening.
+11 Mary went back to the cinema this afternoon.
+12 Where was Mary before the kitchen? 	park	7 8
+13 This morning Julie travelled to the school.
+14 This evening Mary travelled to the school.
+15 Where was Mary before the kitchen? 	park	7 8
+1 Fred journeyed to the kitchen yesterday.
+2 Mary travelled to the kitchen yesterday.
+3 Fred moved to the park this morning.
+4 Bill travelled to the kitchen yesterday.
+5 Where was Fred before the park? 	kitchen	3 1
+6 Yesterday Julie went back to the kitchen.
+7 This morning Mary went back to the cinema.
+8 Where was Mary before the cinema? 	kitchen	7 2
+9 Julie moved to the bedroom this morning.
+10 Fred went to the school this afternoon.
+11 Where was Fred before the park? 	kitchen	3 1
+12 Mary travelled to the office this afternoon.
+13 This morning Bill went to the school.
+14 Where was Fred before the school? 	park	10 3
+15 This afternoon Julie went to the park.
+16 Mary journeyed to the kitchen this evening.
+17 Where was Mary before the kitchen? 	office	16 12
+1 Yesterday Mary went back to the office.
+2 Yesterday Fred moved to the park.
+3 Bill moved to the bedroom yesterday.
+4 This morning Bill went to the school.
+5 Where was Bill before the school? 	bedroom	4 3
+6 This morning Julie travelled to the bedroom.
+7 Yesterday Julie travelled to the park.
+8 Where was Bill before the school? 	bedroom	4 3
+9 Mary went back to the bedroom this morning.
+10 This morning Fred went to the kitchen.
+11 Where was Mary before the bedroom? 	office	9 1
+12 Julie moved to the kitchen this afternoon.
+13 This afternoon Fred went to the cinema.
+14 Where was Fred before the kitchen? 	park	10 2
+15 This evening Fred moved to the bedroom.
+16 This evening Julie journeyed to the office.
+17 Where was Fred before the bedroom? 	cinema	15 13
+1 Yesterday Bill went to the office.
+2 Fred went to the bedroom yesterday.
+3 Mary travelled to the cinema yesterday.
+4 Mary journeyed to the park this morning.
+5 Where was Mary before the park? 	cinema	4 3
+6 Mary went to the kitchen this evening.
+7 Mary went back to the bedroom this afternoon.
+8 Where was Mary before the park? 	cinema	4 3
+9 Julie went to the cinema yesterday.
+10 Fred moved to the kitchen this morning.
+11 Where was Fred before the kitchen? 	bedroom	10 2
+12 Fred travelled to the bedroom this afternoon.
+13 This morning Bill went to the bedroom.
+14 Where was Bill before the bedroom? 	office	13 1
+15 Julie journeyed to the school this morning.
+16 Fred moved to the school this evening.
+17 Where was Fred before the bedroom? 	kitchen	12 10
+1 This morning Mary went to the school.
+2 Yesterday Mary journeyed to the cinema.
+3 Where was Mary before the school? 	cinema	1 2
+4 Mary journeyed to the bedroom this afternoon.
+5 Bill went back to the park yesterday.
+6 Where was Mary before the bedroom? 	school	4 1
+7 Mary journeyed to the office this evening.
+8 Julie went back to the office yesterday.
+9 Where was Mary before the office? 	bedroom	7 4
+10 This morning Bill went back to the office.
+11 This morning Julie went back to the school.
+12 Where was Julie before the school? 	office	11 8
+13 Bill went to the school this evening.
+14 Bill moved to the kitchen this afternoon.
+15 Where was Mary before the office? 	bedroom	7 4
+1 Yesterday Mary journeyed to the bedroom.
+2 Yesterday Bill went back to the school.
+3 Fred went to the kitchen yesterday.
+4 This morning Mary moved to the cinema.
+5 Julie moved to the cinema yesterday.
+6 Fred went back to the cinema this morning.
+7 Where was Fred before the cinema? 	kitchen	6 3
+8 This evening Mary went back to the kitchen.
+9 This afternoon Mary moved to the park.
+10 Where was Mary before the park? 	cinema	9 4
+11 This morning Bill went back to the park.
+12 This afternoon Fred went back to the kitchen.
+13 Where was Fred before the kitchen? 	cinema	12 6
+14 This evening Fred moved to the bedroom.
+15 Julie moved to the school this morning.
+16 Where was Fred before the kitchen? 	cinema	12 6
+17 This evening Julie went back to the cinema.
+18 Julie journeyed to the kitchen this afternoon.
+19 Where was Julie before the school? 	cinema	15 5
+1 This morning Fred travelled to the school.
+2 Yesterday Fred went to the park.
+3 Where was Fred before the school? 	park	1 2
+4 Fred moved to the office this afternoon.
+5 Yesterday Julie moved to the cinema.
+6 Where was Fred before the office? 	school	4 1
+7 This morning Bill travelled to the park.
+8 Yesterday Bill went back to the office.
+9 Where was Bill before the park? 	office	7 8
+10 Mary went to the park this morning.
+11 Mary went to the bedroom yesterday.
+12 Where was Mary before the park? 	bedroom	10 11
+13 This morning Julie moved to the kitchen.
+14 This afternoon Bill journeyed to the cinema.
+15 Where was Bill before the cinema? 	park	14 7
+1 Yesterday Bill travelled to the bedroom.
+2 Julie went back to the school yesterday.
+3 This morning Fred moved to the park.
+4 Fred journeyed to the school yesterday.
+5 Where was Fred before the park? 	school	3 4
+6 Julie travelled to the office this afternoon.
+7 This morning Julie moved to the park.
+8 Where was Julie before the park? 	school	7 2
+9 Mary travelled to the cinema yesterday.
+10 Fred travelled to the bedroom this afternoon.
+11 Where was Fred before the park? 	school	3 4
+12 Fred moved to the school this evening.
+13 Mary journeyed to the kitchen this morning.
+14 Where was Fred before the school? 	bedroom	12 10
+15 This evening Julie travelled to the cinema.
+16 Bill went back to the school this morning.
+17 Where was Bill before the school? 	bedroom	16 1
+1 Mary journeyed to the cinema this morning.
+2 Julie went to the park this morning.
+3 Yesterday Bill travelled to the bedroom.
+4 Julie moved to the bedroom yesterday.
+5 Fred journeyed to the park yesterday.
+6 Mary travelled to the bedroom yesterday.
+7 Where was Mary before the cinema? 	bedroom	1 6
+8 This morning Fred moved to the cinema.
+9 This morning Bill went back to the park.
+10 Where was Julie before the park? 	bedroom	2 4
+11 Bill journeyed to the office this afternoon.
+12 This afternoon Julie travelled to the school.
+13 Where was Fred before the cinema? 	park	8 5
+14 This evening Mary went back to the office.
+15 Mary travelled to the bedroom this afternoon.
+16 Where was Fred before the cinema? 	park	8 5
+17 This evening Julie went to the park.
+18 This evening Bill went to the park.
+19 Where was Bill before the office? 	park	11 9
+1 Yesterday Bill went to the school.
+2 Mary went to the cinema yesterday.
+3 This morning Julie went back to the kitchen.
+4 Yesterday Julie went to the office.
+5 Where was Julie before the kitchen? 	office	3 4
+6 This afternoon Julie moved to the cinema.
+7 This morning Bill travelled to the kitchen.
+8 Where was Bill before the kitchen? 	school	7 1
+9 Bill travelled to the bedroom this afternoon.
+10 Yesterday Fred moved to the bedroom.
+11 Where was Bill before the kitchen? 	school	7 1
+12 Julie travelled to the school this evening.
+13 This evening Bill journeyed to the park.
+14 Where was Bill before the park? 	bedroom	13 9
+15 Mary went to the office this morning.
+16 This morning Fred travelled to the cinema.
+17 Where was Julie before the school? 	cinema	12 6
+1 Mary went back to the kitchen this morning.
+2 Yesterday Mary went to the park.
+3 Where was Mary before the kitchen? 	park	1 2
+4 Yesterday Fred went back to the kitchen.
+5 This afternoon Mary journeyed to the school.
+6 Where was Mary before the kitchen? 	park	1 2
+7 Bill travelled to the kitchen this morning.
+8 Yesterday Bill went to the park.
+9 Where was Mary before the kitchen? 	park	1 2
+10 Mary moved to the park this evening.
+11 This morning Fred journeyed to the cinema.
+12 Where was Mary before the park? 	school	10 5
+13 This afternoon Bill travelled to the bedroom.
+14 This afternoon Fred went to the kitchen.
+15 Where was Bill before the bedroom? 	kitchen	13 7
+1 Fred moved to the bedroom this morning.
+2 Fred went to the park yesterday.
+3 Yesterday Julie moved to the cinema.
+4 Julie moved to the kitchen this morning.
+5 Where was Julie before the kitchen? 	cinema	4 3
+6 This evening Fred moved to the office.
+7 This afternoon Fred journeyed to the park.
+8 Where was Fred before the bedroom? 	park	1 2
+9 Yesterday Bill went back to the bedroom.
+10 Mary went back to the kitchen yesterday.
+11 Where was Fred before the office? 	park	6 7
+12 Mary went to the office this morning.
+13 This morning Bill moved to the park.
+14 Where was Mary before the office? 	kitchen	12 10
+15 This afternoon Julie went back to the cinema.
+16 Mary moved to the bedroom this afternoon.
+17 Where was Bill before the park? 	bedroom	13 9
+1 Yesterday Mary travelled to the kitchen.
+2 Fred went to the park yesterday.
+3 This morning Fred journeyed to the bedroom.
+4 Bill went back to the bedroom yesterday.
+5 Where was Fred before the bedroom? 	park	3 2
+6 This afternoon Fred moved to the kitchen.
+7 This morning Mary travelled to the park.
+8 Where was Mary before the park? 	kitchen	7 1
+9 Julie travelled to the bedroom this morning.
+10 Yesterday Julie went back to the kitchen.
+11 Where was Julie before the bedroom? 	kitchen	9 10
+12 This evening Julie travelled to the office.
+13 Julie moved to the kitchen this afternoon.
+14 Where was Julie before the bedroom? 	kitchen	9 10
+15 This evening Fred journeyed to the school.
+16 Bill went to the park this morning.
+17 Where was Bill before the park? 	bedroom	16 4

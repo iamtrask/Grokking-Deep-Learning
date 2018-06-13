@@ -1,0 +1,5398 @@
+1 Utxi rbq qzh yeuk qzhxh.
+2 Hbzm ybnha qb qzh phaxbby.
+3 Otmaxt jhmq ptok qb qzh keqozhm.
+4 Utxi qxtnhuuha qb qzh ztuujti.
+5 Mzhxh el qzh yeuk? 	ztuujti	1 4
+6 Hbzm rbq qzh sbbqptuu qzhxh.
+7 Hbzm jhmq qb qzh ztuujti.
+8 Mzhxh el qzh sbbqptuu? 	ztuujti	6 7
+9 Hbzm vdq abjm qzh sbbqptuu.
+10 Utxi jhmq qb qzh rtxahm.
+11 Mzhxh el qzh sbbqptuu? 	ztuujti	9 7
+12 Hbzm jhmq qb qzh keqozhm.
+13 Otmaxt qxtnhuuha qb qzh ztuujti.
+14 Mzhxh el qzh sbbqptuu? 	ztuujti	9 7
+15 Ytmehu jhmq qb qzh ztuujti.
+16 Utxi aelotxaha qzh yeuk.
+17 Mzhxh el qzh yeuk? 	rtxahm	16 10
+1 Utxi cbdxmhiha qb qzh ptqzxbby.
+2 Otmaxt jhmq qb qzh rtxahm.
+3 Ytmehu jhmq ptok qb qzh rtxahm.
+4 Ytmehu jhmq qb qzh bsseoh.
+5 Otmaxt rxtppha qzh yeuk qzhxh.
+6 Otmaxt vdq abjm qzh yeuk qzhxh.
+7 Mzhxh el qzh yeuk? 	rtxahm	6 2
+8 Ytmehu jhmq qb qzh ztuujti.
+9 Otmaxt rbq qzh yeuk qzhxh.
+10 Ytmehu jhmq qb qzh rtxahm.
+11 Ytmehu cbdxmhiha qb qzh keqozhm.
+12 Ytmehu cbdxmhiha qb qzh phaxbby.
+13 Utxi cbdxmhiha qb qzh rtxahm.
+14 Ytmehu qbbk qzh sbbqptuu qzhxh.
+15 Utxi ybnha qb qzh bsseoh.
+16 Otmaxt qxtnhuuha qb qzh phaxbby.
+17 Ytmehu axbvvha qzh sbbqptuu.
+18 Mzhxh el qzh sbbqptuu? 	phaxbby	17 12
+19 Otmaxt uhsq qzh yeuk qzhxh.
+20 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+21 Mzhxh el qzh yeuk? 	phaxbby	19 16
+22 Otmaxt rxtppha qzh yeuk qzhxh.
+23 Ytmehu jhmq qb qzh keqozhm.
+24 Mzhxh el qzh sbbqptuu? 	keqozhm	20 23
+25 Hbzm qxtnhuuha qb qzh keqozhm.
+26 Utxi ybnha qb qzh ztuujti.
+27 Mzhxh el qzh sbbqptuu? 	keqozhm	20 23
+1 Utxi veokha dv qzh tvvuh qzhxh.
+2 Utxi axbvvha qzh tvvuh.
+3 Ytmehu jhmq ptok qb qzh rtxahm.
+4 Utxi cbdxmhiha qb qzh bsseoh.
+5 Hbzm rbq qzh sbbqptuu qzhxh.
+6 Utxi jhmq ptok qb qzh keqozhm.
+7 Ytmehu veokha dv qzh yeuk qzhxh.
+8 Hbzm qxtnhuuha qb qzh phaxbby.
+9 Mzhxh el qzh sbbqptuu? 	phaxbby	5 8
+10 Hbzm ybnha qb qzh ztuujti.
+11 Hbzm aelotxaha qzh sbbqptuu.
+12 Mzhxh el qzh sbbqptuu? 	ztuujti	11 10
+13 Ytmehu axbvvha qzh yeuk.
+14 Hbzm rbq qzh sbbqptuu qzhxh.
+15 Mzhxh el qzh yeuk? 	rtxahm	13 3
+16 Utxi cbdxmhiha qb qzh rtxahm.
+17 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+18 Mzhxh el qzh yeuk? 	rtxahm	13 3
+19 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+20 Utxi jhmq qb qzh ptqzxbby.
+21 Utxi qbbk qzh tvvuh qzhxh.
+22 Utxi axbvvha qzh tvvuh.
+23 Mzhxh el qzh tvvuh? 	ptqzxbby	22 20
+1 Ytmehu cbdxmhiha qb qzh bsseoh.
+2 Hbzm qbbk qzh sbbqptuu qzhxh.
+3 Hbzm aelotxaha qzh sbbqptuu.
+4 Hbzm qxtnhuuha qb qzh rtxahm.
+5 Ytmehu qxtnhuuha qb qzh rtxahm.
+6 Otmaxt jhmq qb qzh rtxahm.
+7 Ytmehu qxtnhuuha qb qzh keqozhm.
+8 Ytmehu ybnha qb qzh bsseoh.
+9 Utxi rxtppha qzh yeuk qzhxh.
+10 Ytmehu cbdxmhiha qb qzh phaxbby.
+11 Hbzm qxtnhuuha qb qzh bsseoh.
+12 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+13 Hbzm qxtnhuuha qb qzh keqozhm.
+14 Utxi qxtnhuuha qb qzh rtxahm.
+15 Utxi axbvvha qzh yeuk.
+16 Hbzm jhmq ptok qb qzh rtxahm.
+17 Mzhxh el qzh yeuk? 	rtxahm	15 14
+18 Otmaxt rbq qzh yeuk qzhxh.
+19 Otmaxt vdq abjm qzh yeuk.
+20 Mzhxh el qzh yeuk? 	rtxahm	19 6
+21 Utxi jhmq ptok qb qzh ptqzxbby.
+22 Utxi qxtnhuuha qb qzh phaxbby.
+23 Mzhxh el qzh yeuk? 	rtxahm	19 6
+24 Hbzm rbq qzh yeuk qzhxh.
+25 Ytmehu jhmq ptok qb qzh bsseoh.
+26 Ytmehu ybnha qb qzh keqozhm.
+27 Ytmehu rxtppha qzh tvvuh qzhxh.
+28 Hbzm uhsq qzh yeuk.
+29 Ytmehu aelotxaha qzh tvvuh.
+30 Mzhxh el qzh tvvuh? 	keqozhm	29 26
+31 Hbzm veokha dv qzh yeuk qzhxh.
+32 Ytmehu jhmq qb qzh ztuujti.
+33 Mzhxh el qzh tvvuh? 	keqozhm	29 26
+1 Utxi ybnha qb qzh keqozhm.
+2 Utxi qxtnhuuha qb qzh bsseoh.
+3 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+4 Utxi ybnha qb qzh ztuujti.
+5 Otmaxt ybnha qb qzh phaxbby.
+6 Utxi jhmq ptok qb qzh phaxbby.
+7 Hbzm rxtppha qzh yeuk qzhxh.
+8 Hbzm vdq abjm qzh yeuk.
+9 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+10 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+11 Hbzm rbq qzh yeuk qzhxh.
+12 Utxi qbbk qzh tvvuh qzhxh.
+13 Utxi uhsq qzh tvvuh.
+14 Hbzm cbdxmhiha qb qzh phaxbby.
+15 Mzhxh el qzh tvvuh? 	phaxbby	13 6
+16 Utxi qxtnhuuha qb qzh bsseoh.
+17 Ytmehu vdq abjm qzh sbbqptuu.
+18 Mzhxh el qzh tvvuh? 	phaxbby	13 6
+19 Hbzm jhmq ptok qb qzh keqozhm.
+20 Otmaxt rbq qzh sbbqptuu qzhxh.
+21 Hbzm qxtnhuuha qb qzh ztuujti.
+22 Otmaxt aelotxaha qzh sbbqptuu qzhxh.
+23 Mzhxh el qzh sbbqptuu? 	ptqzxbby	22 10
+24 Hbzm uhsq qzh yeuk.
+25 Hbzm rxtppha qzh yeuk qzhxh.
+26 Mzhxh el qzh sbbqptuu? 	ptqzxbby	22 10
+27 Utxi jhmq qb qzh ztuujti.
+28 Hbzm ybnha qb qzh phaxbby.
+29 Mzhxh el qzh yeuk? 	phaxbby	25 28
+1 Ytmehu ybnha qb qzh keqozhm.
+2 Hbzm rxtppha qzh sbbqptuu qzhxh.
+3 Hbzm uhsq qzh sbbqptuu qzhxh.
+4 Utxi cbdxmhiha qb qzh ztuujti.
+5 Hbzm rxtppha qzh yeuk qzhxh.
+6 Hbzm qxtnhuuha qb qzh keqozhm.
+7 Mzhxh el qzh yeuk? 	keqozhm	5 6
+8 Utxi cbdxmhiha qb qzh keqozhm.
+9 Otmaxt jhmq qb qzh bsseoh.
+10 Mzhxh el qzh yeuk? 	keqozhm	5 6
+11 Ytmehu jhmq qb qzh ptqzxbby.
+12 Ytmehu veokha dv qzh tvvuh qzhxh.
+13 Otmaxt qxtnhuuha qb qzh rtxahm.
+14 Ytmehu axbvvha qzh tvvuh qzhxh.
+15 Mzhxh el qzh tvvuh? 	ptqzxbby	14 11
+16 Otmaxt jhmq ptok qb qzh bsseoh.
+17 Ytmehu cbdxmhiha qb qzh keqozhm.
+18 Mzhxh el qzh tvvuh? 	ptqzxbby	14 11
+19 Hbzm vdq abjm qzh yeuk.
+20 Ytmehu ybnha qb qzh phaxbby.
+21 Mzhxh el qzh yeuk? 	keqozhm	19 6
+1 Ytmehu cbdxmhiha qb qzh bsseoh.
+2 Ytmehu jhmq ptok qb qzh phaxbby.
+3 Utxi jhmq ptok qb qzh keqozhm.
+4 Utxi rbq qzh sbbqptuu qzhxh.
+5 Ytmehu qxtnhuuha qb qzh ztuujti.
+6 Hbzm cbdxmhiha qb qzh phaxbby.
+7 Ytmehu rbq qzh tvvuh qzhxh.
+8 Otmaxt qxtnhuuha qb qzh rtxahm.
+9 Ytmehu qxtnhuuha qb qzh rtxahm.
+10 Ytmehu axbvvha qzh tvvuh.
+11 Mzhxh el qzh tvvuh? 	rtxahm	10 9
+12 Utxi uhsq qzh sbbqptuu.
+13 Utxi cbdxmhiha qb qzh phaxbby.
+14 Mzhxh el qzh tvvuh? 	rtxahm	10 9
+15 Hbzm ybnha qb qzh ztuujti.
+16 Hbzm jhmq ptok qb qzh phaxbby.
+17 Mzhxh el qzh sbbqptuu? 	keqozhm	12 3
+18 Otmaxt rbq qzh tvvuh qzhxh.
+19 Hbzm jhmq qb qzh keqozhm.
+20 Utxi jhmq qb qzh ptqzxbby.
+21 Utxi cbdxmhiha qb qzh rtxahm.
+22 Otmaxt jhmq ptok qb qzh keqozhm.
+23 Otmaxt vdq abjm qzh tvvuh qzhxh.
+24 Mzhxh el qzh tvvuh? 	keqozhm	23 22
+25 Utxi jhmq ptok qb qzh phaxbby.
+26 Utxi jhmq ptok qb qzh keqozhm.
+27 Mzhxh el qzh tvvuh? 	keqozhm	23 22
+1 Hbzm jhmq ptok qb qzh bsseoh.
+2 Utxi jhmq ptok qb qzh ztuujti.
+3 Ytmehu cbdxmhiha qb qzh phaxbby.
+4 Utxi jhmq ptok qb qzh ptqzxbby.
+5 Otmaxt jhmq ptok qb qzh ztuujti.
+6 Otmaxt rbq qzh yeuk qzhxh.
+7 Utxi ybnha qb qzh bsseoh.
+8 Utxi jhmq qb qzh ztuujti.
+9 Ytmehu jhmq qb qzh ptqzxbby.
+10 Otmaxt jhmq qb qzh bsseoh.
+11 Mzhxh el qzh yeuk? 	bsseoh	6 10
+12 Hbzm cbdxmhiha qb qzh rtxahm.
+13 Otmaxt cbdxmhiha qb qzh ztuujti.
+14 Ytmehu ybnha qb qzh bsseoh.
+15 Utxi jhmq ptok qb qzh bsseoh.
+16 Hbzm ybnha qb qzh keqozhm.
+17 Otmaxt cbdxmhiha qb qzh phaxbby.
+18 Otmaxt jhmq ptok qb qzh bsseoh.
+19 Ytmehu ybnha qb qzh keqozhm.
+20 Hbzm qbbk qzh sbbqptuu qzhxh.
+21 Hbzm uhsq qzh sbbqptuu.
+22 Mzhxh el qzh sbbqptuu? 	keqozhm	21 16
+23 Otmaxt jhmq ptok qb qzh phaxbby.
+24 Otmaxt jhmq ptok qb qzh ztuujti.
+25 Mzhxh el qzh sbbqptuu? 	keqozhm	21 16
+26 Hbzm rxtppha qzh sbbqptuu qzhxh.
+27 Ytmehu jhmq qb qzh ptqzxbby.
+28 Hbzm uhsq qzh sbbqptuu.
+29 Otmaxt jhmq ptok qb qzh phaxbby.
+30 Mzhxh el qzh sbbqptuu? 	keqozhm	28 16
+31 Utxi jhmq qb qzh keqozhm.
+32 Hbzm rxtppha qzh sbbqptuu qzhxh.
+33 Otmaxt vdq abjm qzh yeuk qzhxh.
+34 Hbzm ybnha qb qzh rtxahm.
+35 Mzhxh el qzh yeuk? 	phaxbby	33 29
+1 Ytmehu ybnha qb qzh ztuujti.
+2 Utxi jhmq ptok qb qzh keqozhm.
+3 Hbzm rbq qzh yeuk qzhxh.
+4 Hbzm vdq abjm qzh yeuk.
+5 Hbzm rbq qzh yeuk qzhxh.
+6 Utxi jhmq ptok qb qzh rtxahm.
+7 Hbzm jhmq ptok qb qzh phaxbby.
+8 Utxi veokha dv qzh sbbqptuu qzhxh.
+9 Mzhxh el qzh yeuk? 	phaxbby	5 7
+10 Hbzm jhmq qb qzh bsseoh.
+11 Hbzm uhsq qzh yeuk.
+12 Mzhxh el qzh yeuk? 	bsseoh	11 10
+13 Utxi jhmq qb qzh phaxbby.
+14 Hbzm jhmq qb qzh phaxbby.
+15 Mzhxh el qzh yeuk? 	bsseoh	11 10
+16 Hbzm jhmq qb qzh ptqzxbby.
+17 Utxi ybnha qb qzh ptqzxbby.
+18 Mzhxh el qzh yeuk? 	bsseoh	11 10
+19 Utxi jhmq qb qzh keqozhm.
+20 Utxi qxtnhuuha qb qzh bsseoh.
+21 Otmaxt ybnha qb qzh keqozhm.
+22 Ytmehu veokha dv qzh tvvuh qzhxh.
+23 Otmaxt qxtnhuuha qb qzh rtxahm.
+24 Utxi qxtnhuuha qb qzh phaxbby.
+25 Ytmehu jhmq qb qzh keqozhm.
+26 Utxi vdq abjm qzh sbbqptuu.
+27 Mzhxh el qzh tvvuh? 	keqozhm	22 25
+1 Hbzm qxtnhuuha qb qzh ptqzxbby.
+2 Hbzm qxtnhuuha qb qzh ztuujti.
+3 Utxi veokha dv qzh yeuk qzhxh.
+4 Utxi jhmq ptok qb qzh phaxbby.
+5 Mzhxh el qzh yeuk? 	phaxbby	3 4
+6 Otmaxt qbbk qzh sbbqptuu qzhxh.
+7 Otmaxt ybnha qb qzh bsseoh.
+8 Mzhxh el qzh sbbqptuu? 	bsseoh	6 7
+9 Otmaxt jhmq ptok qb qzh ptqzxbby.
+10 Hbzm cbdxmhiha qb qzh phaxbby.
+11 Mzhxh el qzh sbbqptuu? 	ptqzxbby	6 9
+12 Hbzm jhmq ptok qb qzh ptqzxbby.
+13 Otmaxt vdq abjm qzh sbbqptuu.
+14 Mzhxh el qzh sbbqptuu? 	ptqzxbby	13 9
+15 Utxi aelotxaha qzh yeuk.
+16 Otmaxt ybnha qb qzh keqozhm.
+17 Mzhxh el qzh yeuk? 	phaxbby	15 4
+1 Ytmehu qbbk qzh yeuk qzhxh.
+2 Hbzm cbdxmhiha qb qzh rtxahm.
+3 Ytmehu jhmq ptok qb qzh ztuujti.
+4 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+5 Mzhxh el qzh yeuk? 	ptqzxbby	1 4
+6 Ytmehu axbvvha qzh yeuk.
+7 Ytmehu qbbk qzh yeuk qzhxh.
+8 Hbzm rxtppha qzh tvvuh qzhxh.
+9 Otmaxt cbdxmhiha qb qzh keqozhm.
+10 Hbzm jhmq qb qzh ztuujti.
+11 Otmaxt jhmq ptok qb qzh rtxahm.
+12 Mzhxh el qzh tvvuh? 	ztuujti	8 10
+13 Ytmehu cbdxmhiha qb qzh keqozhm.
+14 Otmaxt cbdxmhiha qb qzh phaxbby.
+15 Ytmehu jhmq ptok qb qzh ztuujti.
+16 Otmaxt jhmq ptok qb qzh keqozhm.
+17 Otmaxt jhmq ptok qb qzh ptqzxbby.
+18 Hbzm jhmq qb qzh keqozhm.
+19 Otmaxt rbq qzh sbbqptuu qzhxh.
+20 Otmaxt jhmq qb qzh keqozhm.
+21 Mzhxh el qzh sbbqptuu? 	keqozhm	19 20
+22 Ytmehu uhsq qzh yeuk.
+23 Otmaxt vdq abjm qzh sbbqptuu.
+24 Mzhxh el qzh sbbqptuu? 	keqozhm	23 20
+25 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+26 Otmaxt vdq abjm qzh sbbqptuu.
+27 Mzhxh el qzh sbbqptuu? 	keqozhm	26 20
+1 Hbzm jhmq qb qzh ptqzxbby.
+2 Ytmehu qxtnhuuha qb qzh keqozhm.
+3 Hbzm cbdxmhiha qb qzh keqozhm.
+4 Ytmehu cbdxmhiha qb qzh ztuujti.
+5 Otmaxt qxtnhuuha qb qzh keqozhm.
+6 Utxi ybnha qb qzh bsseoh.
+7 Ytmehu jhmq ptok qb qzh bsseoh.
+8 Otmaxt jhmq ptok qb qzh ptqzxbby.
+9 Hbzm rxtppha qzh yeuk qzhxh.
+10 Hbzm rxtppha qzh tvvuh qzhxh.
+11 Otmaxt cbdxmhiha qb qzh bsseoh.
+12 Utxi jhmq qb qzh ztuujti.
+13 Hbzm jhmq qb qzh ptqzxbby.
+14 Hbzm aelotxaha qzh tvvuh.
+15 Mzhxh el qzh tvvuh? 	ptqzxbby	14 13
+16 Hbzm vdq abjm qzh yeuk.
+17 Hbzm veokha dv qzh tvvuh qzhxh.
+18 Mzhxh el qzh yeuk? 	ptqzxbby	16 13
+19 Ytmehu jhmq ptok qb qzh ptqzxbby.
+20 Hbzm qbbk qzh yeuk qzhxh.
+21 Ytmehu qxtnhuuha qb qzh rtxahm.
+22 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+23 Hbzm qxtnhuuha qb qzh keqozhm.
+24 Utxi jhmq ptok qb qzh bsseoh.
+25 Mzhxh el qzh yeuk? 	keqozhm	20 23
+26 Utxi ybnha qb qzh ztuujti.
+27 Hbzm uhsq qzh yeuk.
+28 Mzhxh el qzh yeuk? 	keqozhm	27 23
+29 Hbzm jhmq ptok qb qzh phaxbby.
+30 Hbzm uhsq qzh tvvuh qzhxh.
+31 Mzhxh el qzh tvvuh? 	phaxbby	30 29
+1 Ytmehu ybnha qb qzh bsseoh.
+2 Ytmehu qxtnhuuha qb qzh phaxbby.
+3 Hbzm qbbk qzh yeuk qzhxh.
+4 Hbzm qxtnhuuha qb qzh rtxahm.
+5 Mzhxh el qzh yeuk? 	rtxahm	3 4
+6 Otmaxt ybnha qb qzh bsseoh.
+7 Ytmehu jhmq ptok qb qzh bsseoh.
+8 Mzhxh el qzh yeuk? 	rtxahm	3 4
+9 Hbzm jhmq qb qzh keqozhm.
+10 Utxi qxtnhuuha qb qzh rtxahm.
+11 Hbzm veokha dv qzh sbbqptuu qzhxh.
+12 Hbzm axbvvha qzh sbbqptuu.
+13 Mzhxh el qzh sbbqptuu? 	keqozhm	12 9
+14 Hbzm vdq abjm qzh yeuk.
+15 Ytmehu ybnha qb qzh keqozhm.
+16 Mzhxh el qzh sbbqptuu? 	keqozhm	12 9
+17 Utxi qxtnhuuha qb qzh ptqzxbby.
+18 Ytmehu jhmq qb qzh bsseoh.
+19 Mzhxh el qzh sbbqptuu? 	keqozhm	12 9
+1 Ytmehu cbdxmhiha qb qzh ztuujti.
+2 Ytmehu cbdxmhiha qb qzh rtxahm.
+3 Utxi jhmq ptok qb qzh keqozhm.
+4 Ytmehu jhmq ptok qb qzh bsseoh.
+5 Utxi cbdxmhiha qb qzh ptqzxbby.
+6 Hbzm ybnha qb qzh ztuujti.
+7 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+8 Ytmehu jhmq qb qzh keqozhm.
+9 Mzhxh el qzh sbbqptuu? 	keqozhm	7 8
+10 Ytmehu aelotxaha qzh sbbqptuu.
+11 Hbzm jhmq qb qzh ptqzxbby.
+12 Mzhxh el qzh sbbqptuu? 	keqozhm	10 8
+13 Ytmehu qbbk qzh sbbqptuu qzhxh.
+14 Hbzm qxtnhuuha qb qzh keqozhm.
+15 Utxi qxtnhuuha qb qzh bsseoh.
+16 Hbzm qxtnhuuha qb qzh ztuujti.
+17 Hbzm jhmq ptok qb qzh bsseoh.
+18 Ytmehu cbdxmhiha qb qzh phaxbby.
+19 Ytmehu rbq qzh yeuk qzhxh.
+20 Ytmehu aelotxaha qzh yeuk.
+21 Mzhxh el qzh yeuk? 	phaxbby	20 18
+22 Otmaxt jhmq qb qzh ptqzxbby.
+23 Utxi jhmq ptok qb qzh phaxbby.
+24 Mzhxh el qzh yeuk? 	phaxbby	20 18
+25 Ytmehu qbbk qzh tvvuh qzhxh.
+26 Ytmehu axbvvha qzh sbbqptuu.
+27 Mzhxh el qzh sbbqptuu? 	phaxbby	26 18
+1 Otmaxt ybnha qb qzh rtxahm.
+2 Ytmehu qbbk qzh tvvuh qzhxh.
+3 Ytmehu axbvvha qzh tvvuh.
+4 Otmaxt qxtnhuuha qb qzh bsseoh.
+5 Hbzm ybnha qb qzh keqozhm.
+6 Otmaxt ybnha qb qzh rtxahm.
+7 Ytmehu jhmq ptok qb qzh ptqzxbby.
+8 Utxi qxtnhuuha qb qzh ztuujti.
+9 Otmaxt jhmq qb qzh ptqzxbby.
+10 Hbzm jhmq ptok qb qzh phaxbby.
+11 Utxi ybnha qb qzh rtxahm.
+12 Hbzm veokha dv qzh tvvuh qzhxh.
+13 Hbzm jhmq ptok qb qzh keqozhm.
+14 Hbzm jhmq ptok qb qzh rtxahm.
+15 Mzhxh el qzh tvvuh? 	rtxahm	12 14
+16 Utxi jhmq qb qzh bsseoh.
+17 Ytmehu jhmq qb qzh phaxbby.
+18 Mzhxh el qzh tvvuh? 	rtxahm	12 14
+19 Hbzm jhmq qb qzh ptqzxbby.
+20 Hbzm axbvvha qzh tvvuh.
+21 Mzhxh el qzh tvvuh? 	ptqzxbby	20 19
+22 Utxi cbdxmhiha qb qzh phaxbby.
+23 Otmaxt rxtppha qzh tvvuh qzhxh.
+24 Ytmehu ybnha qb qzh keqozhm.
+25 Otmaxt uhsq qzh tvvuh.
+26 Mzhxh el qzh tvvuh? 	ptqzxbby	25 9
+27 Hbzm rxtppha qzh tvvuh qzhxh.
+28 Otmaxt cbdxmhiha qb qzh keqozhm.
+29 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+30 Ytmehu qxtnhuuha qb qzh bsseoh.
+31 Hbzm vdq abjm qzh tvvuh.
+32 Utxi cbdxmhiha qb qzh keqozhm.
+33 Mzhxh el qzh tvvuh? 	ptqzxbby	31 19
+1 Otmaxt cbdxmhiha qb qzh rtxahm.
+2 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+3 Ytmehu jhmq ptok qb qzh rtxahm.
+4 Otmaxt rbq qzh tvvuh qzhxh.
+5 Utxi qxtnhuuha qb qzh phaxbby.
+6 Hbzm jhmq qb qzh ztuujti.
+7 Otmaxt qxtnhuuha qb qzh bsseoh.
+8 Utxi rxtppha qzh yeuk qzhxh.
+9 Mzhxh el qzh tvvuh? 	bsseoh	4 7
+10 Hbzm jhmq qb qzh keqozhm.
+11 Utxi ybnha qb qzh ztuujti.
+12 Mzhxh el qzh yeuk? 	ztuujti	8 11
+13 Otmaxt aelotxaha qzh tvvuh.
+14 Utxi uhsq qzh yeuk.
+15 Mzhxh el qzh yeuk? 	ztuujti	14 11
+16 Utxi qbbk qzh yeuk qzhxh.
+17 Utxi uhsq qzh yeuk.
+18 Mzhxh el qzh yeuk? 	ztuujti	17 11
+19 Hbzm rbq qzh sbbqptuu qzhxh.
+20 Hbzm ybnha qb qzh ztuujti.
+21 Mzhxh el qzh yeuk? 	ztuujti	17 11
+1 Ytmehu ybnha qb qzh phaxbby.
+2 Ytmehu jhmq qb qzh ptqzxbby.
+3 Hbzm ybnha qb qzh rtxahm.
+4 Utxi qxtnhuuha qb qzh phaxbby.
+5 Otmaxt qxtnhuuha qb qzh rtxahm.
+6 Ytmehu cbdxmhiha qb qzh rtxahm.
+7 Otmaxt qxtnhuuha qb qzh ztuujti.
+8 Hbzm rbq qzh sbbqptuu qzhxh.
+9 Hbzm ybnha qb qzh ptqzxbby.
+10 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+11 Mzhxh el qzh sbbqptuu? 	ptqzxbby	8 9
+12 Ytmehu ybnha qb qzh phaxbby.
+13 Ytmehu qxtnhuuha qb qzh keqozhm.
+14 Mzhxh el qzh sbbqptuu? 	ptqzxbby	8 9
+15 Utxi ybnha qb qzh ztuujti.
+16 Otmaxt qxtnhuuha qb qzh bsseoh.
+17 Ytmehu ybnha qb qzh ztuujti.
+18 Ytmehu jhmq ptok qb qzh keqozhm.
+19 Hbzm jhmq ptok qb qzh ztuujti.
+20 Ytmehu jhmq ptok qb qzh ztuujti.
+21 Ytmehu jhmq qb qzh phaxbby.
+22 Hbzm ybnha qb qzh keqozhm.
+23 Utxi ybnha qb qzh bsseoh.
+24 Hbzm jhmq ptok qb qzh rtxahm.
+25 Otmaxt qbbk qzh tvvuh qzhxh.
+26 Ytmehu jhmq qb qzh bsseoh.
+27 Utxi jhmq ptok qb qzh keqozhm.
+28 Utxi jhmq qb qzh phaxbby.
+29 Hbzm cbdxmhiha qb qzh ptqzxbby.
+30 Otmaxt jhmq ptok qb qzh ztuujti.
+31 Otmaxt ybnha qb qzh phaxbby.
+32 Ytmehu ybnha qb qzh rtxahm.
+33 Hbzm jhmq ptok qb qzh phaxbby.
+34 Utxi jhmq ptok qb qzh bsseoh.
+35 Hbzm ybnha qb qzh keqozhm.
+36 Hbzm rxtppha qzh yeuk qzhxh.
+37 Ytmehu cbdxmhiha qb qzh phaxbby.
+38 Hbzm aelotxaha qzh sbbqptuu.
+39 Mzhxh el qzh sbbqptuu? 	keqozhm	38 35
+40 Hbzm uhsq qzh yeuk.
+41 Hbzm qbbk qzh yeuk qzhxh.
+42 Mzhxh el qzh sbbqptuu? 	keqozhm	38 35
+43 Hbzm veokha dv qzh sbbqptuu qzhxh.
+44 Hbzm vdq abjm qzh sbbqptuu.
+45 Mzhxh el qzh sbbqptuu? 	keqozhm	44 35
+1 Hbzm jhmq qb qzh ztuujti.
+2 Hbzm jhmq ptok qb qzh ptqzxbby.
+3 Hbzm rxtppha qzh yeuk qzhxh.
+4 Otmaxt jhmq ptok qb qzh bsseoh.
+5 Otmaxt cbdxmhiha qb qzh keqozhm.
+6 Otmaxt rbq qzh tvvuh qzhxh.
+7 Otmaxt axbvvha qzh tvvuh qzhxh.
+8 Hbzm axbvvha qzh yeuk.
+9 Mzhxh el qzh yeuk? 	ptqzxbby	8 2
+10 Utxi jhmq ptok qb qzh rtxahm.
+11 Otmaxt cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el qzh tvvuh? 	keqozhm	7 5
+13 Otmaxt rbq qzh sbbqptuu qzhxh.
+14 Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el qzh yeuk? 	ptqzxbby	8 2
+16 Otmaxt cbdxmhiha qb qzh phaxbby.
+17 Utxi rxtppha qzh tvvuh qzhxh.
+18 Mzhxh el qzh sbbqptuu? 	phaxbby	13 16
+19 Otmaxt jhmq ptok qb qzh bsseoh.
+20 Utxi aelotxaha qzh tvvuh.
+21 Mzhxh el qzh tvvuh? 	keqozhm	20 14
+1 Ytmehu ybnha qb qzh ptqzxbby.
+2 Otmaxt jhmq ptok qb qzh keqozhm.
+3 Hbzm ybnha qb qzh ptqzxbby.
+4 Utxi veokha dv qzh yeuk qzhxh.
+5 Hbzm qxtnhuuha qb qzh rtxahm.
+6 Utxi axbvvha qzh yeuk qzhxh.
+7 Otmaxt cbdxmhiha qb qzh phaxbby.
+8 Hbzm cbdxmhiha qb qzh ptqzxbby.
+9 Ytmehu jhmq ptok qb qzh bsseoh.
+10 Hbzm ybnha qb qzh ztuujti.
+11 Utxi rbq qzh yeuk qzhxh.
+12 Ytmehu qbbk qzh tvvuh qzhxh.
+13 Hbzm veokha dv qzh sbbqptuu qzhxh.
+14 Utxi jhmq qb qzh keqozhm.
+15 Mzhxh el qzh yeuk? 	keqozhm	11 14
+16 Utxi axbvvha qzh yeuk.
+17 Ytmehu qxtnhuuha qb qzh phaxbby.
+18 Mzhxh el qzh yeuk? 	keqozhm	16 14
+19 Hbzm cbdxmhiha qb qzh bsseoh.
+20 Ytmehu jhmq qb qzh rtxahm.
+21 Mzhxh el qzh yeuk? 	keqozhm	16 14
+22 Utxi veokha dv qzh yeuk qzhxh.
+23 Utxi uhsq qzh yeuk.
+24 Mzhxh el qzh yeuk? 	keqozhm	23 14
+25 Hbzm qxtnhuuha qb qzh rtxahm.
+26 Utxi qxtnhuuha qb qzh bsseoh.
+27 Mzhxh el qzh yeuk? 	keqozhm	23 14
+1 Utxi jhmq qb qzh rtxahm.
+2 Hbzm veokha dv qzh yeuk qzhxh.
+3 Utxi cbdxmhiha qb qzh phaxbby.
+4 Otmaxt jhmq ptok qb qzh ztuujti.
+5 Hbzm aelotxaha qzh yeuk.
+6 Hbzm cbdxmhiha qb qzh phaxbby.
+7 Hbzm rbq qzh sbbqptuu qzhxh.
+8 Hbzm ybnha qb qzh ptqzxbby.
+9 Mzhxh el qzh sbbqptuu? 	ptqzxbby	7 8
+10 Otmaxt jhmq qb qzh bsseoh.
+11 Ytmehu jhmq ptok qb qzh ztuujti.
+12 Mzhxh el qzh sbbqptuu? 	ptqzxbby	7 8
+13 Hbzm vdq abjm qzh sbbqptuu.
+14 Utxi cbdxmhiha qb qzh keqozhm.
+15 Mzhxh el qzh sbbqptuu? 	ptqzxbby	13 8
+16 Utxi veokha dv qzh yeuk qzhxh.
+17 Utxi ybnha qb qzh ztuujti.
+18 Mzhxh el qzh sbbqptuu? 	ptqzxbby	13 8
+19 Hbzm jhmq qb qzh rtxahm.
+20 Utxi aelotxaha qzh yeuk.
+21 Mzhxh el qzh yeuk? 	ztuujti	20 17
+1 Utxi ybnha qb qzh ptqzxbby.
+2 Otmaxt jhmq qb qzh keqozhm.
+3 Hbzm qxtnhuuha qb qzh phaxbby.
+4 Utxi cbdxmhiha qb qzh keqozhm.
+5 Utxi ybnha qb qzh bsseoh.
+6 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+7 Hbzm qxtnhuuha qb qzh ptqzxbby.
+8 Hbzm cbdxmhiha qb qzh bsseoh.
+9 Hbzm qbbk qzh yeuk qzhxh.
+10 Ytmehu qxtnhuuha qb qzh rtxahm.
+11 Utxi jhmq qb qzh keqozhm.
+12 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+13 Hbzm aelotxaha qzh yeuk.
+14 Otmaxt jhmq ptok qb qzh keqozhm.
+15 Mzhxh el qzh yeuk? 	bsseoh	13 8
+16 Ytmehu cbdxmhiha qb qzh bsseoh.
+17 Otmaxt jhmq ptok qb qzh bsseoh.
+18 Mzhxh el qzh yeuk? 	bsseoh	13 8
+19 Ytmehu veokha dv qzh yeuk qzhxh.
+20 Otmaxt jhmq ptok qb qzh phaxbby.
+21 Hbzm jhmq qb qzh rtxahm.
+22 Ytmehu qxtnhuuha qb qzh keqozhm.
+23 Mzhxh el qzh yeuk? 	keqozhm	19 22
+24 Hbzm cbdxmhiha qb qzh phaxbby.
+25 Otmaxt cbdxmhiha qb qzh rtxahm.
+26 Otmaxt ybnha qb qzh keqozhm.
+27 Ytmehu aelotxaha qzh yeuk.
+28 Mzhxh el qzh yeuk? 	keqozhm	27 22
+29 Hbzm veokha dv qzh sbbqptuu qzhxh.
+30 Ytmehu qbbk qzh yeuk qzhxh.
+31 Hbzm uhsq qzh sbbqptuu.
+32 Utxi jhmq qb qzh phaxbby.
+33 Mzhxh el qzh sbbqptuu? 	phaxbby	31 24
+1 Otmaxt qbbk qzh sbbqptuu qzhxh.
+2 Utxi qxtnhuuha qb qzh keqozhm.
+3 Hbzm jhmq qb qzh bsseoh.
+4 Ytmehu qxtnhuuha qb qzh phaxbby.
+5 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+6 Utxi jhmq ptok qb qzh phaxbby.
+7 Otmaxt qxtnhuuha qb qzh keqozhm.
+8 Utxi jhmq qb qzh ptqzxbby.
+9 Otmaxt jhmq ptok qb qzh ptqzxbby.
+10 Otmaxt aelotxaha qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	ptqzxbby	10 9
+12 Utxi cbdxmhiha qb qzh phaxbby.
+13 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+14 Utxi rxtppha qzh yeuk qzhxh.
+15 Utxi aelotxaha qzh yeuk.
+16 Mzhxh el qzh yeuk? 	phaxbby	15 12
+17 Ytmehu ybnha qb qzh phaxbby.
+18 Utxi veokha dv qzh yeuk qzhxh.
+19 Utxi rbq qzh tvvuh qzhxh.
+20 Otmaxt jhmq ptok qb qzh keqozhm.
+21 Utxi aelotxaha qzh tvvuh qzhxh.
+22 Ytmehu qbbk qzh tvvuh qzhxh.
+23 Utxi vdq abjm qzh yeuk qzhxh.
+24 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+25 Mzhxh el qzh tvvuh? 	ptqzxbby	22 24
+26 Utxi cbdxmhiha qb qzh ztuujti.
+27 Ytmehu jhmq qb qzh keqozhm.
+28 Mzhxh el qzh yeuk? 	phaxbby	23 12
+29 Ytmehu jhmq ptok qb qzh ptqzxbby.
+30 Ytmehu axbvvha qzh tvvuh.
+31 Mzhxh el qzh tvvuh? 	ptqzxbby	30 29
+1 Utxi jhmq ptok qb qzh keqozhm.
+2 Utxi qxtnhuuha qb qzh ztuujti.
+3 Hbzm cbdxmhiha qb qzh phaxbby.
+4 Hbzm ybnha qb qzh rtxahm.
+5 Ytmehu jhmq qb qzh ztuujti.
+6 Hbzm ybnha qb qzh ztuujti.
+7 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+8 Utxi qxtnhuuha qb qzh rtxahm.
+9 Ytmehu jhmq qb qzh ztuujti.
+10 Hbzm qxtnhuuha qb qzh bsseoh.
+11 Hbzm qxtnhuuha qb qzh phaxbby.
+12 Utxi cbdxmhiha qb qzh phaxbby.
+13 Hbzm veokha dv qzh sbbqptuu qzhxh.
+14 Hbzm axbvvha qzh sbbqptuu.
+15 Mzhxh el qzh sbbqptuu? 	phaxbby	14 11
+16 Otmaxt qxtnhuuha qb qzh bsseoh.
+17 Utxi qxtnhuuha qb qzh ztuujti.
+18 Mzhxh el qzh sbbqptuu? 	phaxbby	14 11
+19 Otmaxt rxtppha qzh tvvuh qzhxh.
+20 Hbzm rxtppha qzh sbbqptuu qzhxh.
+21 Utxi jhmq ptok qb qzh ptqzxbby.
+22 Hbzm aelotxaha qzh sbbqptuu.
+23 Mzhxh el qzh sbbqptuu? 	phaxbby	22 11
+24 Hbzm veokha dv qzh sbbqptuu qzhxh.
+25 Ytmehu jhmq qb qzh bsseoh.
+26 Otmaxt aelotxaha qzh tvvuh.
+27 Otmaxt rxtppha qzh tvvuh qzhxh.
+28 Hbzm vdq abjm qzh sbbqptuu.
+29 Ytmehu ybnha qb qzh rtxahm.
+30 Mzhxh el qzh sbbqptuu? 	phaxbby	28 11
+31 Otmaxt uhsq qzh tvvuh.
+32 Hbzm cbdxmhiha qb qzh rtxahm.
+33 Mzhxh el qzh tvvuh? 	bsseoh	31 16
+1 Hbzm rxtppha qzh sbbqptuu qzhxh.
+2 Hbzm cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el qzh sbbqptuu? 	bsseoh	1 2
+4 Hbzm jhmq ptok qb qzh rtxahm.
+5 Hbzm jhmq qb qzh ztuujti.
+6 Mzhxh el qzh sbbqptuu? 	ztuujti	1 5
+7 Hbzm axbvvha qzh sbbqptuu.
+8 Hbzm rxtppha qzh sbbqptuu qzhxh.
+9 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+10 Otmaxt veokha dv qzh yeuk qzhxh.
+11 Otmaxt jhmq qb qzh bsseoh.
+12 Hbzm ybnha qb qzh ptqzxbby.
+13 Mzhxh el qzh yeuk? 	bsseoh	10 11
+14 Hbzm rxtppha qzh tvvuh qzhxh.
+15 Otmaxt qxtnhuuha qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	phaxbby	10 15
+17 Hbzm aelotxaha qzh tvvuh.
+18 Utxi jhmq ptok qb qzh ztuujti.
+19 Mzhxh el qzh tvvuh? 	ptqzxbby	17 12
+1 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+2 Otmaxt vdq abjm qzh sbbqptuu.
+3 Hbzm rxtppha qzh tvvuh qzhxh.
+4 Otmaxt jhmq qb qzh ztuujti.
+5 Hbzm cbdxmhiha qb qzh ztuujti.
+6 Utxi rxtppha qzh yeuk qzhxh.
+7 Mzhxh el qzh tvvuh? 	ztuujti	3 5
+8 Hbzm cbdxmhiha qb qzh rtxahm.
+9 Otmaxt ybnha qb qzh ptqzxbby.
+10 Utxi cbdxmhiha qb qzh phaxbby.
+11 Hbzm veokha dv qzh sbbqptuu qzhxh.
+12 Mzhxh el qzh yeuk? 	phaxbby	6 10
+13 Hbzm axbvvha qzh sbbqptuu.
+14 Hbzm aelotxaha qzh tvvuh.
+15 Mzhxh el qzh tvvuh? 	rtxahm	14 8
+16 Hbzm rbq qzh tvvuh qzhxh.
+17 Hbzm veokha dv qzh sbbqptuu qzhxh.
+18 Ytmehu ybnha qb qzh rtxahm.
+19 Otmaxt cbdxmhiha qb qzh keqozhm.
+20 Hbzm aelotxaha qzh sbbqptuu.
+21 Ytmehu qxtnhuuha qb qzh phaxbby.
+22 Mzhxh el qzh sbbqptuu? 	rtxahm	20 8
+23 Hbzm rxtppha qzh sbbqptuu qzhxh.
+24 Ytmehu jhmq ptok qb qzh ztuujti.
+25 Utxi cbdxmhiha qb qzh ztuujti.
+26 Utxi jhmq ptok qb qzh keqozhm.
+27 Hbzm axbvvha qzh sbbqptuu.
+28 Ytmehu jhmq qb qzh keqozhm.
+29 Mzhxh el qzh sbbqptuu? 	rtxahm	27 8
+1 Ytmehu rbq qzh tvvuh qzhxh.
+2 Ytmehu axbvvha qzh tvvuh.
+3 Utxi ybnha qb qzh phaxbby.
+4 Ytmehu cbdxmhiha qb qzh ztuujti.
+5 Utxi qxtnhuuha qb qzh ztuujti.
+6 Otmaxt ybnha qb qzh phaxbby.
+7 Utxi jhmq ptok qb qzh ptqzxbby.
+8 Ytmehu ybnha qb qzh keqozhm.
+9 Utxi jhmq qb qzh keqozhm.
+10 Ytmehu ybnha qb qzh bsseoh.
+11 Utxi veokha dv qzh sbbqptuu qzhxh.
+12 Utxi vdq abjm qzh sbbqptuu.
+13 Mzhxh el qzh sbbqptuu? 	keqozhm	12 9
+14 Hbzm qxtnhuuha qb qzh bsseoh.
+15 Ytmehu jhmq qb qzh ptqzxbby.
+16 Mzhxh el qzh sbbqptuu? 	keqozhm	12 9
+17 Utxi rbq qzh sbbqptuu qzhxh.
+18 Utxi aelotxaha qzh sbbqptuu.
+19 Mzhxh el qzh sbbqptuu? 	keqozhm	18 9
+20 Ytmehu jhmq ptok qb qzh keqozhm.
+21 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+22 Hbzm qxtnhuuha qb qzh phaxbby.
+23 Ytmehu ybnha qb qzh phaxbby.
+24 Mzhxh el qzh sbbqptuu? 	phaxbby	21 23
+25 Utxi cbdxmhiha qb qzh ptqzxbby.
+26 Utxi jhmq ptok qb qzh keqozhm.
+27 Mzhxh el qzh sbbqptuu? 	phaxbby	21 23
+1 Ytmehu qxtnhuuha qb qzh ztuujti.
+2 Utxi ybnha qb qzh keqozhm.
+3 Hbzm rxtppha qzh sbbqptuu qzhxh.
+4 Hbzm aelotxaha qzh sbbqptuu.
+5 Otmaxt cbdxmhiha qb qzh keqozhm.
+6 Otmaxt veokha dv qzh yeuk qzhxh.
+7 Ytmehu ybnha qb qzh bsseoh.
+8 Hbzm qbbk qzh sbbqptuu qzhxh.
+9 Hbzm jhmq qb qzh keqozhm.
+10 Utxi ybnha qb qzh bsseoh.
+11 Mzhxh el qzh sbbqptuu? 	keqozhm	8 9
+12 Otmaxt vdq abjm qzh yeuk.
+13 Hbzm uhsq qzh sbbqptuu.
+14 Mzhxh el qzh sbbqptuu? 	keqozhm	13 9
+15 Hbzm ybnha qb qzh ztuujti.
+16 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+17 Mzhxh el qzh yeuk? 	keqozhm	12 5
+18 Ytmehu jhmq qb qzh rtxahm.
+19 Ytmehu jhmq qb qzh ptqzxbby.
+20 Utxi ybnha qb qzh phaxbby.
+21 Utxi qbbk qzh tvvuh qzhxh.
+22 Otmaxt jhmq ptok qb qzh ztuujti.
+23 Otmaxt aelotxaha qzh sbbqptuu.
+24 Mzhxh el qzh sbbqptuu? 	ztuujti	23 22
+25 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+26 Ytmehu ybnha qb qzh rtxahm.
+27 Ytmehu qxtnhuuha qb qzh phaxbby.
+28 Ytmehu ybnha qb qzh rtxahm.
+29 Otmaxt aelotxaha qzh sbbqptuu.
+30 Hbzm qxtnhuuha qb qzh bsseoh.
+31 Mzhxh el qzh sbbqptuu? 	ztuujti	29 22
+1 Otmaxt jhmq ptok qb qzh ztuujti.
+2 Utxi qxtnhuuha qb qzh ztuujti.
+3 Utxi veokha dv qzh sbbqptuu qzhxh.
+4 Hbzm qxtnhuuha qb qzh ptqzxbby.
+5 Ytmehu ybnha qb qzh phaxbby.
+6 Otmaxt ybnha qb qzh phaxbby.
+7 Otmaxt qxtnhuuha qb qzh ztuujti.
+8 Otmaxt qxtnhuuha qb qzh bsseoh.
+9 Utxi ybnha qb qzh bsseoh.
+10 Utxi vdq abjm qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	bsseoh	10 9
+12 Otmaxt rxtppha qzh yeuk qzhxh.
+13 Otmaxt uhsq qzh yeuk.
+14 Mzhxh el qzh yeuk? 	bsseoh	13 8
+15 Utxi qbbk qzh sbbqptuu qzhxh.
+16 Otmaxt qbbk qzh yeuk qzhxh.
+17 Utxi axbvvha qzh sbbqptuu.
+18 Utxi qxtnhuuha qb qzh phaxbby.
+19 Mzhxh el qzh sbbqptuu? 	bsseoh	17 9
+20 Hbzm jhmq qb qzh ztuujti.
+21 Otmaxt qbbk qzh sbbqptuu qzhxh.
+22 Utxi jhmq ptok qb qzh ztuujti.
+23 Otmaxt qxtnhuuha qb qzh keqozhm.
+24 Mzhxh el qzh sbbqptuu? 	keqozhm	21 23
+25 Hbzm cbdxmhiha qb qzh rtxahm.
+26 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+27 Mzhxh el qzh sbbqptuu? 	ptqzxbby	21 26
+1 Ytmehu cbdxmhiha qb qzh ztuujti.
+2 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+3 Ytmehu cbdxmhiha qb qzh phaxbby.
+4 Ytmehu axbvvha qzh sbbqptuu.
+5 Mzhxh el qzh sbbqptuu? 	phaxbby	4 3
+6 Otmaxt qxtnhuuha qb qzh phaxbby.
+7 Ytmehu cbdxmhiha qb qzh keqozhm.
+8 Mzhxh el qzh sbbqptuu? 	phaxbby	4 3
+9 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+10 Hbzm qxtnhuuha qb qzh bsseoh.
+11 Otmaxt aelotxaha qzh sbbqptuu.
+12 Utxi jhmq ptok qb qzh ztuujti.
+13 Mzhxh el qzh sbbqptuu? 	phaxbby	11 6
+14 Ytmehu jhmq qb qzh ztuujti.
+15 Ytmehu qxtnhuuha qb qzh phaxbby.
+16 Mzhxh el qzh sbbqptuu? 	phaxbby	11 6
+17 Utxi qxtnhuuha qb qzh bsseoh.
+18 Hbzm cbdxmhiha qb qzh keqozhm.
+19 Otmaxt jhmq ptok qb qzh bsseoh.
+20 Ytmehu qbbk qzh sbbqptuu qzhxh.
+21 Ytmehu jhmq qb qzh rtxahm.
+22 Utxi qxtnhuuha qb qzh phaxbby.
+23 Mzhxh el qzh sbbqptuu? 	rtxahm	20 21
+1 Hbzm rbq qzh sbbqptuu qzhxh.
+2 Hbzm uhsq qzh sbbqptuu.
+3 Ytmehu jhmq ptok qb qzh ptqzxbby.
+4 Utxi jhmq ptok qb qzh ptqzxbby.
+5 Otmaxt qxtnhuuha qb qzh bsseoh.
+6 Ytmehu rbq qzh tvvuh qzhxh.
+7 Hbzm rbq qzh sbbqptuu qzhxh.
+8 Hbzm uhsq qzh sbbqptuu.
+9 Ytmehu cbdxmhiha qb qzh keqozhm.
+10 Hbzm ybnha qb qzh ptqzxbby.
+11 Mzhxh el qzh tvvuh? 	keqozhm	6 9
+12 Hbzm jhmq qb qzh bsseoh.
+13 Utxi qbbk qzh yeuk qzhxh.
+14 Hbzm cbdxmhiha qb qzh rtxahm.
+15 Otmaxt jhmq qb qzh rtxahm.
+16 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+17 Utxi aelotxaha qzh yeuk.
+18 Mzhxh el qzh yeuk? 	ptqzxbby	17 4
+19 Otmaxt ybnha qb qzh bsseoh.
+20 Utxi rbq qzh yeuk qzhxh.
+21 Utxi ybnha qb qzh rtxahm.
+22 Utxi uhsq qzh yeuk.
+23 Mzhxh el qzh yeuk? 	rtxahm	22 21
+24 Ytmehu axbvvha qzh tvvuh.
+25 Otmaxt jhmq ptok qb qzh ptqzxbby.
+26 Mzhxh el qzh tvvuh? 	keqozhm	24 9
+27 Hbzm jhmq ptok qb qzh ztuujti.
+28 Utxi rbq qzh yeuk qzhxh.
+29 Mzhxh el qzh tvvuh? 	keqozhm	24 9
+1 Ytmehu qxtnhuuha qb qzh rtxahm.
+2 Otmaxt jhmq ptok qb qzh phaxbby.
+3 Hbzm qxtnhuuha qb qzh phaxbby.
+4 Otmaxt rxtppha qzh tvvuh qzhxh.
+5 Ytmehu qxtnhuuha qb qzh keqozhm.
+6 Otmaxt uhsq qzh tvvuh.
+7 Mzhxh el qzh tvvuh? 	phaxbby	6 2
+8 Otmaxt qxtnhuuha qb qzh bsseoh.
+9 Otmaxt jhmq ptok qb qzh ptqzxbby.
+10 Mzhxh el qzh tvvuh? 	phaxbby	6 2
+11 Hbzm qxtnhuuha qb qzh ptqzxbby.
+12 Ytmehu jhmq ptok qb qzh ztuujti.
+13 Mzhxh el qzh tvvuh? 	phaxbby	6 2
+14 Otmaxt qxtnhuuha qb qzh phaxbby.
+15 Otmaxt cbdxmhiha qb qzh ztuujti.
+16 Otmaxt jhmq ptok qb qzh keqozhm.
+17 Utxi qxtnhuuha qb qzh bsseoh.
+18 Otmaxt cbdxmhiha qb qzh ztuujti.
+19 Utxi jhmq ptok qb qzh ztuujti.
+20 Utxi qxtnhuuha qb qzh rtxahm.
+21 Utxi qbbk qzh sbbqptuu qzhxh.
+22 Utxi jhmq qb qzh keqozhm.
+23 Utxi rxtppha qzh yeuk qzhxh.
+24 Mzhxh el qzh sbbqptuu? 	keqozhm	21 22
+25 Hbzm jhmq qb qzh rtxahm.
+26 Hbzm qxtnhuuha qb qzh keqozhm.
+27 Mzhxh el qzh sbbqptuu? 	keqozhm	21 22
+1 Utxi qxtnhuuha qb qzh ptqzxbby.
+2 Hbzm qbbk qzh yeuk qzhxh.
+3 Otmaxt ybnha qb qzh ztuujti.
+4 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+5 Ytmehu jhmq ptok qb qzh phaxbby.
+6 Ytmehu qxtnhuuha qb qzh keqozhm.
+7 Otmaxt vdq abjm qzh sbbqptuu.
+8 Hbzm ybnha qb qzh phaxbby.
+9 Mzhxh el qzh sbbqptuu? 	ztuujti	7 3
+10 Utxi cbdxmhiha qb qzh ztuujti.
+11 Hbzm axbvvha qzh yeuk.
+12 Mzhxh el qzh sbbqptuu? 	ztuujti	7 3
+13 Utxi qxtnhuuha qb qzh ptqzxbby.
+14 Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el qzh yeuk? 	phaxbby	11 8
+16 Ytmehu qxtnhuuha qb qzh phaxbby.
+17 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+18 Mzhxh el qzh yeuk? 	phaxbby	11 8
+19 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+20 Otmaxt uhsq qzh sbbqptuu.
+21 Mzhxh el qzh sbbqptuu? 	ztuujti	20 3
+1 Hbzm ybnha qb qzh phaxbby.
+2 Otmaxt cbdxmhiha qb qzh bsseoh.
+3 Otmaxt ybnha qb qzh keqozhm.
+4 Ytmehu qxtnhuuha qb qzh phaxbby.
+5 Hbzm jhmq ptok qb qzh bsseoh.
+6 Utxi qxtnhuuha qb qzh rtxahm.
+7 Otmaxt ybnha qb qzh ztuujti.
+8 Otmaxt jhmq qb qzh rtxahm.
+9 Hbzm jhmq ptok qb qzh keqozhm.
+10 Ytmehu jhmq qb qzh bsseoh.
+11 Otmaxt ybnha qb qzh ztuujti.
+12 Ytmehu veokha dv qzh tvvuh qzhxh.
+13 Utxi jhmq qb qzh phaxbby.
+14 Ytmehu jhmq ptok qb qzh rtxahm.
+15 Mzhxh el qzh tvvuh? 	rtxahm	12 14
+16 Ytmehu uhsq qzh tvvuh.
+17 Ytmehu rxtppha qzh tvvuh qzhxh.
+18 Otmaxt qbbk qzh sbbqptuu qzhxh.
+19 Ytmehu aelotxaha qzh tvvuh.
+20 Mzhxh el qzh tvvuh? 	rtxahm	19 14
+21 Utxi cbdxmhiha qb qzh keqozhm.
+22 Otmaxt cbdxmhiha qb qzh keqozhm.
+23 Mzhxh el qzh tvvuh? 	rtxahm	19 14
+24 Ytmehu qxtnhuuha qb qzh phaxbby.
+25 Otmaxt jhmq qb qzh phaxbby.
+26 Mzhxh el qzh tvvuh? 	rtxahm	19 14
+27 Ytmehu jhmq ptok qb qzh ztuujti.
+28 Hbzm jhmq qb qzh ztuujti.
+29 Hbzm jhmq qb qzh bsseoh.
+30 Hbzm ybnha qb qzh keqozhm.
+31 Otmaxt axbvvha qzh sbbqptuu.
+32 Ytmehu jhmq qb qzh rtxahm.
+33 Mzhxh el qzh sbbqptuu? 	phaxbby	31 25
+1 Hbzm jhmq ptok qb qzh rtxahm.
+2 Ytmehu jhmq qb qzh ptqzxbby.
+3 Ytmehu jhmq qb qzh ztuujti.
+4 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+5 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+6 Ytmehu jhmq qb qzh rtxahm.
+7 Mzhxh el qzh sbbqptuu? 	rtxahm	4 6
+8 Hbzm jhmq ptok qb qzh keqozhm.
+9 Ytmehu aelotxaha qzh sbbqptuu.
+10 Mzhxh el qzh sbbqptuu? 	rtxahm	9 6
+11 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+12 Utxi jhmq ptok qb qzh bsseoh.
+13 Hbzm veokha dv qzh tvvuh qzhxh.
+14 Hbzm cbdxmhiha qb qzh ztuujti.
+15 Mzhxh el qzh tvvuh? 	ztuujti	13 14
+16 Utxi qxtnhuuha qb qzh phaxbby.
+17 Ytmehu jhmq ptok qb qzh ptqzxbby.
+18 Mzhxh el qzh tvvuh? 	ztuujti	13 14
+19 Otmaxt jhmq ptok qb qzh bsseoh.
+20 Otmaxt aelotxaha qzh sbbqptuu.
+21 Mzhxh el qzh sbbqptuu? 	bsseoh	20 19
+1 Hbzm jhmq ptok qb qzh phaxbby.
+2 Hbzm cbdxmhiha qb qzh keqozhm.
+3 Hbzm qbbk qzh yeuk qzhxh.
+4 Otmaxt qbbk qzh sbbqptuu qzhxh.
+5 Ytmehu qxtnhuuha qb qzh ztuujti.
+6 Ytmehu veokha dv qzh tvvuh qzhxh.
+7 Utxi qxtnhuuha qb qzh phaxbby.
+8 Ytmehu cbdxmhiha qb qzh phaxbby.
+9 Mzhxh el qzh tvvuh? 	phaxbby	6 8
+10 Hbzm jhmq ptok qb qzh ztuujti.
+11 Ytmehu jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el qzh tvvuh? 	ptqzxbby	6 11
+13 Hbzm axbvvha qzh yeuk qzhxh.
+14 Otmaxt jhmq ptok qb qzh rtxahm.
+15 Mzhxh el qzh yeuk? 	ztuujti	13 10
+16 Hbzm jhmq ptok qb qzh keqozhm.
+17 Utxi ybnha qb qzh bsseoh.
+18 Mzhxh el qzh yeuk? 	ztuujti	13 10
+19 Otmaxt jhmq qb qzh ztuujti.
+20 Otmaxt rxtppha qzh yeuk qzhxh.
+21 Ytmehu axbvvha qzh tvvuh.
+22 Hbzm jhmq ptok qb qzh ztuujti.
+23 Mzhxh el qzh tvvuh? 	ptqzxbby	21 11
+1 Utxi jhmq ptok qb qzh ptqzxbby.
+2 Ytmehu jhmq ptok qb qzh ptqzxbby.
+3 Utxi rbq qzh yeuk qzhxh.
+4 Utxi cbdxmhiha qb qzh keqozhm.
+5 Mzhxh el qzh yeuk? 	keqozhm	3 4
+6 Utxi rbq qzh tvvuh qzhxh.
+7 Utxi ybnha qb qzh ztuujti.
+8 Mzhxh el qzh tvvuh? 	ztuujti	6 7
+9 Utxi jhmq ptok qb qzh phaxbby.
+10 Utxi ybnha qb qzh keqozhm.
+11 Mzhxh el qzh tvvuh? 	keqozhm	6 10
+12 Hbzm cbdxmhiha qb qzh ptqzxbby.
+13 Hbzm jhmq ptok qb qzh ztuujti.
+14 Hbzm ybnha qb qzh phaxbby.
+15 Utxi cbdxmhiha qb qzh rtxahm.
+16 Ytmehu qxtnhuuha qb qzh bsseoh.
+17 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+18 Utxi cbdxmhiha qb qzh bsseoh.
+19 Hbzm cbdxmhiha qb qzh ptqzxbby.
+20 Ytmehu aelotxaha qzh sbbqptuu.
+21 Utxi aelotxaha qzh yeuk.
+22 Mzhxh el qzh yeuk? 	bsseoh	21 18
+23 Utxi rxtppha qzh sbbqptuu qzhxh.
+24 Otmaxt jhmq ptok qb qzh ptqzxbby.
+25 Mzhxh el qzh yeuk? 	bsseoh	21 18
+1 Otmaxt qbbk qzh yeuk qzhxh.
+2 Otmaxt cbdxmhiha qb qzh rtxahm.
+3 Mzhxh el qzh yeuk? 	rtxahm	1 2
+4 Otmaxt axbvvha qzh yeuk qzhxh.
+5 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Mzhxh el qzh yeuk? 	rtxahm	4 2
+7 Hbzm qxtnhuuha qb qzh rtxahm.
+8 Hbzm jhmq qb qzh keqozhm.
+9 Mzhxh el qzh yeuk? 	rtxahm	4 2
+10 Hbzm rbq qzh tvvuh qzhxh.
+11 Ytmehu ybnha qb qzh ptqzxbby.
+12 Hbzm axbvvha qzh tvvuh.
+13 Ytmehu ybnha qb qzh ztuujti.
+14 Mzhxh el qzh tvvuh? 	keqozhm	12 8
+15 Hbzm veokha dv qzh tvvuh qzhxh.
+16 Utxi jhmq ptok qb qzh bsseoh.
+17 Utxi cbdxmhiha qb qzh keqozhm.
+18 Hbzm aelotxaha qzh tvvuh.
+19 Mzhxh el qzh tvvuh? 	keqozhm	18 8
+1 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+2 Utxi qbbk qzh tvvuh qzhxh.
+3 Otmaxt jhmq ptok qb qzh keqozhm.
+4 Utxi jhmq ptok qb qzh bsseoh.
+5 Mzhxh el qzh tvvuh? 	bsseoh	2 4
+6 Otmaxt qbbk qzh yeuk qzhxh.
+7 Utxi aelotxaha qzh tvvuh.
+8 Mzhxh el qzh tvvuh? 	bsseoh	7 4
+9 Utxi rbq qzh tvvuh qzhxh.
+10 Ytmehu ybnha qb qzh phaxbby.
+11 Hbzm jhmq qb qzh phaxbby.
+12 Otmaxt axbvvha qzh yeuk qzhxh.
+13 Mzhxh el qzh yeuk? 	keqozhm	12 3
+14 Utxi vdq abjm qzh tvvuh.
+15 Ytmehu jhmq ptok qb qzh ztuujti.
+16 Mzhxh el qzh tvvuh? 	bsseoh	14 4
+17 Ytmehu jhmq ptok qb qzh rtxahm.
+18 Hbzm ybnha qb qzh bsseoh.
+19 Mzhxh el qzh yeuk? 	keqozhm	12 3
+1 Utxi qxtnhuuha qb qzh phaxbby.
+2 Ytmehu rxtppha qzh tvvuh qzhxh.
+3 Ytmehu jhmq qb qzh rtxahm.
+4 Hbzm qxtnhuuha qb qzh bsseoh.
+5 Mzhxh el qzh tvvuh? 	rtxahm	2 3
+6 Ytmehu uhsq qzh tvvuh.
+7 Hbzm qxtnhuuha qb qzh ztuujti.
+8 Mzhxh el qzh tvvuh? 	rtxahm	6 3
+9 Otmaxt jhmq qb qzh bsseoh.
+10 Ytmehu cbdxmhiha qb qzh ztuujti.
+11 Mzhxh el qzh tvvuh? 	rtxahm	6 3
+12 Ytmehu jhmq qb qzh keqozhm.
+13 Hbzm cbdxmhiha qb qzh keqozhm.
+14 Utxi ybnha qb qzh bsseoh.
+15 Utxi jhmq ptok qb qzh rtxahm.
+16 Utxi ybnha qb qzh bsseoh.
+17 Hbzm jhmq ptok qb qzh ptqzxbby.
+18 Hbzm qxtnhuuha qb qzh bsseoh.
+19 Ytmehu jhmq ptok qb qzh rtxahm.
+20 Hbzm qxtnhuuha qb qzh keqozhm.
+21 Utxi jhmq qb qzh phaxbby.
+22 Ytmehu ybnha qb qzh ptqzxbby.
+23 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+24 Otmaxt qxtnhuuha qb qzh ztuujti.
+25 Ytmehu veokha dv qzh yeuk qzhxh.
+26 Ytmehu axbvvha qzh yeuk.
+27 Ytmehu qbbk qzh yeuk qzhxh.
+28 Ytmehu ybnha qb qzh phaxbby.
+29 Otmaxt jhmq qb qzh rtxahm.
+30 Mzhxh el qzh yeuk? 	phaxbby	27 28
+31 Otmaxt qxtnhuuha qb qzh keqozhm.
+32 Otmaxt qxtnhuuha qb qzh bsseoh.
+33 Mzhxh el qzh yeuk? 	phaxbby	27 28
+1 Otmaxt rbq qzh yeuk qzhxh.
+2 Hbzm rxtppha qzh tvvuh qzhxh.
+3 Hbzm cbdxmhiha qb qzh ptqzxbby.
+4 Hbzm aelotxaha qzh tvvuh.
+5 Mzhxh el qzh tvvuh? 	ptqzxbby	4 3
+6 Hbzm cbdxmhiha qb qzh rtxahm.
+7 Otmaxt qxtnhuuha qb qzh phaxbby.
+8 Mzhxh el qzh tvvuh? 	ptqzxbby	4 3
+9 Otmaxt jhmq ptok qb qzh rtxahm.
+10 Otmaxt uhsq qzh yeuk qzhxh.
+11 Mzhxh el qzh yeuk? 	rtxahm	10 9
+12 Hbzm rxtppha qzh yeuk qzhxh.
+13 Hbzm jhmq ptok qb qzh keqozhm.
+14 Mzhxh el qzh yeuk? 	keqozhm	12 13
+15 Ytmehu jhmq qb qzh rtxahm.
+16 Otmaxt cbdxmhiha qb qzh keqozhm.
+17 Mzhxh el qzh yeuk? 	keqozhm	12 13
+1 Utxi ybnha qb qzh ztuujti.
+2 Utxi cbdxmhiha qb qzh keqozhm.
+3 Otmaxt ybnha qb qzh bsseoh.
+4 Ytmehu cbdxmhiha qb qzh bsseoh.
+5 Utxi qxtnhuuha qb qzh phaxbby.
+6 Utxi jhmq ptok qb qzh rtxahm.
+7 Otmaxt ybnha qb qzh keqozhm.
+8 Ytmehu jhmq ptok qb qzh phaxbby.
+9 Utxi jhmq qb qzh bsseoh.
+10 Utxi ybnha qb qzh rtxahm.
+11 Hbzm ybnha qb qzh ztuujti.
+12 Hbzm qxtnhuuha qb qzh phaxbby.
+13 Hbzm ybnha qb qzh bsseoh.
+14 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+15 Otmaxt veokha dv qzh yeuk qzhxh.
+16 Otmaxt ybnha qb qzh bsseoh.
+17 Mzhxh el qzh yeuk? 	bsseoh	15 16
+18 Hbzm qxtnhuuha qb qzh phaxbby.
+19 Hbzm qxtnhuuha qb qzh ptqzxbby.
+20 Mzhxh el qzh yeuk? 	bsseoh	15 16
+21 Otmaxt jhmq ptok qb qzh rtxahm.
+22 Hbzm jhmq qb qzh ztuujti.
+23 Otmaxt vdq abjm qzh yeuk.
+24 Utxi veokha dv qzh yeuk qzhxh.
+25 Hbzm jhmq ptok qb qzh keqozhm.
+26 Hbzm jhmq qb qzh rtxahm.
+27 Utxi vdq abjm qzh yeuk.
+28 Otmaxt veokha dv qzh yeuk qzhxh.
+29 Otmaxt jhmq ptok qb qzh ztuujti.
+30 Hbzm cbdxmhiha qb qzh ztuujti.
+31 Mzhxh el qzh yeuk? 	ztuujti	28 29
+32 Hbzm ybnha qb qzh phaxbby.
+33 Otmaxt jhmq ptok qb qzh rtxahm.
+34 Mzhxh el qzh yeuk? 	rtxahm	28 33
+35 Hbzm ybnha qb qzh ztuujti.
+36 Otmaxt axbvvha qzh yeuk qzhxh.
+37 Mzhxh el qzh yeuk? 	rtxahm	36 33
+1 Otmaxt cbdxmhiha qb qzh rtxahm.
+2 Ytmehu rbq qzh sbbqptuu qzhxh.
+3 Utxi jhmq ptok qb qzh keqozhm.
+4 Otmaxt jhmq ptok qb qzh ztuujti.
+5 Ytmehu vdq abjm qzh sbbqptuu qzhxh.
+6 Ytmehu cbdxmhiha qb qzh keqozhm.
+7 Otmaxt ybnha qb qzh rtxahm.
+8 Utxi jhmq ptok qb qzh bsseoh.
+9 Utxi ybnha qb qzh keqozhm.
+10 Hbzm qxtnhuuha qb qzh ptqzxbby.
+11 Utxi ybnha qb qzh bsseoh.
+12 Utxi rbq qzh tvvuh qzhxh.
+13 Ytmehu ybnha qb qzh bsseoh.
+14 Ytmehu rbq qzh yeuk qzhxh.
+15 Utxi jhmq ptok qb qzh rtxahm.
+16 Ytmehu uhsq qzh yeuk.
+17 Mzhxh el qzh yeuk? 	bsseoh	16 13
+18 Hbzm qxtnhuuha qb qzh bsseoh.
+19 Utxi vdq abjm qzh tvvuh.
+20 Mzhxh el qzh yeuk? 	bsseoh	16 13
+21 Ytmehu jhmq qb qzh ptqzxbby.
+22 Hbzm rbq qzh yeuk qzhxh.
+23 Mzhxh el qzh tvvuh? 	rtxahm	19 15
+24 Hbzm qxtnhuuha qb qzh ptqzxbby.
+25 Hbzm axbvvha qzh yeuk qzhxh.
+26 Mzhxh el qzh yeuk? 	ptqzxbby	25 24
+27 Otmaxt veokha dv qzh tvvuh qzhxh.
+28 Ytmehu ybnha qb qzh bsseoh.
+29 Mzhxh el qzh yeuk? 	ptqzxbby	25 24
+1 Ytmehu cbdxmhiha qb qzh bsseoh.
+2 Otmaxt jhmq qb qzh ptqzxbby.
+3 Utxi cbdxmhiha qb qzh keqozhm.
+4 Utxi rbq qzh sbbqptuu qzhxh.
+5 Utxi axbvvha qzh sbbqptuu.
+6 Hbzm jhmq qb qzh ztuujti.
+7 Mzhxh el qzh sbbqptuu? 	keqozhm	5 3
+8 Hbzm ybnha qb qzh phaxbby.
+9 Utxi qxtnhuuha qb qzh ptqzxbby.
+10 Mzhxh el qzh sbbqptuu? 	keqozhm	5 3
+11 Otmaxt ybnha qb qzh bsseoh.
+12 Ytmehu cbdxmhiha qb qzh phaxbby.
+13 Ytmehu cbdxmhiha qb qzh keqozhm.
+14 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+15 Ytmehu axbvvha qzh sbbqptuu.
+16 Otmaxt jhmq qb qzh ptqzxbby.
+17 Mzhxh el qzh sbbqptuu? 	keqozhm	15 13
+18 Utxi qxtnhuuha qb qzh bsseoh.
+19 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+20 Otmaxt ybnha qb qzh ztuujti.
+21 Utxi ybnha qb qzh phaxbby.
+22 Utxi jhmq ptok qb qzh ztuujti.
+23 Hbzm jhmq qb qzh bsseoh.
+24 Otmaxt jhmq ptok qb qzh keqozhm.
+25 Ytmehu jhmq ptok qb qzh ztuujti.
+26 Hbzm cbdxmhiha qb qzh keqozhm.
+27 Utxi jhmq qb qzh rtxahm.
+28 Utxi veokha dv qzh yeuk qzhxh.
+29 Ytmehu jhmq ptok qb qzh rtxahm.
+30 Utxi qxtnhuuha qb qzh bsseoh.
+31 Utxi cbdxmhiha qb qzh keqozhm.
+32 Mzhxh el qzh yeuk? 	keqozhm	28 31
+33 Ytmehu uhsq qzh sbbqptuu.
+34 Utxi vdq abjm qzh yeuk.
+35 Mzhxh el qzh sbbqptuu? 	rtxahm	33 29
+1 Ytmehu jhmq qb qzh bsseoh.
+2 Utxi qbbk qzh sbbqptuu qzhxh.
+3 Otmaxt cbdxmhiha qb qzh rtxahm.
+4 Otmaxt jhmq qb qzh phaxbby.
+5 Hbzm qbbk qzh tvvuh qzhxh.
+6 Hbzm vdq abjm qzh tvvuh.
+7 Utxi vdq abjm qzh sbbqptuu.
+8 Hbzm qbbk qzh tvvuh qzhxh.
+9 Utxi jhmq ptok qb qzh phaxbby.
+10 Hbzm vdq abjm qzh tvvuh.
+11 Utxi cbdxmhiha qb qzh keqozhm.
+12 Ytmehu ybnha qb qzh rtxahm.
+13 Otmaxt ybnha qb qzh keqozhm.
+14 Ytmehu veokha dv qzh yeuk qzhxh.
+15 Hbzm jhmq qb qzh ztuujti.
+16 Hbzm cbdxmhiha qb qzh phaxbby.
+17 Otmaxt veokha dv qzh tvvuh qzhxh.
+18 Utxi qxtnhuuha qb qzh phaxbby.
+19 Utxi jhmq ptok qb qzh ptqzxbby.
+20 Otmaxt cbdxmhiha qb qzh bsseoh.
+21 Mzhxh el qzh tvvuh? 	bsseoh	17 20
+22 Hbzm jhmq ptok qb qzh keqozhm.
+23 Hbzm ybnha qb qzh rtxahm.
+24 Otmaxt uhsq qzh tvvuh.
+25 Otmaxt qbbk qzh tvvuh qzhxh.
+26 Otmaxt vdq abjm qzh tvvuh.
+27 Hbzm jhmq ptok qb qzh ptqzxbby.
+28 Mzhxh el qzh tvvuh? 	bsseoh	26 20
+29 Otmaxt qxtnhuuha qb qzh rtxahm.
+30 Ytmehu jhmq qb qzh ptqzxbby.
+31 Mzhxh el qzh tvvuh? 	bsseoh	26 20
+32 Ytmehu uhsq qzh yeuk.
+33 Utxi qbbk qzh yeuk qzhxh.
+34 Utxi vdq abjm qzh yeuk.
+35 Utxi cbdxmhiha qb qzh keqozhm.
+36 Mzhxh el qzh yeuk? 	ptqzxbby	34 19
+37 Utxi ybnha qb qzh phaxbby.
+38 Hbzm jhmq qb qzh rtxahm.
+39 Mzhxh el qzh yeuk? 	ptqzxbby	34 19
+1 Hbzm veokha dv qzh tvvuh qzhxh.
+2 Hbzm ybnha qb qzh bsseoh.
+3 Mzhxh el qzh tvvuh? 	bsseoh	1 2
+4 Utxi jhmq qb qzh bsseoh.
+5 Hbzm aelotxaha qzh tvvuh.
+6 Mzhxh el qzh tvvuh? 	bsseoh	5 2
+7 Hbzm qxtnhuuha qb qzh keqozhm.
+8 Utxi jhmq ptok qb qzh ztuujti.
+9 Mzhxh el qzh tvvuh? 	bsseoh	5 2
+10 Ytmehu rxtppha qzh tvvuh qzhxh.
+11 Ytmehu uhsq qzh tvvuh.
+12 Utxi rxtppha qzh yeuk qzhxh.
+13 Ytmehu ybnha qb qzh keqozhm.
+14 Otmaxt rbq qzh tvvuh qzhxh.
+15 Utxi qxtnhuuha qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	phaxbby	12 15
+17 Otmaxt jhmq qb qzh phaxbby.
+18 Hbzm qxtnhuuha qb qzh ztuujti.
+19 Mzhxh el qzh tvvuh? 	phaxbby	14 17
+1 Utxi rxtppha qzh sbbqptuu qzhxh.
+2 Otmaxt qxtnhuuha qb qzh bsseoh.
+3 Otmaxt veokha dv qzh tvvuh qzhxh.
+4 Otmaxt cbdxmhiha qb qzh phaxbby.
+5 Mzhxh el qzh tvvuh? 	phaxbby	3 4
+6 Otmaxt cbdxmhiha qb qzh keqozhm.
+7 Utxi qxtnhuuha qb qzh rtxahm.
+8 Mzhxh el qzh tvvuh? 	keqozhm	3 6
+9 Hbzm ybnha qb qzh ptqzxbby.
+10 Ytmehu jhmq qb qzh ptqzxbby.
+11 Utxi uhsq qzh sbbqptuu.
+12 Ytmehu qbbk qzh yeuk qzhxh.
+13 Mzhxh el qzh sbbqptuu? 	rtxahm	11 7
+14 Utxi veokha dv qzh sbbqptuu qzhxh.
+15 Hbzm jhmq qb qzh rtxahm.
+16 Utxi vdq abjm qzh sbbqptuu qzhxh.
+17 Ytmehu vdq abjm qzh yeuk qzhxh.
+18 Mzhxh el qzh yeuk? 	ptqzxbby	17 10
+19 Ytmehu rxtppha qzh yeuk qzhxh.
+20 Ytmehu jhmq qb qzh keqozhm.
+21 Mzhxh el qzh sbbqptuu? 	rtxahm	16 7
+1 Ytmehu qbbk qzh tvvuh qzhxh.
+2 Hbzm ybnha qb qzh bsseoh.
+3 Hbzm ybnha qb qzh phaxbby.
+4 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+5 Otmaxt cbdxmhiha qb qzh rtxahm.
+6 Utxi qbbk qzh yeuk qzhxh.
+7 Utxi vdq abjm qzh yeuk.
+8 Utxi jhmq qb qzh rtxahm.
+9 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+10 Hbzm cbdxmhiha qb qzh rtxahm.
+11 Otmaxt jhmq qb qzh ztuujti.
+12 Otmaxt jhmq ptok qb qzh ptqzxbby.
+13 Mzhxh el qzh sbbqptuu? 	ptqzxbby	9 12
+14 Otmaxt aelotxaha qzh sbbqptuu.
+15 Ytmehu ybnha qb qzh keqozhm.
+16 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 12
+17 Hbzm qxtnhuuha qb qzh bsseoh.
+18 Ytmehu qxtnhuuha qb qzh rtxahm.
+19 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 12
+20 Ytmehu vdq abjm qzh tvvuh.
+21 Ytmehu qbbk qzh tvvuh qzhxh.
+22 Ytmehu aelotxaha qzh tvvuh qzhxh.
+23 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+24 Mzhxh el qzh tvvuh? 	rtxahm	22 18
+25 Utxi veokha dv qzh tvvuh qzhxh.
+26 Otmaxt axbvvha qzh sbbqptuu qzhxh.
+27 Mzhxh el qzh sbbqptuu? 	ptqzxbby	26 12
+1 Ytmehu veokha dv qzh tvvuh qzhxh.
+2 Ytmehu axbvvha qzh tvvuh.
+3 Hbzm ybnha qb qzh phaxbby.
+4 Hbzm rxtppha qzh tvvuh qzhxh.
+5 Ytmehu jhmq qb qzh ztuujti.
+6 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+7 Otmaxt jhmq ptok qb qzh keqozhm.
+8 Hbzm uhsq qzh tvvuh.
+9 Mzhxh el qzh tvvuh? 	phaxbby	8 3
+10 Otmaxt axbvvha qzh sbbqptuu.
+11 Utxi cbdxmhiha qb qzh phaxbby.
+12 Mzhxh el qzh tvvuh? 	phaxbby	8 3
+13 Utxi jhmq ptok qb qzh ztuujti.
+14 Otmaxt jhmq qb qzh phaxbby.
+15 Mzhxh el qzh sbbqptuu? 	keqozhm	10 7
+16 Otmaxt qxtnhuuha qb qzh keqozhm.
+17 Otmaxt qxtnhuuha qb qzh rtxahm.
+18 Utxi jhmq qb qzh phaxbby.
+19 Otmaxt rxtppha qzh yeuk qzhxh.
+20 Ytmehu jhmq ptok qb qzh phaxbby.
+21 Ytmehu veokha dv qzh tvvuh qzhxh.
+22 Ytmehu qxtnhuuha qb qzh bsseoh.
+23 Ytmehu vdq abjm qzh tvvuh.
+24 Mzhxh el qzh tvvuh? 	bsseoh	23 22
+25 Otmaxt axbvvha qzh yeuk.
+26 Ytmehu rxtppha qzh tvvuh qzhxh.
+27 Mzhxh el qzh yeuk? 	rtxahm	25 17
+1 Otmaxt ybnha qb qzh ztuujti.
+2 Utxi qbbk qzh tvvuh qzhxh.
+3 Hbzm ybnha qb qzh rtxahm.
+4 Hbzm ybnha qb qzh phaxbby.
+5 Ytmehu ybnha qb qzh keqozhm.
+6 Hbzm jhmq qb qzh rtxahm.
+7 Utxi vdq abjm qzh tvvuh qzhxh.
+8 Utxi veokha dv qzh tvvuh qzhxh.
+9 Utxi ybnha qb qzh ztuujti.
+10 Ytmehu cbdxmhiha qb qzh bsseoh.
+11 Mzhxh el qzh tvvuh? 	ztuujti	8 9
+12 Hbzm cbdxmhiha qb qzh phaxbby.
+13 Hbzm cbdxmhiha qb qzh keqozhm.
+14 Mzhxh el qzh tvvuh? 	ztuujti	8 9
+15 Utxi aelotxaha qzh tvvuh qzhxh.
+16 Utxi qbbk qzh tvvuh qzhxh.
+17 Otmaxt ybnha qb qzh ptqzxbby.
+18 Utxi jhmq ptok qb qzh keqozhm.
+19 Mzhxh el qzh tvvuh? 	keqozhm	16 18
+20 Ytmehu ybnha qb qzh keqozhm.
+21 Utxi cbdxmhiha qb qzh ptqzxbby.
+22 Mzhxh el qzh tvvuh? 	ptqzxbby	16 21
+23 Utxi vdq abjm qzh tvvuh.
+24 Hbzm ybnha qb qzh phaxbby.
+25 Mzhxh el qzh tvvuh? 	ptqzxbby	23 21
+1 Utxi cbdxmhiha qb qzh bsseoh.
+2 Hbzm rxtppha qzh tvvuh qzhxh.
+3 Hbzm uhsq qzh tvvuh.
+4 Utxi jhmq ptok qb qzh ptqzxbby.
+5 Hbzm rxtppha qzh tvvuh qzhxh.
+6 Utxi jhmq ptok qb qzh rtxahm.
+7 Hbzm vdq abjm qzh tvvuh.
+8 Ytmehu rbq qzh yeuk qzhxh.
+9 Ytmehu jhmq ptok qb qzh ztuujti.
+10 Hbzm cbdxmhiha qb qzh bsseoh.
+11 Mzhxh el qzh yeuk? 	ztuujti	8 9
+12 Ytmehu jhmq ptok qb qzh rtxahm.
+13 Utxi rbq qzh tvvuh qzhxh.
+14 Mzhxh el qzh yeuk? 	rtxahm	8 12
+15 Ytmehu aelotxaha qzh yeuk.
+16 Ytmehu rbq qzh sbbqptuu qzhxh.
+17 Mzhxh el qzh yeuk? 	rtxahm	15 12
+18 Ytmehu rbq qzh yeuk qzhxh.
+19 Ytmehu aelotxaha qzh sbbqptuu.
+20 Mzhxh el qzh sbbqptuu? 	rtxahm	19 12
+21 Ytmehu uhsq qzh yeuk.
+22 Ytmehu rxtppha qzh yeuk qzhxh.
+23 Mzhxh el qzh sbbqptuu? 	rtxahm	19 12
+1 Ytmehu rxtppha qzh tvvuh qzhxh.
+2 Ytmehu jhmq ptok qb qzh ptqzxbby.
+3 Mzhxh el qzh tvvuh? 	ptqzxbby	1 2
+4 Hbzm cbdxmhiha qb qzh rtxahm.
+5 Ytmehu jhmq ptok qb qzh ztuujti.
+6 Mzhxh el qzh tvvuh? 	ztuujti	1 5
+7 Utxi ybnha qb qzh phaxbby.
+8 Ytmehu uhsq qzh tvvuh.
+9 Mzhxh el qzh tvvuh? 	ztuujti	8 5
+10 Otmaxt qbbk qzh sbbqptuu qzhxh.
+11 Otmaxt aelotxaha qzh sbbqptuu qzhxh.
+12 Mzhxh el qzh tvvuh? 	ztuujti	8 5
+13 Otmaxt qbbk qzh sbbqptuu qzhxh.
+14 Hbzm qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el qzh tvvuh? 	ztuujti	8 5
+1 Otmaxt ybnha qb qzh keqozhm.
+2 Hbzm ybnha qb qzh ptqzxbby.
+3 Utxi qxtnhuuha qb qzh rtxahm.
+4 Otmaxt ybnha qb qzh bsseoh.
+5 Utxi qxtnhuuha qb qzh ztuujti.
+6 Ytmehu rxtppha qzh yeuk qzhxh.
+7 Ytmehu jhmq qb qzh ptqzxbby.
+8 Otmaxt rbq qzh tvvuh qzhxh.
+9 Mzhxh el qzh yeuk? 	ptqzxbby	6 7
+10 Ytmehu vdq abjm qzh yeuk.
+11 Hbzm rbq qzh yeuk qzhxh.
+12 Otmaxt jhmq ptok qb qzh keqozhm.
+13 Utxi jhmq qb qzh bsseoh.
+14 Mzhxh el qzh tvvuh? 	keqozhm	8 12
+15 Otmaxt cbdxmhiha qb qzh ztuujti.
+16 Otmaxt vdq abjm qzh tvvuh.
+17 Mzhxh el qzh tvvuh? 	ztuujti	16 15
+18 Otmaxt cbdxmhiha qb qzh keqozhm.
+19 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+20 Mzhxh el qzh tvvuh? 	ztuujti	16 15
+21 Otmaxt vdq abjm qzh sbbqptuu.
+22 Otmaxt qbbk qzh sbbqptuu qzhxh.
+23 Mzhxh el qzh tvvuh? 	ztuujti	16 15
+1 Otmaxt jhmq ptok qb qzh keqozhm.
+2 Hbzm veokha dv qzh yeuk qzhxh.
+3 Hbzm uhsq qzh yeuk.
+4 Otmaxt jhmq qb qzh rtxahm.
+5 Utxi jhmq qb qzh ptqzxbby.
+6 Ytmehu cbdxmhiha qb qzh rtxahm.
+7 Otmaxt qbbk qzh sbbqptuu qzhxh.
+8 Ytmehu ybnha qb qzh keqozhm.
+9 Hbzm qbbk qzh yeuk qzhxh.
+10 Hbzm vdq abjm qzh yeuk qzhxh.
+11 Hbzm jhmq qb qzh ptqzxbby.
+12 Otmaxt vdq abjm qzh sbbqptuu.
+13 Mzhxh el qzh sbbqptuu? 	rtxahm	12 4
+14 Ytmehu cbdxmhiha qb qzh phaxbby.
+15 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+16 Mzhxh el qzh sbbqptuu? 	rtxahm	12 4
+17 Hbzm cbdxmhiha qb qzh bsseoh.
+18 Hbzm rxtppha qzh tvvuh qzhxh.
+19 Mzhxh el qzh sbbqptuu? 	rtxahm	12 4
+20 Hbzm qxtnhuuha qb qzh ptqzxbby.
+21 Hbzm uhsq qzh tvvuh qzhxh.
+22 Mzhxh el qzh tvvuh? 	ptqzxbby	21 20
+23 Ytmehu jhmq qb qzh ptqzxbby.
+24 Ytmehu rxtppha qzh tvvuh qzhxh.
+25 Otmaxt ybnha qb qzh ztuujti.
+26 Ytmehu cbdxmhiha qb qzh ztuujti.
+27 Mzhxh el qzh tvvuh? 	ztuujti	24 26
+1 Ytmehu rxtppha qzh tvvuh qzhxh.
+2 Ytmehu axbvvha qzh tvvuh.
+3 Hbzm ybnha qb qzh ztuujti.
+4 Ytmehu qbbk qzh tvvuh qzhxh.
+5 Ytmehu uhsq qzh tvvuh.
+6 Ytmehu jhmq ptok qb qzh ptqzxbby.
+7 Hbzm qxtnhuuha qb qzh rtxahm.
+8 Ytmehu qxtnhuuha qb qzh keqozhm.
+9 Ytmehu jhmq ptok qb qzh ztuujti.
+10 Hbzm veokha dv qzh tvvuh qzhxh.
+11 Hbzm veokha dv qzh sbbqptuu qzhxh.
+12 Utxi jhmq qb qzh rtxahm.
+13 Hbzm uhsq qzh tvvuh.
+14 Utxi qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el qzh tvvuh? 	rtxahm	13 7
+16 Utxi ybnha qb qzh bsseoh.
+17 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+18 Mzhxh el qzh tvvuh? 	rtxahm	13 7
+19 Utxi cbdxmhiha qb qzh rtxahm.
+20 Utxi ybnha qb qzh bsseoh.
+21 Hbzm veokha dv qzh tvvuh qzhxh.
+22 Otmaxt qxtnhuuha qb qzh keqozhm.
+23 Hbzm qxtnhuuha qb qzh ptqzxbby.
+24 Ytmehu qxtnhuuha qb qzh ztuujti.
+25 Mzhxh el qzh tvvuh? 	ptqzxbby	21 23
+26 Otmaxt qxtnhuuha qb qzh bsseoh.
+27 Hbzm qxtnhuuha qb qzh bsseoh.
+28 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+29 Otmaxt cbdxmhiha qb qzh ztuujti.
+30 Utxi jhmq qb qzh ptqzxbby.
+31 Hbzm cbdxmhiha qb qzh ptqzxbby.
+32 Utxi jhmq qb qzh ztuujti.
+33 Otmaxt cbdxmhiha qb qzh bsseoh.
+34 Hbzm uhsq qzh tvvuh qzhxh.
+35 Ytmehu cbdxmhiha qb qzh keqozhm.
+36 Mzhxh el qzh tvvuh? 	ptqzxbby	34 31
+37 Hbzm rxtppha qzh tvvuh qzhxh.
+38 Utxi jhmq ptok qb qzh bsseoh.
+39 Utxi jhmq qb qzh keqozhm.
+40 Hbzm jhmq ptok qb qzh rtxahm.
+41 Mzhxh el qzh tvvuh? 	rtxahm	37 40
+1 Hbzm qxtnhuuha qb qzh bsseoh.
+2 Ytmehu jhmq ptok qb qzh rtxahm.
+3 Hbzm jhmq ptok qb qzh keqozhm.
+4 Ytmehu jhmq ptok qb qzh ztuujti.
+5 Otmaxt cbdxmhiha qb qzh phaxbby.
+6 Ytmehu ybnha qb qzh phaxbby.
+7 Hbzm rxtppha qzh sbbqptuu qzhxh.
+8 Ytmehu cbdxmhiha qb qzh rtxahm.
+9 Hbzm vdq abjm qzh sbbqptuu.
+10 Hbzm qbbk qzh tvvuh qzhxh.
+11 Mzhxh el qzh sbbqptuu? 	keqozhm	9 3
+12 Hbzm cbdxmhiha qb qzh bsseoh.
+13 Utxi cbdxmhiha qb qzh ztuujti.
+14 Mzhxh el qzh tvvuh? 	bsseoh	10 12
+15 Utxi cbdxmhiha qb qzh keqozhm.
+16 Hbzm veokha dv qzh yeuk qzhxh.
+17 Mzhxh el qzh tvvuh? 	bsseoh	10 12
+18 Utxi rbq qzh sbbqptuu qzhxh.
+19 Otmaxt cbdxmhiha qb qzh ztuujti.
+20 Utxi uhsq qzh sbbqptuu.
+21 Hbzm uhsq qzh tvvuh.
+22 Mzhxh el qzh sbbqptuu? 	keqozhm	20 15
+23 Utxi cbdxmhiha qb qzh phaxbby.
+24 Hbzm vdq abjm qzh yeuk.
+25 Mzhxh el qzh tvvuh? 	bsseoh	21 12
+1 Otmaxt ybnha qb qzh ztuujti.
+2 Hbzm qxtnhuuha qb qzh bsseoh.
+3 Otmaxt qbbk qzh yeuk qzhxh.
+4 Otmaxt vdq abjm qzh yeuk.
+5 Mzhxh el qzh yeuk? 	ztuujti	4 1
+6 Utxi jhmq qb qzh phaxbby.
+7 Otmaxt jhmq ptok qb qzh keqozhm.
+8 Mzhxh el qzh yeuk? 	ztuujti	4 1
+9 Utxi jhmq qb qzh keqozhm.
+10 Otmaxt rbq qzh tvvuh qzhxh.
+11 Mzhxh el qzh yeuk? 	ztuujti	4 1
+12 Otmaxt axbvvha qzh tvvuh.
+13 Ytmehu jhmq ptok qb qzh bsseoh.
+14 Mzhxh el qzh tvvuh? 	keqozhm	12 7
+15 Utxi rxtppha qzh tvvuh qzhxh.
+16 Ytmehu cbdxmhiha qb qzh ztuujti.
+17 Ytmehu ybnha qb qzh keqozhm.
+18 Ytmehu qxtnhuuha qb qzh bsseoh.
+19 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+20 Utxi uhsq qzh tvvuh.
+21 Mzhxh el qzh tvvuh? 	keqozhm	20 9
+1 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+2 Otmaxt jhmq qb qzh ptqzxbby.
+3 Utxi veokha dv qzh tvvuh qzhxh.
+4 Otmaxt qbbk qzh sbbqptuu qzhxh.
+5 Ytmehu cbdxmhiha qb qzh phaxbby.
+6 Hbzm jhmq ptok qb qzh ptqzxbby.
+7 Hbzm jhmq ptok qb qzh rtxahm.
+8 Ytmehu cbdxmhiha qb qzh ztuujti.
+9 Otmaxt uhsq qzh sbbqptuu.
+10 Otmaxt jhmq qb qzh bsseoh.
+11 Mzhxh el qzh sbbqptuu? 	ptqzxbby	9 2
+12 Otmaxt jhmq ptok qb qzh ptqzxbby.
+13 Utxi uhsq qzh tvvuh.
+14 Mzhxh el qzh sbbqptuu? 	ptqzxbby	9 2
+15 Utxi jhmq ptok qb qzh keqozhm.
+16 Otmaxt qxtnhuuha qb qzh keqozhm.
+17 Ytmehu rxtppha qzh yeuk qzhxh.
+18 Ytmehu ybnha qb qzh bsseoh.
+19 Mzhxh el qzh yeuk? 	bsseoh	17 18
+20 Ytmehu vdq abjm qzh yeuk.
+21 Ytmehu qxtnhuuha qb qzh rtxahm.
+22 Mzhxh el qzh yeuk? 	bsseoh	20 18
+23 Ytmehu jhmq ptok qb qzh keqozhm.
+24 Ytmehu cbdxmhiha qb qzh ztuujti.
+25 Mzhxh el qzh yeuk? 	bsseoh	20 18
+1 Hbzm jhmq ptok qb qzh phaxbby.
+2 Otmaxt veokha dv qzh tvvuh qzhxh.
+3 Utxi ybnha qb qzh phaxbby.
+4 Otmaxt uhsq qzh tvvuh.
+5 Hbzm jhmq ptok qb qzh rtxahm.
+6 Utxi jhmq ptok qb qzh ztuujti.
+7 Otmaxt rxtppha qzh tvvuh qzhxh.
+8 Ytmehu jhmq ptok qb qzh bsseoh.
+9 Otmaxt uhsq qzh tvvuh qzhxh.
+10 Otmaxt qbbk qzh tvvuh qzhxh.
+11 Otmaxt aelotxaha qzh tvvuh.
+12 Ytmehu jhmq qb qzh rtxahm.
+13 Otmaxt jhmq ptok qb qzh rtxahm.
+14 Hbzm jhmq ptok qb qzh phaxbby.
+15 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+16 Otmaxt jhmq ptok qb qzh phaxbby.
+17 Mzhxh el qzh sbbqptuu? 	phaxbby	15 16
+18 Hbzm jhmq qb qzh rtxahm.
+19 Otmaxt axbvvha qzh sbbqptuu.
+20 Mzhxh el qzh sbbqptuu? 	phaxbby	19 16
+21 Otmaxt rbq qzh sbbqptuu qzhxh.
+22 Otmaxt vdq abjm qzh sbbqptuu.
+23 Mzhxh el qzh sbbqptuu? 	phaxbby	22 16
+24 Ytmehu jhmq qb qzh phaxbby.
+25 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+26 Utxi jhmq ptok qb qzh bsseoh.
+27 Ytmehu aelotxaha qzh sbbqptuu.
+28 Mzhxh el qzh sbbqptuu? 	phaxbby	27 24
+29 Utxi rxtppha qzh yeuk qzhxh.
+30 Otmaxt jhmq qb qzh ztuujti.
+31 Mzhxh el qzh sbbqptuu? 	phaxbby	27 24
+1 Otmaxt qbbk qzh sbbqptuu qzhxh.
+2 Otmaxt uhsq qzh sbbqptuu.
+3 Otmaxt jhmq qb qzh ptqzxbby.
+4 Ytmehu jhmq ptok qb qzh keqozhm.
+5 Ytmehu qxtnhuuha qb qzh ztuujti.
+6 Hbzm jhmq qb qzh ztuujti.
+7 Hbzm cbdxmhiha qb qzh phaxbby.
+8 Hbzm veokha dv qzh yeuk qzhxh.
+9 Ytmehu qbbk qzh tvvuh qzhxh.
+10 Utxi jhmq ptok qb qzh bsseoh.
+11 Ytmehu ybnha qb qzh bsseoh.
+12 Otmaxt jhmq ptok qb qzh ztuujti.
+13 Mzhxh el qzh tvvuh? 	bsseoh	9 11
+14 Utxi veokha dv qzh sbbqptuu qzhxh.
+15 Ytmehu axbvvha qzh tvvuh qzhxh.
+16 Mzhxh el qzh tvvuh? 	bsseoh	15 11
+17 Ytmehu jhmq qb qzh keqozhm.
+18 Otmaxt cbdxmhiha qb qzh keqozhm.
+19 Mzhxh el qzh tvvuh? 	bsseoh	15 11
+20 Ytmehu qxtnhuuha qb qzh phaxbby.
+21 Otmaxt jhmq ptok qb qzh ptqzxbby.
+22 Mzhxh el qzh tvvuh? 	bsseoh	15 11
+23 Ytmehu ybnha qb qzh ptqzxbby.
+24 Hbzm vdq abjm qzh yeuk.
+25 Mzhxh el qzh yeuk? 	phaxbby	24 7
+1 Otmaxt rbq qzh sbbqptuu qzhxh.
+2 Hbzm cbdxmhiha qb qzh ztuujti.
+3 Hbzm cbdxmhiha qb qzh bsseoh.
+4 Ytmehu qxtnhuuha qb qzh phaxbby.
+5 Hbzm jhmq qb qzh phaxbby.
+6 Utxi jhmq ptok qb qzh keqozhm.
+7 Hbzm cbdxmhiha qb qzh ptqzxbby.
+8 Otmaxt cbdxmhiha qb qzh phaxbby.
+9 Otmaxt vdq abjm qzh sbbqptuu.
+10 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+11 Hbzm jhmq ptok qb qzh ztuujti.
+12 Ytmehu ybnha qb qzh ptqzxbby.
+13 Hbzm rxtppha qzh yeuk qzhxh.
+14 Utxi qxtnhuuha qb qzh rtxahm.
+15 Otmaxt ybnha qb qzh ztuujti.
+16 Ytmehu jhmq ptok qb qzh bsseoh.
+17 Otmaxt uhsq qzh sbbqptuu qzhxh.
+18 Hbzm rxtppha qzh sbbqptuu qzhxh.
+19 Hbzm axbvvha qzh sbbqptuu.
+20 Hbzm aelotxaha qzh yeuk qzhxh.
+21 Mzhxh el qzh yeuk? 	ztuujti	20 11
+22 Utxi jhmq qb qzh bsseoh.
+23 Utxi qxtnhuuha qb qzh rtxahm.
+24 Mzhxh el qzh sbbqptuu? 	ztuujti	19 11
+25 Otmaxt ybnha qb qzh ptqzxbby.
+26 Otmaxt jhmq qb qzh keqozhm.
+27 Mzhxh el qzh yeuk? 	ztuujti	20 11
+28 Utxi ybnha qb qzh ptqzxbby.
+29 Otmaxt qxtnhuuha qb qzh bsseoh.
+30 Hbzm jhmq qb qzh phaxbby.
+31 Utxi rxtppha qzh tvvuh qzhxh.
+32 Utxi vdq abjm qzh tvvuh.
+33 Utxi qxtnhuuha qb qzh ztuujti.
+34 Mzhxh el qzh tvvuh? 	ptqzxbby	32 28
+35 Utxi rbq qzh yeuk qzhxh.
+36 Hbzm ybnha qb qzh rtxahm.
+37 Mzhxh el qzh tvvuh? 	ptqzxbby	32 28
+1 Hbzm ybnha qb qzh ptqzxbby.
+2 Ytmehu ybnha qb qzh phaxbby.
+3 Utxi jhmq ptok qb qzh phaxbby.
+4 Utxi ybnha qb qzh bsseoh.
+5 Otmaxt ybnha qb qzh rtxahm.
+6 Hbzm qxtnhuuha qb qzh rtxahm.
+7 Otmaxt jhmq ptok qb qzh ztuujti.
+8 Utxi qbbk qzh sbbqptuu qzhxh.
+9 Otmaxt cbdxmhiha qb qzh keqozhm.
+10 Utxi jhmq qb qzh phaxbby.
+11 Mzhxh el qzh sbbqptuu? 	phaxbby	8 10
+12 Ytmehu jhmq qb qzh rtxahm.
+13 Hbzm qxtnhuuha qb qzh bsseoh.
+14 Mzhxh el qzh sbbqptuu? 	phaxbby	8 10
+15 Utxi ybnha qb qzh bsseoh.
+16 Utxi aelotxaha qzh sbbqptuu qzhxh.
+17 Mzhxh el qzh sbbqptuu? 	bsseoh	16 15
+18 Otmaxt ybnha qb qzh rtxahm.
+19 Hbzm qbbk qzh sbbqptuu qzhxh.
+20 Utxi qxtnhuuha qb qzh keqozhm.
+21 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+22 Ytmehu cbdxmhiha qb qzh phaxbby.
+23 Utxi jhmq ptok qb qzh bsseoh.
+24 Otmaxt ybnha qb qzh bsseoh.
+25 Hbzm jhmq ptok qb qzh phaxbby.
+26 Utxi qxtnhuuha qb qzh rtxahm.
+27 Hbzm axbvvha qzh sbbqptuu.
+28 Mzhxh el qzh sbbqptuu? 	phaxbby	27 25
+29 Otmaxt jhmq ptok qb qzh rtxahm.
+30 Otmaxt ybnha qb qzh ztuujti.
+31 Mzhxh el qzh sbbqptuu? 	phaxbby	27 25
+1 Utxi rxtppha qzh yeuk qzhxh.
+2 Hbzm veokha dv qzh tvvuh qzhxh.
+3 Utxi jhmq qb qzh ptqzxbby.
+4 Ytmehu ybnha qb qzh rtxahm.
+5 Mzhxh el qzh yeuk? 	ptqzxbby	1 3
+6 Hbzm vdq abjm qzh tvvuh.
+7 Utxi uhsq qzh yeuk.
+8 Mzhxh el qzh yeuk? 	ptqzxbby	7 3
+9 Hbzm jhmq qb qzh ptqzxbby.
+10 Ytmehu jhmq ptok qb qzh keqozhm.
+11 Mzhxh el qzh yeuk? 	ptqzxbby	7 3
+12 Utxi veokha dv qzh yeuk qzhxh.
+13 Otmaxt ybnha qb qzh phaxbby.
+14 Utxi uhsq qzh yeuk.
+15 Utxi jhmq ptok qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	ptqzxbby	14 3
+17 Ytmehu jhmq ptok qb qzh phaxbby.
+18 Ytmehu cbdxmhiha qb qzh rtxahm.
+19 Mzhxh el qzh yeuk? 	ptqzxbby	14 3
+1 Otmaxt ybnha qb qzh ptqzxbby.
+2 Utxi veokha dv qzh yeuk qzhxh.
+3 Utxi veokha dv qzh tvvuh qzhxh.
+4 Utxi ybnha qb qzh keqozhm.
+5 Mzhxh el qzh yeuk? 	keqozhm	2 4
+6 Otmaxt ybnha qb qzh ztuujti.
+7 Utxi axbvvha qzh tvvuh.
+8 Mzhxh el qzh yeuk? 	keqozhm	2 4
+9 Utxi axbvvha qzh yeuk.
+10 Ytmehu jhmq qb qzh phaxbby.
+11 Mzhxh el qzh yeuk? 	keqozhm	9 4
+12 Ytmehu cbdxmhiha qb qzh bsseoh.
+13 Hbzm jhmq ptok qb qzh bsseoh.
+14 Mzhxh el qzh yeuk? 	keqozhm	9 4
+15 Ytmehu qxtnhuuha qb qzh ztuujti.
+16 Utxi ybnha qb qzh ztuujti.
+17 Hbzm cbdxmhiha qb qzh ztuujti.
+18 Hbzm qxtnhuuha qb qzh rtxahm.
+19 Utxi jhmq qb qzh rtxahm.
+20 Otmaxt ybnha qb qzh rtxahm.
+21 Hbzm ybnha qb qzh ptqzxbby.
+22 Utxi jhmq qb qzh bsseoh.
+23 Utxi jhmq ptok qb qzh rtxahm.
+24 Otmaxt jhmq qb qzh ztuujti.
+25 Ytmehu cbdxmhiha qb qzh rtxahm.
+26 Utxi cbdxmhiha qb qzh bsseoh.
+27 Otmaxt jhmq ptok qb qzh phaxbby.
+28 Utxi qxtnhuuha qb qzh ptqzxbby.
+29 Utxi jhmq qb qzh phaxbby.
+30 Ytmehu jhmq qb qzh bsseoh.
+31 Utxi cbdxmhiha qb qzh rtxahm.
+32 Ytmehu ybnha qb qzh phaxbby.
+33 Ytmehu ybnha qb qzh keqozhm.
+34 Hbzm ybnha qb qzh phaxbby.
+35 Utxi ybnha qb qzh ztuujti.
+36 Otmaxt ybnha qb qzh ptqzxbby.
+37 Hbzm ybnha qb qzh ptqzxbby.
+38 Ytmehu jhmq qb qzh ztuujti.
+39 Hbzm jhmq qb qzh keqozhm.
+40 Hbzm qxtnhuuha qb qzh ptqzxbby.
+41 Otmaxt qxtnhuuha qb qzh bsseoh.
+42 Otmaxt qxtnhuuha qb qzh keqozhm.
+43 Utxi jhmq qb qzh phaxbby.
+44 Ytmehu qxtnhuuha qb qzh phaxbby.
+45 Utxi ybnha qb qzh ptqzxbby.
+46 Utxi ybnha qb qzh rtxahm.
+47 Ytmehu jhmq qb qzh ptqzxbby.
+48 Ytmehu jhmq qb qzh rtxahm.
+49 Otmaxt jhmq ptok qb qzh bsseoh.
+50 Hbzm jhmq qb qzh bsseoh.
+51 Hbzm ybnha qb qzh ptqzxbby.
+52 Utxi qxtnhuuha qb qzh phaxbby.
+53 Utxi ybnha qb qzh ztuujti.
+54 Ytmehu qxtnhuuha qb qzh keqozhm.
+55 Hbzm qxtnhuuha qb qzh keqozhm.
+56 Otmaxt qxtnhuuha qb qzh keqozhm.
+57 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+58 Hbzm rbq qzh yeuk qzhxh.
+59 Hbzm qxtnhuuha qb qzh rtxahm.
+60 Hbzm jhmq qb qzh keqozhm.
+61 Mzhxh el qzh yeuk? 	keqozhm	58 60
+1 Ytmehu ybnha qb qzh keqozhm.
+2 Ytmehu qxtnhuuha qb qzh phaxbby.
+3 Ytmehu jhmq qb qzh bsseoh.
+4 Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Ytmehu qxtnhuuha qb qzh keqozhm.
+6 Hbzm jhmq ptok qb qzh keqozhm.
+7 Ytmehu jhmq ptok qb qzh bsseoh.
+8 Hbzm jhmq qb qzh phaxbby.
+9 Otmaxt qxtnhuuha qb qzh rtxahm.
+10 Otmaxt jhmq ptok qb qzh bsseoh.
+11 Otmaxt rbq qzh yeuk qzhxh.
+12 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+13 Utxi jhmq ptok qb qzh rtxahm.
+14 Utxi rbq qzh tvvuh qzhxh.
+15 Ytmehu ybnha qb qzh ptqzxbby.
+16 Ytmehu uhsq qzh sbbqptuu.
+17 Mzhxh el qzh sbbqptuu? 	ptqzxbby	16 15
+18 Utxi cbdxmhiha qb qzh bsseoh.
+19 Utxi jhmq ptok qb qzh rtxahm.
+20 Mzhxh el qzh sbbqptuu? 	ptqzxbby	16 15
+21 Utxi ybnha qb qzh keqozhm.
+22 Utxi ybnha qb qzh phaxbby.
+23 Mzhxh el qzh sbbqptuu? 	ptqzxbby	16 15
+24 Otmaxt uhsq qzh yeuk.
+25 Utxi ybnha qb qzh keqozhm.
+26 Mzhxh el qzh yeuk? 	bsseoh	24 10
+27 Otmaxt rbq qzh yeuk qzhxh.
+28 Hbzm cbdxmhiha qb qzh bsseoh.
+29 Ytmehu rbq qzh sbbqptuu qzhxh.
+30 Ytmehu jhmq ptok qb qzh keqozhm.
+31 Mzhxh el qzh sbbqptuu? 	keqozhm	29 30
+1 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+2 Otmaxt veokha dv qzh tvvuh qzhxh.
+3 Ytmehu axbvvha qzh sbbqptuu.
+4 Otmaxt aelotxaha qzh tvvuh.
+5 Hbzm rbq qzh sbbqptuu qzhxh.
+6 Otmaxt rbq qzh tvvuh qzhxh.
+7 Hbzm jhmq qb qzh ptqzxbby.
+8 Utxi cbdxmhiha qb qzh rtxahm.
+9 Mzhxh el qzh sbbqptuu? 	ptqzxbby	5 7
+10 Otmaxt axbvvha qzh tvvuh.
+11 Ytmehu jhmq ptok qb qzh phaxbby.
+12 Otmaxt rbq qzh tvvuh qzhxh.
+13 Ytmehu qxtnhuuha qb qzh rtxahm.
+14 Ytmehu ybnha qb qzh phaxbby.
+15 Hbzm axbvvha qzh sbbqptuu.
+16 Mzhxh el qzh sbbqptuu? 	ptqzxbby	15 7
+17 Otmaxt uhsq qzh tvvuh.
+18 Hbzm rxtppha qzh sbbqptuu qzhxh.
+19 Ytmehu rbq qzh tvvuh qzhxh.
+20 Hbzm uhsq qzh sbbqptuu.
+21 Mzhxh el qzh sbbqptuu? 	ptqzxbby	20 7
+22 Ytmehu aelotxaha qzh tvvuh.
+23 Otmaxt jhmq ptok qb qzh ptqzxbby.
+24 Mzhxh el qzh sbbqptuu? 	ptqzxbby	20 7
+25 Otmaxt jhmq qb qzh keqozhm.
+26 Ytmehu qxtnhuuha qb qzh ztuujti.
+27 Mzhxh el qzh sbbqptuu? 	ptqzxbby	20 7
+1 Otmaxt jhmq ptok qb qzh rtxahm.
+2 Ytmehu qbbk qzh sbbqptuu qzhxh.
+3 Hbzm jhmq ptok qb qzh keqozhm.
+4 Otmaxt cbdxmhiha qb qzh ztuujti.
+5 Otmaxt jhmq qb qzh ptqzxbby.
+6 Otmaxt jhmq qb qzh phaxbby.
+7 Otmaxt jhmq qb qzh keqozhm.
+8 Hbzm qxtnhuuha qb qzh ptqzxbby.
+9 Ytmehu jhmq qb qzh rtxahm.
+10 Utxi jhmq qb qzh rtxahm.
+11 Utxi rxtppha qzh tvvuh qzhxh.
+12 Utxi qxtnhuuha qb qzh ptqzxbby.
+13 Mzhxh el qzh tvvuh? 	ptqzxbby	11 12
+14 Hbzm jhmq qb qzh ztuujti.
+15 Hbzm cbdxmhiha qb qzh bsseoh.
+16 Mzhxh el qzh tvvuh? 	ptqzxbby	11 12
+17 Otmaxt jhmq ptok qb qzh phaxbby.
+18 Ytmehu aelotxaha qzh sbbqptuu.
+19 Mzhxh el qzh sbbqptuu? 	rtxahm	18 9
+20 Hbzm jhmq ptok qb qzh rtxahm.
+21 Ytmehu qxtnhuuha qb qzh phaxbby.
+22 Mzhxh el qzh sbbqptuu? 	rtxahm	18 9
+23 Utxi aelotxaha qzh tvvuh qzhxh.
+24 Otmaxt ybnha qb qzh rtxahm.
+25 Mzhxh el qzh sbbqptuu? 	rtxahm	18 9
+1 Otmaxt cbdxmhiha qb qzh rtxahm.
+2 Hbzm cbdxmhiha qb qzh keqozhm.
+3 Hbzm rxtppha qzh tvvuh qzhxh.
+4 Otmaxt ybnha qb qzh ptqzxbby.
+5 Ytmehu cbdxmhiha qb qzh keqozhm.
+6 Utxi qbbk qzh sbbqptuu qzhxh.
+7 Hbzm cbdxmhiha qb qzh ptqzxbby.
+8 Otmaxt qxtnhuuha qb qzh bsseoh.
+9 Ytmehu qxtnhuuha qb qzh bsseoh.
+10 Utxi ybnha qb qzh rtxahm.
+11 Mzhxh el qzh sbbqptuu? 	rtxahm	6 10
+12 Ytmehu jhmq qb qzh rtxahm.
+13 Hbzm vdq abjm qzh tvvuh.
+14 Mzhxh el qzh tvvuh? 	ptqzxbby	13 7
+15 Hbzm jhmq qb qzh phaxbby.
+16 Utxi ybnha qb qzh ztuujti.
+17 Mzhxh el qzh tvvuh? 	ptqzxbby	13 7
+18 Ytmehu ybnha qb qzh keqozhm.
+19 Utxi vdq abjm qzh sbbqptuu qzhxh.
+20 Mzhxh el qzh sbbqptuu? 	ztuujti	19 16
+21 Otmaxt ybnha qb qzh phaxbby.
+22 Hbzm rxtppha qzh yeuk qzhxh.
+23 Mzhxh el qzh sbbqptuu? 	ztuujti	19 16
+1 Hbzm jhmq ptok qb qzh bsseoh.
+2 Ytmehu cbdxmhiha qb qzh rtxahm.
+3 Utxi qbbk qzh tvvuh qzhxh.
+4 Hbzm jhmq ptok qb qzh ztuujti.
+5 Utxi rxtppha qzh yeuk qzhxh.
+6 Ytmehu ybnha qb qzh phaxbby.
+7 Utxi axbvvha qzh tvvuh qzhxh.
+8 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+9 Utxi qxtnhuuha qb qzh rtxahm.
+10 Utxi jhmq ptok qb qzh ztuujti.
+11 Otmaxt jhmq ptok qb qzh keqozhm.
+12 Otmaxt jhmq ptok qb qzh ztuujti.
+13 Mzhxh el qzh sbbqptuu? 	ztuujti	8 12
+14 Otmaxt vdq abjm qzh sbbqptuu.
+15 Otmaxt jhmq qb qzh rtxahm.
+16 Mzhxh el qzh sbbqptuu? 	ztuujti	14 12
+17 Utxi veokha dv qzh sbbqptuu qzhxh.
+18 Otmaxt ybnha qb qzh ztuujti.
+19 Otmaxt cbdxmhiha qb qzh keqozhm.
+20 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+21 Otmaxt jhmq qb qzh bsseoh.
+22 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+23 Utxi jhmq qb qzh ptqzxbby.
+24 Utxi ybnha qb qzh phaxbby.
+25 Utxi jhmq qb qzh ztuujti.
+26 Ytmehu jhmq qb qzh bsseoh.
+27 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+28 Ytmehu jhmq ptok qb qzh rtxahm.
+29 Utxi aelotxaha qzh sbbqptuu.
+30 Ytmehu jhmq qb qzh ptqzxbby.
+31 Mzhxh el qzh sbbqptuu? 	ztuujti	29 25
+32 Utxi cbdxmhiha qb qzh phaxbby.
+33 Hbzm ybnha qb qzh bsseoh.
+34 Mzhxh el qzh sbbqptuu? 	ztuujti	29 25
+35 Hbzm cbdxmhiha qb qzh phaxbby.
+36 Ytmehu jhmq ptok qb qzh bsseoh.
+37 Ytmehu qxtnhuuha qb qzh keqozhm.
+38 Ytmehu jhmq qb qzh phaxbby.
+39 Hbzm jhmq ptok qb qzh ztuujti.
+40 Utxi uhsq qzh yeuk.
+41 Mzhxh el qzh yeuk? 	phaxbby	40 32
+1 Hbzm qxtnhuuha qb qzh bsseoh.
+2 Hbzm cbdxmhiha qb qzh rtxahm.
+3 Utxi rbq qzh sbbqptuu qzhxh.
+4 Utxi uhsq qzh sbbqptuu qzhxh.
+5 Ytmehu rbq qzh sbbqptuu qzhxh.
+6 Otmaxt rbq qzh yeuk qzhxh.
+7 Hbzm qxtnhuuha qb qzh bsseoh.
+8 Utxi qxtnhuuha qb qzh rtxahm.
+9 Otmaxt qxtnhuuha qb qzh rtxahm.
+10 Hbzm ybnha qb qzh phaxbby.
+11 Mzhxh el qzh yeuk? 	rtxahm	6 9
+12 Ytmehu qxtnhuuha qb qzh ztuujti.
+13 Otmaxt vdq abjm qzh yeuk.
+14 Mzhxh el qzh yeuk? 	rtxahm	13 9
+15 Utxi rxtppha qzh yeuk qzhxh.
+16 Ytmehu cbdxmhiha qb qzh phaxbby.
+17 Hbzm cbdxmhiha qb qzh ztuujti.
+18 Hbzm jhmq ptok qb qzh bsseoh.
+19 Otmaxt jhmq ptok qb qzh bsseoh.
+20 Hbzm cbdxmhiha qb qzh phaxbby.
+21 Hbzm jhmq qb qzh ptqzxbby.
+22 Hbzm qxtnhuuha qb qzh keqozhm.
+23 Ytmehu ybnha qb qzh ztuujti.
+24 Hbzm qxtnhuuha qb qzh phaxbby.
+25 Ytmehu vdq abjm qzh sbbqptuu.
+26 Utxi jhmq qb qzh keqozhm.
+27 Mzhxh el qzh sbbqptuu? 	ztuujti	25 23
+28 Ytmehu qxtnhuuha qb qzh rtxahm.
+29 Utxi cbdxmhiha qb qzh ztuujti.
+30 Mzhxh el qzh sbbqptuu? 	ztuujti	25 23
+31 Otmaxt jhmq ptok qb qzh phaxbby.
+32 Hbzm ybnha qb qzh bsseoh.
+33 Ytmehu cbdxmhiha qb qzh ztuujti.
+34 Utxi aelotxaha qzh yeuk.
+35 Mzhxh el qzh yeuk? 	ztuujti	34 29
+1 Utxi cbdxmhiha qb qzh bsseoh.
+2 Otmaxt veokha dv qzh yeuk qzhxh.
+3 Hbzm jhmq ptok qb qzh keqozhm.
+4 Otmaxt rbq qzh tvvuh qzhxh.
+5 Utxi rbq qzh sbbqptuu qzhxh.
+6 Utxi jhmq ptok qb qzh rtxahm.
+7 Mzhxh el qzh sbbqptuu? 	rtxahm	5 6
+8 Ytmehu jhmq qb qzh ptqzxbby.
+9 Hbzm jhmq qb qzh ptqzxbby.
+10 Mzhxh el qzh sbbqptuu? 	rtxahm	5 6
+11 Otmaxt jhmq ptok qb qzh rtxahm.
+12 Otmaxt aelotxaha qzh tvvuh.
+13 Mzhxh el qzh tvvuh? 	rtxahm	12 11
+14 Ytmehu jhmq ptok qb qzh phaxbby.
+15 Otmaxt jhmq ptok qb qzh ptqzxbby.
+16 Mzhxh el qzh tvvuh? 	rtxahm	12 11
+17 Utxi jhmq ptok qb qzh ptqzxbby.
+18 Utxi uhsq qzh sbbqptuu.
+19 Mzhxh el qzh tvvuh? 	rtxahm	12 11
+1 Utxi veokha dv qzh sbbqptuu qzhxh.
+2 Otmaxt rbq qzh yeuk qzhxh.
+3 Otmaxt jhmq ptok qb qzh phaxbby.
+4 Ytmehu jhmq ptok qb qzh rtxahm.
+5 Mzhxh el qzh yeuk? 	phaxbby	2 3
+6 Ytmehu qxtnhuuha qb qzh bsseoh.
+7 Otmaxt qxtnhuuha qb qzh bsseoh.
+8 Mzhxh el qzh yeuk? 	bsseoh	2 7
+9 Hbzm rbq qzh tvvuh qzhxh.
+10 Utxi ybnha qb qzh keqozhm.
+11 Otmaxt uhsq qzh yeuk qzhxh.
+12 Ytmehu jhmq qb qzh keqozhm.
+13 Mzhxh el qzh yeuk? 	bsseoh	11 7
+14 Otmaxt jhmq qb qzh keqozhm.
+15 Ytmehu cbdxmhiha qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	bsseoh	11 7
+17 Hbzm axbvvha qzh tvvuh.
+18 Utxi vdq abjm qzh sbbqptuu.
+19 Mzhxh el qzh sbbqptuu? 	keqozhm	18 10
+1 Hbzm jhmq qb qzh phaxbby.
+2 Hbzm ybnha qb qzh rtxahm.
+3 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+4 Otmaxt ybnha qb qzh ztuujti.
+5 Otmaxt rbq qzh sbbqptuu qzhxh.
+6 Otmaxt vdq abjm qzh sbbqptuu.
+7 Mzhxh el qzh sbbqptuu? 	ztuujti	6 4
+8 Ytmehu ybnha qb qzh ztuujti.
+9 Utxi qbbk qzh yeuk qzhxh.
+10 Mzhxh el qzh sbbqptuu? 	ztuujti	6 4
+11 Utxi ybnha qb qzh bsseoh.
+12 Otmaxt jhmq qb qzh rtxahm.
+13 Mzhxh el qzh yeuk? 	bsseoh	9 11
+14 Ytmehu jhmq qb qzh bsseoh.
+15 Utxi jhmq qb qzh ztuujti.
+16 Mzhxh el qzh yeuk? 	ztuujti	9 15
+17 Hbzm cbdxmhiha qb qzh ztuujti.
+18 Utxi aelotxaha qzh yeuk.
+19 Mzhxh el qzh yeuk? 	ztuujti	18 15
+1 Utxi jhmq ptok qb qzh keqozhm.
+2 Ytmehu qxtnhuuha qb qzh bsseoh.
+3 Utxi ybnha qb qzh ztuujti.
+4 Hbzm jhmq qb qzh keqozhm.
+5 Ytmehu jhmq ptok qb qzh ptqzxbby.
+6 Hbzm qxtnhuuha qb qzh ptqzxbby.
+7 Ytmehu ybnha qb qzh keqozhm.
+8 Otmaxt ybnha qb qzh keqozhm.
+9 Hbzm rxtppha qzh sbbqptuu qzhxh.
+10 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+11 Hbzm aelotxaha qzh sbbqptuu.
+12 Hbzm rxtppha qzh sbbqptuu qzhxh.
+13 Hbzm jhmq ptok qb qzh phaxbby.
+14 Otmaxt jhmq qb qzh bsseoh.
+15 Mzhxh el qzh sbbqptuu? 	phaxbby	12 13
+16 Utxi ybnha qb qzh rtxahm.
+17 Ytmehu jhmq qb qzh ptqzxbby.
+18 Mzhxh el qzh sbbqptuu? 	phaxbby	12 13
+19 Hbzm ybnha qb qzh bsseoh.
+20 Utxi veokha dv qzh yeuk qzhxh.
+21 Otmaxt rbq qzh tvvuh qzhxh.
+22 Otmaxt qxtnhuuha qb qzh phaxbby.
+23 Mzhxh el qzh tvvuh? 	phaxbby	21 22
+24 Ytmehu ybnha qb qzh bsseoh.
+25 Otmaxt uhsq qzh tvvuh.
+26 Mzhxh el qzh tvvuh? 	phaxbby	25 22
+27 Hbzm ybnha qb qzh phaxbby.
+28 Hbzm aelotxaha qzh sbbqptuu qzhxh.
+29 Mzhxh el qzh sbbqptuu? 	phaxbby	28 27
+1 Hbzm qxtnhuuha qb qzh ztuujti.
+2 Ytmehu cbdxmhiha qb qzh keqozhm.
+3 Otmaxt cbdxmhiha qb qzh rtxahm.
+4 Ytmehu rxtppha qzh tvvuh qzhxh.
+5 Otmaxt rbq qzh yeuk qzhxh.
+6 Ytmehu axbvvha qzh tvvuh qzhxh.
+7 Mzhxh el qzh tvvuh? 	keqozhm	6 2
+8 Otmaxt aelotxaha qzh yeuk qzhxh.
+9 Otmaxt jhmq qb qzh ztuujti.
+10 Mzhxh el qzh tvvuh? 	keqozhm	6 2
+11 Hbzm ybnha qb qzh keqozhm.
+12 Utxi ybnha qb qzh ztuujti.
+13 Mzhxh el qzh yeuk? 	rtxahm	8 3
+14 Hbzm cbdxmhiha qb qzh bsseoh.
+15 Ytmehu qbbk qzh tvvuh qzhxh.
+16 Ytmehu vdq abjm qzh tvvuh.
+17 Ytmehu rbq qzh tvvuh qzhxh.
+18 Hbzm cbdxmhiha qb qzh ztuujti.
+19 Ytmehu qxtnhuuha qb qzh phaxbby.
+20 Mzhxh el qzh tvvuh? 	phaxbby	17 19
+21 Ytmehu vdq abjm qzh tvvuh.
+22 Otmaxt jhmq qb qzh bsseoh.
+23 Mzhxh el qzh tvvuh? 	phaxbby	21 19
+1 Otmaxt qxtnhuuha qb qzh bsseoh.
+2 Ytmehu ybnha qb qzh keqozhm.
+3 Utxi qxtnhuuha qb qzh ptqzxbby.
+4 Otmaxt qbbk qzh sbbqptuu qzhxh.
+5 Ytmehu veokha dv qzh tvvuh qzhxh.
+6 Otmaxt jhmq ptok qb qzh keqozhm.
+7 Mzhxh el qzh sbbqptuu? 	keqozhm	4 6
+8 Otmaxt uhsq qzh sbbqptuu qzhxh.
+9 Ytmehu axbvvha qzh tvvuh qzhxh.
+10 Mzhxh el qzh tvvuh? 	keqozhm	9 2
+11 Utxi cbdxmhiha qb qzh bsseoh.
+12 Ytmehu qxtnhuuha qb qzh ztuujti.
+13 Mzhxh el qzh tvvuh? 	keqozhm	9 2
+14 Ytmehu rbq qzh yeuk qzhxh.
+15 Otmaxt jhmq qb qzh ztuujti.
+16 Mzhxh el qzh tvvuh? 	keqozhm	9 2
+17 Otmaxt ybnha qb qzh ptqzxbby.
+18 Utxi jhmq ptok qb qzh ztuujti.
+19 Utxi ybnha qb qzh ptqzxbby.
+20 Ytmehu aelotxaha qzh yeuk.
+21 Mzhxh el qzh yeuk? 	ztuujti	20 12
+1 Hbzm rxtppha qzh yeuk qzhxh.
+2 Hbzm uhsq qzh yeuk.
+3 Otmaxt qbbk qzh yeuk qzhxh.
+4 Otmaxt ybnha qb qzh keqozhm.
+5 Mzhxh el qzh yeuk? 	keqozhm	3 4
+6 Otmaxt vdq abjm qzh yeuk.
+7 Hbzm cbdxmhiha qb qzh bsseoh.
+8 Mzhxh el qzh yeuk? 	keqozhm	6 4
+9 Ytmehu cbdxmhiha qb qzh phaxbby.
+10 Hbzm jhmq ptok qb qzh keqozhm.
+11 Mzhxh el qzh yeuk? 	keqozhm	6 4
+12 Ytmehu jhmq ptok qb qzh rtxahm.
+13 Hbzm rxtppha qzh tvvuh qzhxh.
+14 Otmaxt rbq qzh yeuk qzhxh.
+15 Ytmehu ybnha qb qzh ptqzxbby.
+16 Hbzm qxtnhuuha qb qzh ztuujti.
+17 Hbzm ybnha qb qzh bsseoh.
+18 Mzhxh el qzh tvvuh? 	bsseoh	13 17
+19 Otmaxt vdq abjm qzh yeuk qzhxh.
+20 Otmaxt qbbk qzh yeuk qzhxh.
+21 Hbzm jhmq ptok qb qzh keqozhm.
+22 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+23 Hbzm jhmq qb qzh bsseoh.
+24 Hbzm qxtnhuuha qb qzh ztuujti.
+25 Hbzm jhmq qb qzh bsseoh.
+26 Hbzm axbvvha qzh tvvuh qzhxh.
+27 Mzhxh el qzh tvvuh? 	bsseoh	26 25
+1 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+2 Otmaxt aelotxaha qzh sbbqptuu.
+3 Ytmehu qxtnhuuha qb qzh bsseoh.
+4 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+5 Utxi qxtnhuuha qb qzh keqozhm.
+6 Otmaxt jhmq qb qzh ptqzxbby.
+7 Mzhxh el qzh sbbqptuu? 	ptqzxbby	4 6
+8 Otmaxt axbvvha qzh sbbqptuu.
+9 Otmaxt qbbk qzh sbbqptuu qzhxh.
+10 Ytmehu cbdxmhiha qb qzh keqozhm.
+11 Otmaxt aelotxaha qzh sbbqptuu.
+12 Mzhxh el qzh sbbqptuu? 	ptqzxbby	11 6
+13 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+14 Ytmehu jhmq qb qzh ztuujti.
+15 Hbzm qxtnhuuha qb qzh keqozhm.
+16 Otmaxt uhsq qzh sbbqptuu.
+17 Mzhxh el qzh sbbqptuu? 	ptqzxbby	16 6
+18 Utxi jhmq qb qzh bsseoh.
+19 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+20 Utxi jhmq ptok qb qzh phaxbby.
+21 Hbzm qxtnhuuha qb qzh ptqzxbby.
+22 Utxi rxtppha qzh yeuk qzhxh.
+23 Hbzm jhmq ptok qb qzh ztuujti.
+24 Ytmehu qxtnhuuha qb qzh keqozhm.
+25 Hbzm qxtnhuuha qb qzh bsseoh.
+26 Utxi aelotxaha qzh yeuk.
+27 Otmaxt cbdxmhiha qb qzh phaxbby.
+28 Mzhxh el qzh yeuk? 	phaxbby	26 20
+29 Utxi cbdxmhiha qb qzh ptqzxbby.
+30 Otmaxt ybnha qb qzh bsseoh.
+31 Mzhxh el qzh yeuk? 	phaxbby	26 20
+1 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+2 Utxi cbdxmhiha qb qzh phaxbby.
+3 Hbzm qxtnhuuha qb qzh ptqzxbby.
+4 Hbzm rbq qzh sbbqptuu qzhxh.
+5 Otmaxt rbq qzh yeuk qzhxh.
+6 Otmaxt uhsq qzh yeuk.
+7 Mzhxh el qzh yeuk? 	ptqzxbby	6 1
+8 Hbzm aelotxaha qzh sbbqptuu.
+9 Otmaxt jhmq qb qzh rtxahm.
+10 Mzhxh el qzh sbbqptuu? 	ptqzxbby	8 3
+11 Hbzm qxtnhuuha qb qzh rtxahm.
+12 Otmaxt cbdxmhiha qb qzh bsseoh.
+13 Mzhxh el qzh sbbqptuu? 	ptqzxbby	8 3
+14 Hbzm cbdxmhiha qb qzh phaxbby.
+15 Utxi qxtnhuuha qb qzh bsseoh.
+16 Hbzm ybnha qb qzh bsseoh.
+17 Utxi qxtnhuuha qb qzh ptqzxbby.
+18 Hbzm ybnha qb qzh phaxbby.
+19 Utxi cbdxmhiha qb qzh ztuujti.
+20 Utxi rbq qzh tvvuh qzhxh.
+21 Otmaxt jhmq ptok qb qzh rtxahm.
+22 Otmaxt jhmq qb qzh keqozhm.
+23 Utxi axbvvha qzh tvvuh.
+24 Mzhxh el qzh tvvuh? 	ztuujti	23 19
+25 Hbzm jhmq qb qzh ztuujti.
+26 Otmaxt jhmq qb qzh ptqzxbby.
+27 Mzhxh el qzh tvvuh? 	ztuujti	23 19
+1 Hbzm cbdxmhiha qb qzh rtxahm.
+2 Otmaxt jhmq qb qzh bsseoh.
+3 Otmaxt ybnha qb qzh ztuujti.
+4 Utxi jhmq qb qzh bsseoh.
+5 Otmaxt veokha dv qzh yeuk qzhxh.
+6 Otmaxt axbvvha qzh yeuk qzhxh.
+7 Mzhxh el qzh yeuk? 	ztuujti	6 3
+8 Utxi cbdxmhiha qb qzh phaxbby.
+9 Otmaxt rbq qzh yeuk qzhxh.
+10 Hbzm ybnha qb qzh bsseoh.
+11 Otmaxt qxtnhuuha qb qzh rtxahm.
+12 Mzhxh el qzh yeuk? 	rtxahm	9 11
+13 Utxi cbdxmhiha qb qzh keqozhm.
+14 Utxi qbbk qzh sbbqptuu qzhxh.
+15 Mzhxh el qzh yeuk? 	rtxahm	9 11
+16 Otmaxt aelotxaha qzh yeuk.
+17 Ytmehu ybnha qb qzh ztuujti.
+18 Mzhxh el qzh yeuk? 	rtxahm	16 11
+19 Utxi aelotxaha qzh sbbqptuu.
+20 Utxi qxtnhuuha qb qzh rtxahm.
+21 Mzhxh el qzh sbbqptuu? 	keqozhm	19 13
+1 Otmaxt cbdxmhiha qb qzh bsseoh.
+2 Utxi jhmq ptok qb qzh keqozhm.
+3 Hbzm veokha dv qzh sbbqptuu qzhxh.
+4 Otmaxt cbdxmhiha qb qzh phaxbby.
+5 Hbzm vdq abjm qzh sbbqptuu.
+6 Otmaxt rbq qzh tvvuh qzhxh.
+7 Hbzm jhmq qb qzh bsseoh.
+8 Hbzm jhmq ptok qb qzh rtxahm.
+9 Hbzm ybnha qb qzh ptqzxbby.
+10 Otmaxt uhsq qzh tvvuh.
+11 Mzhxh el qzh tvvuh? 	phaxbby	10 4
+12 Ytmehu cbdxmhiha qb qzh bsseoh.
+13 Hbzm jhmq ptok qb qzh rtxahm.
+14 Mzhxh el qzh tvvuh? 	phaxbby	10 4
+15 Hbzm qxtnhuuha qb qzh bsseoh.
+16 Hbzm qxtnhuuha qb qzh rtxahm.
+17 Mzhxh el qzh tvvuh? 	phaxbby	10 4
+18 Utxi jhmq ptok qb qzh bsseoh.
+19 Hbzm rxtppha qzh sbbqptuu qzhxh.
+20 Hbzm uhsq qzh sbbqptuu.
+21 Hbzm qxtnhuuha qb qzh keqozhm.
+22 Mzhxh el qzh sbbqptuu? 	rtxahm	20 16
+23 Ytmehu ybnha qb qzh keqozhm.
+24 Otmaxt jhmq qb qzh ztuujti.
+25 Mzhxh el qzh sbbqptuu? 	rtxahm	20 16
+1 Otmaxt cbdxmhiha qb qzh ztuujti.
+2 Hbzm cbdxmhiha qb qzh ptqzxbby.
+3 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+4 Ytmehu qxtnhuuha qb qzh phaxbby.
+5 Hbzm rbq qzh yeuk qzhxh.
+6 Hbzm axbvvha qzh yeuk.
+7 Mzhxh el qzh yeuk? 	ptqzxbby	6 2
+8 Otmaxt ybnha qb qzh rtxahm.
+9 Ytmehu jhmq ptok qb qzh ztuujti.
+10 Mzhxh el qzh yeuk? 	ptqzxbby	6 2
+11 Otmaxt aelotxaha qzh sbbqptuu.
+12 Hbzm ybnha qb qzh ztuujti.
+13 Mzhxh el qzh sbbqptuu? 	rtxahm	11 8
+14 Hbzm jhmq ptok qb qzh rtxahm.
+15 Otmaxt jhmq qb qzh keqozhm.
+16 Mzhxh el qzh sbbqptuu? 	rtxahm	11 8
+17 Ytmehu ybnha qb qzh phaxbby.
+18 Otmaxt cbdxmhiha qb qzh ztuujti.
+19 Otmaxt ybnha qb qzh keqozhm.
+20 Hbzm qxtnhuuha qb qzh bsseoh.
+21 Otmaxt jhmq qb qzh rtxahm.
+22 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+23 Otmaxt vdq abjm qzh sbbqptuu qzhxh.
+24 Ytmehu jhmq ptok qb qzh keqozhm.
+25 Mzhxh el qzh sbbqptuu? 	rtxahm	23 21
+1 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+2 Ytmehu aelotxaha qzh sbbqptuu.
+3 Hbzm rbq qzh sbbqptuu qzhxh.
+4 Utxi jhmq ptok qb qzh ztuujti.
+5 Ytmehu ybnha qb qzh ptqzxbby.
+6 Hbzm axbvvha qzh sbbqptuu qzhxh.
+7 Otmaxt qbbk qzh tvvuh qzhxh.
+8 Ytmehu cbdxmhiha qb qzh bsseoh.
+9 Utxi qbbk qzh sbbqptuu qzhxh.
+10 Utxi axbvvha qzh sbbqptuu qzhxh.
+11 Mzhxh el qzh sbbqptuu? 	ztuujti	10 4
+12 Utxi jhmq qb qzh phaxbby.
+13 Hbzm rxtppha qzh sbbqptuu qzhxh.
+14 Hbzm ybnha qb qzh ptqzxbby.
+15 Utxi ybnha qb qzh keqozhm.
+16 Mzhxh el qzh sbbqptuu? 	ptqzxbby	13 14
+17 Ytmehu ybnha qb qzh ptqzxbby.
+18 Utxi ybnha qb qzh bsseoh.
+19 Mzhxh el qzh sbbqptuu? 	ptqzxbby	13 14
+20 Ytmehu jhmq ptok qb qzh bsseoh.
+21 Otmaxt vdq abjm qzh tvvuh.
+22 Hbzm vdq abjm qzh sbbqptuu.
+23 Utxi cbdxmhiha qb qzh rtxahm.
+24 Mzhxh el qzh sbbqptuu? 	ptqzxbby	22 14
+25 Hbzm jhmq ptok qb qzh phaxbby.
+26 Otmaxt rxtppha qzh tvvuh qzhxh.
+27 Mzhxh el qzh sbbqptuu? 	ptqzxbby	22 14
+1 Utxi qxtnhuuha qb qzh bsseoh.
+2 Ytmehu jhmq qb qzh ptqzxbby.
+3 Hbzm jhmq ptok qb qzh phaxbby.
+4 Hbzm jhmq qb qzh ztuujti.
+5 Utxi cbdxmhiha qb qzh ptqzxbby.
+6 Otmaxt veokha dv qzh tvvuh qzhxh.
+7 Hbzm ybnha qb qzh ptqzxbby.
+8 Hbzm rbq qzh yeuk qzhxh.
+9 Ytmehu ybnha qb qzh phaxbby.
+10 Hbzm ybnha qb qzh rtxahm.
+11 Mzhxh el qzh yeuk? 	rtxahm	8 10
+12 Otmaxt vdq abjm qzh tvvuh.
+13 Hbzm rbq qzh sbbqptuu qzhxh.
+14 Mzhxh el qzh yeuk? 	rtxahm	8 10
+15 Otmaxt cbdxmhiha qb qzh bsseoh.
+16 Ytmehu veokha dv qzh tvvuh qzhxh.
+17 Utxi cbdxmhiha qb qzh keqozhm.
+18 Ytmehu uhsq qzh tvvuh qzhxh.
+19 Mzhxh el qzh tvvuh? 	phaxbby	18 9
+20 Ytmehu rbq qzh tvvuh qzhxh.
+21 Hbzm jhmq ptok qb qzh ptqzxbby.
+22 Ytmehu vdq abjm qzh tvvuh.
+23 Hbzm ybnha qb qzh rtxahm.
+24 Mzhxh el qzh tvvuh? 	phaxbby	22 9
+25 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+26 Otmaxt ybnha qb qzh keqozhm.
+27 Mzhxh el qzh tvvuh? 	phaxbby	22 9
+1 Otmaxt cbdxmhiha qb qzh phaxbby.
+2 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+3 Otmaxt aelotxaha qzh sbbqptuu.
+4 Utxi ybnha qb qzh bsseoh.
+5 Mzhxh el qzh sbbqptuu? 	phaxbby	3 1
+6 Utxi jhmq ptok qb qzh ztuujti.
+7 Otmaxt cbdxmhiha qb qzh rtxahm.
+8 Mzhxh el qzh sbbqptuu? 	phaxbby	3 1
+9 Utxi veokha dv qzh tvvuh qzhxh.
+10 Hbzm jhmq ptok qb qzh rtxahm.
+11 Utxi vdq abjm qzh tvvuh.
+12 Otmaxt jhmq qb qzh ztuujti.
+13 Mzhxh el qzh tvvuh? 	ztuujti	11 6
+14 Ytmehu jhmq ptok qb qzh phaxbby.
+15 Utxi qxtnhuuha qb qzh phaxbby.
+16 Mzhxh el qzh tvvuh? 	ztuujti	11 6
+17 Otmaxt qbbk qzh tvvuh qzhxh.
+18 Ytmehu jhmq ptok qb qzh keqozhm.
+19 Hbzm jhmq qb qzh bsseoh.
+20 Hbzm jhmq ptok qb qzh rtxahm.
+21 Ytmehu cbdxmhiha qb qzh phaxbby.
+22 Otmaxt jhmq ptok qb qzh ptqzxbby.
+23 Ytmehu jhmq ptok qb qzh ptqzxbby.
+24 Utxi ybnha qb qzh keqozhm.
+25 Hbzm qxtnhuuha qb qzh keqozhm.
+26 Utxi jhmq ptok qb qzh phaxbby.
+27 Utxi qbbk qzh sbbqptuu qzhxh.
+28 Ytmehu jhmq ptok qb qzh rtxahm.
+29 Utxi qxtnhuuha qb qzh bsseoh.
+30 Otmaxt jhmq ptok qb qzh rtxahm.
+31 Mzhxh el qzh sbbqptuu? 	bsseoh	27 29
+1 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+2 Hbzm qxtnhuuha qb qzh bsseoh.
+3 Hbzm rxtppha qzh tvvuh qzhxh.
+4 Otmaxt qbbk qzh sbbqptuu qzhxh.
+5 Otmaxt axbvvha qzh sbbqptuu qzhxh.
+6 Otmaxt qbbk qzh sbbqptuu qzhxh.
+7 Ytmehu ybnha qb qzh ptqzxbby.
+8 Hbzm cbdxmhiha qb qzh keqozhm.
+9 Otmaxt qxtnhuuha qb qzh rtxahm.
+10 Hbzm vdq abjm qzh tvvuh.
+11 Mzhxh el qzh tvvuh? 	keqozhm	10 8
+12 Otmaxt jhmq qb qzh ztuujti.
+13 Otmaxt jhmq ptok qb qzh phaxbby.
+14 Mzhxh el qzh tvvuh? 	keqozhm	10 8
+15 Hbzm veokha dv qzh tvvuh qzhxh.
+16 Otmaxt ybnha qb qzh keqozhm.
+17 Otmaxt jhmq ptok qb qzh rtxahm.
+18 Otmaxt jhmq qb qzh phaxbby.
+19 Hbzm vdq abjm qzh tvvuh.
+20 Hbzm rxtppha qzh tvvuh qzhxh.
+21 Hbzm uhsq qzh tvvuh qzhxh.
+22 Otmaxt uhsq qzh sbbqptuu qzhxh.
+23 Mzhxh el qzh tvvuh? 	keqozhm	21 8
+24 Hbzm cbdxmhiha qb qzh ptqzxbby.
+25 Utxi cbdxmhiha qb qzh rtxahm.
+26 Mzhxh el qzh tvvuh? 	keqozhm	21 8
+27 Otmaxt qbbk qzh sbbqptuu qzhxh.
+28 Hbzm qxtnhuuha qb qzh rtxahm.
+29 Hbzm rbq qzh yeuk qzhxh.
+30 Utxi ybnha qb qzh phaxbby.
+31 Hbzm ybnha qb qzh keqozhm.
+32 Ytmehu jhmq qb qzh ztuujti.
+33 Mzhxh el qzh yeuk? 	keqozhm	29 31
+1 Ytmehu jhmq ptok qb qzh ztuujti.
+2 Utxi jhmq ptok qb qzh rtxahm.
+3 Otmaxt jhmq qb qzh keqozhm.
+4 Utxi ybnha qb qzh phaxbby.
+5 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+6 Utxi cbdxmhiha qb qzh rtxahm.
+7 Ytmehu jhmq ptok qb qzh bsseoh.
+8 Hbzm jhmq ptok qb qzh rtxahm.
+9 Hbzm qxtnhuuha qb qzh bsseoh.
+10 Otmaxt rbq qzh yeuk qzhxh.
+11 Hbzm jhmq ptok qb qzh keqozhm.
+12 Otmaxt uhsq qzh yeuk.
+13 Mzhxh el qzh yeuk? 	ptqzxbby	12 5
+14 Otmaxt qbbk qzh yeuk qzhxh.
+15 Utxi qxtnhuuha qb qzh phaxbby.
+16 Otmaxt uhsq qzh yeuk qzhxh.
+17 Hbzm ybnha qb qzh rtxahm.
+18 Mzhxh el qzh yeuk? 	ptqzxbby	16 5
+19 Otmaxt rxtppha qzh yeuk qzhxh.
+20 Otmaxt jhmq ptok qb qzh keqozhm.
+21 Mzhxh el qzh yeuk? 	keqozhm	19 20
+22 Ytmehu cbdxmhiha qb qzh ztuujti.
+23 Utxi ybnha qb qzh keqozhm.
+24 Mzhxh el qzh yeuk? 	keqozhm	19 20
+25 Ytmehu qxtnhuuha qb qzh phaxbby.
+26 Ytmehu jhmq qb qzh bsseoh.
+27 Hbzm cbdxmhiha qb qzh keqozhm.
+28 Hbzm jhmq qb qzh ptqzxbby.
+29 Otmaxt qxtnhuuha qb qzh ztuujti.
+30 Utxi cbdxmhiha qb qzh bsseoh.
+31 Hbzm qxtnhuuha qb qzh keqozhm.
+32 Otmaxt jhmq qb qzh rtxahm.
+33 Hbzm jhmq qb qzh rtxahm.
+34 Otmaxt ybnha qb qzh keqozhm.
+35 Ytmehu cbdxmhiha qb qzh ztuujti.
+36 Otmaxt uhsq qzh yeuk.
+37 Mzhxh el qzh yeuk? 	keqozhm	36 34
+1 Utxi jhmq qb qzh bsseoh.
+2 Hbzm qbbk qzh sbbqptuu qzhxh.
+3 Hbzm cbdxmhiha qb qzh phaxbby.
+4 Otmaxt jhmq qb qzh phaxbby.
+5 Mzhxh el qzh sbbqptuu? 	phaxbby	2 3
+6 Ytmehu jhmq qb qzh ptqzxbby.
+7 Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Mzhxh el qzh sbbqptuu? 	phaxbby	2 3
+9 Otmaxt veokha dv qzh tvvuh qzhxh.
+10 Otmaxt jhmq qb qzh bsseoh.
+11 Mzhxh el qzh tvvuh? 	bsseoh	9 10
+12 Ytmehu jhmq ptok qb qzh rtxahm.
+13 Otmaxt ybnha qb qzh ztuujti.
+14 Mzhxh el qzh tvvuh? 	ztuujti	9 13
+15 Hbzm jhmq qb qzh ptqzxbby.
+16 Ytmehu ybnha qb qzh ztuujti.
+17 Otmaxt qxtnhuuha qb qzh phaxbby.
+18 Otmaxt vdq abjm qzh tvvuh qzhxh.
+19 Mzhxh el qzh tvvuh? 	phaxbby	18 17
+1 Utxi ybnha qb qzh rtxahm.
+2 Utxi qbbk qzh yeuk qzhxh.
+3 Otmaxt jhmq qb qzh phaxbby.
+4 Otmaxt jhmq qb qzh keqozhm.
+5 Hbzm cbdxmhiha qb qzh ptqzxbby.
+6 Ytmehu jhmq ptok qb qzh keqozhm.
+7 Otmaxt qbbk qzh tvvuh qzhxh.
+8 Otmaxt axbvvha qzh tvvuh qzhxh.
+9 Mzhxh el qzh tvvuh? 	keqozhm	8 4
+10 Otmaxt qbbk qzh tvvuh qzhxh.
+11 Otmaxt qbbk qzh sbbqptuu qzhxh.
+12 Utxi jhmq ptok qb qzh ztuujti.
+13 Otmaxt vdq abjm qzh sbbqptuu.
+14 Mzhxh el qzh sbbqptuu? 	keqozhm	13 4
+15 Utxi aelotxaha qzh yeuk.
+16 Utxi veokha dv qzh yeuk qzhxh.
+17 Mzhxh el qzh sbbqptuu? 	keqozhm	13 4
+18 Utxi vdq abjm qzh yeuk.
+19 Otmaxt rbq qzh sbbqptuu qzhxh.
+20 Mzhxh el qzh yeuk? 	ztuujti	18 12
+21 Utxi jhmq ptok qb qzh rtxahm.
+22 Otmaxt uhsq qzh sbbqptuu.
+23 Mzhxh el qzh yeuk? 	ztuujti	18 12
+1 Ytmehu cbdxmhiha qb qzh ztuujti.
+2 Hbzm ybnha qb qzh ptqzxbby.
+3 Otmaxt veokha dv qzh tvvuh qzhxh.
+4 Hbzm rxtppha qzh yeuk qzhxh.
+5 Hbzm vdq abjm qzh yeuk qzhxh.
+6 Otmaxt ybnha qb qzh ptqzxbby.
+7 Mzhxh el qzh yeuk? 	ptqzxbby	5 2
+8 Otmaxt veokha dv qzh yeuk qzhxh.
+9 Hbzm cbdxmhiha qb qzh bsseoh.
+10 Otmaxt cbdxmhiha qb qzh ztuujti.
+11 Otmaxt aelotxaha qzh yeuk.
+12 Mzhxh el qzh yeuk? 	ztuujti	11 10
+13 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+14 Otmaxt cbdxmhiha qb qzh rtxahm.
+15 Mzhxh el qzh yeuk? 	ztuujti	11 10
+16 Otmaxt axbvvha qzh tvvuh.
+17 Ytmehu jhmq qb qzh keqozhm.
+18 Mzhxh el qzh tvvuh? 	rtxahm	16 14
+19 Ytmehu jhmq ptok qb qzh rtxahm.
+20 Hbzm cbdxmhiha qb qzh rtxahm.
+21 Mzhxh el qzh tvvuh? 	rtxahm	16 14
+1 Ytmehu qxtnhuuha qb qzh ztuujti.
+2 Otmaxt jhmq qb qzh bsseoh.
+3 Otmaxt ybnha qb qzh ztuujti.
+4 Ytmehu rbq qzh sbbqptuu qzhxh.
+5 Hbzm jhmq qb qzh bsseoh.
+6 Utxi cbdxmhiha qb qzh ptqzxbby.
+7 Ytmehu vdq abjm qzh sbbqptuu qzhxh.
+8 Utxi jhmq ptok qb qzh bsseoh.
+9 Mzhxh el qzh sbbqptuu? 	ztuujti	7 1
+10 Otmaxt rbq qzh sbbqptuu qzhxh.
+11 Ytmehu ybnha qb qzh phaxbby.
+12 Otmaxt uhsq qzh sbbqptuu.
+13 Ytmehu veokha dv qzh yeuk qzhxh.
+14 Mzhxh el qzh sbbqptuu? 	ztuujti	12 3
+15 Hbzm ybnha qb qzh keqozhm.
+16 Otmaxt ybnha qb qzh rtxahm.
+17 Mzhxh el qzh sbbqptuu? 	ztuujti	12 3
+18 Hbzm jhmq qb qzh ztuujti.
+19 Hbzm jhmq qb qzh ptqzxbby.
+20 Ytmehu jhmq ptok qb qzh ptqzxbby.
+21 Utxi cbdxmhiha qb qzh phaxbby.
+22 Otmaxt jhmq ptok qb qzh phaxbby.
+23 Utxi cbdxmhiha qb qzh keqozhm.
+24 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+25 Ytmehu axbvvha qzh yeuk.
+26 Mzhxh el qzh yeuk? 	ptqzxbby	25 20
+27 Ytmehu rbq qzh yeuk qzhxh.
+28 Utxi rxtppha qzh tvvuh qzhxh.
+29 Utxi uhsq qzh tvvuh.
+30 Otmaxt jhmq qb qzh rtxahm.
+31 Mzhxh el qzh tvvuh? 	keqozhm	29 23
+1 Utxi ybnha qb qzh ztuujti.
+2 Otmaxt qxtnhuuha qb qzh keqozhm.
+3 Otmaxt qxtnhuuha qb qzh bsseoh.
+4 Ytmehu qxtnhuuha qb qzh bsseoh.
+5 Otmaxt jhmq qb qzh keqozhm.
+6 Otmaxt rbq qzh tvvuh qzhxh.
+7 Hbzm jhmq qb qzh rtxahm.
+8 Hbzm rxtppha qzh yeuk qzhxh.
+9 Utxi qbbk qzh sbbqptuu qzhxh.
+10 Hbzm aelotxaha qzh yeuk.
+11 Mzhxh el qzh yeuk? 	rtxahm	10 7
+12 Ytmehu ybnha qb qzh keqozhm.
+13 Hbzm qbbk qzh yeuk qzhxh.
+14 Hbzm aelotxaha qzh yeuk.
+15 Utxi aelotxaha qzh sbbqptuu.
+16 Mzhxh el qzh sbbqptuu? 	ztuujti	15 1
+17 Otmaxt ybnha qb qzh phaxbby.
+18 Otmaxt cbdxmhiha qb qzh ztuujti.
+19 Mzhxh el qzh sbbqptuu? 	ztuujti	15 1
+20 Otmaxt qbbk qzh sbbqptuu qzhxh.
+21 Ytmehu jhmq ptok qb qzh ptqzxbby.
+22 Utxi cbdxmhiha qb qzh bsseoh.
+23 Hbzm rxtppha qzh yeuk qzhxh.
+24 Otmaxt uhsq qzh tvvuh.
+25 Hbzm uhsq qzh yeuk.
+26 Mzhxh el qzh yeuk? 	rtxahm	25 7
+27 Hbzm rbq qzh yeuk qzhxh.
+28 Hbzm axbvvha qzh yeuk.
+29 Mzhxh el qzh yeuk? 	rtxahm	28 7
+1 Ytmehu ybnha qb qzh phaxbby.
+2 Ytmehu qbbk qzh yeuk qzhxh.
+3 Ytmehu uhsq qzh yeuk.
+4 Hbzm jhmq qb qzh phaxbby.
+5 Mzhxh el qzh yeuk? 	phaxbby	3 1
+6 Hbzm rxtppha qzh tvvuh qzhxh.
+7 Otmaxt jhmq ptok qb qzh rtxahm.
+8 Mzhxh el qzh yeuk? 	phaxbby	3 1
+9 Utxi cbdxmhiha qb qzh rtxahm.
+10 Hbzm rbq qzh yeuk qzhxh.
+11 Hbzm qxtnhuuha qb qzh ztuujti.
+12 Ytmehu cbdxmhiha qb qzh keqozhm.
+13 Mzhxh el qzh yeuk? 	ztuujti	10 11
+14 Hbzm cbdxmhiha qb qzh bsseoh.
+15 Utxi jhmq qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	bsseoh	10 14
+17 Utxi cbdxmhiha qb qzh bsseoh.
+18 Hbzm aelotxaha qzh yeuk qzhxh.
+19 Mzhxh el qzh yeuk? 	bsseoh	18 14
+1 Utxi cbdxmhiha qb qzh rtxahm.
+2 Hbzm jhmq qb qzh ztuujti.
+3 Hbzm jhmq qb qzh keqozhm.
+4 Ytmehu rxtppha qzh tvvuh qzhxh.
+5 Ytmehu axbvvha qzh tvvuh.
+6 Hbzm cbdxmhiha qb qzh rtxahm.
+7 Utxi qxtnhuuha qb qzh ptqzxbby.
+8 Hbzm jhmq qb qzh phaxbby.
+9 Otmaxt ybnha qb qzh keqozhm.
+10 Ytmehu jhmq ptok qb qzh ptqzxbby.
+11 Otmaxt jhmq ptok qb qzh ztuujti.
+12 Utxi qbbk qzh yeuk qzhxh.
+13 Hbzm rxtppha qzh tvvuh qzhxh.
+14 Hbzm cbdxmhiha qb qzh ptqzxbby.
+15 Mzhxh el qzh tvvuh? 	ptqzxbby	13 14
+16 Utxi axbvvha qzh yeuk.
+17 Hbzm veokha dv qzh yeuk qzhxh.
+18 Mzhxh el qzh tvvuh? 	ptqzxbby	13 14
+19 Ytmehu qxtnhuuha qb qzh rtxahm.
+20 Otmaxt jhmq qb qzh bsseoh.
+21 Utxi qbbk qzh sbbqptuu qzhxh.
+22 Ytmehu cbdxmhiha qb qzh ztuujti.
+23 Ytmehu jhmq ptok qb qzh phaxbby.
+24 Utxi uhsq qzh sbbqptuu qzhxh.
+25 Mzhxh el qzh sbbqptuu? 	ptqzxbby	24 7
+26 Utxi rbq qzh sbbqptuu qzhxh.
+27 Ytmehu jhmq qb qzh ztuujti.
+28 Ytmehu cbdxmhiha qb qzh rtxahm.
+29 Hbzm jhmq qb qzh keqozhm.
+30 Hbzm jhmq ptok qb qzh bsseoh.
+31 Hbzm qxtnhuuha qb qzh ztuujti.
+32 Utxi qxtnhuuha qb qzh phaxbby.
+33 Utxi axbvvha qzh sbbqptuu.
+34 Mzhxh el qzh sbbqptuu? 	phaxbby	33 32
+35 Hbzm uhsq qzh yeuk.
+36 Utxi jhmq qb qzh rtxahm.
+37 Mzhxh el qzh yeuk? 	ztuujti	35 31
+1 Utxi jhmq qb qzh bsseoh.
+2 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+3 Utxi cbdxmhiha qb qzh rtxahm.
+4 Ytmehu axbvvha qzh sbbqptuu.
+5 Otmaxt qxtnhuuha qb qzh bsseoh.
+6 Utxi rxtppha qzh yeuk qzhxh.
+7 Otmaxt ybnha qb qzh phaxbby.
+8 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+9 Ytmehu cbdxmhiha qb qzh rtxahm.
+10 Otmaxt ybnha qb qzh keqozhm.
+11 Utxi uhsq qzh yeuk.
+12 Utxi qxtnhuuha qb qzh ptqzxbby.
+13 Mzhxh el qzh yeuk? 	rtxahm	11 3
+14 Ytmehu qxtnhuuha qb qzh ztuujti.
+15 Utxi qxtnhuuha qb qzh ztuujti.
+16 Mzhxh el qzh yeuk? 	rtxahm	11 3
+17 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+18 Utxi qxtnhuuha qb qzh bsseoh.
+19 Utxi ybnha qb qzh ztuujti.
+20 Ytmehu vdq abjm qzh sbbqptuu.
+21 Mzhxh el qzh sbbqptuu? 	ztuujti	20 14
+22 Hbzm jhmq qb qzh bsseoh.
+23 Otmaxt qxtnhuuha qb qzh phaxbby.
+24 Mzhxh el qzh sbbqptuu? 	ztuujti	20 14
+25 Otmaxt jhmq qb qzh keqozhm.
+26 Otmaxt cbdxmhiha qb qzh bsseoh.
+27 Mzhxh el qzh sbbqptuu? 	ztuujti	20 14
+1 Hbzm cbdxmhiha qb qzh ztuujti.
+2 Otmaxt ybnha qb qzh ptqzxbby.
+3 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+4 Otmaxt jhmq qb qzh rtxahm.
+5 Mzhxh el qzh sbbqptuu? 	rtxahm	3 4
+6 Utxi jhmq ptok qb qzh ptqzxbby.
+7 Otmaxt veokha dv qzh yeuk qzhxh.
+8 Mzhxh el qzh sbbqptuu? 	rtxahm	3 4
+9 Otmaxt uhsq qzh sbbqptuu.
+10 Ytmehu jhmq ptok qb qzh ptqzxbby.
+11 Mzhxh el qzh sbbqptuu? 	rtxahm	9 4
+12 Ytmehu qxtnhuuha qb qzh bsseoh.
+13 Otmaxt vdq abjm qzh yeuk.
+14 Mzhxh el qzh yeuk? 	rtxahm	13 4
+15 Utxi ybnha qb qzh phaxbby.
+16 Otmaxt cbdxmhiha qb qzh phaxbby.
+17 Mzhxh el qzh yeuk? 	rtxahm	13 4
+1 Utxi rxtppha qzh sbbqptuu qzhxh.
+2 Hbzm cbdxmhiha qb qzh ztuujti.
+3 Utxi jhmq ptok qb qzh ztuujti.
+4 Hbzm cbdxmhiha qb qzh phaxbby.
+5 Mzhxh el qzh sbbqptuu? 	ztuujti	1 3
+6 Ytmehu cbdxmhiha qb qzh keqozhm.
+7 Utxi aelotxaha qzh sbbqptuu.
+8 Mzhxh el qzh sbbqptuu? 	ztuujti	7 3
+9 Utxi jhmq qb qzh phaxbby.
+10 Otmaxt jhmq ptok qb qzh ztuujti.
+11 Mzhxh el qzh sbbqptuu? 	ztuujti	7 3
+12 Utxi cbdxmhiha qb qzh rtxahm.
+13 Utxi rxtppha qzh yeuk qzhxh.
+14 Mzhxh el qzh sbbqptuu? 	ztuujti	7 3
+15 Hbzm ybnha qb qzh keqozhm.
+16 Utxi cbdxmhiha qb qzh keqozhm.
+17 Mzhxh el qzh yeuk? 	keqozhm	13 16
+1 Utxi ybnha qb qzh ztuujti.
+2 Utxi jhmq qb qzh keqozhm.
+3 Utxi veokha dv qzh yeuk qzhxh.
+4 Hbzm jhmq ptok qb qzh ptqzxbby.
+5 Utxi veokha dv qzh sbbqptuu qzhxh.
+6 Hbzm rbq qzh tvvuh qzhxh.
+7 Utxi jhmq qb qzh bsseoh.
+8 Ytmehu qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el qzh sbbqptuu? 	bsseoh	5 7
+10 Hbzm axbvvha qzh tvvuh qzhxh.
+11 Utxi vdq abjm qzh sbbqptuu qzhxh.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	11 7
+13 Utxi rxtppha qzh sbbqptuu qzhxh.
+14 Hbzm qbbk qzh tvvuh qzhxh.
+15 Hbzm jhmq ptok qb qzh ztuujti.
+16 Utxi qxtnhuuha qb qzh keqozhm.
+17 Mzhxh el qzh sbbqptuu? 	keqozhm	13 16
+18 Hbzm ybnha qb qzh keqozhm.
+19 Utxi uhsq qzh yeuk.
+20 Mzhxh el qzh tvvuh? 	keqozhm	14 18
+21 Utxi cbdxmhiha qb qzh ztuujti.
+22 Ytmehu rbq qzh yeuk qzhxh.
+23 Otmaxt qxtnhuuha qb qzh keqozhm.
+24 Hbzm aelotxaha qzh tvvuh.
+25 Mzhxh el qzh tvvuh? 	keqozhm	24 18
+1 Otmaxt cbdxmhiha qb qzh keqozhm.
+2 Otmaxt jhmq ptok qb qzh phaxbby.
+3 Ytmehu jhmq ptok qb qzh rtxahm.
+4 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+5 Hbzm ybnha qb qzh ptqzxbby.
+6 Utxi jhmq qb qzh phaxbby.
+7 Utxi qxtnhuuha qb qzh bsseoh.
+8 Utxi cbdxmhiha qb qzh ztuujti.
+9 Hbzm jhmq qb qzh phaxbby.
+10 Ytmehu ybnha qb qzh rtxahm.
+11 Ytmehu rxtppha qzh tvvuh qzhxh.
+12 Hbzm qxtnhuuha qb qzh keqozhm.
+13 Ytmehu qxtnhuuha qb qzh phaxbby.
+14 Hbzm veokha dv qzh yeuk qzhxh.
+15 Mzhxh el qzh tvvuh? 	phaxbby	11 13
+16 Utxi ybnha qb qzh ptqzxbby.
+17 Hbzm rxtppha qzh sbbqptuu qzhxh.
+18 Otmaxt cbdxmhiha qb qzh ztuujti.
+19 Otmaxt cbdxmhiha qb qzh keqozhm.
+20 Ytmehu jhmq qb qzh ztuujti.
+21 Ytmehu cbdxmhiha qb qzh keqozhm.
+22 Hbzm cbdxmhiha qb qzh ptqzxbby.
+23 Hbzm uhsq qzh sbbqptuu.
+24 Mzhxh el qzh sbbqptuu? 	ptqzxbby	23 22
+25 Hbzm axbvvha qzh yeuk.
+26 Utxi rxtppha qzh sbbqptuu qzhxh.
+27 Mzhxh el qzh yeuk? 	ptqzxbby	25 22
+28 Otmaxt ybnha qb qzh ptqzxbby.
+29 Hbzm rxtppha qzh yeuk qzhxh.
+30 Hbzm aelotxaha qzh yeuk.
+31 Hbzm jhmq ptok qb qzh bsseoh.
+32 Mzhxh el qzh yeuk? 	ptqzxbby	30 22
+33 Otmaxt qbbk qzh yeuk qzhxh.
+34 Utxi axbvvha qzh sbbqptuu.
+35 Mzhxh el qzh sbbqptuu? 	ptqzxbby	34 16
+1 Utxi ybnha qb qzh ptqzxbby.
+2 Utxi jhmq ptok qb qzh phaxbby.
+3 Otmaxt ybnha qb qzh bsseoh.
+4 Hbzm jhmq qb qzh phaxbby.
+5 Utxi qxtnhuuha qb qzh ztuujti.
+6 Otmaxt jhmq qb qzh phaxbby.
+7 Utxi qxtnhuuha qb qzh rtxahm.
+8 Hbzm jhmq qb qzh ptqzxbby.
+9 Ytmehu jhmq qb qzh ztuujti.
+10 Utxi ybnha qb qzh ptqzxbby.
+11 Ytmehu jhmq qb qzh keqozhm.
+12 Utxi qxtnhuuha qb qzh ztuujti.
+13 Hbzm rbq qzh yeuk qzhxh.
+14 Utxi jhmq qb qzh bsseoh.
+15 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+16 Ytmehu rxtppha qzh tvvuh qzhxh.
+17 Hbzm vdq abjm qzh yeuk.
+18 Ytmehu axbvvha qzh tvvuh.
+19 Mzhxh el qzh tvvuh? 	ptqzxbby	18 15
+20 Ytmehu jhmq ptok qb qzh keqozhm.
+21 Utxi cbdxmhiha qb qzh keqozhm.
+22 Mzhxh el qzh tvvuh? 	ptqzxbby	18 15
+23 Hbzm qbbk qzh tvvuh qzhxh.
+24 Hbzm jhmq ptok qb qzh bsseoh.
+25 Mzhxh el qzh tvvuh? 	bsseoh	23 24
+26 Hbzm jhmq ptok qb qzh phaxbby.
+27 Ytmehu ybnha qb qzh rtxahm.
+28 Mzhxh el qzh tvvuh? 	phaxbby	23 26
+29 Hbzm axbvvha qzh tvvuh qzhxh.
+30 Otmaxt jhmq ptok qb qzh keqozhm.
+31 Mzhxh el qzh tvvuh? 	phaxbby	29 26
+1 Ytmehu qxtnhuuha qb qzh rtxahm.
+2 Utxi cbdxmhiha qb qzh ptqzxbby.
+3 Hbzm jhmq ptok qb qzh keqozhm.
+4 Hbzm jhmq ptok qb qzh ztuujti.
+5 Hbzm qxtnhuuha qb qzh keqozhm.
+6 Utxi cbdxmhiha qb qzh bsseoh.
+7 Utxi rbq qzh sbbqptuu qzhxh.
+8 Otmaxt ybnha qb qzh bsseoh.
+9 Utxi uhsq qzh sbbqptuu.
+10 Hbzm jhmq qb qzh bsseoh.
+11 Mzhxh el qzh sbbqptuu? 	bsseoh	9 6
+12 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+13 Ytmehu jhmq qb qzh phaxbby.
+14 Hbzm qxtnhuuha qb qzh ptqzxbby.
+15 Utxi cbdxmhiha qb qzh ptqzxbby.
+16 Ytmehu qxtnhuuha qb qzh bsseoh.
+17 Otmaxt qxtnhuuha qb qzh ztuujti.
+18 Hbzm cbdxmhiha qb qzh bsseoh.
+19 Ytmehu jhmq qb qzh phaxbby.
+20 Otmaxt rbq qzh yeuk qzhxh.
+21 Otmaxt rbq qzh tvvuh qzhxh.
+22 Utxi jhmq qb qzh phaxbby.
+23 Ytmehu jhmq ptok qb qzh rtxahm.
+24 Utxi qxtnhuuha qb qzh bsseoh.
+25 Hbzm cbdxmhiha qb qzh rtxahm.
+26 Utxi cbdxmhiha qb qzh keqozhm.
+27 Otmaxt aelotxaha qzh tvvuh.
+28 Mzhxh el qzh tvvuh? 	ztuujti	27 17
+29 Utxi qxtnhuuha qb qzh ztuujti.
+30 Utxi rxtppha qzh tvvuh qzhxh.
+31 Hbzm ybnha qb qzh ptqzxbby.
+32 Ytmehu qxtnhuuha qb qzh ztuujti.
+33 Otmaxt aelotxaha qzh sbbqptuu.
+34 Ytmehu rbq qzh sbbqptuu qzhxh.
+35 Ytmehu ybnha qb qzh phaxbby.
+36 Utxi vdq abjm qzh tvvuh.
+37 Mzhxh el qzh sbbqptuu? 	phaxbby	34 35
+38 Otmaxt vdq abjm qzh yeuk.
+39 Ytmehu vdq abjm qzh sbbqptuu.
+40 Mzhxh el qzh yeuk? 	ztuujti	38 17
+41 Ytmehu jhmq ptok qb qzh rtxahm.
+42 Hbzm qxtnhuuha qb qzh bsseoh.
+43 Mzhxh el qzh yeuk? 	ztuujti	38 17
+1 Utxi cbdxmhiha qb qzh bsseoh.
+2 Utxi ybnha qb qzh phaxbby.
+3 Ytmehu ybnha qb qzh phaxbby.
+4 Ytmehu qxtnhuuha qb qzh rtxahm.
+5 Ytmehu jhmq qb qzh keqozhm.
+6 Hbzm cbdxmhiha qb qzh bsseoh.
+7 Utxi jhmq qb qzh bsseoh.
+8 Utxi cbdxmhiha qb qzh phaxbby.
+9 Hbzm rxtppha qzh tvvuh qzhxh.
+10 Utxi qxtnhuuha qb qzh rtxahm.
+11 Ytmehu jhmq qb qzh ztuujti.
+12 Otmaxt jhmq ptok qb qzh rtxahm.
+13 Hbzm axbvvha qzh tvvuh qzhxh.
+14 Hbzm jhmq ptok qb qzh ptqzxbby.
+15 Mzhxh el qzh tvvuh? 	bsseoh	13 6
+16 Utxi veokha dv qzh yeuk qzhxh.
+17 Otmaxt jhmq qb qzh ptqzxbby.
+18 Mzhxh el qzh tvvuh? 	bsseoh	13 6
+19 Utxi aelotxaha qzh yeuk.
+20 Utxi ybnha qb qzh keqozhm.
+21 Mzhxh el qzh yeuk? 	rtxahm	19 10
+22 Otmaxt jhmq qb qzh rtxahm.
+23 Ytmehu ybnha qb qzh keqozhm.
+24 Mzhxh el qzh yeuk? 	rtxahm	19 10
+25 Hbzm qxtnhuuha qb qzh ztuujti.
+26 Ytmehu jhmq qb qzh rtxahm.
+27 Ytmehu jhmq qb qzh ptqzxbby.
+28 Utxi jhmq qb qzh rtxahm.
+29 Utxi ybnha qb qzh phaxbby.
+30 Utxi jhmq qb qzh rtxahm.
+31 Ytmehu jhmq qb qzh keqozhm.
+32 Hbzm jhmq ptok qb qzh keqozhm.
+33 Hbzm qxtnhuuha qb qzh ztuujti.
+34 Otmaxt rxtppha qzh yeuk qzhxh.
+35 Otmaxt jhmq qb qzh phaxbby.
+36 Ytmehu qxtnhuuha qb qzh phaxbby.
+37 Mzhxh el qzh yeuk? 	phaxbby	34 35
+1 Hbzm jhmq qb qzh bsseoh.
+2 Utxi jhmq qb qzh ptqzxbby.
+3 Otmaxt ybnha qb qzh keqozhm.
+4 Hbzm jhmq qb qzh ptqzxbby.
+5 Ytmehu jhmq ptok qb qzh ztuujti.
+6 Ytmehu veokha dv qzh yeuk qzhxh.
+7 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+8 Hbzm qxtnhuuha qb qzh rtxahm.
+9 Ytmehu cbdxmhiha qb qzh phaxbby.
+10 Utxi veokha dv qzh tvvuh qzhxh.
+11 Mzhxh el qzh yeuk? 	phaxbby	6 9
+12 Hbzm cbdxmhiha qb qzh keqozhm.
+13 Utxi cbdxmhiha qb qzh phaxbby.
+14 Mzhxh el qzh tvvuh? 	phaxbby	10 13
+15 Otmaxt axbvvha qzh sbbqptuu qzhxh.
+16 Hbzm ybnha qb qzh ztuujti.
+17 Mzhxh el qzh sbbqptuu? 	keqozhm	15 3
+18 Ytmehu jhmq qb qzh keqozhm.
+19 Ytmehu uhsq qzh yeuk.
+20 Mzhxh el qzh yeuk? 	keqozhm	19 18
+21 Otmaxt qbbk qzh sbbqptuu qzhxh.
+22 Ytmehu jhmq qb qzh ptqzxbby.
+23 Mzhxh el qzh yeuk? 	keqozhm	19 18
+1 Hbzm jhmq qb qzh keqozhm.
+2 Utxi cbdxmhiha qb qzh keqozhm.
+3 Hbzm cbdxmhiha qb qzh phaxbby.
+4 Utxi cbdxmhiha qb qzh ztuujti.
+5 Utxi ybnha qb qzh bsseoh.
+6 Utxi ybnha qb qzh ztuujti.
+7 Hbzm veokha dv qzh sbbqptuu qzhxh.
+8 Hbzm jhmq qb qzh bsseoh.
+9 Mzhxh el qzh sbbqptuu? 	bsseoh	7 8
+10 Otmaxt cbdxmhiha qb qzh phaxbby.
+11 Hbzm rbq qzh yeuk qzhxh.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	7 8
+13 Otmaxt jhmq ptok qb qzh ztuujti.
+14 Otmaxt cbdxmhiha qb qzh rtxahm.
+15 Utxi ybnha qb qzh phaxbby.
+16 Utxi qxtnhuuha qb qzh ptqzxbby.
+17 Otmaxt jhmq qb qzh keqozhm.
+18 Hbzm vdq abjm qzh sbbqptuu.
+19 Mzhxh el qzh sbbqptuu? 	bsseoh	18 8
+20 Utxi qxtnhuuha qb qzh rtxahm.
+21 Hbzm vdq abjm qzh yeuk qzhxh.
+22 Mzhxh el qzh yeuk? 	bsseoh	21 8
+23 Hbzm ybnha qb qzh rtxahm.
+24 Otmaxt jhmq qb qzh phaxbby.
+25 Mzhxh el qzh sbbqptuu? 	bsseoh	18 8
+1 Ytmehu jhmq ptok qb qzh rtxahm.
+2 Utxi jhmq qb qzh rtxahm.
+3 Otmaxt cbdxmhiha qb qzh rtxahm.
+4 Ytmehu cbdxmhiha qb qzh phaxbby.
+5 Otmaxt rbq qzh yeuk qzhxh.
+6 Utxi qxtnhuuha qb qzh bsseoh.
+7 Utxi qbbk qzh tvvuh qzhxh.
+8 Utxi uhsq qzh tvvuh.
+9 Mzhxh el qzh tvvuh? 	bsseoh	8 6
+10 Otmaxt aelotxaha qzh yeuk qzhxh.
+11 Otmaxt ybnha qb qzh ptqzxbby.
+12 Mzhxh el qzh tvvuh? 	bsseoh	8 6
+13 Hbzm jhmq ptok qb qzh keqozhm.
+14 Otmaxt jhmq qb qzh bsseoh.
+15 Mzhxh el qzh tvvuh? 	bsseoh	8 6
+16 Hbzm ybnha qb qzh rtxahm.
+17 Utxi veokha dv qzh tvvuh qzhxh.
+18 Hbzm veokha dv qzh yeuk qzhxh.
+19 Otmaxt jhmq ptok qb qzh keqozhm.
+20 Hbzm jhmq ptok qb qzh ptqzxbby.
+21 Utxi jhmq ptok qb qzh ztuujti.
+22 Mzhxh el qzh tvvuh? 	ztuujti	17 21
+23 Utxi jhmq qb qzh ptqzxbby.
+24 Ytmehu qxtnhuuha qb qzh ztuujti.
+25 Utxi aelotxaha qzh tvvuh.
+26 Utxi jhmq ptok qb qzh phaxbby.
+27 Mzhxh el qzh tvvuh? 	ptqzxbby	25 23
+1 Ytmehu veokha dv qzh tvvuh qzhxh.
+2 Otmaxt qxtnhuuha qb qzh ztuujti.
+3 Ytmehu vdq abjm qzh tvvuh qzhxh.
+4 Utxi jhmq ptok qb qzh ptqzxbby.
+5 Hbzm ybnha qb qzh ptqzxbby.
+6 Hbzm qxtnhuuha qb qzh rtxahm.
+7 Ytmehu cbdxmhiha qb qzh ztuujti.
+8 Utxi jhmq ptok qb qzh phaxbby.
+9 Ytmehu ybnha qb qzh keqozhm.
+10 Ytmehu cbdxmhiha qb qzh phaxbby.
+11 Utxi ybnha qb qzh ztuujti.
+12 Ytmehu jhmq ptok qb qzh keqozhm.
+13 Ytmehu ybnha qb qzh rtxahm.
+14 Hbzm jhmq ptok qb qzh ztuujti.
+15 Utxi ybnha qb qzh bsseoh.
+16 Utxi rbq qzh tvvuh qzhxh.
+17 Otmaxt jhmq qb qzh ptqzxbby.
+18 Utxi uhsq qzh tvvuh.
+19 Mzhxh el qzh tvvuh? 	bsseoh	18 15
+20 Utxi ybnha qb qzh ptqzxbby.
+21 Utxi jhmq ptok qb qzh bsseoh.
+22 Mzhxh el qzh tvvuh? 	bsseoh	18 15
+23 Otmaxt qxtnhuuha qb qzh rtxahm.
+24 Ytmehu cbdxmhiha qb qzh phaxbby.
+25 Mzhxh el qzh tvvuh? 	bsseoh	18 15
+26 Ytmehu rbq qzh sbbqptuu qzhxh.
+27 Ytmehu jhmq qb qzh ztuujti.
+28 Mzhxh el qzh sbbqptuu? 	ztuujti	26 27
+29 Hbzm jhmq ptok qb qzh keqozhm.
+30 Ytmehu ybnha qb qzh rtxahm.
+31 Mzhxh el qzh sbbqptuu? 	rtxahm	26 30
+1 Utxi jhmq ptok qb qzh ptqzxbby.
+2 Otmaxt cbdxmhiha qb qzh rtxahm.
+3 Utxi jhmq ptok qb qzh bsseoh.
+4 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+5 Ytmehu cbdxmhiha qb qzh ztuujti.
+6 Hbzm qbbk qzh yeuk qzhxh.
+7 Mzhxh el qzh sbbqptuu? 	ztuujti	4 5
+8 Utxi veokha dv qzh tvvuh qzhxh.
+9 Hbzm cbdxmhiha qb qzh ztuujti.
+10 Mzhxh el qzh yeuk? 	ztuujti	6 9
+11 Otmaxt jhmq qb qzh bsseoh.
+12 Hbzm cbdxmhiha qb qzh rtxahm.
+13 Mzhxh el qzh yeuk? 	rtxahm	6 12
+14 Utxi vdq abjm qzh tvvuh.
+15 Otmaxt jhmq ptok qb qzh keqozhm.
+16 Mzhxh el qzh tvvuh? 	bsseoh	14 3
+17 Ytmehu jhmq qb qzh keqozhm.
+18 Hbzm aelotxaha qzh yeuk.
+19 Mzhxh el qzh tvvuh? 	bsseoh	14 3
+1 Utxi jhmq qb qzh ztuujti.
+2 Ytmehu jhmq ptok qb qzh phaxbby.
+3 Otmaxt jhmq ptok qb qzh rtxahm.
+4 Utxi jhmq qb qzh bsseoh.
+5 Utxi cbdxmhiha qb qzh keqozhm.
+6 Otmaxt ybnha qb qzh bsseoh.
+7 Otmaxt cbdxmhiha qb qzh ztuujti.
+8 Ytmehu cbdxmhiha qb qzh rtxahm.
+9 Utxi cbdxmhiha qb qzh ptqzxbby.
+10 Hbzm jhmq ptok qb qzh ptqzxbby.
+11 Otmaxt qxtnhuuha qb qzh rtxahm.
+12 Hbzm ybnha qb qzh bsseoh.
+13 Ytmehu jhmq ptok qb qzh keqozhm.
+14 Utxi ybnha qb qzh keqozhm.
+15 Utxi ybnha qb qzh ztuujti.
+16 Utxi jhmq qb qzh keqozhm.
+17 Otmaxt jhmq ptok qb qzh phaxbby.
+18 Otmaxt qxtnhuuha qb qzh ztuujti.
+19 Otmaxt qxtnhuuha qb qzh keqozhm.
+20 Otmaxt ybnha qb qzh rtxahm.
+21 Ytmehu jhmq qb qzh rtxahm.
+22 Otmaxt jhmq ptok qb qzh ptqzxbby.
+23 Hbzm ybnha qb qzh rtxahm.
+24 Utxi jhmq qb qzh ptqzxbby.
+25 Ytmehu qxtnhuuha qb qzh keqozhm.
+26 Hbzm jhmq ptok qb qzh ztuujti.
+27 Otmaxt jhmq ptok qb qzh ztuujti.
+28 Utxi jhmq qb qzh ztuujti.
+29 Ytmehu jhmq ptok qb qzh rtxahm.
+30 Otmaxt jhmq ptok qb qzh bsseoh.
+31 Otmaxt ybnha qb qzh keqozhm.
+32 Utxi qxtnhuuha qb qzh rtxahm.
+33 Otmaxt jhmq qb qzh rtxahm.
+34 Ytmehu cbdxmhiha qb qzh ztuujti.
+35 Utxi jhmq ptok qb qzh ztuujti.
+36 Ytmehu qxtnhuuha qb qzh rtxahm.
+37 Hbzm cbdxmhiha qb qzh ptqzxbby.
+38 Ytmehu qxtnhuuha qb qzh ztuujti.
+39 Ytmehu qxtnhuuha qb qzh phaxbby.
+40 Utxi jhmq ptok qb qzh keqozhm.
+41 Ytmehu jhmq qb qzh bsseoh.
+42 Hbzm cbdxmhiha qb qzh ztuujti.
+43 Hbzm jhmq qb qzh keqozhm.
+44 Ytmehu qxtnhuuha qb qzh ztuujti.
+45 Otmaxt jhmq ptok qb qzh keqozhm.
+46 Utxi ybnha qb qzh bsseoh.
+47 Otmaxt jhmq ptok qb qzh rtxahm.
+48 Otmaxt jhmq ptok qb qzh keqozhm.
+49 Otmaxt ybnha qb qzh rtxahm.
+50 Otmaxt ybnha qb qzh bsseoh.
+51 Hbzm jhmq ptok qb qzh ztuujti.
+52 Ytmehu jhmq qb qzh rtxahm.
+53 Otmaxt qxtnhuuha qb qzh keqozhm.
+54 Otmaxt ybnha qb qzh ptqzxbby.
+55 Hbzm cbdxmhiha qb qzh rtxahm.
+56 Utxi ybnha qb qzh ztuujti.
+57 Hbzm jhmq ptok qb qzh bsseoh.
+58 Utxi jhmq ptok qb qzh bsseoh.
+59 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+60 Otmaxt qxtnhuuha qb qzh ztuujti.
+61 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+62 Otmaxt qxtnhuuha qb qzh phaxbby.
+63 Utxi jhmq ptok qb qzh ztuujti.
+64 Otmaxt qxtnhuuha qb qzh keqozhm.
+65 Ytmehu qxtnhuuha qb qzh rtxahm.
+66 Ytmehu cbdxmhiha qb qzh phaxbby.
+67 Utxi cbdxmhiha qb qzh bsseoh.
+68 Otmaxt jhmq ptok qb qzh bsseoh.
+69 Hbzm qxtnhuuha qb qzh ztuujti.
+70 Ytmehu veokha dv qzh yeuk qzhxh.
+71 Ytmehu veokha dv qzh tvvuh qzhxh.
+72 Otmaxt ybnha qb qzh ztuujti.
+73 Hbzm cbdxmhiha qb qzh phaxbby.
+74 Hbzm jhmq ptok qb qzh rtxahm.
+75 Otmaxt cbdxmhiha qb qzh bsseoh.
+76 Otmaxt ybnha qb qzh phaxbby.
+77 Utxi ybnha qb qzh keqozhm.
+78 Utxi jhmq qb qzh bsseoh.
+79 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+80 Otmaxt aelotxaha qzh sbbqptuu.
+81 Mzhxh el qzh sbbqptuu? 	phaxbby	80 76
+82 Ytmehu qbbk qzh sbbqptuu qzhxh.
+83 Ytmehu vdq abjm qzh tvvuh qzhxh.
+84 Mzhxh el qzh tvvuh? 	phaxbby	83 66
+85 Ytmehu qbbk qzh tvvuh qzhxh.
+86 Ytmehu qxtnhuuha qb qzh ztuujti.
+87 Mzhxh el qzh sbbqptuu? 	ztuujti	82 86
+88 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+89 Ytmehu uhsq qzh yeuk qzhxh.
+90 Mzhxh el qzh yeuk? 	ztuujti	89 86
+91 Ytmehu jhmq qb qzh keqozhm.
+92 Ytmehu jhmq ptok qb qzh ptqzxbby.
+93 Mzhxh el qzh yeuk? 	ztuujti	89 86
+1 Ytmehu jhmq qb qzh bsseoh.
+2 Hbzm qxtnhuuha qb qzh keqozhm.
+3 Utxi cbdxmhiha qb qzh phaxbby.
+4 Hbzm veokha dv qzh tvvuh qzhxh.
+5 Hbzm vdq abjm qzh tvvuh.
+6 Otmaxt qxtnhuuha qb qzh bsseoh.
+7 Mzhxh el qzh tvvuh? 	keqozhm	5 2
+8 Otmaxt jhmq qb qzh ptqzxbby.
+9 Ytmehu rxtppha qzh yeuk qzhxh.
+10 Mzhxh el qzh tvvuh? 	keqozhm	5 2
+11 Hbzm cbdxmhiha qb qzh bsseoh.
+12 Hbzm qxtnhuuha qb qzh phaxbby.
+13 Ytmehu uhsq qzh yeuk.
+14 Ytmehu rxtppha qzh yeuk qzhxh.
+15 Hbzm ybnha qb qzh rtxahm.
+16 Ytmehu ybnha qb qzh keqozhm.
+17 Mzhxh el qzh yeuk? 	keqozhm	14 16
+18 Ytmehu vdq abjm qzh yeuk.
+19 Utxi jhmq qb qzh ztuujti.
+20 Mzhxh el qzh yeuk? 	keqozhm	18 16
+21 Otmaxt jhmq ptok qb qzh bsseoh.
+22 Ytmehu veokha dv qzh yeuk qzhxh.
+23 Hbzm qbbk qzh sbbqptuu qzhxh.
+24 Hbzm axbvvha qzh sbbqptuu.
+25 Mzhxh el qzh sbbqptuu? 	rtxahm	24 15
+1 Hbzm cbdxmhiha qb qzh phaxbby.
+2 Otmaxt jhmq ptok qb qzh ptqzxbby.
+3 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+4 Otmaxt cbdxmhiha qb qzh bsseoh.
+5 Mzhxh el qzh sbbqptuu? 	bsseoh	3 4
+6 Ytmehu qxtnhuuha qb qzh keqozhm.
+7 Utxi jhmq qb qzh rtxahm.
+8 Mzhxh el qzh sbbqptuu? 	bsseoh	3 4
+9 Utxi qxtnhuuha qb qzh bsseoh.
+10 Utxi ybnha qb qzh keqozhm.
+11 Ytmehu jhmq qb qzh rtxahm.
+12 Ytmehu rbq qzh yeuk qzhxh.
+13 Ytmehu vdq abjm qzh yeuk qzhxh.
+14 Otmaxt jhmq ptok qb qzh rtxahm.
+15 Mzhxh el qzh yeuk? 	rtxahm	13 11
+16 Ytmehu rbq qzh yeuk qzhxh.
+17 Otmaxt qxtnhuuha qb qzh ztuujti.
+18 Otmaxt veokha dv qzh tvvuh qzhxh.
+19 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+20 Mzhxh el qzh tvvuh? 	ptqzxbby	18 19
+21 Utxi ybnha qb qzh phaxbby.
+22 Otmaxt jhmq ptok qb qzh phaxbby.
+23 Mzhxh el qzh tvvuh? 	phaxbby	18 22
+1 Otmaxt veokha dv qzh tvvuh qzhxh.
+2 Otmaxt vdq abjm qzh tvvuh.
+3 Otmaxt ybnha qb qzh ptqzxbby.
+4 Ytmehu jhmq qb qzh keqozhm.
+5 Otmaxt jhmq qb qzh phaxbby.
+6 Hbzm jhmq qb qzh keqozhm.
+7 Ytmehu cbdxmhiha qb qzh ztuujti.
+8 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+9 Otmaxt qbbk qzh yeuk qzhxh.
+10 Otmaxt jhmq qb qzh bsseoh.
+11 Mzhxh el qzh yeuk? 	bsseoh	9 10
+12 Otmaxt ybnha qb qzh ptqzxbby.
+13 Otmaxt vdq abjm qzh yeuk.
+14 Mzhxh el qzh yeuk? 	ptqzxbby	13 12
+15 Hbzm jhmq qb qzh ptqzxbby.
+16 Hbzm cbdxmhiha qb qzh phaxbby.
+17 Mzhxh el qzh yeuk? 	ptqzxbby	13 12
+18 Utxi jhmq qb qzh ptqzxbby.
+19 Hbzm veokha dv qzh tvvuh qzhxh.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	13 12
+21 Utxi rbq qzh sbbqptuu qzhxh.
+22 Utxi jhmq qb qzh ztuujti.
+23 Mzhxh el qzh sbbqptuu? 	ztuujti	21 22
+1 Ytmehu cbdxmhiha qb qzh keqozhm.
+2 Hbzm jhmq qb qzh keqozhm.
+3 Utxi jhmq ptok qb qzh ptqzxbby.
+4 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+5 Otmaxt qbbk qzh yeuk qzhxh.
+6 Hbzm ybnha qb qzh bsseoh.
+7 Utxi rbq qzh tvvuh qzhxh.
+8 Utxi axbvvha qzh tvvuh qzhxh.
+9 Mzhxh el qzh tvvuh? 	ptqzxbby	8 3
+10 Otmaxt jhmq qb qzh bsseoh.
+11 Utxi rxtppha qzh tvvuh qzhxh.
+12 Otmaxt jhmq qb qzh phaxbby.
+13 Ytmehu ybnha qb qzh ptqzxbby.
+14 Otmaxt vdq abjm qzh sbbqptuu qzhxh.
+15 Otmaxt qbbk qzh sbbqptuu qzhxh.
+16 Otmaxt ybnha qb qzh ptqzxbby.
+17 Utxi ybnha qb qzh ztuujti.
+18 Mzhxh el qzh sbbqptuu? 	ptqzxbby	15 16
+19 Utxi axbvvha qzh tvvuh.
+20 Hbzm qxtnhuuha qb qzh phaxbby.
+21 Mzhxh el qzh tvvuh? 	ztuujti	19 17
+22 Utxi rxtppha qzh tvvuh qzhxh.
+23 Utxi vdq abjm qzh tvvuh.
+24 Mzhxh el qzh tvvuh? 	ztuujti	23 17
+25 Otmaxt vdq abjm qzh yeuk.
+26 Utxi qbbk qzh tvvuh qzhxh.
+27 Mzhxh el qzh yeuk? 	ptqzxbby	25 16
+1 Ytmehu rxtppha qzh tvvuh qzhxh.
+2 Utxi rbq qzh yeuk qzhxh.
+3 Utxi jhmq ptok qb qzh keqozhm.
+4 Utxi ybnha qb qzh rtxahm.
+5 Mzhxh el qzh yeuk? 	rtxahm	2 4
+6 Otmaxt jhmq ptok qb qzh rtxahm.
+7 Utxi ybnha qb qzh bsseoh.
+8 Mzhxh el qzh yeuk? 	bsseoh	2 7
+9 Otmaxt jhmq ptok qb qzh ptqzxbby.
+10 Utxi aelotxaha qzh yeuk.
+11 Mzhxh el qzh yeuk? 	bsseoh	10 7
+12 Utxi rxtppha qzh yeuk qzhxh.
+13 Otmaxt jhmq ptok qb qzh keqozhm.
+14 Otmaxt jhmq ptok qb qzh ptqzxbby.
+15 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+16 Utxi ybnha qb qzh ptqzxbby.
+17 Ytmehu cbdxmhiha qb qzh bsseoh.
+18 Ytmehu aelotxaha qzh tvvuh.
+19 Utxi axbvvha qzh yeuk.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	19 16
+21 Hbzm veokha dv qzh yeuk qzhxh.
+22 Otmaxt ybnha qb qzh bsseoh.
+23 Mzhxh el qzh tvvuh? 	bsseoh	18 17
+1 Otmaxt qbbk qzh tvvuh qzhxh.
+2 Ytmehu jhmq ptok qb qzh phaxbby.
+3 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+4 Hbzm jhmq qb qzh ptqzxbby.
+5 Utxi cbdxmhiha qb qzh phaxbby.
+6 Ytmehu ybnha qb qzh phaxbby.
+7 Otmaxt ybnha qb qzh phaxbby.
+8 Ytmehu rbq qzh yeuk qzhxh.
+9 Ytmehu axbvvha qzh yeuk.
+10 Otmaxt veokha dv qzh yeuk qzhxh.
+11 Otmaxt vdq abjm qzh tvvuh qzhxh.
+12 Utxi veokha dv qzh tvvuh qzhxh.
+13 Utxi qxtnhuuha qb qzh ptqzxbby.
+14 Otmaxt aelotxaha qzh yeuk.
+15 Mzhxh el qzh yeuk? 	phaxbby	14 7
+16 Ytmehu qbbk qzh yeuk qzhxh.
+17 Hbzm ybnha qb qzh keqozhm.
+18 Mzhxh el qzh tvvuh? 	ptqzxbby	12 13
+19 Utxi axbvvha qzh tvvuh.
+20 Utxi qxtnhuuha qb qzh bsseoh.
+21 Mzhxh el qzh tvvuh? 	ptqzxbby	19 13
+22 Utxi rxtppha qzh sbbqptuu qzhxh.
+23 Ytmehu jhmq ptok qb qzh keqozhm.
+24 Mzhxh el qzh tvvuh? 	ptqzxbby	19 13
+25 Utxi jhmq ptok qb qzh rtxahm.
+26 Hbzm cbdxmhiha qb qzh ptqzxbby.
+27 Mzhxh el qzh sbbqptuu? 	rtxahm	22 25
+1 Hbzm jhmq ptok qb qzh bsseoh.
+2 Ytmehu qxtnhuuha qb qzh rtxahm.
+3 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+4 Hbzm cbdxmhiha qb qzh rtxahm.
+5 Utxi jhmq qb qzh rtxahm.
+6 Otmaxt ybnha qb qzh ptqzxbby.
+7 Otmaxt rbq qzh yeuk qzhxh.
+8 Ytmehu cbdxmhiha qb qzh bsseoh.
+9 Hbzm ybnha qb qzh bsseoh.
+10 Ytmehu veokha dv qzh tvvuh qzhxh.
+11 Utxi jhmq ptok qb qzh ptqzxbby.
+12 Otmaxt qxtnhuuha qb qzh bsseoh.
+13 Otmaxt jhmq ptok qb qzh phaxbby.
+14 Hbzm ybnha qb qzh rtxahm.
+15 Otmaxt axbvvha qzh yeuk qzhxh.
+16 Ytmehu uhsq qzh sbbqptuu.
+17 Mzhxh el qzh sbbqptuu? 	bsseoh	16 8
+18 Ytmehu qxtnhuuha qb qzh keqozhm.
+19 Ytmehu qxtnhuuha qb qzh ztuujti.
+20 Mzhxh el qzh yeuk? 	phaxbby	15 13
+21 Ytmehu aelotxaha qzh tvvuh.
+22 Otmaxt qbbk qzh yeuk qzhxh.
+23 Mzhxh el qzh tvvuh? 	ztuujti	21 19
+24 Ytmehu qbbk qzh tvvuh qzhxh.
+25 Ytmehu jhmq qb qzh bsseoh.
+26 Mzhxh el qzh tvvuh? 	bsseoh	24 25
+27 Ytmehu qbbk qzh sbbqptuu qzhxh.
+28 Otmaxt vdq abjm qzh yeuk.
+29 Mzhxh el qzh yeuk? 	phaxbby	28 13
+1 Otmaxt jhmq ptok qb qzh ptqzxbby.
+2 Otmaxt jhmq qb qzh bsseoh.
+3 Hbzm jhmq qb qzh phaxbby.
+4 Utxi jhmq qb qzh ptqzxbby.
+5 Utxi cbdxmhiha qb qzh phaxbby.
+6 Hbzm ybnha qb qzh ptqzxbby.
+7 Utxi veokha dv qzh yeuk qzhxh.
+8 Hbzm jhmq qb qzh phaxbby.
+9 Hbzm jhmq ptok qb qzh ptqzxbby.
+10 Otmaxt jhmq qb qzh rtxahm.
+11 Utxi aelotxaha qzh yeuk.
+12 Ytmehu cbdxmhiha qb qzh ztuujti.
+13 Mzhxh el qzh yeuk? 	phaxbby	11 5
+14 Otmaxt cbdxmhiha qb qzh keqozhm.
+15 Ytmehu qxtnhuuha qb qzh keqozhm.
+16 Mzhxh el qzh yeuk? 	phaxbby	11 5
+17 Otmaxt jhmq ptok qb qzh phaxbby.
+18 Utxi cbdxmhiha qb qzh rtxahm.
+19 Ytmehu veokha dv qzh tvvuh qzhxh.
+20 Utxi cbdxmhiha qb qzh ptqzxbby.
+21 Utxi cbdxmhiha qb qzh rtxahm.
+22 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+23 Mzhxh el qzh tvvuh? 	ptqzxbby	19 22
+24 Otmaxt rbq qzh yeuk qzhxh.
+25 Otmaxt jhmq ptok qb qzh bsseoh.
+26 Mzhxh el qzh yeuk? 	bsseoh	24 25
+27 Ytmehu qxtnhuuha qb qzh bsseoh.
+28 Hbzm qxtnhuuha qb qzh keqozhm.
+29 Mzhxh el qzh yeuk? 	bsseoh	24 25
+1 Hbzm rbq qzh yeuk qzhxh.
+2 Otmaxt cbdxmhiha qb qzh ztuujti.
+3 Ytmehu jhmq ptok qb qzh phaxbby.
+4 Hbzm uhsq qzh yeuk.
+5 Ytmehu rbq qzh tvvuh qzhxh.
+6 Otmaxt veokha dv qzh yeuk qzhxh.
+7 Otmaxt jhmq qb qzh ptqzxbby.
+8 Hbzm jhmq qb qzh ptqzxbby.
+9 Mzhxh el qzh yeuk? 	ptqzxbby	6 7
+10 Otmaxt cbdxmhiha qb qzh phaxbby.
+11 Hbzm qxtnhuuha qb qzh bsseoh.
+12 Mzhxh el qzh yeuk? 	phaxbby	6 10
+13 Utxi qxtnhuuha qb qzh keqozhm.
+14 Otmaxt ybnha qb qzh ptqzxbby.
+15 Utxi jhmq ptok qb qzh ztuujti.
+16 Otmaxt axbvvha qzh yeuk.
+17 Mzhxh el qzh yeuk? 	ptqzxbby	16 14
+18 Otmaxt cbdxmhiha qb qzh rtxahm.
+19 Hbzm jhmq qb qzh rtxahm.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	16 14
+21 Utxi cbdxmhiha qb qzh phaxbby.
+22 Hbzm ybnha qb qzh keqozhm.
+23 Mzhxh el qzh yeuk? 	ptqzxbby	16 14
+1 Ytmehu qxtnhuuha qb qzh rtxahm.
+2 Hbzm veokha dv qzh yeuk qzhxh.
+3 Utxi ybnha qb qzh rtxahm.
+4 Utxi jhmq qb qzh ptqzxbby.
+5 Utxi ybnha qb qzh phaxbby.
+6 Ytmehu cbdxmhiha qb qzh ztuujti.
+7 Hbzm ybnha qb qzh ztuujti.
+8 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+9 Ytmehu aelotxaha qzh sbbqptuu qzhxh.
+10 Utxi qxtnhuuha qb qzh ztuujti.
+11 Mzhxh el qzh sbbqptuu? 	ztuujti	9 6
+12 Utxi qxtnhuuha qb qzh rtxahm.
+13 Ytmehu qbbk qzh sbbqptuu qzhxh.
+14 Ytmehu ybnha qb qzh ptqzxbby.
+15 Ytmehu qxtnhuuha qb qzh bsseoh.
+16 Mzhxh el qzh sbbqptuu? 	bsseoh	13 15
+17 Hbzm cbdxmhiha qb qzh rtxahm.
+18 Hbzm uhsq qzh yeuk.
+19 Mzhxh el qzh sbbqptuu? 	bsseoh	13 15
+20 Hbzm qxtnhuuha qb qzh keqozhm.
+21 Utxi qxtnhuuha qb qzh phaxbby.
+22 Mzhxh el qzh yeuk? 	rtxahm	18 17
+23 Ytmehu jhmq qb qzh rtxahm.
+24 Utxi qxtnhuuha qb qzh keqozhm.
+25 Mzhxh el qzh yeuk? 	rtxahm	18 17
+1 Hbzm jhmq ptok qb qzh ztuujti.
+2 Ytmehu jhmq ptok qb qzh rtxahm.
+3 Hbzm ybnha qb qzh phaxbby.
+4 Ytmehu ybnha qb qzh keqozhm.
+5 Otmaxt qxtnhuuha qb qzh rtxahm.
+6 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+7 Otmaxt qbbk qzh yeuk qzhxh.
+8 Otmaxt uhsq qzh yeuk.
+9 Mzhxh el qzh yeuk? 	rtxahm	8 5
+10 Utxi ybnha qb qzh bsseoh.
+11 Otmaxt qbbk qzh yeuk qzhxh.
+12 Ytmehu ybnha qb qzh rtxahm.
+13 Otmaxt aelotxaha qzh yeuk.
+14 Mzhxh el qzh yeuk? 	rtxahm	13 5
+15 Otmaxt cbdxmhiha qb qzh phaxbby.
+16 Utxi cbdxmhiha qb qzh keqozhm.
+17 Mzhxh el qzh yeuk? 	rtxahm	13 5
+18 Utxi cbdxmhiha qb qzh rtxahm.
+19 Ytmehu jhmq ptok qb qzh ptqzxbby.
+20 Mzhxh el qzh yeuk? 	rtxahm	13 5
+21 Hbzm qxtnhuuha qb qzh ztuujti.
+22 Utxi veokha dv qzh yeuk qzhxh.
+23 Otmaxt qxtnhuuha qb qzh keqozhm.
+24 Utxi uhsq qzh yeuk.
+25 Mzhxh el qzh yeuk? 	rtxahm	24 18
+1 Otmaxt ybnha qb qzh phaxbby.
+2 Ytmehu ybnha qb qzh ztuujti.
+3 Hbzm jhmq qb qzh keqozhm.
+4 Hbzm rbq qzh yeuk qzhxh.
+5 Utxi qxtnhuuha qb qzh keqozhm.
+6 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+7 Utxi jhmq qb qzh rtxahm.
+8 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+9 Ytmehu veokha dv qzh tvvuh qzhxh.
+10 Utxi qxtnhuuha qb qzh ptqzxbby.
+11 Hbzm axbvvha qzh yeuk.
+12 Ytmehu qxtnhuuha qb qzh phaxbby.
+13 Mzhxh el qzh tvvuh? 	phaxbby	9 12
+14 Hbzm ybnha qb qzh ztuujti.
+15 Hbzm qxtnhuuha qb qzh bsseoh.
+16 Mzhxh el qzh yeuk? 	keqozhm	11 3
+17 Hbzm qxtnhuuha qb qzh phaxbby.
+18 Utxi jhmq ptok qb qzh rtxahm.
+19 Ytmehu vdq abjm qzh tvvuh.
+20 Utxi jhmq qb qzh ptqzxbby.
+21 Mzhxh el qzh tvvuh? 	phaxbby	19 12
+22 Otmaxt qxtnhuuha qb qzh phaxbby.
+23 Ytmehu rbq qzh tvvuh qzhxh.
+24 Otmaxt qxtnhuuha qb qzh rtxahm.
+25 Ytmehu axbvvha qzh tvvuh.
+26 Mzhxh el qzh tvvuh? 	phaxbby	25 12
+27 Ytmehu ybnha qb qzh bsseoh.
+28 Utxi jhmq ptok qb qzh ztuujti.
+29 Mzhxh el qzh tvvuh? 	phaxbby	25 12
+1 Hbzm cbdxmhiha qb qzh keqozhm.
+2 Ytmehu qxtnhuuha qb qzh bsseoh.
+3 Otmaxt ybnha qb qzh keqozhm.
+4 Otmaxt rbq qzh yeuk qzhxh.
+5 Hbzm ybnha qb qzh phaxbby.
+6 Utxi jhmq ptok qb qzh keqozhm.
+7 Otmaxt vdq abjm qzh yeuk.
+8 Utxi qbbk qzh yeuk qzhxh.
+9 Hbzm qxtnhuuha qb qzh ptqzxbby.
+10 Hbzm jhmq ptok qb qzh ztuujti.
+11 Ytmehu jhmq ptok qb qzh keqozhm.
+12 Hbzm qxtnhuuha qb qzh keqozhm.
+13 Utxi jhmq ptok qb qzh ztuujti.
+14 Utxi uhsq qzh yeuk qzhxh.
+15 Mzhxh el qzh yeuk? 	ztuujti	14 13
+16 Hbzm ybnha qb qzh rtxahm.
+17 Ytmehu ybnha qb qzh phaxbby.
+18 Mzhxh el qzh yeuk? 	ztuujti	14 13
+19 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+20 Utxi qbbk qzh sbbqptuu qzhxh.
+21 Mzhxh el qzh yeuk? 	ztuujti	14 13
+22 Hbzm jhmq ptok qb qzh ptqzxbby.
+23 Hbzm cbdxmhiha qb qzh phaxbby.
+24 Utxi jhmq ptok qb qzh keqozhm.
+25 Otmaxt jhmq ptok qb qzh phaxbby.
+26 Mzhxh el qzh sbbqptuu? 	keqozhm	20 24
+27 Ytmehu ybnha qb qzh phaxbby.
+28 Hbzm qxtnhuuha qb qzh bsseoh.
+29 Ytmehu jhmq ptok qb qzh keqozhm.
+30 Hbzm rbq qzh tvvuh qzhxh.
+31 Hbzm cbdxmhiha qb qzh rtxahm.
+32 Utxi qxtnhuuha qb qzh bsseoh.
+33 Mzhxh el qzh tvvuh? 	rtxahm	30 31
+1 Ytmehu ybnha qb qzh rtxahm.
+2 Ytmehu jhmq ptok qb qzh phaxbby.
+3 Utxi jhmq qb qzh bsseoh.
+4 Utxi jhmq qb qzh phaxbby.
+5 Utxi ybnha qb qzh rtxahm.
+6 Hbzm jhmq qb qzh ztuujti.
+7 Ytmehu jhmq ptok qb qzh keqozhm.
+8 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+9 Ytmehu jhmq qb qzh phaxbby.
+10 Hbzm jhmq qb qzh ptqzxbby.
+11 Ytmehu jhmq qb qzh ztuujti.
+12 Otmaxt uhsq qzh sbbqptuu.
+13 Ytmehu rxtppha qzh yeuk qzhxh.
+14 Hbzm cbdxmhiha qb qzh bsseoh.
+15 Ytmehu rbq qzh tvvuh qzhxh.
+16 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+17 Otmaxt cbdxmhiha qb qzh phaxbby.
+18 Ytmehu ybnha qb qzh keqozhm.
+19 Mzhxh el qzh tvvuh? 	keqozhm	15 18
+20 Ytmehu aelotxaha qzh tvvuh.
+21 Hbzm jhmq qb qzh keqozhm.
+22 Mzhxh el qzh tvvuh? 	keqozhm	20 18
+23 Hbzm rxtppha qzh tvvuh qzhxh.
+24 Otmaxt cbdxmhiha qb qzh rtxahm.
+25 Hbzm uhsq qzh tvvuh.
+26 Ytmehu rxtppha qzh tvvuh qzhxh.
+27 Otmaxt cbdxmhiha qb qzh ztuujti.
+28 Otmaxt vdq abjm qzh sbbqptuu.
+29 Mzhxh el qzh sbbqptuu? 	ztuujti	28 27
+30 Ytmehu jhmq qb qzh rtxahm.
+31 Otmaxt rbq qzh sbbqptuu qzhxh.
+32 Mzhxh el qzh tvvuh? 	rtxahm	26 30
+33 Hbzm jhmq ptok qb qzh phaxbby.
+34 Otmaxt vdq abjm qzh sbbqptuu.
+35 Mzhxh el qzh sbbqptuu? 	ztuujti	34 27
+1 Hbzm qbbk qzh sbbqptuu qzhxh.
+2 Hbzm vdq abjm qzh sbbqptuu.
+3 Ytmehu ybnha qb qzh ptqzxbby.
+4 Utxi jhmq ptok qb qzh rtxahm.
+5 Ytmehu cbdxmhiha qb qzh bsseoh.
+6 Utxi cbdxmhiha qb qzh ztuujti.
+7 Hbzm ybnha qb qzh ptqzxbby.
+8 Hbzm qxtnhuuha qb qzh phaxbby.
+9 Hbzm rbq qzh sbbqptuu qzhxh.
+10 Otmaxt ybnha qb qzh bsseoh.
+11 Hbzm rxtppha qzh yeuk qzhxh.
+12 Hbzm uhsq qzh sbbqptuu.
+13 Mzhxh el qzh sbbqptuu? 	phaxbby	12 8
+14 Hbzm vdq abjm qzh yeuk.
+15 Utxi jhmq ptok qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	phaxbby	14 8
+17 Otmaxt qxtnhuuha qb qzh phaxbby.
+18 Hbzm veokha dv qzh sbbqptuu qzhxh.
+19 Mzhxh el qzh yeuk? 	phaxbby	14 8
+20 Otmaxt jhmq qb qzh keqozhm.
+21 Ytmehu jhmq ptok qb qzh rtxahm.
+22 Hbzm qbbk qzh yeuk qzhxh.
+23 Otmaxt cbdxmhiha qb qzh rtxahm.
+24 Hbzm qxtnhuuha qb qzh ptqzxbby.
+25 Utxi qxtnhuuha qb qzh rtxahm.
+26 Mzhxh el qzh yeuk? 	ptqzxbby	22 24
+27 Hbzm ybnha qb qzh keqozhm.
+28 Hbzm rbq qzh tvvuh qzhxh.
+29 Hbzm jhmq qb qzh phaxbby.
+30 Hbzm jhmq qb qzh ztuujti.
+31 Mzhxh el qzh tvvuh? 	ztuujti	28 30
+1 Ytmehu jhmq qb qzh bsseoh.
+2 Utxi qbbk qzh tvvuh qzhxh.
+3 Utxi jhmq ptok qb qzh rtxahm.
+4 Utxi uhsq qzh tvvuh.
+5 Mzhxh el qzh tvvuh? 	rtxahm	4 3
+6 Otmaxt ybnha qb qzh ptqzxbby.
+7 Hbzm cbdxmhiha qb qzh ztuujti.
+8 Mzhxh el qzh tvvuh? 	rtxahm	4 3
+9 Utxi rxtppha qzh yeuk qzhxh.
+10 Otmaxt jhmq ptok qb qzh rtxahm.
+11 Mzhxh el qzh tvvuh? 	rtxahm	4 3
+12 Utxi veokha dv qzh tvvuh qzhxh.
+13 Utxi aelotxaha qzh tvvuh.
+14 Mzhxh el qzh tvvuh? 	rtxahm	13 3
+15 Utxi cbdxmhiha qb qzh ptqzxbby.
+16 Otmaxt jhmq qb qzh bsseoh.
+17 Mzhxh el qzh tvvuh? 	rtxahm	13 3
+1 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+2 Ytmehu cbdxmhiha qb qzh ztuujti.
+3 Utxi ybnha qb qzh keqozhm.
+4 Ytmehu qbbk qzh tvvuh qzhxh.
+5 Ytmehu vdq abjm qzh tvvuh qzhxh.
+6 Ytmehu rxtppha qzh tvvuh qzhxh.
+7 Ytmehu qxtnhuuha qb qzh rtxahm.
+8 Utxi jhmq ptok qb qzh rtxahm.
+9 Mzhxh el qzh tvvuh? 	rtxahm	6 7
+10 Ytmehu jhmq ptok qb qzh ztuujti.
+11 Ytmehu aelotxaha qzh tvvuh.
+12 Mzhxh el qzh tvvuh? 	ztuujti	11 10
+13 Utxi jhmq ptok qb qzh keqozhm.
+14 Hbzm ybnha qb qzh rtxahm.
+15 Mzhxh el qzh tvvuh? 	ztuujti	11 10
+16 Ytmehu qbbk qzh tvvuh qzhxh.
+17 Hbzm veokha dv qzh sbbqptuu qzhxh.
+18 Hbzm vdq abjm qzh sbbqptuu.
+19 Hbzm rbq qzh sbbqptuu qzhxh.
+20 Otmaxt jhmq ptok qb qzh bsseoh.
+21 Ytmehu cbdxmhiha qb qzh keqozhm.
+22 Hbzm axbvvha qzh sbbqptuu.
+23 Utxi qbbk qzh yeuk qzhxh.
+24 Mzhxh el qzh sbbqptuu? 	rtxahm	22 14
+25 Utxi uhsq qzh yeuk.
+26 Hbzm qbbk qzh sbbqptuu qzhxh.
+27 Mzhxh el qzh yeuk? 	keqozhm	25 13
+1 Hbzm jhmq qb qzh ztuujti.
+2 Utxi qxtnhuuha qb qzh ptqzxbby.
+3 Hbzm qbbk qzh sbbqptuu qzhxh.
+4 Utxi qxtnhuuha qb qzh phaxbby.
+5 Ytmehu rbq qzh tvvuh qzhxh.
+6 Otmaxt jhmq ptok qb qzh ztuujti.
+7 Utxi cbdxmhiha qb qzh keqozhm.
+8 Utxi ybnha qb qzh ztuujti.
+9 Hbzm ybnha qb qzh phaxbby.
+10 Hbzm uhsq qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	phaxbby	10 9
+12 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+13 Hbzm jhmq qb qzh bsseoh.
+14 Mzhxh el qzh sbbqptuu? 	phaxbby	10 9
+15 Hbzm jhmq ptok qb qzh rtxahm.
+16 Hbzm jhmq qb qzh ztuujti.
+17 Mzhxh el qzh sbbqptuu? 	phaxbby	10 9
+18 Ytmehu uhsq qzh tvvuh.
+19 Utxi cbdxmhiha qb qzh ptqzxbby.
+20 Mzhxh el qzh tvvuh? 	ptqzxbby	18 12
+21 Ytmehu veokha dv qzh tvvuh qzhxh.
+22 Ytmehu cbdxmhiha qb qzh rtxahm.
+23 Mzhxh el qzh tvvuh? 	rtxahm	21 22
+1 Otmaxt qxtnhuuha qb qzh bsseoh.
+2 Hbzm cbdxmhiha qb qzh ztuujti.
+3 Utxi jhmq qb qzh keqozhm.
+4 Otmaxt qxtnhuuha qb qzh phaxbby.
+5 Utxi jhmq qb qzh ptqzxbby.
+6 Hbzm jhmq qb qzh keqozhm.
+7 Utxi veokha dv qzh sbbqptuu qzhxh.
+8 Utxi cbdxmhiha qb qzh keqozhm.
+9 Mzhxh el qzh sbbqptuu? 	keqozhm	7 8
+10 Ytmehu rxtppha qzh yeuk qzhxh.
+11 Otmaxt jhmq ptok qb qzh ptqzxbby.
+12 Mzhxh el qzh sbbqptuu? 	keqozhm	7 8
+13 Ytmehu ybnha qb qzh keqozhm.
+14 Hbzm ybnha qb qzh rtxahm.
+15 Mzhxh el qzh yeuk? 	keqozhm	10 13
+16 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+17 Otmaxt cbdxmhiha qb qzh bsseoh.
+18 Ytmehu axbvvha qzh yeuk.
+19 Otmaxt ybnha qb qzh keqozhm.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	18 16
+21 Otmaxt jhmq ptok qb qzh phaxbby.
+22 Otmaxt qxtnhuuha qb qzh ztuujti.
+23 Mzhxh el qzh yeuk? 	ptqzxbby	18 16
+1 Otmaxt qxtnhuuha qb qzh keqozhm.
+2 Otmaxt ybnha qb qzh ptqzxbby.
+3 Hbzm qxtnhuuha qb qzh phaxbby.
+4 Hbzm rbq qzh tvvuh qzhxh.
+5 Ytmehu ybnha qb qzh rtxahm.
+6 Otmaxt rbq qzh sbbqptuu qzhxh.
+7 Hbzm vdq abjm qzh tvvuh.
+8 Hbzm rbq qzh tvvuh qzhxh.
+9 Hbzm cbdxmhiha qb qzh keqozhm.
+10 Otmaxt uhsq qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	ptqzxbby	10 2
+12 Ytmehu jhmq ptok qb qzh ztuujti.
+13 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+14 Mzhxh el qzh tvvuh? 	keqozhm	8 9
+15 Otmaxt vdq abjm qzh sbbqptuu.
+16 Otmaxt qbbk qzh sbbqptuu qzhxh.
+17 Hbzm axbvvha qzh tvvuh.
+18 Ytmehu cbdxmhiha qb qzh bsseoh.
+19 Mzhxh el qzh tvvuh? 	keqozhm	17 9
+20 Ytmehu rbq qzh yeuk qzhxh.
+21 Hbzm jhmq ptok qb qzh bsseoh.
+22 Mzhxh el qzh tvvuh? 	keqozhm	17 9
+23 Ytmehu vdq abjm qzh yeuk.
+24 Otmaxt axbvvha qzh sbbqptuu.
+25 Mzhxh el qzh yeuk? 	bsseoh	23 18
+1 Utxi ybnha qb qzh bsseoh.
+2 Ytmehu jhmq qb qzh rtxahm.
+3 Otmaxt jhmq ptok qb qzh ztuujti.
+4 Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Utxi jhmq ptok qb qzh rtxahm.
+6 Utxi qxtnhuuha qb qzh ztuujti.
+7 Hbzm jhmq qb qzh rtxahm.
+8 Otmaxt qxtnhuuha qb qzh rtxahm.
+9 Ytmehu jhmq qb qzh bsseoh.
+10 Ytmehu qxtnhuuha qb qzh phaxbby.
+11 Hbzm qbbk qzh sbbqptuu qzhxh.
+12 Ytmehu rxtppha qzh yeuk qzhxh.
+13 Hbzm aelotxaha qzh sbbqptuu.
+14 Otmaxt jhmq qb qzh keqozhm.
+15 Mzhxh el qzh sbbqptuu? 	rtxahm	13 7
+16 Hbzm jhmq qb qzh bsseoh.
+17 Otmaxt qxtnhuuha qb qzh phaxbby.
+18 Mzhxh el qzh sbbqptuu? 	rtxahm	13 7
+19 Otmaxt ybnha qb qzh ptqzxbby.
+20 Utxi cbdxmhiha qb qzh ptqzxbby.
+21 Ytmehu ybnha qb qzh rtxahm.
+22 Ytmehu axbvvha qzh yeuk.
+23 Mzhxh el qzh yeuk? 	rtxahm	22 21
+24 Utxi qxtnhuuha qb qzh ztuujti.
+25 Ytmehu cbdxmhiha qb qzh phaxbby.
+26 Mzhxh el qzh yeuk? 	rtxahm	22 21
+27 Utxi jhmq ptok qb qzh rtxahm.
+28 Hbzm cbdxmhiha qb qzh ptqzxbby.
+29 Mzhxh el qzh yeuk? 	rtxahm	22 21
+1 Otmaxt qxtnhuuha qb qzh ztuujti.
+2 Utxi rxtppha qzh tvvuh qzhxh.
+3 Utxi axbvvha qzh tvvuh.
+4 Otmaxt ybnha qb qzh bsseoh.
+5 Ytmehu jhmq ptok qb qzh keqozhm.
+6 Hbzm veokha dv qzh tvvuh qzhxh.
+7 Hbzm vdq abjm qzh tvvuh qzhxh.
+8 Otmaxt rbq qzh yeuk qzhxh.
+9 Otmaxt uhsq qzh yeuk qzhxh.
+10 Hbzm rxtppha qzh tvvuh qzhxh.
+11 Mzhxh el qzh yeuk? 	bsseoh	9 4
+12 Hbzm cbdxmhiha qb qzh bsseoh.
+13 Otmaxt qbbk qzh yeuk qzhxh.
+14 Mzhxh el qzh tvvuh? 	bsseoh	10 12
+15 Ytmehu cbdxmhiha qb qzh rtxahm.
+16 Otmaxt ybnha qb qzh ptqzxbby.
+17 Mzhxh el qzh yeuk? 	ptqzxbby	13 16
+18 Otmaxt uhsq qzh yeuk.
+19 Hbzm uhsq qzh tvvuh.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	18 16
+21 Hbzm qxtnhuuha qb qzh ztuujti.
+22 Otmaxt qxtnhuuha qb qzh ztuujti.
+23 Mzhxh el qzh tvvuh? 	bsseoh	19 12
+1 Utxi jhmq qb qzh keqozhm.
+2 Utxi cbdxmhiha qb qzh phaxbby.
+3 Otmaxt qxtnhuuha qb qzh bsseoh.
+4 Hbzm jhmq ptok qb qzh ztuujti.
+5 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+6 Ytmehu uhsq qzh sbbqptuu.
+7 Ytmehu rbq qzh sbbqptuu qzhxh.
+8 Otmaxt qxtnhuuha qb qzh ztuujti.
+9 Hbzm rbq qzh tvvuh qzhxh.
+10 Ytmehu axbvvha qzh sbbqptuu.
+11 Utxi veokha dv qzh sbbqptuu qzhxh.
+12 Ytmehu ybnha qb qzh rtxahm.
+13 Utxi jhmq ptok qb qzh rtxahm.
+14 Hbzm qbbk qzh yeuk qzhxh.
+15 Mzhxh el qzh sbbqptuu? 	rtxahm	11 13
+16 Ytmehu jhmq ptok qb qzh keqozhm.
+17 Hbzm jhmq qb qzh bsseoh.
+18 Mzhxh el qzh yeuk? 	bsseoh	14 17
+19 Otmaxt jhmq qb qzh phaxbby.
+20 Otmaxt jhmq ptok qb qzh ptqzxbby.
+21 Mzhxh el qzh yeuk? 	bsseoh	14 17
+22 Otmaxt cbdxmhiha qb qzh ztuujti.
+23 Utxi uhsq qzh sbbqptuu.
+24 Mzhxh el qzh sbbqptuu? 	rtxahm	23 13
+25 Hbzm qxtnhuuha qb qzh phaxbby.
+26 Otmaxt qxtnhuuha qb qzh keqozhm.
+27 Mzhxh el qzh sbbqptuu? 	rtxahm	23 13
+1 Otmaxt jhmq ptok qb qzh bsseoh.
+2 Hbzm ybnha qb qzh phaxbby.
+3 Ytmehu qbbk qzh sbbqptuu qzhxh.
+4 Utxi ybnha qb qzh ztuujti.
+5 Utxi ybnha qb qzh keqozhm.
+6 Ytmehu uhsq qzh sbbqptuu qzhxh.
+7 Ytmehu rbq qzh sbbqptuu qzhxh.
+8 Utxi ybnha qb qzh ztuujti.
+9 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+10 Hbzm jhmq ptok qb qzh keqozhm.
+11 Utxi qxtnhuuha qb qzh phaxbby.
+12 Ytmehu qxtnhuuha qb qzh ztuujti.
+13 Otmaxt jhmq ptok qb qzh keqozhm.
+14 Ytmehu ybnha qb qzh bsseoh.
+15 Otmaxt jhmq qb qzh bsseoh.
+16 Ytmehu rxtppha qzh tvvuh qzhxh.
+17 Otmaxt jhmq qb qzh ptqzxbby.
+18 Ytmehu qbbk qzh yeuk qzhxh.
+19 Ytmehu axbvvha qzh tvvuh.
+20 Hbzm qxtnhuuha qb qzh phaxbby.
+21 Mzhxh el qzh tvvuh? 	bsseoh	19 14
+22 Ytmehu jhmq ptok qb qzh rtxahm.
+23 Hbzm cbdxmhiha qb qzh ptqzxbby.
+24 Mzhxh el qzh tvvuh? 	bsseoh	19 14
+25 Otmaxt ybnha qb qzh bsseoh.
+26 Otmaxt jhmq ptok qb qzh ptqzxbby.
+27 Hbzm qxtnhuuha qb qzh ztuujti.
+28 Ytmehu aelotxaha qzh sbbqptuu.
+29 Mzhxh el qzh sbbqptuu? 	rtxahm	28 22
+30 Hbzm cbdxmhiha qb qzh ptqzxbby.
+31 Ytmehu qxtnhuuha qb qzh keqozhm.
+32 Mzhxh el qzh sbbqptuu? 	rtxahm	28 22
+33 Ytmehu qxtnhuuha qb qzh phaxbby.
+34 Ytmehu qxtnhuuha qb qzh rtxahm.
+35 Mzhxh el qzh sbbqptuu? 	rtxahm	28 22
+1 Ytmehu cbdxmhiha qb qzh ztuujti.
+2 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+3 Utxi ybnha qb qzh phaxbby.
+4 Otmaxt qbbk qzh sbbqptuu qzhxh.
+5 Ytmehu jhmq ptok qb qzh phaxbby.
+6 Ytmehu cbdxmhiha qb qzh keqozhm.
+7 Ytmehu qbbk qzh tvvuh qzhxh.
+8 Otmaxt ybnha qb qzh rtxahm.
+9 Mzhxh el qzh sbbqptuu? 	rtxahm	4 8
+10 Otmaxt jhmq ptok qb qzh keqozhm.
+11 Ytmehu cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el qzh tvvuh? 	rtxahm	7 11
+13 Otmaxt jhmq ptok qb qzh ptqzxbby.
+14 Otmaxt aelotxaha qzh sbbqptuu.
+15 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 13
+16 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+17 Ytmehu axbvvha qzh tvvuh qzhxh.
+18 Mzhxh el qzh tvvuh? 	rtxahm	17 11
+19 Hbzm qxtnhuuha qb qzh ptqzxbby.
+20 Ytmehu ybnha qb qzh ptqzxbby.
+21 Mzhxh el qzh tvvuh? 	rtxahm	17 11
+1 Ytmehu ybnha qb qzh bsseoh.
+2 Otmaxt jhmq ptok qb qzh bsseoh.
+3 Otmaxt qxtnhuuha qb qzh rtxahm.
+4 Otmaxt qxtnhuuha qb qzh ztuujti.
+5 Hbzm cbdxmhiha qb qzh bsseoh.
+6 Utxi jhmq ptok qb qzh ztuujti.
+7 Utxi ybnha qb qzh ptqzxbby.
+8 Hbzm cbdxmhiha qb qzh ptqzxbby.
+9 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+10 Ytmehu uhsq qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	bsseoh	10 1
+12 Ytmehu ybnha qb qzh ptqzxbby.
+13 Otmaxt qbbk qzh tvvuh qzhxh.
+14 Mzhxh el qzh sbbqptuu? 	bsseoh	10 1
+15 Utxi qxtnhuuha qb qzh phaxbby.
+16 Otmaxt uhsq qzh tvvuh.
+17 Mzhxh el qzh tvvuh? 	ztuujti	16 4
+18 Otmaxt jhmq ptok qb qzh bsseoh.
+19 Ytmehu jhmq qb qzh bsseoh.
+20 Mzhxh el qzh tvvuh? 	ztuujti	16 4
+21 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+22 Hbzm cbdxmhiha qb qzh ztuujti.
+23 Mzhxh el qzh tvvuh? 	ztuujti	16 4
+1 Utxi jhmq ptok qb qzh rtxahm.
+2 Utxi rxtppha qzh yeuk qzhxh.
+3 Otmaxt jhmq qb qzh ztuujti.
+4 Utxi rbq qzh sbbqptuu qzhxh.
+5 Hbzm veokha dv qzh tvvuh qzhxh.
+6 Ytmehu jhmq ptok qb qzh keqozhm.
+7 Hbzm ybnha qb qzh keqozhm.
+8 Utxi uhsq qzh yeuk.
+9 Mzhxh el qzh tvvuh? 	keqozhm	5 7
+10 Utxi vdq abjm qzh sbbqptuu.
+11 Utxi cbdxmhiha qb qzh bsseoh.
+12 Mzhxh el qzh sbbqptuu? 	rtxahm	10 1
+13 Ytmehu jhmq qb qzh ztuujti.
+14 Utxi ybnha qb qzh keqozhm.
+15 Mzhxh el qzh yeuk? 	rtxahm	8 1
+16 Hbzm aelotxaha qzh tvvuh.
+17 Hbzm rxtppha qzh tvvuh qzhxh.
+18 Hbzm ybnha qb qzh ztuujti.
+19 Utxi jhmq qb qzh bsseoh.
+20 Mzhxh el qzh tvvuh? 	ztuujti	17 18
+21 Hbzm vdq abjm qzh tvvuh.
+22 Hbzm rbq qzh tvvuh qzhxh.
+23 Ytmehu jhmq qb qzh ptqzxbby.
+24 Hbzm axbvvha qzh tvvuh qzhxh.
+25 Mzhxh el qzh tvvuh? 	ztuujti	24 18
+1 Ytmehu ybnha qb qzh keqozhm.
+2 Otmaxt jhmq ptok qb qzh ptqzxbby.
+3 Otmaxt qxtnhuuha qb qzh bsseoh.
+4 Ytmehu jhmq qb qzh bsseoh.
+5 Utxi ybnha qb qzh ptqzxbby.
+6 Ytmehu jhmq qb qzh phaxbby.
+7 Ytmehu rxtppha qzh tvvuh qzhxh.
+8 Hbzm cbdxmhiha qb qzh rtxahm.
+9 Utxi veokha dv qzh sbbqptuu qzhxh.
+10 Utxi axbvvha qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	ptqzxbby	10 5
+12 Otmaxt jhmq ptok qb qzh ptqzxbby.
+13 Ytmehu cbdxmhiha qb qzh keqozhm.
+14 Mzhxh el qzh sbbqptuu? 	ptqzxbby	10 5
+15 Hbzm jhmq ptok qb qzh ptqzxbby.
+16 Hbzm qbbk qzh yeuk qzhxh.
+17 Mzhxh el qzh sbbqptuu? 	ptqzxbby	10 5
+18 Otmaxt jhmq ptok qb qzh bsseoh.
+19 Hbzm axbvvha qzh yeuk.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	19 15
+21 Ytmehu ybnha qb qzh bsseoh.
+22 Utxi cbdxmhiha qb qzh bsseoh.
+23 Mzhxh el qzh yeuk? 	ptqzxbby	19 15
+1 Ytmehu jhmq qb qzh ptqzxbby.
+2 Utxi qbbk qzh yeuk qzhxh.
+3 Otmaxt qxtnhuuha qb qzh rtxahm.
+4 Hbzm cbdxmhiha qb qzh rtxahm.
+5 Hbzm rxtppha qzh sbbqptuu qzhxh.
+6 Hbzm vdq abjm qzh sbbqptuu qzhxh.
+7 Mzhxh el qzh sbbqptuu? 	rtxahm	6 4
+8 Otmaxt jhmq qb qzh bsseoh.
+9 Otmaxt qxtnhuuha qb qzh ztuujti.
+10 Mzhxh el qzh sbbqptuu? 	rtxahm	6 4
+11 Otmaxt jhmq qb qzh keqozhm.
+12 Hbzm ybnha qb qzh bsseoh.
+13 Mzhxh el qzh sbbqptuu? 	rtxahm	6 4
+14 Utxi jhmq ptok qb qzh phaxbby.
+15 Utxi ybnha qb qzh bsseoh.
+16 Hbzm jhmq ptok qb qzh ztuujti.
+17 Ytmehu jhmq qb qzh phaxbby.
+18 Otmaxt cbdxmhiha qb qzh ztuujti.
+19 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+20 Ytmehu ybnha qb qzh bsseoh.
+21 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+22 Ytmehu jhmq ptok qb qzh keqozhm.
+23 Ytmehu jhmq ptok qb qzh ztuujti.
+24 Utxi aelotxaha qzh yeuk.
+25 Utxi rbq qzh yeuk qzhxh.
+26 Utxi jhmq qb qzh ptqzxbby.
+27 Otmaxt ybnha qb qzh rtxahm.
+28 Mzhxh el qzh yeuk? 	ptqzxbby	25 26
+29 Ytmehu ybnha qb qzh phaxbby.
+30 Hbzm qxtnhuuha qb qzh keqozhm.
+31 Mzhxh el qzh yeuk? 	ptqzxbby	25 26
+1 Hbzm jhmq qb qzh rtxahm.
+2 Hbzm qxtnhuuha qb qzh phaxbby.
+3 Hbzm qbbk qzh yeuk qzhxh.
+4 Ytmehu ybnha qb qzh rtxahm.
+5 Otmaxt jhmq qb qzh ztuujti.
+6 Hbzm rxtppha qzh sbbqptuu qzhxh.
+7 Hbzm uhsq qzh sbbqptuu.
+8 Hbzm aelotxaha qzh yeuk.
+9 Mzhxh el qzh yeuk? 	phaxbby	8 2
+10 Otmaxt rbq qzh tvvuh qzhxh.
+11 Utxi ybnha qb qzh ztuujti.
+12 Mzhxh el qzh sbbqptuu? 	phaxbby	7 2
+13 Otmaxt jhmq qb qzh phaxbby.
+14 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+15 Mzhxh el qzh yeuk? 	phaxbby	8 2
+16 Utxi qxtnhuuha qb qzh phaxbby.
+17 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+18 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 17
+19 Otmaxt cbdxmhiha qb qzh bsseoh.
+20 Hbzm cbdxmhiha qb qzh bsseoh.
+21 Mzhxh el qzh sbbqptuu? 	bsseoh	14 19
+1 Otmaxt qxtnhuuha qb qzh rtxahm.
+2 Otmaxt cbdxmhiha qb qzh phaxbby.
+3 Hbzm ybnha qb qzh bsseoh.
+4 Utxi ybnha qb qzh bsseoh.
+5 Utxi veokha dv qzh yeuk qzhxh.
+6 Utxi qbbk qzh tvvuh qzhxh.
+7 Hbzm jhmq ptok qb qzh rtxahm.
+8 Ytmehu qbbk qzh sbbqptuu qzhxh.
+9 Utxi jhmq ptok qb qzh keqozhm.
+10 Ytmehu vdq abjm qzh sbbqptuu qzhxh.
+11 Mzhxh el qzh tvvuh? 	keqozhm	6 9
+12 Hbzm veokha dv qzh sbbqptuu qzhxh.
+13 Utxi cbdxmhiha qb qzh bsseoh.
+14 Utxi qxtnhuuha qb qzh phaxbby.
+15 Hbzm vdq abjm qzh sbbqptuu.
+16 Mzhxh el qzh sbbqptuu? 	rtxahm	15 7
+17 Ytmehu cbdxmhiha qb qzh bsseoh.
+18 Hbzm veokha dv qzh sbbqptuu qzhxh.
+19 Utxi qxtnhuuha qb qzh bsseoh.
+20 Hbzm vdq abjm qzh sbbqptuu qzhxh.
+21 Mzhxh el qzh sbbqptuu? 	rtxahm	20 7
+22 Otmaxt qxtnhuuha qb qzh ztuujti.
+23 Hbzm rxtppha qzh sbbqptuu qzhxh.
+24 Ytmehu jhmq ptok qb qzh phaxbby.
+25 Hbzm jhmq ptok qb qzh ptqzxbby.
+26 Mzhxh el qzh sbbqptuu? 	ptqzxbby	23 25
+27 Hbzm aelotxaha qzh sbbqptuu.
+28 Otmaxt jhmq qb qzh bsseoh.
+29 Mzhxh el qzh sbbqptuu? 	ptqzxbby	27 25
+1 Hbzm jhmq qb qzh keqozhm.
+2 Utxi veokha dv qzh tvvuh qzhxh.
+3 Utxi jhmq ptok qb qzh phaxbby.
+4 Ytmehu cbdxmhiha qb qzh bsseoh.
+5 Mzhxh el qzh tvvuh? 	phaxbby	2 3
+6 Ytmehu veokha dv qzh yeuk qzhxh.
+7 Hbzm qxtnhuuha qb qzh ptqzxbby.
+8 Mzhxh el qzh tvvuh? 	phaxbby	2 3
+9 Utxi aelotxaha qzh tvvuh.
+10 Otmaxt jhmq qb qzh keqozhm.
+11 Mzhxh el qzh tvvuh? 	phaxbby	9 3
+12 Hbzm ybnha qb qzh bsseoh.
+13 Ytmehu uhsq qzh yeuk.
+14 Mzhxh el qzh yeuk? 	bsseoh	13 4
+15 Utxi rxtppha qzh sbbqptuu qzhxh.
+16 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+17 Mzhxh el qzh yeuk? 	bsseoh	13 4
+1 Utxi qxtnhuuha qb qzh phaxbby.
+2 Ytmehu cbdxmhiha qb qzh bsseoh.
+3 Otmaxt rbq qzh tvvuh qzhxh.
+4 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+5 Mzhxh el qzh tvvuh? 	ptqzxbby	3 4
+6 Otmaxt axbvvha qzh tvvuh.
+7 Utxi rxtppha qzh sbbqptuu qzhxh.
+8 Mzhxh el qzh tvvuh? 	ptqzxbby	6 4
+9 Otmaxt jhmq qb qzh phaxbby.
+10 Utxi qxtnhuuha qb qzh keqozhm.
+11 Mzhxh el qzh sbbqptuu? 	keqozhm	7 10
+12 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+13 Ytmehu cbdxmhiha qb qzh ztuujti.
+14 Mzhxh el qzh sbbqptuu? 	keqozhm	7 10
+15 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+16 Utxi ybnha qb qzh phaxbby.
+17 Hbzm rxtppha qzh tvvuh qzhxh.
+18 Ytmehu cbdxmhiha qb qzh bsseoh.
+19 Utxi ybnha qb qzh ptqzxbby.
+20 Utxi jhmq ptok qb qzh phaxbby.
+21 Otmaxt qxtnhuuha qb qzh ztuujti.
+22 Utxi jhmq qb qzh rtxahm.
+23 Hbzm jhmq qb qzh phaxbby.
+24 Otmaxt ybnha qb qzh bsseoh.
+25 Utxi uhsq qzh sbbqptuu.
+26 Utxi ybnha qb qzh keqozhm.
+27 Mzhxh el qzh sbbqptuu? 	rtxahm	25 22
+1 Utxi ybnha qb qzh ztuujti.
+2 Ytmehu qbbk qzh yeuk qzhxh.
+3 Otmaxt rxtppha qzh tvvuh qzhxh.
+4 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+5 Mzhxh el qzh yeuk? 	ptqzxbby	2 4
+6 Otmaxt axbvvha qzh tvvuh qzhxh.
+7 Ytmehu vdq abjm qzh yeuk qzhxh.
+8 Mzhxh el qzh yeuk? 	ptqzxbby	7 4
+9 Ytmehu veokha dv qzh yeuk qzhxh.
+10 Ytmehu axbvvha qzh yeuk.
+11 Mzhxh el qzh yeuk? 	ptqzxbby	10 4
+12 Ytmehu jhmq ptok qb qzh keqozhm.
+13 Ytmehu jhmq qb qzh phaxbby.
+14 Mzhxh el qzh yeuk? 	ptqzxbby	10 4
+15 Utxi jhmq qb qzh ptqzxbby.
+16 Utxi rxtppha qzh yeuk qzhxh.
+17 Otmaxt jhmq qb qzh ztuujti.
+18 Hbzm veokha dv qzh tvvuh qzhxh.
+19 Ytmehu jhmq ptok qb qzh bsseoh.
+20 Ytmehu ybnha qb qzh phaxbby.
+21 Hbzm jhmq ptok qb qzh bsseoh.
+22 Ytmehu qxtnhuuha qb qzh bsseoh.
+23 Mzhxh el qzh tvvuh? 	bsseoh	18 21
+1 Utxi rxtppha qzh sbbqptuu qzhxh.
+2 Otmaxt cbdxmhiha qb qzh rtxahm.
+3 Utxi uhsq qzh sbbqptuu.
+4 Ytmehu rbq qzh sbbqptuu qzhxh.
+5 Ytmehu cbdxmhiha qb qzh phaxbby.
+6 Utxi qxtnhuuha qb qzh ptqzxbby.
+7 Mzhxh el qzh sbbqptuu? 	phaxbby	4 5
+8 Hbzm qxtnhuuha qb qzh ptqzxbby.
+9 Ytmehu vdq abjm qzh sbbqptuu.
+10 Mzhxh el qzh sbbqptuu? 	phaxbby	9 5
+11 Ytmehu cbdxmhiha qb qzh keqozhm.
+12 Hbzm jhmq qb qzh bsseoh.
+13 Mzhxh el qzh sbbqptuu? 	phaxbby	9 5
+14 Utxi jhmq qb qzh bsseoh.
+15 Otmaxt jhmq qb qzh bsseoh.
+16 Mzhxh el qzh sbbqptuu? 	phaxbby	9 5
+17 Hbzm qxtnhuuha qb qzh rtxahm.
+18 Utxi ybnha qb qzh keqozhm.
+19 Otmaxt ybnha qb qzh rtxahm.
+20 Utxi qxtnhuuha qb qzh phaxbby.
+21 Utxi rbq qzh sbbqptuu qzhxh.
+22 Utxi vdq abjm qzh sbbqptuu.
+23 Mzhxh el qzh sbbqptuu? 	phaxbby	22 20
+1 Otmaxt ybnha qb qzh rtxahm.
+2 Otmaxt veokha dv qzh tvvuh qzhxh.
+3 Hbzm cbdxmhiha qb qzh bsseoh.
+4 Ytmehu qxtnhuuha qb qzh ztuujti.
+5 Utxi qbbk qzh sbbqptuu qzhxh.
+6 Utxi aelotxaha qzh sbbqptuu.
+7 Utxi rxtppha qzh sbbqptuu qzhxh.
+8 Hbzm rbq qzh yeuk qzhxh.
+9 Utxi uhsq qzh sbbqptuu qzhxh.
+10 Ytmehu ybnha qb qzh phaxbby.
+11 Hbzm qxtnhuuha qb qzh rtxahm.
+12 Ytmehu jhmq qb qzh ztuujti.
+13 Mzhxh el qzh yeuk? 	rtxahm	8 11
+14 Utxi veokha dv qzh sbbqptuu qzhxh.
+15 Otmaxt uhsq qzh tvvuh.
+16 Mzhxh el qzh tvvuh? 	rtxahm	15 1
+17 Utxi uhsq qzh sbbqptuu qzhxh.
+18 Utxi qbbk qzh sbbqptuu qzhxh.
+19 Mzhxh el qzh tvvuh? 	rtxahm	15 1
+20 Ytmehu jhmq qb qzh keqozhm.
+21 Hbzm rbq qzh tvvuh qzhxh.
+22 Utxi aelotxaha qzh sbbqptuu.
+23 Otmaxt ybnha qb qzh ptqzxbby.
+24 Utxi rbq qzh sbbqptuu qzhxh.
+25 Otmaxt qxtnhuuha qb qzh phaxbby.
+26 Utxi uhsq qzh sbbqptuu.
+27 Hbzm jhmq ptok qb qzh bsseoh.
+28 Otmaxt qxtnhuuha qb qzh ztuujti.
+29 Hbzm qxtnhuuha qb qzh rtxahm.
+30 Hbzm aelotxaha qzh tvvuh.
+31 Utxi veokha dv qzh sbbqptuu qzhxh.
+32 Mzhxh el qzh tvvuh? 	rtxahm	30 29
+33 Hbzm rbq qzh tvvuh qzhxh.
+34 Hbzm vdq abjm qzh yeuk qzhxh.
+35 Mzhxh el qzh yeuk? 	rtxahm	34 29
+1 Hbzm qbbk qzh tvvuh qzhxh.
+2 Hbzm axbvvha qzh tvvuh.
+3 Ytmehu jhmq ptok qb qzh ptqzxbby.
+4 Hbzm rxtppha qzh tvvuh qzhxh.
+5 Utxi qxtnhuuha qb qzh keqozhm.
+6 Otmaxt jhmq ptok qb qzh rtxahm.
+7 Hbzm axbvvha qzh tvvuh.
+8 Hbzm qbbk qzh tvvuh qzhxh.
+9 Hbzm axbvvha qzh tvvuh.
+10 Ytmehu qxtnhuuha qb qzh bsseoh.
+11 Otmaxt cbdxmhiha qb qzh ztuujti.
+12 Hbzm rbq qzh tvvuh qzhxh.
+13 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+14 Ytmehu qbbk qzh yeuk qzhxh.
+15 Hbzm aelotxaha qzh tvvuh.
+16 Hbzm ybnha qb qzh keqozhm.
+17 Ytmehu uhsq qzh yeuk qzhxh.
+18 Ytmehu jhmq ptok qb qzh ptqzxbby.
+19 Mzhxh el qzh yeuk? 	bsseoh	17 10
+20 Otmaxt cbdxmhiha qb qzh rtxahm.
+21 Utxi rbq qzh sbbqptuu qzhxh.
+22 Mzhxh el qzh yeuk? 	bsseoh	17 10
+23 Utxi aelotxaha qzh sbbqptuu.
+24 Hbzm cbdxmhiha qb qzh ptqzxbby.
+25 Mzhxh el qzh sbbqptuu? 	keqozhm	23 5
+26 Ytmehu qxtnhuuha qb qzh bsseoh.
+27 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+28 Mzhxh el qzh sbbqptuu? 	keqozhm	23 5
+29 Hbzm ybnha qb qzh rtxahm.
+30 Utxi jhmq ptok qb qzh bsseoh.
+31 Ytmehu qxtnhuuha qb qzh bsseoh.
+32 Ytmehu veokha dv qzh yeuk qzhxh.
+33 Ytmehu aelotxaha qzh yeuk.
+34 Hbzm qxtnhuuha qb qzh phaxbby.
+35 Mzhxh el qzh yeuk? 	bsseoh	33 31
+1 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+2 Hbzm qxtnhuuha qb qzh bsseoh.
+3 Utxi ybnha qb qzh rtxahm.
+4 Utxi rbq qzh tvvuh qzhxh.
+5 Hbzm jhmq qb qzh ztuujti.
+6 Utxi axbvvha qzh tvvuh.
+7 Mzhxh el qzh tvvuh? 	rtxahm	6 3
+8 Ytmehu aelotxaha qzh sbbqptuu.
+9 Utxi ybnha qb qzh phaxbby.
+10 Mzhxh el qzh tvvuh? 	rtxahm	6 3
+11 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+12 Ytmehu jhmq qb qzh phaxbby.
+13 Mzhxh el qzh sbbqptuu? 	phaxbby	11 12
+14 Otmaxt ybnha qb qzh ztuujti.
+15 Ytmehu ybnha qb qzh ztuujti.
+16 Mzhxh el qzh sbbqptuu? 	ztuujti	11 15
+17 Ytmehu ybnha qb qzh bsseoh.
+18 Ytmehu vdq abjm qzh sbbqptuu qzhxh.
+19 Mzhxh el qzh sbbqptuu? 	bsseoh	18 17
+1 Otmaxt qxtnhuuha qb qzh keqozhm.
+2 Ytmehu ybnha qb qzh ztuujti.
+3 Utxi qxtnhuuha qb qzh keqozhm.
+4 Utxi cbdxmhiha qb qzh phaxbby.
+5 Ytmehu ybnha qb qzh phaxbby.
+6 Otmaxt cbdxmhiha qb qzh phaxbby.
+7 Ytmehu ybnha qb qzh keqozhm.
+8 Ytmehu jhmq qb qzh bsseoh.
+9 Hbzm cbdxmhiha qb qzh bsseoh.
+10 Hbzm ybnha qb qzh rtxahm.
+11 Ytmehu rxtppha qzh yeuk qzhxh.
+12 Hbzm ybnha qb qzh keqozhm.
+13 Hbzm ybnha qb qzh rtxahm.
+14 Ytmehu qbbk qzh sbbqptuu qzhxh.
+15 Utxi jhmq ptok qb qzh keqozhm.
+16 Utxi jhmq ptok qb qzh bsseoh.
+17 Ytmehu uhsq qzh sbbqptuu.
+18 Utxi rbq qzh tvvuh qzhxh.
+19 Mzhxh el qzh sbbqptuu? 	bsseoh	17 8
+20 Hbzm qxtnhuuha qb qzh phaxbby.
+21 Hbzm ybnha qb qzh ztuujti.
+22 Mzhxh el qzh sbbqptuu? 	bsseoh	17 8
+23 Utxi rxtppha qzh sbbqptuu qzhxh.
+24 Otmaxt ybnha qb qzh rtxahm.
+25 Ytmehu axbvvha qzh yeuk.
+26 Utxi ybnha qb qzh keqozhm.
+27 Mzhxh el qzh sbbqptuu? 	keqozhm	23 26
+28 Otmaxt jhmq ptok qb qzh keqozhm.
+29 Utxi vdq abjm qzh tvvuh.
+30 Mzhxh el qzh tvvuh? 	keqozhm	29 26
+31 Otmaxt rxtppha qzh tvvuh qzhxh.
+32 Utxi aelotxaha qzh sbbqptuu.
+33 Mzhxh el qzh sbbqptuu? 	keqozhm	32 26
+1 Utxi qbbk qzh tvvuh qzhxh.
+2 Utxi aelotxaha qzh tvvuh.
+3 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+4 Otmaxt veokha dv qzh yeuk qzhxh.
+5 Hbzm cbdxmhiha qb qzh rtxahm.
+6 Utxi qbbk qzh tvvuh qzhxh.
+7 Hbzm jhmq qb qzh ptqzxbby.
+8 Otmaxt jhmq qb qzh phaxbby.
+9 Mzhxh el qzh yeuk? 	phaxbby	4 8
+10 Utxi uhsq qzh tvvuh qzhxh.
+11 Otmaxt jhmq ptok qb qzh keqozhm.
+12 Utxi ybnha qb qzh rtxahm.
+13 Utxi ybnha qb qzh phaxbby.
+14 Hbzm cbdxmhiha qb qzh bsseoh.
+15 Otmaxt qbbk qzh tvvuh qzhxh.
+16 Otmaxt jhmq ptok qb qzh ptqzxbby.
+17 Hbzm qxtnhuuha qb qzh keqozhm.
+18 Mzhxh el qzh tvvuh? 	ptqzxbby	15 16
+19 Utxi qxtnhuuha qb qzh keqozhm.
+20 Otmaxt vdq abjm qzh sbbqptuu.
+21 Mzhxh el qzh sbbqptuu? 	ptqzxbby	20 16
+22 Otmaxt aelotxaha qzh yeuk.
+23 Otmaxt vdq abjm qzh tvvuh.
+24 Mzhxh el qzh yeuk? 	ptqzxbby	22 16
+25 Otmaxt veokha dv qzh yeuk qzhxh.
+26 Otmaxt uhsq qzh yeuk.
+27 Mzhxh el qzh sbbqptuu? 	ptqzxbby	20 16
+1 Hbzm qbbk qzh tvvuh qzhxh.
+2 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+3 Utxi rxtppha qzh yeuk qzhxh.
+4 Otmaxt jhmq qb qzh keqozhm.
+5 Utxi jhmq qb qzh ztuujti.
+6 Utxi jhmq qb qzh ptqzxbby.
+7 Mzhxh el qzh yeuk? 	ptqzxbby	3 6
+8 Otmaxt cbdxmhiha qb qzh phaxbby.
+9 Hbzm rxtppha qzh sbbqptuu qzhxh.
+10 Hbzm vdq abjm qzh tvvuh.
+11 Otmaxt jhmq ptok qb qzh keqozhm.
+12 Otmaxt jhmq qb qzh bsseoh.
+13 Hbzm ybnha qb qzh ptqzxbby.
+14 Mzhxh el qzh sbbqptuu? 	ptqzxbby	9 13
+15 Hbzm vdq abjm qzh sbbqptuu.
+16 Utxi axbvvha qzh yeuk.
+17 Mzhxh el qzh yeuk? 	ptqzxbby	16 6
+18 Hbzm veokha dv qzh sbbqptuu qzhxh.
+19 Ytmehu qxtnhuuha qb qzh bsseoh.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	16 6
+21 Utxi rbq qzh yeuk qzhxh.
+22 Utxi uhsq qzh yeuk.
+23 Mzhxh el qzh yeuk? 	ptqzxbby	22 6
+1 Otmaxt qxtnhuuha qb qzh ztuujti.
+2 Ytmehu ybnha qb qzh ptqzxbby.
+3 Ytmehu jhmq ptok qb qzh rtxahm.
+4 Otmaxt ybnha qb qzh keqozhm.
+5 Hbzm ybnha qb qzh keqozhm.
+6 Otmaxt rxtppha qzh tvvuh qzhxh.
+7 Otmaxt qxtnhuuha qb qzh ztuujti.
+8 Otmaxt ybnha qb qzh rtxahm.
+9 Mzhxh el qzh tvvuh? 	rtxahm	6 8
+10 Hbzm rbq qzh sbbqptuu qzhxh.
+11 Utxi cbdxmhiha qb qzh ztuujti.
+12 Mzhxh el qzh tvvuh? 	rtxahm	6 8
+13 Utxi cbdxmhiha qb qzh keqozhm.
+14 Hbzm qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el qzh sbbqptuu? 	phaxbby	10 14
+16 Utxi cbdxmhiha qb qzh rtxahm.
+17 Ytmehu ybnha qb qzh ptqzxbby.
+18 Utxi qxtnhuuha qb qzh phaxbby.
+19 Hbzm jhmq qb qzh ztuujti.
+20 Hbzm jhmq ptok qb qzh ptqzxbby.
+21 Otmaxt jhmq qb qzh ztuujti.
+22 Otmaxt qbbk qzh yeuk qzhxh.
+23 Ytmehu jhmq qb qzh keqozhm.
+24 Otmaxt jhmq qb qzh rtxahm.
+25 Hbzm uhsq qzh sbbqptuu.
+26 Mzhxh el qzh sbbqptuu? 	ptqzxbby	25 20
+27 Hbzm veokha dv qzh sbbqptuu qzhxh.
+28 Otmaxt jhmq qb qzh ztuujti.
+29 Hbzm aelotxaha qzh sbbqptuu.
+30 Hbzm veokha dv qzh sbbqptuu qzhxh.
+31 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+32 Otmaxt jhmq qb qzh phaxbby.
+33 Otmaxt qxtnhuuha qb qzh keqozhm.
+34 Hbzm aelotxaha qzh sbbqptuu.
+35 Mzhxh el qzh sbbqptuu? 	ptqzxbby	34 20
+1 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+2 Utxi veokha dv qzh yeuk qzhxh.
+3 Utxi uhsq qzh yeuk.
+4 Utxi rbq qzh yeuk qzhxh.
+5 Utxi cbdxmhiha qb qzh ztuujti.
+6 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+7 Mzhxh el qzh yeuk? 	ztuujti	4 5
+8 Hbzm rxtppha qzh tvvuh qzhxh.
+9 Otmaxt jhmq ptok qb qzh ztuujti.
+10 Mzhxh el qzh yeuk? 	ztuujti	4 5
+11 Ytmehu cbdxmhiha qb qzh keqozhm.
+12 Utxi uhsq qzh yeuk.
+13 Mzhxh el qzh yeuk? 	ztuujti	12 5
+14 Utxi rxtppha qzh yeuk qzhxh.
+15 Otmaxt cbdxmhiha qb qzh rtxahm.
+16 Hbzm aelotxaha qzh tvvuh.
+17 Ytmehu vdq abjm qzh sbbqptuu qzhxh.
+18 Mzhxh el qzh sbbqptuu? 	keqozhm	17 11
+19 Utxi axbvvha qzh yeuk.
+20 Utxi cbdxmhiha qb qzh rtxahm.
+21 Mzhxh el qzh yeuk? 	ztuujti	19 5
+1 Ytmehu rbq qzh sbbqptuu qzhxh.
+2 Utxi qxtnhuuha qb qzh rtxahm.
+3 Utxi ybnha qb qzh phaxbby.
+4 Ytmehu ybnha qb qzh bsseoh.
+5 Mzhxh el qzh sbbqptuu? 	bsseoh	1 4
+6 Ytmehu qxtnhuuha qb qzh ztuujti.
+7 Ytmehu uhsq qzh sbbqptuu.
+8 Mzhxh el qzh sbbqptuu? 	ztuujti	7 6
+9 Utxi jhmq qb qzh ptqzxbby.
+10 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+11 Otmaxt jhmq ptok qb qzh ztuujti.
+12 Ytmehu veokha dv qzh yeuk qzhxh.
+13 Utxi jhmq qb qzh keqozhm.
+14 Ytmehu ybnha qb qzh rtxahm.
+15 Mzhxh el qzh sbbqptuu? 	rtxahm	10 14
+16 Utxi cbdxmhiha qb qzh ztuujti.
+17 Ytmehu uhsq qzh sbbqptuu.
+18 Mzhxh el qzh sbbqptuu? 	rtxahm	17 14
+19 Hbzm jhmq ptok qb qzh phaxbby.
+20 Ytmehu jhmq qb qzh phaxbby.
+21 Mzhxh el qzh sbbqptuu? 	rtxahm	17 14
+1 Hbzm jhmq ptok qb qzh keqozhm.
+2 Utxi jhmq qb qzh ztuujti.
+3 Ytmehu qbbk qzh tvvuh qzhxh.
+4 Otmaxt cbdxmhiha qb qzh keqozhm.
+5 Ytmehu axbvvha qzh tvvuh qzhxh.
+6 Utxi jhmq qb qzh bsseoh.
+7 Otmaxt qxtnhuuha qb qzh rtxahm.
+8 Ytmehu qxtnhuuha qb qzh rtxahm.
+9 Otmaxt qxtnhuuha qb qzh phaxbby.
+10 Ytmehu jhmq qb qzh ptqzxbby.
+11 Hbzm veokha dv qzh tvvuh qzhxh.
+12 Otmaxt jhmq ptok qb qzh rtxahm.
+13 Hbzm aelotxaha qzh tvvuh.
+14 Utxi ybnha qb qzh rtxahm.
+15 Mzhxh el qzh tvvuh? 	keqozhm	13 1
+16 Hbzm cbdxmhiha qb qzh ptqzxbby.
+17 Hbzm qxtnhuuha qb qzh ztuujti.
+18 Mzhxh el qzh tvvuh? 	keqozhm	13 1
+19 Otmaxt cbdxmhiha qb qzh keqozhm.
+20 Hbzm cbdxmhiha qb qzh ptqzxbby.
+21 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+22 Utxi jhmq ptok qb qzh ptqzxbby.
+23 Utxi jhmq ptok qb qzh phaxbby.
+24 Ytmehu jhmq ptok qb qzh keqozhm.
+25 Hbzm jhmq ptok qb qzh keqozhm.
+26 Otmaxt qxtnhuuha qb qzh keqozhm.
+27 Hbzm veokha dv qzh tvvuh qzhxh.
+28 Otmaxt qxtnhuuha qb qzh bsseoh.
+29 Otmaxt jhmq qb qzh phaxbby.
+30 Ytmehu cbdxmhiha qb qzh phaxbby.
+31 Ytmehu rxtppha qzh yeuk qzhxh.
+32 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+33 Utxi cbdxmhiha qb qzh bsseoh.
+34 Otmaxt vdq abjm qzh sbbqptuu.
+35 Mzhxh el qzh sbbqptuu? 	phaxbby	34 29
+36 Utxi jhmq ptok qb qzh phaxbby.
+37 Otmaxt jhmq ptok qb qzh keqozhm.
+38 Mzhxh el qzh sbbqptuu? 	phaxbby	34 29
+39 Hbzm axbvvha qzh tvvuh.
+40 Hbzm jhmq qb qzh phaxbby.
+41 Mzhxh el qzh sbbqptuu? 	phaxbby	34 29
+1 Otmaxt qxtnhuuha qb qzh rtxahm.
+2 Utxi qbbk qzh sbbqptuu qzhxh.
+3 Otmaxt veokha dv qzh tvvuh qzhxh.
+4 Ytmehu jhmq qb qzh bsseoh.
+5 Utxi vdq abjm qzh sbbqptuu.
+6 Otmaxt qxtnhuuha qb qzh keqozhm.
+7 Mzhxh el qzh tvvuh? 	keqozhm	3 6
+8 Ytmehu rbq qzh yeuk qzhxh.
+9 Utxi ybnha qb qzh rtxahm.
+10 Otmaxt qxtnhuuha qb qzh rtxahm.
+11 Ytmehu aelotxaha qzh yeuk.
+12 Mzhxh el qzh yeuk? 	bsseoh	11 4
+13 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+14 Otmaxt jhmq ptok qb qzh keqozhm.
+15 Mzhxh el qzh yeuk? 	bsseoh	11 4
+16 Otmaxt aelotxaha qzh tvvuh qzhxh.
+17 Hbzm qxtnhuuha qb qzh bsseoh.
+18 Mzhxh el qzh tvvuh? 	keqozhm	16 14
+19 Otmaxt veokha dv qzh tvvuh qzhxh.
+20 Utxi cbdxmhiha qb qzh ptqzxbby.
+21 Otmaxt jhmq ptok qb qzh ptqzxbby.
+22 Utxi jhmq qb qzh bsseoh.
+23 Mzhxh el qzh tvvuh? 	ptqzxbby	19 21
+1 Otmaxt veokha dv qzh yeuk qzhxh.
+2 Otmaxt cbdxmhiha qb qzh keqozhm.
+3 Mzhxh el qzh yeuk? 	keqozhm	1 2
+4 Ytmehu ybnha qb qzh ptqzxbby.
+5 Ytmehu rbq qzh tvvuh qzhxh.
+6 Mzhxh el qzh yeuk? 	keqozhm	1 2
+7 Ytmehu uhsq qzh tvvuh.
+8 Hbzm qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el qzh tvvuh? 	ptqzxbby	7 4
+10 Hbzm ybnha qb qzh ptqzxbby.
+11 Otmaxt axbvvha qzh yeuk.
+12 Mzhxh el qzh tvvuh? 	ptqzxbby	7 4
+13 Utxi cbdxmhiha qb qzh keqozhm.
+14 Otmaxt rbq qzh yeuk qzhxh.
+15 Hbzm jhmq qb qzh bsseoh.
+16 Ytmehu rbq qzh tvvuh qzhxh.
+17 Otmaxt vdq abjm qzh yeuk.
+18 Ytmehu jhmq ptok qb qzh phaxbby.
+19 Mzhxh el qzh yeuk? 	keqozhm	17 2
+1 Ytmehu cbdxmhiha qb qzh ztuujti.
+2 Utxi jhmq qb qzh keqozhm.
+3 Hbzm jhmq qb qzh phaxbby.
+4 Ytmehu jhmq ptok qb qzh rtxahm.
+5 Utxi cbdxmhiha qb qzh ptqzxbby.
+6 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+7 Otmaxt jhmq ptok qb qzh bsseoh.
+8 Hbzm qbbk qzh sbbqptuu qzhxh.
+9 Hbzm cbdxmhiha qb qzh keqozhm.
+10 Hbzm cbdxmhiha qb qzh rtxahm.
+11 Mzhxh el qzh sbbqptuu? 	rtxahm	8 10
+12 Utxi jhmq qb qzh ztuujti.
+13 Hbzm uhsq qzh sbbqptuu.
+14 Mzhxh el qzh sbbqptuu? 	rtxahm	13 10
+15 Utxi jhmq ptok qb qzh phaxbby.
+16 Otmaxt jhmq ptok qb qzh phaxbby.
+17 Mzhxh el qzh sbbqptuu? 	rtxahm	13 10
+18 Ytmehu jhmq ptok qb qzh keqozhm.
+19 Hbzm qxtnhuuha qb qzh ptqzxbby.
+20 Mzhxh el qzh sbbqptuu? 	rtxahm	13 10
+21 Ytmehu ybnha qb qzh ptqzxbby.
+22 Ytmehu jhmq ptok qb qzh bsseoh.
+23 Hbzm jhmq ptok qb qzh phaxbby.
+24 Hbzm ybnha qb qzh rtxahm.
+25 Hbzm rbq qzh sbbqptuu qzhxh.
+26 Otmaxt cbdxmhiha qb qzh ztuujti.
+27 Utxi ybnha qb qzh keqozhm.
+28 Hbzm axbvvha qzh sbbqptuu.
+29 Mzhxh el qzh sbbqptuu? 	rtxahm	28 24
+1 Hbzm jhmq qb qzh rtxahm.
+2 Utxi cbdxmhiha qb qzh phaxbby.
+3 Ytmehu cbdxmhiha qb qzh phaxbby.
+4 Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Ytmehu jhmq ptok qb qzh ztuujti.
+6 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+7 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+8 Ytmehu qxtnhuuha qb qzh keqozhm.
+9 Mzhxh el qzh sbbqptuu? 	keqozhm	6 8
+10 Ytmehu cbdxmhiha qb qzh bsseoh.
+11 Ytmehu rxtppha qzh yeuk qzhxh.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	6 10
+13 Hbzm ybnha qb qzh ztuujti.
+14 Utxi rxtppha qzh tvvuh qzhxh.
+15 Ytmehu aelotxaha qzh yeuk.
+16 Ytmehu qbbk qzh yeuk qzhxh.
+17 Utxi aelotxaha qzh tvvuh.
+18 Hbzm jhmq qb qzh bsseoh.
+19 Mzhxh el qzh tvvuh? 	ptqzxbby	17 4
+20 Utxi rxtppha qzh tvvuh qzhxh.
+21 Ytmehu uhsq qzh sbbqptuu.
+22 Mzhxh el qzh sbbqptuu? 	bsseoh	21 10
+23 Utxi jhmq qb qzh rtxahm.
+24 Utxi qxtnhuuha qb qzh bsseoh.
+25 Mzhxh el qzh tvvuh? 	bsseoh	20 24
+1 Hbzm ybnha qb qzh bsseoh.
+2 Otmaxt cbdxmhiha qb qzh ztuujti.
+3 Hbzm jhmq ptok qb qzh ptqzxbby.
+4 Ytmehu jhmq ptok qb qzh ztuujti.
+5 Ytmehu ybnha qb qzh keqozhm.
+6 Utxi cbdxmhiha qb qzh ptqzxbby.
+7 Hbzm cbdxmhiha qb qzh bsseoh.
+8 Otmaxt jhmq qb qzh rtxahm.
+9 Otmaxt rxtppha qzh yeuk qzhxh.
+10 Hbzm jhmq qb qzh ztuujti.
+11 Utxi qbbk qzh tvvuh qzhxh.
+12 Utxi uhsq qzh tvvuh.
+13 Mzhxh el qzh tvvuh? 	ptqzxbby	12 6
+14 Otmaxt vdq abjm qzh yeuk.
+15 Ytmehu cbdxmhiha qb qzh rtxahm.
+16 Mzhxh el qzh yeuk? 	rtxahm	14 8
+17 Ytmehu rbq qzh yeuk qzhxh.
+18 Utxi jhmq ptok qb qzh ztuujti.
+19 Mzhxh el qzh tvvuh? 	ptqzxbby	12 6
+20 Utxi jhmq ptok qb qzh phaxbby.
+21 Otmaxt ybnha qb qzh phaxbby.
+22 Hbzm qxtnhuuha qb qzh ptqzxbby.
+23 Hbzm rxtppha qzh tvvuh qzhxh.
+24 Ytmehu ybnha qb qzh phaxbby.
+25 Utxi veokha dv qzh sbbqptuu qzhxh.
+26 Utxi jhmq qb qzh rtxahm.
+27 Hbzm qxtnhuuha qb qzh keqozhm.
+28 Mzhxh el qzh sbbqptuu? 	rtxahm	25 26
+29 Otmaxt cbdxmhiha qb qzh bsseoh.
+30 Utxi ybnha qb qzh keqozhm.
+31 Mzhxh el qzh sbbqptuu? 	keqozhm	25 30
+1 Hbzm ybnha qb qzh ztuujti.
+2 Otmaxt jhmq qb qzh bsseoh.
+3 Ytmehu jhmq qb qzh ptqzxbby.
+4 Hbzm cbdxmhiha qb qzh keqozhm.
+5 Otmaxt qbbk qzh tvvuh qzhxh.
+6 Otmaxt qbbk qzh sbbqptuu qzhxh.
+7 Otmaxt uhsq qzh sbbqptuu.
+8 Otmaxt qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el qzh sbbqptuu? 	bsseoh	7 2
+10 Hbzm jhmq ptok qb qzh phaxbby.
+11 Otmaxt axbvvha qzh tvvuh qzhxh.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	7 2
+13 Otmaxt rxtppha qzh tvvuh qzhxh.
+14 Hbzm veokha dv qzh yeuk qzhxh.
+15 Otmaxt jhmq qb qzh ptqzxbby.
+16 Otmaxt jhmq ptok qb qzh ztuujti.
+17 Mzhxh el qzh tvvuh? 	ztuujti	13 16
+18 Hbzm cbdxmhiha qb qzh ptqzxbby.
+19 Hbzm uhsq qzh yeuk.
+20 Mzhxh el qzh yeuk? 	ptqzxbby	19 18
+21 Otmaxt uhsq qzh tvvuh qzhxh.
+22 Otmaxt rxtppha qzh tvvuh qzhxh.
+23 Mzhxh el qzh yeuk? 	ptqzxbby	19 18
+1 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+2 Otmaxt qxtnhuuha qb qzh phaxbby.
+3 Mzhxh el qzh sbbqptuu? 	phaxbby	1 2
+4 Hbzm jhmq qb qzh rtxahm.
+5 Utxi jhmq ptok qb qzh ptqzxbby.
+6 Mzhxh el qzh sbbqptuu? 	phaxbby	1 2
+7 Utxi jhmq ptok qb qzh keqozhm.
+8 Hbzm qxtnhuuha qb qzh ptqzxbby.
+9 Utxi qxtnhuuha qb qzh rtxahm.
+10 Ytmehu ybnha qb qzh keqozhm.
+11 Otmaxt rxtppha qzh tvvuh qzhxh.
+12 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+13 Mzhxh el qzh tvvuh? 	ptqzxbby	11 12
+14 Hbzm jhmq qb qzh ztuujti.
+15 Ytmehu qxtnhuuha qb qzh rtxahm.
+16 Mzhxh el qzh tvvuh? 	ptqzxbby	11 12
+17 Otmaxt cbdxmhiha qb qzh bsseoh.
+18 Ytmehu jhmq ptok qb qzh phaxbby.
+19 Otmaxt rbq qzh yeuk qzhxh.
+20 Otmaxt axbvvha qzh yeuk.
+21 Mzhxh el qzh yeuk? 	bsseoh	20 17
+1 Ytmehu veokha dv qzh tvvuh qzhxh.
+2 Otmaxt qxtnhuuha qb qzh ztuujti.
+3 Utxi veokha dv qzh sbbqptuu qzhxh.
+4 Ytmehu qxtnhuuha qb qzh ztuujti.
+5 Mzhxh el qzh tvvuh? 	ztuujti	1 4
+6 Utxi cbdxmhiha qb qzh bsseoh.
+7 Otmaxt jhmq ptok qb qzh bsseoh.
+8 Mzhxh el qzh sbbqptuu? 	bsseoh	3 6
+9 Utxi cbdxmhiha qb qzh ztuujti.
+10 Hbzm qxtnhuuha qb qzh rtxahm.
+11 Utxi axbvvha qzh sbbqptuu.
+12 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+13 Hbzm jhmq qb qzh keqozhm.
+14 Ytmehu axbvvha qzh sbbqptuu.
+15 Mzhxh el qzh sbbqptuu? 	ztuujti	14 4
+16 Utxi qxtnhuuha qb qzh phaxbby.
+17 Otmaxt jhmq qb qzh keqozhm.
+18 Mzhxh el qzh sbbqptuu? 	ztuujti	14 4
+19 Utxi qbbk qzh yeuk qzhxh.
+20 Otmaxt jhmq qb qzh ptqzxbby.
+21 Mzhxh el qzh sbbqptuu? 	ztuujti	14 4
+1 Hbzm cbdxmhiha qb qzh phaxbby.
+2 Utxi rbq qzh tvvuh qzhxh.
+3 Otmaxt cbdxmhiha qb qzh phaxbby.
+4 Utxi ybnha qb qzh bsseoh.
+5 Mzhxh el qzh tvvuh? 	bsseoh	2 4
+6 Hbzm jhmq ptok qb qzh ztuujti.
+7 Otmaxt qxtnhuuha qb qzh ztuujti.
+8 Mzhxh el qzh tvvuh? 	bsseoh	2 4
+9 Hbzm cbdxmhiha qb qzh keqozhm.
+10 Otmaxt jhmq qb qzh keqozhm.
+11 Otmaxt rbq qzh yeuk qzhxh.
+12 Utxi qxtnhuuha qb qzh phaxbby.
+13 Utxi ybnha qb qzh keqozhm.
+14 Utxi axbvvha qzh tvvuh qzhxh.
+15 Mzhxh el qzh tvvuh? 	keqozhm	14 13
+16 Otmaxt vdq abjm qzh yeuk.
+17 Hbzm jhmq ptok qb qzh ptqzxbby.
+18 Mzhxh el qzh yeuk? 	keqozhm	16 10
+19 Hbzm ybnha qb qzh phaxbby.
+20 Utxi rbq qzh tvvuh qzhxh.
+21 Mzhxh el qzh yeuk? 	keqozhm	16 10
+1 Hbzm jhmq qb qzh ptqzxbby.
+2 Hbzm cbdxmhiha qb qzh keqozhm.
+3 Utxi qxtnhuuha qb qzh ztuujti.
+4 Hbzm rbq qzh sbbqptuu qzhxh.
+5 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+6 Otmaxt qxtnhuuha qb qzh phaxbby.
+7 Hbzm qxtnhuuha qb qzh phaxbby.
+8 Otmaxt ybnha qb qzh bsseoh.
+9 Mzhxh el qzh sbbqptuu? 	phaxbby	4 7
+10 Hbzm jhmq ptok qb qzh keqozhm.
+11 Utxi cbdxmhiha qb qzh rtxahm.
+12 Hbzm cbdxmhiha qb qzh ptqzxbby.
+13 Hbzm qxtnhuuha qb qzh ztuujti.
+14 Utxi qbbk qzh tvvuh qzhxh.
+15 Utxi axbvvha qzh tvvuh.
+16 Mzhxh el qzh tvvuh? 	rtxahm	15 11
+17 Utxi qbbk qzh tvvuh qzhxh.
+18 Ytmehu ybnha qb qzh ztuujti.
+19 Utxi jhmq ptok qb qzh bsseoh.
+20 Hbzm axbvvha qzh sbbqptuu.
+21 Mzhxh el qzh tvvuh? 	bsseoh	17 19
+22 Utxi axbvvha qzh tvvuh.
+23 Otmaxt cbdxmhiha qb qzh rtxahm.
+24 Mzhxh el qzh tvvuh? 	bsseoh	22 19
+25 Ytmehu ybnha qb qzh phaxbby.
+26 Hbzm rbq qzh sbbqptuu qzhxh.
+27 Mzhxh el qzh tvvuh? 	bsseoh	22 19
+1 Ytmehu rbq qzh sbbqptuu qzhxh.
+2 Otmaxt qxtnhuuha qb qzh phaxbby.
+3 Utxi jhmq ptok qb qzh keqozhm.
+4 Otmaxt jhmq qb qzh ptqzxbby.
+5 Utxi jhmq ptok qb qzh phaxbby.
+6 Ytmehu uhsq qzh sbbqptuu.
+7 Utxi cbdxmhiha qb qzh ztuujti.
+8 Otmaxt ybnha qb qzh ztuujti.
+9 Ytmehu rbq qzh sbbqptuu qzhxh.
+10 Utxi qxtnhuuha qb qzh phaxbby.
+11 Ytmehu jhmq ptok qb qzh ptqzxbby.
+12 Otmaxt ybnha qb qzh keqozhm.
+13 Mzhxh el qzh sbbqptuu? 	ptqzxbby	9 11
+14 Ytmehu cbdxmhiha qb qzh ztuujti.
+15 Ytmehu axbvvha qzh sbbqptuu.
+16 Mzhxh el qzh sbbqptuu? 	ztuujti	15 14
+17 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+18 Hbzm jhmq ptok qb qzh ztuujti.
+19 Ytmehu axbvvha qzh sbbqptuu.
+20 Utxi jhmq qb qzh ptqzxbby.
+21 Mzhxh el qzh sbbqptuu? 	ztuujti	19 14
+22 Hbzm cbdxmhiha qb qzh bsseoh.
+23 Otmaxt qxtnhuuha qb qzh bsseoh.
+24 Mzhxh el qzh sbbqptuu? 	ztuujti	19 14
+25 Ytmehu qxtnhuuha qb qzh rtxahm.
+26 Otmaxt rbq qzh tvvuh qzhxh.
+27 Ytmehu rxtppha qzh yeuk qzhxh.
+28 Ytmehu ybnha qb qzh keqozhm.
+29 Mzhxh el qzh yeuk? 	keqozhm	27 28
+1 Otmaxt jhmq ptok qb qzh keqozhm.
+2 Ytmehu cbdxmhiha qb qzh keqozhm.
+3 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+4 Utxi ybnha qb qzh bsseoh.
+5 Otmaxt cbdxmhiha qb qzh bsseoh.
+6 Utxi jhmq qb qzh ptqzxbby.
+7 Otmaxt jhmq ptok qb qzh keqozhm.
+8 Otmaxt jhmq qb qzh bsseoh.
+9 Ytmehu qxtnhuuha qb qzh bsseoh.
+10 Ytmehu jhmq qb qzh keqozhm.
+11 Utxi jhmq ptok qb qzh phaxbby.
+12 Otmaxt cbdxmhiha qb qzh keqozhm.
+13 Hbzm qxtnhuuha qb qzh phaxbby.
+14 Utxi cbdxmhiha qb qzh ztuujti.
+15 Utxi ybnha qb qzh rtxahm.
+16 Utxi veokha dv qzh tvvuh qzhxh.
+17 Utxi aelotxaha qzh tvvuh.
+18 Hbzm ybnha qb qzh rtxahm.
+19 Mzhxh el qzh tvvuh? 	rtxahm	17 15
+20 Utxi jhmq ptok qb qzh ztuujti.
+21 Hbzm cbdxmhiha qb qzh ztuujti.
+22 Mzhxh el qzh tvvuh? 	rtxahm	17 15
+23 Hbzm qxtnhuuha qb qzh ptqzxbby.
+24 Utxi qxtnhuuha qb qzh phaxbby.
+25 Hbzm veokha dv qzh yeuk qzhxh.
+26 Utxi qxtnhuuha qb qzh ptqzxbby.
+27 Hbzm ybnha qb qzh bsseoh.
+28 Otmaxt qxtnhuuha qb qzh phaxbby.
+29 Mzhxh el qzh yeuk? 	bsseoh	25 27
+30 Otmaxt qxtnhuuha qb qzh ztuujti.
+31 Hbzm jhmq ptok qb qzh rtxahm.
+32 Hbzm uhsq qzh yeuk.
+33 Utxi ybnha qb qzh bsseoh.
+34 Mzhxh el qzh yeuk? 	rtxahm	32 31
+35 Utxi cbdxmhiha qb qzh phaxbby.
+36 Hbzm rbq qzh yeuk qzhxh.
+37 Otmaxt jhmq ptok qb qzh keqozhm.
+38 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+39 Ytmehu cbdxmhiha qb qzh bsseoh.
+40 Ytmehu jhmq qb qzh ztuujti.
+41 Hbzm rbq qzh tvvuh qzhxh.
+42 Hbzm vdq abjm qzh tvvuh.
+43 Mzhxh el qzh tvvuh? 	rtxahm	42 31
+1 Utxi veokha dv qzh sbbqptuu qzhxh.
+2 Utxi vdq abjm qzh sbbqptuu.
+3 Hbzm ybnha qb qzh rtxahm.
+4 Hbzm jhmq qb qzh ptqzxbby.
+5 Ytmehu jhmq ptok qb qzh ptqzxbby.
+6 Utxi rbq qzh sbbqptuu qzhxh.
+7 Utxi cbdxmhiha qb qzh bsseoh.
+8 Ytmehu rbq qzh tvvuh qzhxh.
+9 Mzhxh el qzh sbbqptuu? 	bsseoh	6 7
+10 Hbzm jhmq ptok qb qzh rtxahm.
+11 Otmaxt ybnha qb qzh ztuujti.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	6 7
+13 Utxi qxtnhuuha qb qzh ptqzxbby.
+14 Ytmehu qxtnhuuha qb qzh phaxbby.
+15 Mzhxh el qzh tvvuh? 	phaxbby	8 14
+16 Utxi ybnha qb qzh bsseoh.
+17 Ytmehu aelotxaha qzh tvvuh qzhxh.
+18 Mzhxh el qzh tvvuh? 	phaxbby	17 14
+19 Otmaxt cbdxmhiha qb qzh rtxahm.
+20 Utxi jhmq qb qzh rtxahm.
+21 Mzhxh el qzh tvvuh? 	phaxbby	17 14
+1 Ytmehu rxtppha qzh yeuk qzhxh.
+2 Ytmehu aelotxaha qzh yeuk.
+3 Hbzm jhmq ptok qb qzh phaxbby.
+4 Ytmehu ybnha qb qzh keqozhm.
+5 Utxi qxtnhuuha qb qzh ztuujti.
+6 Ytmehu veokha dv qzh tvvuh qzhxh.
+7 Otmaxt cbdxmhiha qb qzh bsseoh.
+8 Otmaxt veokha dv qzh yeuk qzhxh.
+9 Otmaxt uhsq qzh yeuk.
+10 Hbzm jhmq ptok qb qzh rtxahm.
+11 Mzhxh el qzh yeuk? 	bsseoh	9 7
+12 Ytmehu uhsq qzh tvvuh.
+13 Ytmehu qbbk qzh tvvuh qzhxh.
+14 Mzhxh el qzh yeuk? 	bsseoh	9 7
+15 Utxi jhmq qb qzh ptqzxbby.
+16 Hbzm rbq qzh sbbqptuu qzhxh.
+17 Utxi ybnha qb qzh bsseoh.
+18 Ytmehu vdq abjm qzh tvvuh.
+19 Mzhxh el qzh tvvuh? 	keqozhm	18 4
+20 Otmaxt qxtnhuuha qb qzh keqozhm.
+21 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+22 Mzhxh el qzh tvvuh? 	keqozhm	18 4
+23 Hbzm cbdxmhiha qb qzh keqozhm.
+24 Hbzm qxtnhuuha qb qzh ptqzxbby.
+25 Mzhxh el qzh tvvuh? 	keqozhm	18 4
+1 Hbzm veokha dv qzh sbbqptuu qzhxh.
+2 Hbzm aelotxaha qzh sbbqptuu.
+3 Hbzm qbbk qzh sbbqptuu qzhxh.
+4 Utxi jhmq ptok qb qzh keqozhm.
+5 Otmaxt ybnha qb qzh rtxahm.
+6 Hbzm jhmq qb qzh ztuujti.
+7 Mzhxh el qzh sbbqptuu? 	ztuujti	3 6
+8 Hbzm rbq qzh tvvuh qzhxh.
+9 Hbzm rbq qzh yeuk qzhxh.
+10 Utxi jhmq qb qzh bsseoh.
+11 Otmaxt cbdxmhiha qb qzh keqozhm.
+12 Hbzm qxtnhuuha qb qzh rtxahm.
+13 Hbzm vdq abjm qzh yeuk qzhxh.
+14 Mzhxh el qzh yeuk? 	rtxahm	13 12
+15 Hbzm qxtnhuuha qb qzh phaxbby.
+16 Hbzm uhsq qzh sbbqptuu.
+17 Mzhxh el qzh sbbqptuu? 	phaxbby	16 15
+18 Hbzm ybnha qb qzh bsseoh.
+19 Ytmehu jhmq qb qzh ptqzxbby.
+20 Mzhxh el qzh sbbqptuu? 	phaxbby	16 15
+21 Otmaxt jhmq ptok qb qzh ptqzxbby.
+22 Otmaxt cbdxmhiha qb qzh phaxbby.
+23 Mzhxh el qzh sbbqptuu? 	phaxbby	16 15
+1 Ytmehu jhmq qb qzh phaxbby.
+2 Otmaxt ybnha qb qzh phaxbby.
+3 Ytmehu jhmq qb qzh rtxahm.
+4 Utxi ybnha qb qzh ztuujti.
+5 Hbzm ybnha qb qzh phaxbby.
+6 Utxi qxtnhuuha qb qzh keqozhm.
+7 Ytmehu rxtppha qzh yeuk qzhxh.
+8 Ytmehu aelotxaha qzh yeuk.
+9 Mzhxh el qzh yeuk? 	rtxahm	8 3
+10 Ytmehu ybnha qb qzh phaxbby.
+11 Ytmehu cbdxmhiha qb qzh rtxahm.
+12 Mzhxh el qzh yeuk? 	rtxahm	8 3
+13 Ytmehu jhmq ptok qb qzh phaxbby.
+14 Hbzm ybnha qb qzh ztuujti.
+15 Mzhxh el qzh yeuk? 	rtxahm	8 3
+16 Hbzm rbq qzh sbbqptuu qzhxh.
+17 Hbzm jhmq ptok qb qzh keqozhm.
+18 Mzhxh el qzh sbbqptuu? 	keqozhm	16 17
+19 Hbzm jhmq qb qzh ptqzxbby.
+20 Utxi jhmq ptok qb qzh phaxbby.
+21 Mzhxh el qzh sbbqptuu? 	ptqzxbby	16 19
+1 Otmaxt jhmq qb qzh ztuujti.
+2 Hbzm qxtnhuuha qb qzh rtxahm.
+3 Hbzm ybnha qb qzh ptqzxbby.
+4 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+5 Utxi cbdxmhiha qb qzh phaxbby.
+6 Utxi rxtppha qzh yeuk qzhxh.
+7 Ytmehu qxtnhuuha qb qzh phaxbby.
+8 Utxi uhsq qzh yeuk.
+9 Mzhxh el qzh yeuk? 	phaxbby	8 5
+10 Utxi rbq qzh yeuk qzhxh.
+11 Ytmehu qbbk qzh tvvuh qzhxh.
+12 Ytmehu uhsq qzh sbbqptuu.
+13 Ytmehu jhmq qb qzh ptqzxbby.
+14 Mzhxh el qzh sbbqptuu? 	phaxbby	12 7
+15 Ytmehu jhmq ptok qb qzh bsseoh.
+16 Ytmehu vdq abjm qzh tvvuh.
+17 Mzhxh el qzh sbbqptuu? 	phaxbby	12 7
+18 Hbzm qxtnhuuha qb qzh ztuujti.
+19 Utxi jhmq qb qzh rtxahm.
+20 Mzhxh el qzh tvvuh? 	bsseoh	16 15
+21 Ytmehu veokha dv qzh tvvuh qzhxh.
+22 Ytmehu axbvvha qzh tvvuh qzhxh.
+23 Mzhxh el qzh tvvuh? 	bsseoh	22 15
+1 Utxi qxtnhuuha qb qzh bsseoh.
+2 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+3 Utxi cbdxmhiha qb qzh rtxahm.
+4 Ytmehu axbvvha qzh sbbqptuu.
+5 Otmaxt ybnha qb qzh bsseoh.
+6 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+7 Ytmehu qxtnhuuha qb qzh bsseoh.
+8 Hbzm jhmq qb qzh rtxahm.
+9 Mzhxh el qzh sbbqptuu? 	bsseoh	6 7
+10 Hbzm rxtppha qzh tvvuh qzhxh.
+11 Hbzm aelotxaha qzh tvvuh.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	6 7
+13 Utxi qbbk qzh tvvuh qzhxh.
+14 Utxi jhmq ptok qb qzh keqozhm.
+15 Mzhxh el qzh tvvuh? 	keqozhm	13 14
+16 Otmaxt jhmq qb qzh phaxbby.
+17 Ytmehu uhsq qzh sbbqptuu qzhxh.
+18 Mzhxh el qzh sbbqptuu? 	bsseoh	17 7
+19 Ytmehu qbbk qzh sbbqptuu qzhxh.
+20 Otmaxt rxtppha qzh yeuk qzhxh.
+21 Utxi axbvvha qzh tvvuh.
+22 Utxi rbq qzh tvvuh qzhxh.
+23 Ytmehu jhmq qb qzh rtxahm.
+24 Otmaxt uhsq qzh yeuk.
+25 Mzhxh el qzh yeuk? 	phaxbby	24 16
+1 Ytmehu jhmq ptok qb qzh phaxbby.
+2 Utxi qxtnhuuha qb qzh ztuujti.
+3 Hbzm cbdxmhiha qb qzh phaxbby.
+4 Utxi rbq qzh sbbqptuu qzhxh.
+5 Ytmehu jhmq qb qzh ptqzxbby.
+6 Utxi ybnha qb qzh keqozhm.
+7 Mzhxh el qzh sbbqptuu? 	keqozhm	4 6
+8 Ytmehu qxtnhuuha qb qzh rtxahm.
+9 Utxi jhmq qb qzh ptqzxbby.
+10 Mzhxh el qzh sbbqptuu? 	ptqzxbby	4 9
+11 Utxi cbdxmhiha qb qzh keqozhm.
+12 Ytmehu cbdxmhiha qb qzh ptqzxbby.
+13 Hbzm cbdxmhiha qb qzh keqozhm.
+14 Otmaxt jhmq qb qzh keqozhm.
+15 Ytmehu jhmq ptok qb qzh ztuujti.
+16 Ytmehu ybnha qb qzh keqozhm.
+17 Ytmehu ybnha qb qzh ztuujti.
+18 Otmaxt jhmq qb qzh phaxbby.
+19 Utxi jhmq qb qzh ptqzxbby.
+20 Otmaxt qxtnhuuha qb qzh ztuujti.
+21 Utxi cbdxmhiha qb qzh bsseoh.
+22 Ytmehu jhmq qb qzh keqozhm.
+23 Ytmehu jhmq qb qzh ptqzxbby.
+24 Utxi vdq abjm qzh sbbqptuu.
+25 Mzhxh el qzh sbbqptuu? 	bsseoh	24 21
+26 Utxi rbq qzh sbbqptuu qzhxh.
+27 Utxi uhsq qzh sbbqptuu.
+28 Mzhxh el qzh sbbqptuu? 	bsseoh	27 21
+29 Ytmehu qxtnhuuha qb qzh phaxbby.
+30 Utxi qbbk qzh sbbqptuu qzhxh.
+31 Utxi jhmq ptok qb qzh phaxbby.
+32 Utxi uhsq qzh sbbqptuu.
+33 Mzhxh el qzh sbbqptuu? 	phaxbby	32 31
+1 Utxi veokha dv qzh sbbqptuu qzhxh.
+2 Utxi axbvvha qzh sbbqptuu.
+3 Otmaxt cbdxmhiha qb qzh ztuujti.
+4 Utxi ybnha qb qzh ptqzxbby.
+5 Ytmehu qxtnhuuha qb qzh keqozhm.
+6 Otmaxt cbdxmhiha qb qzh phaxbby.
+7 Ytmehu jhmq ptok qb qzh bsseoh.
+8 Otmaxt veokha dv qzh tvvuh qzhxh.
+9 Hbzm ybnha qb qzh rtxahm.
+10 Otmaxt ybnha qb qzh keqozhm.
+11 Mzhxh el qzh tvvuh? 	keqozhm	8 10
+12 Utxi ybnha qb qzh ztuujti.
+13 Otmaxt qxtnhuuha qb qzh bsseoh.
+14 Mzhxh el qzh tvvuh? 	bsseoh	8 13
+15 Otmaxt axbvvha qzh tvvuh.
+16 Ytmehu rxtppha qzh tvvuh qzhxh.
+17 Otmaxt jhmq ptok qb qzh keqozhm.
+18 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+19 Utxi ybnha qb qzh bsseoh.
+20 Ytmehu qxtnhuuha qb qzh ztuujti.
+21 Mzhxh el qzh tvvuh? 	ztuujti	16 20
+22 Utxi qxtnhuuha qb qzh keqozhm.
+23 Otmaxt ybnha qb qzh ztuujti.
+24 Otmaxt jhmq qb qzh rtxahm.
+25 Hbzm rbq qzh sbbqptuu qzhxh.
+26 Ytmehu cbdxmhiha qb qzh phaxbby.
+27 Hbzm jhmq qb qzh phaxbby.
+28 Mzhxh el qzh sbbqptuu? 	phaxbby	25 27
+29 Ytmehu axbvvha qzh tvvuh.
+30 Ytmehu ybnha qb qzh keqozhm.
+31 Mzhxh el qzh tvvuh? 	phaxbby	29 26
+1 Utxi rxtppha qzh yeuk qzhxh.
+2 Hbzm qxtnhuuha qb qzh phaxbby.
+3 Utxi jhmq ptok qb qzh ptqzxbby.
+4 Hbzm qxtnhuuha qb qzh rtxahm.
+5 Mzhxh el qzh yeuk? 	ptqzxbby	1 3
+6 Ytmehu cbdxmhiha qb qzh ztuujti.
+7 Hbzm cbdxmhiha qb qzh phaxbby.
+8 Utxi jhmq ptok qb qzh phaxbby.
+9 Otmaxt qxtnhuuha qb qzh bsseoh.
+10 Utxi ybnha qb qzh rtxahm.
+11 Otmaxt qbbk qzh sbbqptuu qzhxh.
+12 Utxi ybnha qb qzh keqozhm.
+13 Utxi ybnha qb qzh ztuujti.
+14 Hbzm jhmq ptok qb qzh keqozhm.
+15 Utxi aelotxaha qzh yeuk qzhxh.
+16 Mzhxh el qzh yeuk? 	ztuujti	15 13
+17 Ytmehu qbbk qzh yeuk qzhxh.
+18 Ytmehu uhsq qzh yeuk.
+19 Mzhxh el qzh yeuk? 	ztuujti	18 6
+20 Utxi jhmq qb qzh keqozhm.
+21 Ytmehu cbdxmhiha qb qzh rtxahm.
+22 Mzhxh el qzh yeuk? 	ztuujti	18 6
+23 Otmaxt cbdxmhiha qb qzh keqozhm.
+24 Utxi jhmq ptok qb qzh bsseoh.
+25 Mzhxh el qzh yeuk? 	ztuujti	18 6
+1 Ytmehu jhmq qb qzh ztuujti.
+2 Utxi ybnha qb qzh bsseoh.
+3 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+4 Utxi rxtppha qzh yeuk qzhxh.
+5 Utxi rbq qzh tvvuh qzhxh.
+6 Otmaxt jhmq ptok qb qzh ztuujti.
+7 Mzhxh el qzh sbbqptuu? 	ztuujti	3 6
+8 Hbzm jhmq qb qzh bsseoh.
+9 Otmaxt uhsq qzh sbbqptuu qzhxh.
+10 Mzhxh el qzh sbbqptuu? 	ztuujti	9 6
+11 Hbzm qxtnhuuha qb qzh keqozhm.
+12 Otmaxt ybnha qb qzh keqozhm.
+13 Mzhxh el qzh sbbqptuu? 	ztuujti	9 6
+14 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+15 Otmaxt jhmq ptok qb qzh bsseoh.
+16 Ytmehu ybnha qb qzh ptqzxbby.
+17 Otmaxt cbdxmhiha qb qzh phaxbby.
+18 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 16
+19 Hbzm jhmq ptok qb qzh ptqzxbby.
+20 Utxi aelotxaha qzh tvvuh qzhxh.
+21 Mzhxh el qzh tvvuh? 	bsseoh	20 2
+1 Hbzm ybnha qb qzh keqozhm.
+2 Otmaxt rxtppha qzh tvvuh qzhxh.
+3 Utxi ybnha qb qzh rtxahm.
+4 Utxi cbdxmhiha qb qzh keqozhm.
+5 Hbzm cbdxmhiha qb qzh rtxahm.
+6 Otmaxt uhsq qzh tvvuh.
+7 Otmaxt ybnha qb qzh phaxbby.
+8 Otmaxt veokha dv qzh yeuk qzhxh.
+9 Otmaxt axbvvha qzh yeuk.
+10 Ytmehu qbbk qzh yeuk qzhxh.
+11 Hbzm rxtppha qzh sbbqptuu qzhxh.
+12 Ytmehu jhmq qb qzh keqozhm.
+13 Mzhxh el qzh yeuk? 	keqozhm	10 12
+14 Ytmehu jhmq qb qzh ztuujti.
+15 Hbzm aelotxaha qzh sbbqptuu.
+16 Mzhxh el qzh sbbqptuu? 	rtxahm	15 5
+17 Hbzm rbq qzh sbbqptuu qzhxh.
+18 Hbzm axbvvha qzh sbbqptuu.
+19 Mzhxh el qzh sbbqptuu? 	rtxahm	18 5
+20 Utxi qxtnhuuha qb qzh ztuujti.
+21 Ytmehu jhmq qb qzh bsseoh.
+22 Mzhxh el qzh sbbqptuu? 	rtxahm	18 5
+23 Ytmehu jhmq ptok qb qzh ztuujti.
+24 Otmaxt ybnha qb qzh keqozhm.
+25 Mzhxh el qzh sbbqptuu? 	rtxahm	18 5
+1 Ytmehu cbdxmhiha qb qzh rtxahm.
+2 Utxi ybnha qb qzh ztuujti.
+3 Ytmehu cbdxmhiha qb qzh phaxbby.
+4 Hbzm veokha dv qzh sbbqptuu qzhxh.
+5 Hbzm aelotxaha qzh sbbqptuu.
+6 Ytmehu jhmq qb qzh ztuujti.
+7 Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Hbzm veokha dv qzh sbbqptuu qzhxh.
+9 Hbzm cbdxmhiha qb qzh rtxahm.
+10 Otmaxt jhmq ptok qb qzh phaxbby.
+11 Mzhxh el qzh sbbqptuu? 	rtxahm	8 9
+12 Hbzm cbdxmhiha qb qzh ptqzxbby.
+13 Ytmehu cbdxmhiha qb qzh phaxbby.
+14 Mzhxh el qzh sbbqptuu? 	ptqzxbby	8 12
+15 Otmaxt ybnha qb qzh rtxahm.
+16 Ytmehu ybnha qb qzh rtxahm.
+17 Hbzm cbdxmhiha qb qzh bsseoh.
+18 Ytmehu jhmq qb qzh keqozhm.
+19 Utxi qxtnhuuha qb qzh keqozhm.
+20 Hbzm qxtnhuuha qb qzh ptqzxbby.
+21 Utxi jhmq qb qzh phaxbby.
+22 Hbzm veokha dv qzh tvvuh qzhxh.
+23 Otmaxt jhmq ptok qb qzh keqozhm.
+24 Ytmehu ybnha qb qzh ptqzxbby.
+25 Otmaxt qxtnhuuha qb qzh bsseoh.
+26 Ytmehu qxtnhuuha qb qzh keqozhm.
+27 Otmaxt jhmq ptok qb qzh ptqzxbby.
+28 Otmaxt qxtnhuuha qb qzh keqozhm.
+29 Ytmehu veokha dv qzh yeuk qzhxh.
+30 Ytmehu ybnha qb qzh bsseoh.
+31 Mzhxh el qzh yeuk? 	bsseoh	29 30
+32 Ytmehu axbvvha qzh yeuk.
+33 Hbzm axbvvha qzh tvvuh.
+34 Mzhxh el qzh tvvuh? 	ptqzxbby	33 20
+35 Hbzm aelotxaha qzh sbbqptuu.
+36 Otmaxt ybnha qb qzh bsseoh.
+37 Mzhxh el qzh sbbqptuu? 	ptqzxbby	35 20
+1 Hbzm rxtppha qzh tvvuh qzhxh.
+2 Hbzm cbdxmhiha qb qzh bsseoh.
+3 Mzhxh el qzh tvvuh? 	bsseoh	1 2
+4 Otmaxt qxtnhuuha qb qzh bsseoh.
+5 Otmaxt qbbk qzh yeuk qzhxh.
+6 Mzhxh el qzh tvvuh? 	bsseoh	1 2
+7 Otmaxt aelotxaha qzh yeuk.
+8 Hbzm veokha dv qzh yeuk qzhxh.
+9 Otmaxt ybnha qb qzh phaxbby.
+10 Ytmehu jhmq qb qzh rtxahm.
+11 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+12 Otmaxt jhmq qb qzh ptqzxbby.
+13 Ytmehu cbdxmhiha qb qzh keqozhm.
+14 Hbzm ybnha qb qzh rtxahm.
+15 Mzhxh el qzh sbbqptuu? 	keqozhm	11 13
+16 Hbzm cbdxmhiha qb qzh ptqzxbby.
+17 Hbzm uhsq qzh yeuk.
+18 Mzhxh el qzh yeuk? 	ptqzxbby	17 16
+19 Hbzm rbq qzh yeuk qzhxh.
+20 Hbzm uhsq qzh tvvuh.
+21 Mzhxh el qzh tvvuh? 	ptqzxbby	20 16
+1 Hbzm qxtnhuuha qb qzh rtxahm.
+2 Otmaxt cbdxmhiha qb qzh keqozhm.
+3 Ytmehu jhmq qb qzh phaxbby.
+4 Utxi jhmq qb qzh ptqzxbby.
+5 Otmaxt qbbk qzh yeuk qzhxh.
+6 Otmaxt jhmq ptok qb qzh phaxbby.
+7 Mzhxh el qzh yeuk? 	phaxbby	5 6
+8 Ytmehu cbdxmhiha qb qzh keqozhm.
+9 Utxi jhmq qb qzh phaxbby.
+10 Mzhxh el qzh yeuk? 	phaxbby	5 6
+11 Utxi ybnha qb qzh rtxahm.
+12 Utxi jhmq qb qzh ztuujti.
+13 Otmaxt axbvvha qzh yeuk qzhxh.
+14 Hbzm qxtnhuuha qb qzh ptqzxbby.
+15 Mzhxh el qzh yeuk? 	phaxbby	13 6
+16 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+17 Otmaxt ybnha qb qzh phaxbby.
+18 Mzhxh el qzh yeuk? 	phaxbby	13 6
+19 Otmaxt rxtppha qzh yeuk qzhxh.
+20 Ytmehu cbdxmhiha qb qzh bsseoh.
+21 Ytmehu qbbk qzh sbbqptuu qzhxh.
+22 Hbzm qbbk qzh tvvuh qzhxh.
+23 Hbzm cbdxmhiha qb qzh phaxbby.
+24 Otmaxt jhmq qb qzh keqozhm.
+25 Mzhxh el qzh tvvuh? 	phaxbby	22 23
+1 Otmaxt jhmq ptok qb qzh keqozhm.
+2 Ytmehu jhmq qb qzh keqozhm.
+3 Utxi rbq qzh yeuk qzhxh.
+4 Otmaxt jhmq ptok qb qzh ptqzxbby.
+5 Utxi jhmq qb qzh ztuujti.
+6 Ytmehu ybnha qb qzh phaxbby.
+7 Mzhxh el qzh yeuk? 	ztuujti	3 5
+8 Hbzm cbdxmhiha qb qzh ztuujti.
+9 Otmaxt cbdxmhiha qb qzh ztuujti.
+10 Utxi rbq qzh tvvuh qzhxh.
+11 Hbzm jhmq qb qzh ptqzxbby.
+12 Ytmehu ybnha qb qzh ztuujti.
+13 Utxi aelotxaha qzh tvvuh.
+14 Mzhxh el qzh tvvuh? 	ztuujti	13 5
+15 Utxi vdq abjm qzh yeuk.
+16 Ytmehu rxtppha qzh tvvuh qzhxh.
+17 Mzhxh el qzh yeuk? 	ztuujti	15 5
+18 Ytmehu qxtnhuuha qb qzh rtxahm.
+19 Otmaxt ybnha qb qzh bsseoh.
+20 Mzhxh el qzh yeuk? 	ztuujti	15 5
+21 Ytmehu axbvvha qzh tvvuh.
+22 Utxi ybnha qb qzh rtxahm.
+23 Mzhxh el qzh tvvuh? 	rtxahm	21 18
+1 Utxi jhmq ptok qb qzh ptqzxbby.
+2 Hbzm jhmq qb qzh bsseoh.
+3 Ytmehu rxtppha qzh sbbqptuu qzhxh.
+4 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+5 Ytmehu uhsq qzh sbbqptuu.
+6 Otmaxt ybnha qb qzh phaxbby.
+7 Otmaxt cbdxmhiha qb qzh keqozhm.
+8 Otmaxt qxtnhuuha qb qzh rtxahm.
+9 Otmaxt jhmq ptok qb qzh ptqzxbby.
+10 Hbzm qxtnhuuha qb qzh keqozhm.
+11 Ytmehu ybnha qb qzh rtxahm.
+12 Otmaxt ybnha qb qzh rtxahm.
+13 Utxi jhmq qb qzh bsseoh.
+14 Ytmehu jhmq qb qzh keqozhm.
+15 Ytmehu rbq qzh yeuk qzhxh.
+16 Ytmehu ybnha qb qzh rtxahm.
+17 Mzhxh el qzh yeuk? 	rtxahm	15 16
+18 Hbzm jhmq qb qzh phaxbby.
+19 Otmaxt cbdxmhiha qb qzh phaxbby.
+20 Mzhxh el qzh yeuk? 	rtxahm	15 16
+21 Hbzm rbq qzh tvvuh qzhxh.
+22 Ytmehu vdq abjm qzh yeuk.
+23 Mzhxh el qzh yeuk? 	rtxahm	22 16
+24 Hbzm jhmq qb qzh bsseoh.
+25 Hbzm uhsq qzh tvvuh.
+26 Mzhxh el qzh yeuk? 	rtxahm	22 16
+27 Hbzm qbbk qzh tvvuh qzhxh.
+28 Ytmehu rbq qzh yeuk qzhxh.
+29 Otmaxt qxtnhuuha qb qzh keqozhm.
+30 Ytmehu vdq abjm qzh yeuk qzhxh.
+31 Mzhxh el qzh yeuk? 	rtxahm	30 16
+1 Utxi jhmq qb qzh bsseoh.
+2 Hbzm jhmq qb qzh rtxahm.
+3 Utxi cbdxmhiha qb qzh phaxbby.
+4 Ytmehu rbq qzh yeuk qzhxh.
+5 Ytmehu cbdxmhiha qb qzh phaxbby.
+6 Hbzm ybnha qb qzh keqozhm.
+7 Mzhxh el qzh yeuk? 	phaxbby	4 5
+8 Otmaxt jhmq qb qzh ptqzxbby.
+9 Utxi qxtnhuuha qb qzh bsseoh.
+10 Mzhxh el qzh yeuk? 	phaxbby	4 5
+11 Otmaxt jhmq ptok qb qzh bsseoh.
+12 Utxi jhmq qb qzh keqozhm.
+13 Utxi jhmq ptok qb qzh ztuujti.
+14 Ytmehu aelotxaha qzh yeuk.
+15 Mzhxh el qzh yeuk? 	phaxbby	14 5
+16 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+17 Utxi ybnha qb qzh rtxahm.
+18 Mzhxh el qzh yeuk? 	phaxbby	14 5
+19 Hbzm qxtnhuuha qb qzh rtxahm.
+20 Hbzm qxtnhuuha qb qzh ptqzxbby.
+21 Mzhxh el qzh yeuk? 	phaxbby	14 5
+1 Otmaxt cbdxmhiha qb qzh phaxbby.
+2 Hbzm jhmq qb qzh keqozhm.
+3 Otmaxt jhmq ptok qb qzh bsseoh.
+4 Ytmehu jhmq ptok qb qzh phaxbby.
+5 Ytmehu veokha dv qzh tvvuh qzhxh.
+6 Ytmehu jhmq qb qzh ztuujti.
+7 Mzhxh el qzh tvvuh? 	ztuujti	5 6
+8 Hbzm ybnha qb qzh bsseoh.
+9 Utxi veokha dv qzh sbbqptuu qzhxh.
+10 Mzhxh el qzh tvvuh? 	ztuujti	5 6
+11 Utxi vdq abjm qzh sbbqptuu qzhxh.
+12 Utxi veokha dv qzh sbbqptuu qzhxh.
+13 Ytmehu cbdxmhiha qb qzh keqozhm.
+14 Ytmehu qxtnhuuha qb qzh ztuujti.
+15 Ytmehu vdq abjm qzh tvvuh.
+16 Utxi ybnha qb qzh keqozhm.
+17 Mzhxh el qzh sbbqptuu? 	keqozhm	12 16
+18 Hbzm ybnha qb qzh ztuujti.
+19 Hbzm cbdxmhiha qb qzh keqozhm.
+20 Mzhxh el qzh tvvuh? 	ztuujti	15 14
+21 Utxi aelotxaha qzh sbbqptuu.
+22 Hbzm rxtppha qzh sbbqptuu qzhxh.
+23 Hbzm qxtnhuuha qb qzh rtxahm.
+24 Ytmehu rxtppha qzh tvvuh qzhxh.
+25 Mzhxh el qzh sbbqptuu? 	rtxahm	22 23
+1 Hbzm rbq qzh yeuk qzhxh.
+2 Hbzm jhmq ptok qb qzh bsseoh.
+3 Mzhxh el qzh yeuk? 	bsseoh	1 2
+4 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+5 Hbzm uhsq qzh yeuk.
+6 Mzhxh el qzh yeuk? 	bsseoh	5 2
+7 Hbzm rxtppha qzh yeuk qzhxh.
+8 Ytmehu cbdxmhiha qb qzh rtxahm.
+9 Otmaxt qxtnhuuha qb qzh bsseoh.
+10 Otmaxt cbdxmhiha qb qzh ptqzxbby.
+11 Utxi jhmq ptok qb qzh ztuujti.
+12 Utxi qbbk qzh tvvuh qzhxh.
+13 Utxi aelotxaha qzh tvvuh.
+14 Otmaxt uhsq qzh sbbqptuu.
+15 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 10
+16 Utxi veokha dv qzh tvvuh qzhxh.
+17 Ytmehu jhmq ptok qb qzh phaxbby.
+18 Mzhxh el qzh sbbqptuu? 	ptqzxbby	14 10
+19 Utxi jhmq qb qzh rtxahm.
+20 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+21 Mzhxh el qzh tvvuh? 	rtxahm	16 19
+1 Utxi jhmq ptok qb qzh bsseoh.
+2 Otmaxt cbdxmhiha qb qzh bsseoh.
+3 Ytmehu veokha dv qzh yeuk qzhxh.
+4 Ytmehu uhsq qzh yeuk.
+5 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+6 Ytmehu uhsq qzh sbbqptuu.
+7 Ytmehu jhmq qb qzh rtxahm.
+8 Otmaxt cbdxmhiha qb qzh ztuujti.
+9 Ytmehu jhmq qb qzh phaxbby.
+10 Ytmehu rbq qzh tvvuh qzhxh.
+11 Hbzm cbdxmhiha qb qzh phaxbby.
+12 Otmaxt veokha dv qzh yeuk qzhxh.
+13 Ytmehu cbdxmhiha qb qzh rtxahm.
+14 Ytmehu ybnha qb qzh ztuujti.
+15 Mzhxh el qzh tvvuh? 	ztuujti	10 14
+16 Hbzm ybnha qb qzh rtxahm.
+17 Otmaxt axbvvha qzh yeuk.
+18 Mzhxh el qzh yeuk? 	ztuujti	17 8
+19 Ytmehu aelotxaha qzh tvvuh.
+20 Ytmehu qbbk qzh sbbqptuu qzhxh.
+21 Mzhxh el qzh tvvuh? 	ztuujti	19 14
+22 Otmaxt rbq qzh yeuk qzhxh.
+23 Ytmehu axbvvha qzh sbbqptuu qzhxh.
+24 Mzhxh el qzh sbbqptuu? 	ztuujti	23 14
+25 Otmaxt uhsq qzh yeuk.
+26 Ytmehu jhmq qb qzh rtxahm.
+27 Mzhxh el qzh yeuk? 	ztuujti	25 8
+1 Ytmehu ybnha qb qzh ztuujti.
+2 Otmaxt cbdxmhiha qb qzh rtxahm.
+3 Otmaxt cbdxmhiha qb qzh phaxbby.
+4 Ytmehu jhmq ptok qb qzh keqozhm.
+5 Ytmehu rbq qzh yeuk qzhxh.
+6 Utxi qxtnhuuha qb qzh ptqzxbby.
+7 Ytmehu aelotxaha qzh yeuk qzhxh.
+8 Otmaxt qxtnhuuha qb qzh ztuujti.
+9 Mzhxh el qzh yeuk? 	keqozhm	7 4
+10 Utxi jhmq ptok qb qzh keqozhm.
+11 Otmaxt qxtnhuuha qb qzh phaxbby.
+12 Mzhxh el qzh yeuk? 	keqozhm	7 4
+13 Utxi ybnha qb qzh bsseoh.
+14 Hbzm ybnha qb qzh ptqzxbby.
+15 Ytmehu rbq qzh yeuk qzhxh.
+16 Ytmehu qxtnhuuha qb qzh ptqzxbby.
+17 Mzhxh el qzh yeuk? 	ptqzxbby	15 16
+18 Ytmehu uhsq qzh yeuk.
+19 Ytmehu veokha dv qzh yeuk qzhxh.
+20 Utxi ybnha qb qzh ztuujti.
+21 Otmaxt jhmq ptok qb qzh bsseoh.
+22 Hbzm cbdxmhiha qb qzh keqozhm.
+23 Ytmehu vdq abjm qzh yeuk.
+24 Mzhxh el qzh yeuk? 	ptqzxbby	23 16
+25 Utxi rxtppha qzh sbbqptuu qzhxh.
+26 Ytmehu rxtppha qzh yeuk qzhxh.
+27 Hbzm cbdxmhiha qb qzh ztuujti.
+28 Ytmehu uhsq qzh yeuk.
+29 Mzhxh el qzh yeuk? 	ptqzxbby	28 16
+1 Hbzm rxtppha qzh sbbqptuu qzhxh.
+2 Hbzm aelotxaha qzh sbbqptuu.
+3 Ytmehu jhmq ptok qb qzh ptqzxbby.
+4 Utxi cbdxmhiha qb qzh ztuujti.
+5 Utxi veokha dv qzh yeuk qzhxh.
+6 Otmaxt qxtnhuuha qb qzh phaxbby.
+7 Hbzm veokha dv qzh sbbqptuu qzhxh.
+8 Hbzm jhmq qb qzh phaxbby.
+9 Mzhxh el qzh sbbqptuu? 	phaxbby	7 8
+10 Utxi ybnha qb qzh keqozhm.
+11 Otmaxt rbq qzh tvvuh qzhxh.
+12 Mzhxh el qzh sbbqptuu? 	phaxbby	7 8
+13 Utxi jhmq qb qzh ptqzxbby.
+14 Otmaxt jhmq qb qzh rtxahm.
+15 Mzhxh el qzh tvvuh? 	rtxahm	11 14
+16 Ytmehu jhmq qb qzh bsseoh.
+17 Hbzm cbdxmhiha qb qzh ztuujti.
+18 Mzhxh el qzh tvvuh? 	rtxahm	11 14
+19 Utxi jhmq ptok qb qzh rtxahm.
+20 Utxi aelotxaha qzh yeuk.
+21 Mzhxh el qzh yeuk? 	rtxahm	20 19
+1 Hbzm jhmq ptok qb qzh phaxbby.
+2 Ytmehu qbbk qzh tvvuh qzhxh.
+3 Utxi cbdxmhiha qb qzh phaxbby.
+4 Utxi cbdxmhiha qb qzh ptqzxbby.
+5 Hbzm cbdxmhiha qb qzh ztuujti.
+6 Otmaxt jhmq ptok qb qzh phaxbby.
+7 Otmaxt jhmq ptok qb qzh ztuujti.
+8 Otmaxt qxtnhuuha qb qzh keqozhm.
+9 Hbzm cbdxmhiha qb qzh keqozhm.
+10 Hbzm qxtnhuuha qb qzh phaxbby.
+11 Otmaxt veokha dv qzh yeuk qzhxh.
+12 Ytmehu uhsq qzh tvvuh.
+13 Ytmehu rbq qzh tvvuh qzhxh.
+14 Hbzm qxtnhuuha qb qzh bsseoh.
+15 Otmaxt aelotxaha qzh yeuk.
+16 Otmaxt rxtppha qzh yeuk qzhxh.
+17 Otmaxt jhmq ptok qb qzh ztuujti.
+18 Otmaxt rbq qzh sbbqptuu qzhxh.
+19 Mzhxh el qzh yeuk? 	ztuujti	16 17
+20 Ytmehu vdq abjm qzh tvvuh.
+21 Ytmehu jhmq ptok qb qzh keqozhm.
+22 Mzhxh el qzh yeuk? 	ztuujti	16 17
+23 Utxi ybnha qb qzh phaxbby.
+24 Utxi rxtppha qzh tvvuh qzhxh.
+25 Utxi vdq abjm qzh tvvuh.
+26 Otmaxt ybnha qb qzh rtxahm.
+27 Mzhxh el qzh tvvuh? 	phaxbby	25 23
+28 Otmaxt uhsq qzh yeuk.
+29 Otmaxt jhmq qb qzh keqozhm.
+30 Mzhxh el qzh tvvuh? 	phaxbby	25 23
+31 Otmaxt vdq abjm qzh sbbqptuu.
+32 Hbzm cbdxmhiha qb qzh phaxbby.
+33 Mzhxh el qzh yeuk? 	rtxahm	28 26
+1 Utxi cbdxmhiha qb qzh rtxahm.
+2 Otmaxt rbq qzh sbbqptuu qzhxh.
+3 Utxi veokha dv qzh tvvuh qzhxh.
+4 Utxi axbvvha qzh tvvuh.
+5 Mzhxh el qzh tvvuh? 	rtxahm	4 1
+6 Hbzm jhmq ptok qb qzh rtxahm.
+7 Hbzm veokha dv qzh tvvuh qzhxh.
+8 Hbzm vdq abjm qzh tvvuh.
+9 Otmaxt uhsq qzh sbbqptuu.
+10 Mzhxh el qzh tvvuh? 	rtxahm	8 6
+11 Hbzm jhmq ptok qb qzh ptqzxbby.
+12 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+13 Mzhxh el qzh tvvuh? 	rtxahm	8 6
+14 Utxi cbdxmhiha qb qzh phaxbby.
+15 Hbzm jhmq ptok qb qzh bsseoh.
+16 Otmaxt aelotxaha qzh sbbqptuu.
+17 Ytmehu ybnha qb qzh ztuujti.
+18 Ytmehu cbdxmhiha qb qzh bsseoh.
+19 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+20 Ytmehu jhmq ptok qb qzh ztuujti.
+21 Otmaxt aelotxaha qzh sbbqptuu.
+22 Utxi qbbk qzh sbbqptuu qzhxh.
+23 Hbzm jhmq ptok qb qzh phaxbby.
+24 Utxi jhmq qb qzh ptqzxbby.
+25 Otmaxt qxtnhuuha qb qzh bsseoh.
+26 Mzhxh el qzh sbbqptuu? 	ptqzxbby	22 24
+27 Utxi axbvvha qzh sbbqptuu.
+28 Utxi rbq qzh sbbqptuu qzhxh.
+29 Otmaxt jhmq qb qzh keqozhm.
+30 Utxi qbbk qzh yeuk qzhxh.
+31 Ytmehu jhmq ptok qb qzh rtxahm.
+32 Hbzm jhmq qb qzh ztuujti.
+33 Hbzm cbdxmhiha qb qzh phaxbby.
+34 Hbzm jhmq ptok qb qzh ptqzxbby.
+35 Ytmehu jhmq ptok qb qzh bsseoh.
+36 Utxi cbdxmhiha qb qzh ztuujti.
+37 Ytmehu jhmq ptok qb qzh phaxbby.
+38 Otmaxt jhmq qb qzh bsseoh.
+39 Ytmehu qxtnhuuha qb qzh rtxahm.
+40 Utxi vdq abjm qzh sbbqptuu.
+41 Mzhxh el qzh sbbqptuu? 	ztuujti	40 36
+1 Hbzm cbdxmhiha qb qzh keqozhm.
+2 Otmaxt jhmq ptok qb qzh bsseoh.
+3 Utxi jhmq ptok qb qzh ptqzxbby.
+4 Ytmehu jhmq ptok qb qzh keqozhm.
+5 Ytmehu jhmq qb qzh rtxahm.
+6 Ytmehu qbbk qzh tvvuh qzhxh.
+7 Ytmehu jhmq ptok qb qzh keqozhm.
+8 Ytmehu jhmq ptok qb qzh phaxbby.
+9 Mzhxh el qzh tvvuh? 	phaxbby	6 8
+10 Hbzm jhmq ptok qb qzh phaxbby.
+11 Otmaxt ybnha qb qzh rtxahm.
+12 Mzhxh el qzh tvvuh? 	phaxbby	6 8
+13 Utxi rxtppha qzh yeuk qzhxh.
+14 Utxi rbq qzh sbbqptuu qzhxh.
+15 Utxi ybnha qb qzh bsseoh.
+16 Otmaxt jhmq ptok qb qzh ztuujti.
+17 Mzhxh el qzh sbbqptuu? 	bsseoh	14 15
+18 Ytmehu ybnha qb qzh ztuujti.
+19 Ytmehu jhmq qb qzh bsseoh.
+20 Mzhxh el qzh sbbqptuu? 	bsseoh	14 15
+21 Utxi axbvvha qzh sbbqptuu.
+22 Ytmehu vdq abjm qzh tvvuh.
+23 Mzhxh el qzh tvvuh? 	bsseoh	22 19
+1 Otmaxt ybnha qb qzh ptqzxbby.
+2 Utxi cbdxmhiha qb qzh bsseoh.
+3 Ytmehu qbbk qzh tvvuh qzhxh.
+4 Utxi cbdxmhiha qb qzh rtxahm.
+5 Utxi rbq qzh sbbqptuu qzhxh.
+6 Hbzm jhmq qb qzh ptqzxbby.
+7 Otmaxt cbdxmhiha qb qzh bsseoh.
+8 Ytmehu qxtnhuuha qb qzh phaxbby.
+9 Ytmehu aelotxaha qzh tvvuh.
+10 Ytmehu ybnha qb qzh ptqzxbby.
+11 Mzhxh el qzh tvvuh? 	phaxbby	9 8
+12 Otmaxt qxtnhuuha qb qzh keqozhm.
+13 Otmaxt veokha dv qzh yeuk qzhxh.
+14 Mzhxh el qzh tvvuh? 	phaxbby	9 8
+15 Hbzm jhmq ptok qb qzh phaxbby.
+16 Hbzm rbq qzh tvvuh qzhxh.
+17 Otmaxt uhsq qzh yeuk qzhxh.
+18 Otmaxt cbdxmhiha qb qzh ztuujti.
+19 Mzhxh el qzh yeuk? 	keqozhm	17 12
+20 Utxi aelotxaha qzh sbbqptuu.
+21 Otmaxt qxtnhuuha qb qzh rtxahm.
+22 Mzhxh el qzh sbbqptuu? 	rtxahm	20 4
+23 Utxi rbq qzh sbbqptuu qzhxh.
+24 Hbzm jhmq qb qzh bsseoh.
+25 Otmaxt jhmq qb qzh keqozhm.
+26 Ytmehu ybnha qb qzh bsseoh.
+27 Utxi qxtnhuuha qb qzh ptqzxbby.
+28 Utxi uhsq qzh sbbqptuu.
+29 Mzhxh el qzh sbbqptuu? 	ptqzxbby	28 27
+1 Utxi rxtppha qzh yeuk qzhxh.
+2 Ytmehu jhmq ptok qb qzh ptqzxbby.
+3 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+4 Utxi axbvvha qzh yeuk qzhxh.
+5 Otmaxt jhmq ptok qb qzh ztuujti.
+6 Otmaxt aelotxaha qzh sbbqptuu.
+7 Mzhxh el qzh sbbqptuu? 	ztuujti	6 5
+8 Hbzm cbdxmhiha qb qzh keqozhm.
+9 Otmaxt qbbk qzh sbbqptuu qzhxh.
+10 Otmaxt uhsq qzh sbbqptuu.
+11 Otmaxt jhmq qb qzh keqozhm.
+12 Mzhxh el qzh sbbqptuu? 	ztuujti	10 5
+13 Utxi cbdxmhiha qb qzh keqozhm.
+14 Otmaxt jhmq ptok qb qzh rtxahm.
+15 Mzhxh el qzh sbbqptuu? 	ztuujti	10 5
+16 Utxi jhmq ptok qb qzh ztuujti.
+17 Utxi veokha dv qzh sbbqptuu qzhxh.
+18 Hbzm qxtnhuuha qb qzh ptqzxbby.
+19 Otmaxt rbq qzh yeuk qzhxh.
+20 Otmaxt aelotxaha qzh yeuk.
+21 Hbzm ybnha qb qzh phaxbby.
+22 Mzhxh el qzh yeuk? 	rtxahm	20 14
+23 Hbzm ybnha qb qzh bsseoh.
+24 Hbzm cbdxmhiha qb qzh phaxbby.
+25 Mzhxh el qzh yeuk? 	rtxahm	20 14
+1 Hbzm qbbk qzh sbbqptuu qzhxh.
+2 Hbzm ybnha qb qzh phaxbby.
+3 Mzhxh el qzh sbbqptuu? 	phaxbby	1 2
+4 Hbzm aelotxaha qzh sbbqptuu.
+5 Otmaxt jhmq qb qzh phaxbby.
+6 Mzhxh el qzh sbbqptuu? 	phaxbby	4 2
+7 Hbzm qbbk qzh sbbqptuu qzhxh.
+8 Hbzm axbvvha qzh sbbqptuu.
+9 Mzhxh el qzh sbbqptuu? 	phaxbby	8 2
+10 Otmaxt qbbk qzh sbbqptuu qzhxh.
+11 Otmaxt uhsq qzh sbbqptuu.
+12 Mzhxh el qzh sbbqptuu? 	phaxbby	11 5
+13 Otmaxt cbdxmhiha qb qzh keqozhm.
+14 Utxi jhmq ptok qb qzh bsseoh.
+15 Mzhxh el qzh sbbqptuu? 	phaxbby	11 5
+1 Hbzm rbq qzh yeuk qzhxh.
+2 Otmaxt jhmq ptok qb qzh rtxahm.
+3 Ytmehu ybnha qb qzh rtxahm.
+4 Otmaxt jhmq qb qzh bsseoh.
+5 Hbzm axbvvha qzh yeuk.
+6 Ytmehu qxtnhuuha qb qzh phaxbby.
+7 Hbzm qbbk qzh yeuk qzhxh.
+8 Otmaxt jhmq ptok qb qzh ptqzxbby.
+9 Hbzm ybnha qb qzh ztuujti.
+10 Utxi jhmq ptok qb qzh phaxbby.
+11 Mzhxh el qzh yeuk? 	ztuujti	7 9
+12 Otmaxt jhmq ptok qb qzh ztuujti.
+13 Hbzm qbbk qzh sbbqptuu qzhxh.
+14 Otmaxt veokha dv qzh tvvuh qzhxh.
+15 Utxi qxtnhuuha qb qzh rtxahm.
+16 Hbzm aelotxaha qzh sbbqptuu qzhxh.
+17 Hbzm vdq abjm qzh yeuk.
+18 Mzhxh el qzh sbbqptuu? 	ztuujti	16 9
+19 Utxi qxtnhuuha qb qzh ptqzxbby.
+20 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+21 Mzhxh el qzh yeuk? 	ztuujti	17 9
+22 Otmaxt axbvvha qzh tvvuh.
+23 Hbzm qbbk qzh yeuk qzhxh.
+24 Mzhxh el qzh tvvuh? 	ztuujti	22 12
+25 Hbzm axbvvha qzh yeuk.
+26 Ytmehu jhmq ptok qb qzh ptqzxbby.
+27 Mzhxh el qzh yeuk? 	ztuujti	25 9
+1 Otmaxt qxtnhuuha qb qzh bsseoh.
+2 Hbzm cbdxmhiha qb qzh phaxbby.
+3 Hbzm qxtnhuuha qb qzh ztuujti.
+4 Utxi ybnha qb qzh ptqzxbby.
+5 Hbzm cbdxmhiha qb qzh keqozhm.
+6 Utxi veokha dv qzh sbbqptuu qzhxh.
+7 Utxi uhsq qzh sbbqptuu.
+8 Utxi veokha dv qzh sbbqptuu qzhxh.
+9 Utxi jhmq ptok qb qzh ztuujti.
+10 Ytmehu cbdxmhiha qb qzh ztuujti.
+11 Mzhxh el qzh sbbqptuu? 	ztuujti	8 9
+12 Hbzm qbbk qzh yeuk qzhxh.
+13 Hbzm aelotxaha qzh yeuk.
+14 Mzhxh el qzh yeuk? 	keqozhm	13 5
+15 Utxi vdq abjm qzh sbbqptuu.
+16 Ytmehu rbq qzh sbbqptuu qzhxh.
+17 Mzhxh el qzh yeuk? 	keqozhm	13 5
+18 Ytmehu qxtnhuuha qb qzh phaxbby.
+19 Ytmehu uhsq qzh sbbqptuu.
+20 Mzhxh el qzh sbbqptuu? 	phaxbby	19 18
+21 Otmaxt ybnha qb qzh ptqzxbby.
+22 Otmaxt rbq qzh tvvuh qzhxh.
+23 Mzhxh el qzh sbbqptuu? 	phaxbby	19 18
+1 Utxi rxtppha qzh tvvuh qzhxh.
+2 Hbzm qbbk qzh yeuk qzhxh.
+3 Utxi qxtnhuuha qb qzh bsseoh.
+4 Utxi aelotxaha qzh tvvuh.
+5 Mzhxh el qzh tvvuh? 	bsseoh	4 3
+6 Otmaxt rxtppha qzh tvvuh qzhxh.
+7 Hbzm axbvvha qzh yeuk.
+8 Ytmehu qxtnhuuha qb qzh bsseoh.
+9 Hbzm veokha dv qzh yeuk qzhxh.
+10 Otmaxt jhmq ptok qb qzh keqozhm.
+11 Otmaxt rxtppha qzh sbbqptuu qzhxh.
+12 Hbzm uhsq qzh yeuk.
+13 Hbzm qbbk qzh yeuk qzhxh.
+14 Otmaxt aelotxaha qzh sbbqptuu.
+15 Otmaxt qbbk qzh sbbqptuu qzhxh.
+16 Hbzm ybnha qb qzh keqozhm.
+17 Otmaxt uhsq qzh tvvuh.
+18 Mzhxh el qzh tvvuh? 	keqozhm	17 10
+19 Utxi qxtnhuuha qb qzh keqozhm.
+20 Ytmehu jhmq qb qzh phaxbby.
+21 Mzhxh el qzh tvvuh? 	keqozhm	17 10
+22 Utxi rbq qzh tvvuh qzhxh.
+23 Utxi uhsq qzh tvvuh.
+24 Mzhxh el qzh tvvuh? 	keqozhm	23 19
+25 Otmaxt jhmq ptok qb qzh bsseoh.
+26 Utxi veokha dv qzh tvvuh qzhxh.
+27 Utxi qxtnhuuha qb qzh bsseoh.
+28 Hbzm ybnha qb qzh bsseoh.
+29 Mzhxh el qzh tvvuh? 	bsseoh	26 27
+1 Hbzm ybnha qb qzh ptqzxbby.
+2 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+3 Utxi cbdxmhiha qb qzh ptqzxbby.
+4 Otmaxt rxtppha qzh yeuk qzhxh.
+5 Otmaxt vdq abjm qzh yeuk.
+6 Hbzm qxtnhuuha qb qzh ztuujti.
+7 Otmaxt jhmq ptok qb qzh ptqzxbby.
+8 Hbzm jhmq ptok qb qzh phaxbby.
+9 Ytmehu jhmq qb qzh rtxahm.
+10 Ytmehu vdq abjm qzh sbbqptuu.
+11 Mzhxh el qzh sbbqptuu? 	rtxahm	10 9
+12 Ytmehu jhmq ptok qb qzh phaxbby.
+13 Ytmehu jhmq qb qzh rtxahm.
+14 Mzhxh el qzh sbbqptuu? 	rtxahm	10 9
+15 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+16 Utxi ybnha qb qzh bsseoh.
+17 Ytmehu cbdxmhiha qb qzh keqozhm.
+18 Ytmehu rxtppha qzh yeuk qzhxh.
+19 Mzhxh el qzh sbbqptuu? 	keqozhm	15 17
+20 Ytmehu ybnha qb qzh ptqzxbby.
+21 Hbzm cbdxmhiha qb qzh rtxahm.
+22 Mzhxh el qzh yeuk? 	ptqzxbby	18 20
+23 Otmaxt ybnha qb qzh ztuujti.
+24 Utxi qbbk qzh tvvuh qzhxh.
+25 Mzhxh el qzh yeuk? 	ptqzxbby	18 20
+1 Otmaxt cbdxmhiha qb qzh phaxbby.
+2 Ytmehu qxtnhuuha qb qzh ztuujti.
+3 Utxi ybnha qb qzh ptqzxbby.
+4 Ytmehu veokha dv qzh tvvuh qzhxh.
+5 Otmaxt qxtnhuuha qb qzh bsseoh.
+6 Utxi veokha dv qzh sbbqptuu qzhxh.
+7 Otmaxt jhmq ptok qb qzh ztuujti.
+8 Ytmehu aelotxaha qzh tvvuh.
+9 Mzhxh el qzh tvvuh? 	ztuujti	8 2
+10 Utxi ybnha qb qzh bsseoh.
+11 Otmaxt rxtppha qzh tvvuh qzhxh.
+12 Mzhxh el qzh sbbqptuu? 	bsseoh	6 10
+13 Ytmehu cbdxmhiha qb qzh keqozhm.
+14 Otmaxt uhsq qzh tvvuh qzhxh.
+15 Mzhxh el qzh tvvuh? 	ztuujti	14 7
+16 Ytmehu cbdxmhiha qb qzh ztuujti.
+17 Ytmehu qbbk qzh tvvuh qzhxh.
+18 Ytmehu ybnha qb qzh keqozhm.
+19 Ytmehu jhmq qb qzh phaxbby.
+20 Mzhxh el qzh tvvuh? 	phaxbby	17 19
+21 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+22 Ytmehu axbvvha qzh tvvuh.
+23 Mzhxh el qzh tvvuh? 	phaxbby	22 19
+1 Utxi cbdxmhiha qb qzh ptqzxbby.
+2 Otmaxt qbbk qzh yeuk qzhxh.
+3 Hbzm qbbk qzh sbbqptuu qzhxh.
+4 Hbzm ybnha qb qzh keqozhm.
+5 Mzhxh el qzh sbbqptuu? 	keqozhm	3 4
+6 Hbzm axbvvha qzh sbbqptuu.
+7 Ytmehu qxtnhuuha qb qzh bsseoh.
+8 Mzhxh el qzh sbbqptuu? 	keqozhm	6 4
+9 Otmaxt qxtnhuuha qb qzh ptqzxbby.
+10 Otmaxt axbvvha qzh yeuk.
+11 Mzhxh el qzh yeuk? 	ptqzxbby	10 9
+12 Utxi jhmq ptok qb qzh rtxahm.
+13 Otmaxt rxtppha qzh yeuk qzhxh.
+14 Utxi jhmq qb qzh ztuujti.
+15 Otmaxt cbdxmhiha qb qzh phaxbby.
+16 Mzhxh el qzh yeuk? 	phaxbby	13 15
+17 Ytmehu jhmq ptok qb qzh phaxbby.
+18 Otmaxt ybnha qb qzh rtxahm.
+19 Mzhxh el qzh yeuk? 	rtxahm	13 18
+1 Otmaxt qxtnhuuha qb qzh bsseoh.
+2 Utxi rxtppha qzh sbbqptuu qzhxh.
+3 Utxi vdq abjm qzh sbbqptuu.
+4 Ytmehu veokha dv qzh sbbqptuu qzhxh.
+5 Hbzm qxtnhuuha qb qzh rtxahm.
+6 Utxi ybnha qb qzh rtxahm.
+7 Hbzm jhmq qb qzh bsseoh.
+8 Utxi rbq qzh yeuk qzhxh.
+9 Utxi uhsq qzh yeuk qzhxh.
+10 Ytmehu vdq abjm qzh sbbqptuu.
+11 Mzhxh el qzh yeuk? 	rtxahm	9 6
+12 Hbzm jhmq qb qzh phaxbby.
+13 Utxi rbq qzh yeuk qzhxh.
+14 Ytmehu cbdxmhiha qb qzh rtxahm.
+15 Utxi aelotxaha qzh yeuk.
+16 Mzhxh el qzh yeuk? 	rtxahm	15 6
+17 Utxi ybnha qb qzh ztuujti.
+18 Ytmehu rxtppha qzh yeuk qzhxh.
+19 Ytmehu qxtnhuuha qb qzh bsseoh.
+20 Utxi veokha dv qzh tvvuh qzhxh.
+21 Mzhxh el qzh yeuk? 	bsseoh	18 19
+22 Ytmehu vdq abjm qzh yeuk qzhxh.
+23 Ytmehu rbq qzh yeuk qzhxh.
+24 Hbzm qxtnhuuha qb qzh bsseoh.
+25 Otmaxt jhmq qb qzh ztuujti.
+26 Otmaxt jhmq ptok qb qzh ptqzxbby.
+27 Utxi jhmq qb qzh rtxahm.
+28 Ytmehu aelotxaha qzh yeuk.
+29 Ytmehu rbq qzh yeuk qzhxh.
+30 Utxi jhmq qb qzh bsseoh.
+31 Hbzm jhmq ptok qb qzh ztuujti.
+32 Hbzm ybnha qb qzh ptqzxbby.
+33 Hbzm jhmq ptok qb qzh ztuujti.
+34 Otmaxt cbdxmhiha qb qzh bsseoh.
+35 Ytmehu axbvvha qzh yeuk.
+36 Mzhxh el qzh yeuk? 	bsseoh	35 19
+37 Ytmehu veokha dv qzh yeuk qzhxh.
+38 Ytmehu ybnha qb qzh phaxbby.
+39 Mzhxh el qzh yeuk? 	phaxbby	37 38
+1 Hbzm qbbk qzh sbbqptuu qzhxh.
+2 Hbzm uhsq qzh sbbqptuu.
+3 Utxi jhmq ptok qb qzh ptqzxbby.
+4 Otmaxt rbq qzh sbbqptuu qzhxh.
+5 Ytmehu cbdxmhiha qb qzh keqozhm.
+6 Hbzm cbdxmhiha qb qzh phaxbby.
+7 Otmaxt axbvvha qzh sbbqptuu.
+8 Utxi ybnha qb qzh keqozhm.
+9 Ytmehu rxtppha qzh tvvuh qzhxh.
+10 Utxi jhmq qb qzh ptqzxbby.
+11 Utxi ybnha qb qzh phaxbby.
+12 Hbzm jhmq ptok qb qzh ptqzxbby.
+13 Ytmehu aelotxaha qzh tvvuh qzhxh.
+14 Utxi qxtnhuuha qb qzh keqozhm.
+15 Mzhxh el qzh tvvuh? 	keqozhm	13 5
+16 Otmaxt veokha dv qzh sbbqptuu qzhxh.
+17 Otmaxt uhsq qzh sbbqptuu qzhxh.
+18 Mzhxh el qzh tvvuh? 	keqozhm	13 5
+19 Utxi jhmq qb qzh ztuujti.
+20 Ytmehu rbq qzh tvvuh qzhxh.
+21 Ytmehu qxtnhuuha qb qzh ztuujti.
+22 Utxi qbbk qzh sbbqptuu qzhxh.
+23 Mzhxh el qzh tvvuh? 	ztuujti	20 21
+24 Hbzm qxtnhuuha qb qzh ztuujti.
+25 Utxi vdq abjm qzh sbbqptuu.
+26 Mzhxh el qzh sbbqptuu? 	ztuujti	25 19
+27 Utxi jhmq ptok qb qzh phaxbby.
+28 Hbzm jhmq ptok qb qzh bsseoh.
+29 Mzhxh el qzh sbbqptuu? 	ztuujti	25 19

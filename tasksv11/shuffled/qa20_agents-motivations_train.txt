@@ -1,0 +1,2000 @@
+1 Odyeq el qexha.
+2 Mzhxh jeuu ldyeq rb?	phaxbby	1
+3 Odyeq jhmq ptok qb qzh phaxbby.
+4 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	1
+5 Odyeq rxtppha qzh vtctytl qzhxh.
+6 Mzi aea ldyeq rhq qzh vtctytl?	qexha	1
+7 Vtmm el pbxha.
+8 Mzhxh jeuu itmm rb?	rtxahm	7
+9 Htlbm el qzexlqi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Vtmm qxtnhuuha qb qzh rtxahm.
+12 Mzi aea itmm rb qb qzh rtxahm?	pbxha	7
+13 Vtmm rbq qzh sbbqptuu qzhxh.
+14 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	7
+15 Htlbm jhmq ptok qb qzh keqozhm.
+16 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	9
+17 Cmqbemh el qzexlqi.
+18 Mzhxh jeuu tmqbemh rb?	keqozhm	17
+19 Htlbm rxtppha qzh yeuk qzhxh.
+20 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	9
+21 Cmqbemh qxtnhuuha qb qzh keqozhm.
+22 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	17
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Vtmm cbdxmhiha qb qzh keqozhm.
+4 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+5 Vtmm qbbk qzh tvvuh qzhxh.
+6 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	1
+7 Odyeq el qexha.
+8 Mzhxh jeuu ldyeq rb?	phaxbby	7
+9 Htlbm el qexha.
+10 Mzhxh jeuu ctlbm rb?	phaxbby	9
+11 Htlbm ybnha qb qzh phaxbby.
+12 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	9
+13 Odyeq cbdxmhiha qb qzh phaxbby.
+14 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	7
+15 Htlbm veokha dv qzh vtctytl qzhxh.
+16 Mzi aea ctlbm rhq qzh vtctytl?	qexha	9
+17 Cmqbemh el zdmrxi.
+18 Mzhxh jeuu tmqbemh rb?	keqozhm	17
+19 Cmqbemh ybnha qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	17
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Vtmm el qexha.
+4 Mzhxh jeuu itmm rb?	phaxbby	3
+5 Vtmm jhmq ptok qb qzh phaxbby.
+6 Mzi aea itmm rb qb qzh phaxbby?	qexha	3
+7 Vtmm veokha dv qzh vtctytl qzhxh.
+8 Mzi aea itmm rhq qzh vtctytl?	qexha	3
+9 Htlbm el qzexlqi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Cmqbemh jhmq ptok qb qzh keqozhm.
+12 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+13 Odyeq el zdmrxi.
+14 Mzhxh jeuu ldyeq rb?	keqozhm	13
+15 Htlbm jhmq qb qzh keqozhm.
+16 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	9
+17 Htlbm rbq qzh yeuk qzhxh.
+18 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	9
+19 Odyeq jhmq ptok qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	13
+21 Odyeq veokha dv qzh tvvuh qzhxh.
+22 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	13
+1 Htlbm el zdmrxi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Htlbm jhmq ptok qb qzh keqozhm.
+6 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	1
+7 Vtmm el qexha.
+8 Mzhxh jeuu itmm rb?	phaxbby	7
+9 Vtmm ybnha qb qzh phaxbby.
+10 Mzi aea itmm rb qb qzh phaxbby?	qexha	7
+11 Vtmm rbq qzh vtctytl qzhxh.
+12 Mzi aea itmm rhq qzh vtctytl?	qexha	7
+13 Odyeq qxtnhuuha qb qzh phaxbby.
+14 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+15 Htlbm qbbk qzh tvvuh qzhxh.
+16 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	1
+17 Cmqbemh el qexha.
+18 Mzhxh jeuu tmqbemh rb?	phaxbby	17
+19 Cmqbemh cbdxmhiha qb qzh phaxbby.
+20 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	17
+1 Cmqbemh el pbxha.
+2 Mzhxh jeuu tmqbemh rb?	rtxahm	1
+3 Odyeq el pbxha.
+4 Mzhxh jeuu ldyeq rb?	rtxahm	3
+5 Cmqbemh ybnha qb qzh rtxahm.
+6 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	1
+7 Htlbm el pbxha.
+8 Mzhxh jeuu ctlbm rb?	rtxahm	7
+9 Htlbm jhmq ptok qb qzh rtxahm.
+10 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	7
+11 Vtmm el qexha.
+12 Mzhxh jeuu itmm rb?	phaxbby	11
+13 Htlbm rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	7
+15 Vtmm jhmq qb qzh phaxbby.
+16 Mzi aea itmm rb qb qzh phaxbby?	qexha	11
+17 Odyeq qxtnhuuha qb qzh rtxahm.
+18 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	3
+19 Vtmm rxtppha qzh vtctytl qzhxh.
+20 Mzi aea itmm rhq qzh vtctytl?	qexha	11
+1 Odyeq el pbxha.
+2 Mzhxh jeuu ldyeq rb?	rtxahm	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Vtmm jhmq ptok qb qzh keqozhm.
+6 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+7 Odyeq cbdxmhiha qb qzh rtxahm.
+8 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	1
+9 Vtmm veokha dv qzh tvvuh qzhxh.
+10 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	3
+11 Odyeq rxtppha qzh sbbqptuu qzhxh.
+12 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	1
+13 Cmqbemh el qexha.
+14 Mzhxh jeuu tmqbemh rb?	phaxbby	13
+15 Cmqbemh cbdxmhiha qb qzh phaxbby.
+16 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	13
+17 Htlbm el pbxha.
+18 Mzhxh jeuu ctlbm rb?	rtxahm	17
+19 Cmqbemh rbq qzh vtctytl qzhxh.
+20 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	13
+21 Htlbm ybnha qb qzh rtxahm.
+22 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	17
+1 Cmqbemh el qexha.
+2 Mzhxh jeuu tmqbemh rb?	phaxbby	1
+3 Vtmm el qexha.
+4 Mzhxh jeuu itmm rb?	phaxbby	3
+5 Cmqbemh jhmq qb qzh phaxbby.
+6 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	1
+7 Odyeq el pbxha.
+8 Mzhxh jeuu ldyeq rb?	rtxahm	7
+9 Htlbm el qzexlqi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Vtmm ybnha qb qzh phaxbby.
+12 Mzi aea itmm rb qb qzh phaxbby?	qexha	3
+13 Cmqbemh rxtppha qzh vtctytl qzhxh.
+14 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	1
+15 Odyeq jhmq ptok qb qzh rtxahm.
+16 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	7
+17 Odyeq qbbk qzh sbbqptuu qzhxh.
+18 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	7
+19 Htlbm jhmq ptok qb qzh keqozhm.
+20 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	9
+21 Htlbm rxtppha qzh yeuk qzhxh.
+22 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	9
+1 Odyeq el qexha.
+2 Mzhxh jeuu ldyeq rb?	phaxbby	1
+3 Cmqbemh el qzexlqi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Cmqbemh qxtnhuuha qb qzh keqozhm.
+6 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	3
+7 Cmqbemh rbq qzh yeuk qzhxh.
+8 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	3
+9 Vtmm el zdmrxi.
+10 Mzhxh jeuu itmm rb?	keqozhm	9
+11 Htlbm el zdmrxi.
+12 Mzhxh jeuu ctlbm rb?	keqozhm	11
+13 Vtmm ybnha qb qzh keqozhm.
+14 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	9
+15 Htlbm jhmq ptok qb qzh keqozhm.
+16 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	11
+17 Htlbm veokha dv qzh tvvuh qzhxh.
+18 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	11
+19 Odyeq cbdxmhiha qb qzh phaxbby.
+20 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	1
+21 Odyeq qbbk qzh vtctytl qzhxh.
+22 Mzi aea ldyeq rhq qzh vtctytl?	qexha	1
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Vtmm el qzexlqi.
+6 Mzhxh jeuu itmm rb?	keqozhm	5
+7 Cmqbemh jhmq ptok qb qzh keqozhm.
+8 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+9 Cmqbemh qbbk qzh yeuk qzhxh.
+10 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+11 Htlbm el pbxha.
+12 Mzhxh jeuu ctlbm rb?	rtxahm	11
+13 Vtmm qxtnhuuha qb qzh keqozhm.
+14 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	5
+15 Odyeq ybnha qb qzh phaxbby.
+16 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+17 Odyeq qbbk qzh vtctytl qzhxh.
+18 Mzi aea ldyeq rhq qzh vtctytl?	qexha	3
+19 Htlbm jhmq qb qzh rtxahm.
+20 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	11
+21 Htlbm veokha dv qzh sbbqptuu qzhxh.
+22 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	11
+1 Cmqbemh el zdmrxi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Htlbm el qzexlqi.
+4 Mzhxh jeuu ctlbm rb?	keqozhm	3
+5 Vtmm el pbxha.
+6 Mzhxh jeuu itmm rb?	rtxahm	5
+7 Odyeq el zdmrxi.
+8 Mzhxh jeuu ldyeq rb?	keqozhm	7
+9 Vtmm cbdxmhiha qb qzh rtxahm.
+10 Mzi aea itmm rb qb qzh rtxahm?	pbxha	5
+11 Htlbm ybnha qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	3
+13 Vtmm rbq qzh sbbqptuu qzhxh.
+14 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	5
+15 Cmqbemh jhmq qb qzh keqozhm.
+16 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	1
+17 Odyeq jhmq qb qzh keqozhm.
+18 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	7
+19 Htlbm rxtppha qzh yeuk qzhxh.
+20 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	3
+21 Cmqbemh qbbk qzh tvvuh qzhxh.
+22 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	1
+1 Htlbm el pbxha.
+2 Mzhxh jeuu ctlbm rb?	rtxahm	1
+3 Odyeq el qzexlqi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Cmqbemh el pbxha.
+6 Mzhxh jeuu tmqbemh rb?	rtxahm	5
+7 Cmqbemh qxtnhuuha qb qzh rtxahm.
+8 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	5
+9 Cmqbemh qbbk qzh sbbqptuu qzhxh.
+10 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	5
+11 Htlbm jhmq qb qzh rtxahm.
+12 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	1
+13 Odyeq cbdxmhiha qb qzh keqozhm.
+14 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	3
+15 Odyeq veokha dv qzh yeuk qzhxh.
+16 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	3
+17 Vtmm el qzexlqi.
+18 Mzhxh jeuu itmm rb?	keqozhm	17
+19 Vtmm qxtnhuuha qb qzh keqozhm.
+20 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	17
+1 Vtmm el qzexlqi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Cmqbemh el qzexlqi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Cmqbemh qxtnhuuha qb qzh keqozhm.
+6 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	3
+7 Vtmm cbdxmhiha qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	1
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Cmqbemh qbbk qzh yeuk qzhxh.
+12 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	3
+13 Htlbm ybnha qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+15 Odyeq el zdmrxi.
+16 Mzhxh jeuu ldyeq rb?	keqozhm	15
+17 Htlbm rxtppha qzh tvvuh qzhxh.
+18 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	9
+19 Odyeq jhmq ptok qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	15
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Odyeq el qzexlqi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Htlbm el qzexlqi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Odyeq cbdxmhiha qb qzh keqozhm.
+8 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	3
+9 Htlbm qxtnhuuha qb qzh keqozhm.
+10 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	5
+11 Vtmm el pbxha.
+12 Mzhxh jeuu itmm rb?	rtxahm	11
+13 Odyeq rxtppha qzh yeuk qzhxh.
+14 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	3
+15 Cmqbemh qxtnhuuha qb qzh keqozhm.
+16 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+17 Vtmm jhmq qb qzh rtxahm.
+18 Mzi aea itmm rb qb qzh rtxahm?	pbxha	11
+19 Vtmm qbbk qzh sbbqptuu qzhxh.
+20 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	11
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Odyeq qxtnhuuha qb qzh keqozhm.
+4 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+5 Cmqbemh el qexha.
+6 Mzhxh jeuu tmqbemh rb?	phaxbby	5
+7 Vtmm el qzexlqi.
+8 Mzhxh jeuu itmm rb?	keqozhm	7
+9 Vtmm ybnha qb qzh keqozhm.
+10 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	7
+11 Vtmm rbq qzh yeuk qzhxh.
+12 Mzi aea itmm rhq qzh yeuk?	qzexlqi	7
+13 Htlbm el zdmrxi.
+14 Mzhxh jeuu ctlbm rb?	keqozhm	13
+15 Cmqbemh jhmq qb qzh phaxbby.
+16 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	5
+17 Htlbm ybnha qb qzh keqozhm.
+18 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	13
+19 Cmqbemh qbbk qzh vtctytl qzhxh.
+20 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	5
+21 Htlbm qbbk qzh tvvuh qzhxh.
+22 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	13
+1 Vtmm el qzexlqi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Vtmm jhmq ptok qb qzh keqozhm.
+4 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	1
+5 Vtmm rbq qzh yeuk qzhxh.
+6 Mzi aea itmm rhq qzh yeuk?	qzexlqi	1
+7 Htlbm el zdmrxi.
+8 Mzhxh jeuu ctlbm rb?	keqozhm	7
+9 Odyeq el qzexlqi.
+10 Mzhxh jeuu ldyeq rb?	keqozhm	9
+11 Odyeq cbdxmhiha qb qzh keqozhm.
+12 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	9
+13 Htlbm qxtnhuuha qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	7
+15 Htlbm qbbk qzh tvvuh qzhxh.
+16 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	7
+17 Cmqbemh el pbxha.
+18 Mzhxh jeuu tmqbemh rb?	rtxahm	17
+19 Cmqbemh cbdxmhiha qb qzh rtxahm.
+20 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	17
+21 Cmqbemh rxtppha qzh sbbqptuu qzhxh.
+22 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	17
+1 Odyeq el qexha.
+2 Mzhxh jeuu ldyeq rb?	phaxbby	1
+3 Odyeq qxtnhuuha qb qzh phaxbby.
+4 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	1
+5 Odyeq rxtppha qzh vtctytl qzhxh.
+6 Mzi aea ldyeq rhq qzh vtctytl?	qexha	1
+7 Cmqbemh el pbxha.
+8 Mzhxh jeuu tmqbemh rb?	rtxahm	7
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Vtmm el qexha.
+12 Mzhxh jeuu itmm rb?	phaxbby	11
+13 Htlbm jhmq qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+15 Htlbm rbq qzh tvvuh qzhxh.
+16 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	9
+17 Vtmm jhmq qb qzh phaxbby.
+18 Mzi aea itmm rb qb qzh phaxbby?	qexha	11
+19 Cmqbemh jhmq ptok qb qzh rtxahm.
+20 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	7
+21 Cmqbemh qbbk qzh sbbqptuu qzhxh.
+22 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	7
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Odyeq el qexha.
+6 Mzhxh jeuu ldyeq rb?	phaxbby	5
+7 Htlbm ybnha qb qzh rtxahm.
+8 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+9 Odyeq jhmq qb qzh phaxbby.
+10 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	5
+11 Vtmm jhmq qb qzh rtxahm.
+12 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+13 Cmqbemh el pbxha.
+14 Mzhxh jeuu tmqbemh rb?	rtxahm	13
+15 Odyeq rbq qzh vtctytl qzhxh.
+16 Mzi aea ldyeq rhq qzh vtctytl?	qexha	5
+17 Vtmm veokha dv qzh sbbqptuu qzhxh.
+18 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+19 Cmqbemh ybnha qb qzh rtxahm.
+20 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	13
+1 Cmqbemh el zdmrxi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Cmqbemh jhmq ptok qb qzh keqozhm.
+4 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	1
+5 Cmqbemh veokha dv qzh tvvuh qzhxh.
+6 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	1
+7 Htlbm el qexha.
+8 Mzhxh jeuu ctlbm rb?	phaxbby	7
+9 Vtmm el qzexlqi.
+10 Mzhxh jeuu itmm rb?	keqozhm	9
+11 Odyeq el pbxha.
+12 Mzhxh jeuu ldyeq rb?	rtxahm	11
+13 Vtmm jhmq ptok qb qzh keqozhm.
+14 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	9
+15 Vtmm veokha dv qzh yeuk qzhxh.
+16 Mzi aea itmm rhq qzh yeuk?	qzexlqi	9
+17 Htlbm jhmq qb qzh phaxbby.
+18 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	7
+19 Htlbm veokha dv qzh vtctytl qzhxh.
+20 Mzi aea ctlbm rhq qzh vtctytl?	qexha	7
+21 Odyeq jhmq qb qzh rtxahm.
+22 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	11
+23 Odyeq rbq qzh sbbqptuu qzhxh.
+24 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	11
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Cmqbemh el qzexlqi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Odyeq qxtnhuuha qb qzh keqozhm.
+6 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+7 Odyeq rbq qzh yeuk qzhxh.
+8 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	1
+9 Vtmm el pbxha.
+10 Mzhxh jeuu itmm rb?	rtxahm	9
+11 Cmqbemh jhmq ptok qb qzh keqozhm.
+12 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	3
+13 Vtmm ybnha qb qzh rtxahm.
+14 Mzi aea itmm rb qb qzh rtxahm?	pbxha	9
+15 Vtmm rxtppha qzh sbbqptuu qzhxh.
+16 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	9
+17 Htlbm el qexha.
+18 Mzhxh jeuu ctlbm rb?	phaxbby	17
+19 Htlbm qxtnhuuha qb qzh phaxbby.
+20 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	17
+21 Htlbm rbq qzh vtctytl qzhxh.
+22 Mzi aea ctlbm rhq qzh vtctytl?	qexha	17
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Vtmm qxtnhuuha qb qzh rtxahm.
+4 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+5 Htlbm el zdmrxi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Cmqbemh el qzexlqi.
+8 Mzhxh jeuu tmqbemh rb?	keqozhm	7
+9 Cmqbemh cbdxmhiha qb qzh keqozhm.
+10 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	7
+11 Htlbm jhmq ptok qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	5
+13 Vtmm rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+15 Odyeq el pbxha.
+16 Mzhxh jeuu ldyeq rb?	rtxahm	15
+17 Htlbm veokha dv qzh tvvuh qzhxh.
+18 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	5
+19 Cmqbemh rbq qzh yeuk qzhxh.
+20 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	7
+21 Odyeq ybnha qb qzh rtxahm.
+22 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	15
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Cmqbemh el zdmrxi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Htlbm el qexha.
+6 Mzhxh jeuu ctlbm rb?	phaxbby	5
+7 Vtmm el qzexlqi.
+8 Mzhxh jeuu itmm rb?	keqozhm	7
+9 Vtmm jhmq qb qzh keqozhm.
+10 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	7
+11 Vtmm veokha dv qzh yeuk qzhxh.
+12 Mzi aea itmm rhq qzh yeuk?	qzexlqi	7
+13 Odyeq ybnha qb qzh keqozhm.
+14 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+15 Cmqbemh qxtnhuuha qb qzh keqozhm.
+16 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	3
+17 Cmqbemh rbq qzh tvvuh qzhxh.
+18 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	3
+19 Htlbm ybnha qb qzh phaxbby.
+20 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	5
+21 Htlbm veokha dv qzh vtctytl qzhxh.
+22 Mzi aea ctlbm rhq qzh vtctytl?	qexha	5
+1 Odyeq el pbxha.
+2 Mzhxh jeuu ldyeq rb?	rtxahm	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Cmqbemh el qexha.
+6 Mzhxh jeuu tmqbemh rb?	phaxbby	5
+7 Cmqbemh cbdxmhiha qb qzh phaxbby.
+8 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	5
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Htlbm jhmq qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+13 Htlbm veokha dv qzh tvvuh qzhxh.
+14 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	9
+15 Odyeq qxtnhuuha qb qzh rtxahm.
+16 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	1
+17 Odyeq veokha dv qzh sbbqptuu qzhxh.
+18 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	1
+19 Cmqbemh veokha dv qzh vtctytl qzhxh.
+20 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	5
+21 Vtmm cbdxmhiha qb qzh keqozhm.
+22 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+1 Vtmm el qzexlqi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Vtmm jhmq qb qzh keqozhm.
+4 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	1
+5 Vtmm veokha dv qzh yeuk qzhxh.
+6 Mzi aea itmm rhq qzh yeuk?	qzexlqi	1
+7 Odyeq el zdmrxi.
+8 Mzhxh jeuu ldyeq rb?	keqozhm	7
+9 Odyeq qxtnhuuha qb qzh keqozhm.
+10 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	7
+11 Cmqbemh el qzexlqi.
+12 Mzhxh jeuu tmqbemh rb?	keqozhm	11
+13 Cmqbemh qxtnhuuha qb qzh keqozhm.
+14 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	11
+15 Htlbm el pbxha.
+16 Mzhxh jeuu ctlbm rb?	rtxahm	15
+17 Odyeq rbq qzh tvvuh qzhxh.
+18 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	7
+19 Htlbm qxtnhuuha qb qzh rtxahm.
+20 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	15
+21 Htlbm rxtppha qzh sbbqptuu qzhxh.
+22 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	15
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Vtmm jhmq qb qzh keqozhm.
+4 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+5 Odyeq el qexha.
+6 Mzhxh jeuu ldyeq rb?	phaxbby	5
+7 Cmqbemh el pbxha.
+8 Mzhxh jeuu tmqbemh rb?	rtxahm	7
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Cmqbemh qxtnhuuha qb qzh rtxahm.
+12 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	7
+13 Cmqbemh rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	7
+15 Htlbm jhmq ptok qb qzh keqozhm.
+16 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+17 Htlbm veokha dv qzh tvvuh qzhxh.
+18 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	9
+19 Odyeq ybnha qb qzh phaxbby.
+20 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	5
+21 Odyeq qbbk qzh vtctytl qzhxh.
+22 Mzi aea ldyeq rhq qzh vtctytl?	qexha	5
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Cmqbemh el pbxha.
+6 Mzhxh jeuu tmqbemh rb?	rtxahm	5
+7 Htlbm ybnha qb qzh rtxahm.
+8 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+9 Cmqbemh cbdxmhiha qb qzh rtxahm.
+10 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	5
+11 Htlbm veokha dv qzh sbbqptuu qzhxh.
+12 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	3
+13 Vtmm jhmq qb qzh phaxbby.
+14 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+15 Vtmm rxtppha qzh vtctytl qzhxh.
+16 Mzi aea itmm rhq qzh vtctytl?	qexha	1
+17 Odyeq el zdmrxi.
+18 Mzhxh jeuu ldyeq rb?	keqozhm	17
+19 Odyeq jhmq qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	17
+21 Odyeq qbbk qzh tvvuh qzhxh.
+22 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	17
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Vtmm qxtnhuuha qb qzh phaxbby.
+4 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+5 Cmqbemh el pbxha.
+6 Mzhxh jeuu tmqbemh rb?	rtxahm	5
+7 Cmqbemh jhmq qb qzh rtxahm.
+8 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	5
+9 Vtmm rxtppha qzh vtctytl qzhxh.
+10 Mzi aea itmm rhq qzh vtctytl?	qexha	1
+11 Odyeq el zdmrxi.
+12 Mzhxh jeuu ldyeq rb?	keqozhm	11
+13 Cmqbemh rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	5
+15 Odyeq qxtnhuuha qb qzh keqozhm.
+16 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	11
+17 Htlbm el qzexlqi.
+18 Mzhxh jeuu ctlbm rb?	keqozhm	17
+19 Odyeq qbbk qzh tvvuh qzhxh.
+20 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	11
+21 Htlbm cbdxmhiha qb qzh keqozhm.
+22 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	17
+23 Htlbm rbq qzh yeuk qzhxh.
+24 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	17
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Odyeq el zdmrxi.
+6 Mzhxh jeuu ldyeq rb?	keqozhm	5
+7 Cmqbemh qxtnhuuha qb qzh keqozhm.
+8 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+9 Odyeq jhmq ptok qb qzh keqozhm.
+10 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	5
+11 Htlbm el qzexlqi.
+12 Mzhxh jeuu ctlbm rb?	keqozhm	11
+13 Cmqbemh rbq qzh yeuk qzhxh.
+14 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+15 Vtmm jhmq qb qzh keqozhm.
+16 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+17 Htlbm ybnha qb qzh keqozhm.
+18 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	11
+19 Odyeq rxtppha qzh tvvuh qzhxh.
+20 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	5
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Htlbm el zdmrxi.
+4 Mzhxh jeuu ctlbm rb?	keqozhm	3
+5 Htlbm qxtnhuuha qb qzh keqozhm.
+6 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	3
+7 Odyeq el qexha.
+8 Mzhxh jeuu ldyeq rb?	phaxbby	7
+9 Htlbm veokha dv qzh tvvuh qzhxh.
+10 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	3
+11 Odyeq jhmq qb qzh phaxbby.
+12 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	7
+13 Odyeq rbq qzh vtctytl qzhxh.
+14 Mzi aea ldyeq rhq qzh vtctytl?	qexha	7
+15 Cmqbemh el zdmrxi.
+16 Mzhxh jeuu tmqbemh rb?	keqozhm	15
+17 Vtmm jhmq qb qzh phaxbby.
+18 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+19 Cmqbemh jhmq qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	15
+1 Htlbm el qexha.
+2 Mzhxh jeuu ctlbm rb?	phaxbby	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Vtmm el qexha.
+6 Mzhxh jeuu itmm rb?	phaxbby	5
+7 Htlbm cbdxmhiha qb qzh phaxbby.
+8 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	1
+9 Cmqbemh el pbxha.
+10 Mzhxh jeuu tmqbemh rb?	rtxahm	9
+11 Odyeq ybnha qb qzh phaxbby.
+12 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+13 Vtmm ybnha qb qzh phaxbby.
+14 Mzi aea itmm rb qb qzh phaxbby?	qexha	5
+15 Htlbm qbbk qzh vtctytl qzhxh.
+16 Mzi aea ctlbm rhq qzh vtctytl?	qexha	1
+17 Cmqbemh qxtnhuuha qb qzh rtxahm.
+18 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	9
+19 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+20 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	9
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Cmqbemh el pbxha.
+6 Mzhxh jeuu tmqbemh rb?	rtxahm	5
+7 Cmqbemh jhmq qb qzh rtxahm.
+8 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	5
+9 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+10 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	5
+11 Vtmm qxtnhuuha qb qzh keqozhm.
+12 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+13 Htlbm el qexha.
+14 Mzhxh jeuu ctlbm rb?	phaxbby	13
+15 Vtmm rxtppha qzh tvvuh qzhxh.
+16 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	3
+17 Odyeq ybnha qb qzh keqozhm.
+18 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+19 Odyeq rbq qzh yeuk qzhxh.
+20 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	1
+21 Htlbm jhmq qb qzh phaxbby.
+22 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	13
+23 Htlbm veokha dv qzh vtctytl qzhxh.
+24 Mzi aea ctlbm rhq qzh vtctytl?	qexha	13
+1 Htlbm el qzexlqi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Htlbm qxtnhuuha qb qzh keqozhm.
+4 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	1
+5 Vtmm el qzexlqi.
+6 Mzhxh jeuu itmm rb?	keqozhm	5
+7 Vtmm ybnha qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	5
+9 Cmqbemh el qexha.
+10 Mzhxh jeuu tmqbemh rb?	phaxbby	9
+11 Htlbm qbbk qzh yeuk qzhxh.
+12 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	1
+13 Cmqbemh ybnha qb qzh phaxbby.
+14 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	9
+15 Cmqbemh qbbk qzh vtctytl qzhxh.
+16 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	9
+17 Odyeq el qexha.
+18 Mzhxh jeuu ldyeq rb?	phaxbby	17
+19 Odyeq qxtnhuuha qb qzh phaxbby.
+20 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	17
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Vtmm jhmq qb qzh keqozhm.
+4 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+5 Htlbm el pbxha.
+6 Mzhxh jeuu ctlbm rb?	rtxahm	5
+7 Htlbm cbdxmhiha qb qzh rtxahm.
+8 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	5
+9 Odyeq el zdmrxi.
+10 Mzhxh jeuu ldyeq rb?	keqozhm	9
+11 Cmqbemh el pbxha.
+12 Mzhxh jeuu tmqbemh rb?	rtxahm	11
+13 Cmqbemh jhmq ptok qb qzh rtxahm.
+14 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	11
+15 Vtmm rbq qzh tvvuh qzhxh.
+16 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	1
+17 Htlbm rbq qzh sbbqptuu qzhxh.
+18 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	5
+19 Odyeq jhmq ptok qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	9
+1 Odyeq el pbxha.
+2 Mzhxh jeuu ldyeq rb?	rtxahm	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Htlbm el qzexlqi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Vtmm ybnha qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+9 Vtmm veokha dv qzh tvvuh qzhxh.
+10 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	3
+11 Htlbm jhmq qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	5
+13 Cmqbemh el qzexlqi.
+14 Mzhxh jeuu tmqbemh rb?	keqozhm	13
+15 Odyeq ybnha qb qzh rtxahm.
+16 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	1
+17 Cmqbemh ybnha qb qzh keqozhm.
+18 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	13
+19 Odyeq qbbk qzh sbbqptuu qzhxh.
+20 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	1
+21 Htlbm rxtppha qzh yeuk qzhxh.
+22 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	5
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Odyeq jhmq qb qzh keqozhm.
+4 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+5 Htlbm el qexha.
+6 Mzhxh jeuu ctlbm rb?	phaxbby	5
+7 Odyeq rbq qzh yeuk qzhxh.
+8 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	1
+9 Htlbm ybnha qb qzh phaxbby.
+10 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	5
+11 Vtmm el qzexlqi.
+12 Mzhxh jeuu itmm rb?	keqozhm	11
+13 Vtmm ybnha qb qzh keqozhm.
+14 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	11
+15 Cmqbemh el qzexlqi.
+16 Mzhxh jeuu tmqbemh rb?	keqozhm	15
+17 Htlbm veokha dv qzh vtctytl qzhxh.
+18 Mzi aea ctlbm rhq qzh vtctytl?	qexha	5
+19 Cmqbemh qxtnhuuha qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	15
+1 Cmqbemh el pbxha.
+2 Mzhxh jeuu tmqbemh rb?	rtxahm	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Odyeq el zdmrxi.
+6 Mzhxh jeuu ldyeq rb?	keqozhm	5
+7 Odyeq cbdxmhiha qb qzh keqozhm.
+8 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	5
+9 Vtmm el qexha.
+10 Mzhxh jeuu itmm rb?	phaxbby	9
+11 Odyeq qbbk qzh tvvuh qzhxh.
+12 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	5
+13 Vtmm ybnha qb qzh phaxbby.
+14 Mzi aea itmm rb qb qzh phaxbby?	qexha	9
+15 Vtmm veokha dv qzh vtctytl qzhxh.
+16 Mzi aea itmm rhq qzh vtctytl?	qexha	9
+17 Htlbm jhmq ptok qb qzh rtxahm.
+18 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+19 Htlbm qbbk qzh sbbqptuu qzhxh.
+20 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	3
+21 Cmqbemh jhmq ptok qb qzh rtxahm.
+22 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	1
+1 Cmqbemh el qexha.
+2 Mzhxh jeuu tmqbemh rb?	phaxbby	1
+3 Odyeq el zdmrxi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Vtmm el qzexlqi.
+6 Mzhxh jeuu itmm rb?	keqozhm	5
+7 Vtmm qxtnhuuha qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	5
+9 Odyeq cbdxmhiha qb qzh keqozhm.
+10 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	3
+11 Htlbm el pbxha.
+12 Mzhxh jeuu ctlbm rb?	rtxahm	11
+13 Htlbm ybnha qb qzh rtxahm.
+14 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	11
+15 Odyeq qbbk qzh tvvuh qzhxh.
+16 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	3
+17 Cmqbemh cbdxmhiha qb qzh phaxbby.
+18 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	1
+19 Cmqbemh rbq qzh vtctytl qzhxh.
+20 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	1
+21 Vtmm veokha dv qzh yeuk qzhxh.
+22 Mzi aea itmm rhq qzh yeuk?	qzexlqi	5
+23 Htlbm rbq qzh sbbqptuu qzhxh.
+24 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	11
+1 Odyeq el zdmrxi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Odyeq cbdxmhiha qb qzh keqozhm.
+4 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	1
+5 Odyeq rbq qzh tvvuh qzhxh.
+6 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	1
+7 Vtmm el pbxha.
+8 Mzhxh jeuu itmm rb?	rtxahm	7
+9 Vtmm jhmq ptok qb qzh rtxahm.
+10 Mzi aea itmm rb qb qzh rtxahm?	pbxha	7
+11 Cmqbemh el zdmrxi.
+12 Mzhxh jeuu tmqbemh rb?	keqozhm	11
+13 Htlbm el qexha.
+14 Mzhxh jeuu ctlbm rb?	phaxbby	13
+15 Cmqbemh qxtnhuuha qb qzh keqozhm.
+16 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	11
+17 Vtmm rbq qzh sbbqptuu qzhxh.
+18 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	7
+19 Htlbm ybnha qb qzh phaxbby.
+20 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	13
+21 Htlbm rxtppha qzh vtctytl qzhxh.
+22 Mzi aea ctlbm rhq qzh vtctytl?	qexha	13
+1 Odyeq el pbxha.
+2 Mzhxh jeuu ldyeq rb?	rtxahm	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Vtmm el qzexlqi.
+6 Mzhxh jeuu itmm rb?	keqozhm	5
+7 Htlbm jhmq qb qzh rtxahm.
+8 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+9 Htlbm rxtppha qzh sbbqptuu qzhxh.
+10 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	3
+11 Vtmm ybnha qb qzh keqozhm.
+12 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	5
+13 Vtmm rbq qzh yeuk qzhxh.
+14 Mzi aea itmm rhq qzh yeuk?	qzexlqi	5
+15 Odyeq ybnha qb qzh rtxahm.
+16 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	1
+17 Cmqbemh el pbxha.
+18 Mzhxh jeuu tmqbemh rb?	rtxahm	17
+19 Cmqbemh qxtnhuuha qb qzh rtxahm.
+20 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	17
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Vtmm jhmq ptok qb qzh phaxbby.
+4 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+5 Vtmm veokha dv qzh vtctytl qzhxh.
+6 Mzi aea itmm rhq qzh vtctytl?	qexha	1
+7 Cmqbemh el pbxha.
+8 Mzhxh jeuu tmqbemh rb?	rtxahm	7
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Cmqbemh qxtnhuuha qb qzh rtxahm.
+12 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	7
+13 Htlbm ybnha qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+15 Cmqbemh rbq qzh sbbqptuu qzhxh.
+16 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	7
+17 Htlbm veokha dv qzh tvvuh qzhxh.
+18 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	9
+19 Odyeq el qzexlqi.
+20 Mzhxh jeuu ldyeq rb?	keqozhm	19
+21 Odyeq qxtnhuuha qb qzh keqozhm.
+22 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	19
+23 Odyeq rxtppha qzh yeuk qzhxh.
+24 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	19
+1 Vtmm el qzexlqi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Cmqbemh el zdmrxi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Odyeq el pbxha.
+6 Mzhxh jeuu ldyeq rb?	rtxahm	5
+7 Cmqbemh jhmq ptok qb qzh keqozhm.
+8 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	3
+9 Htlbm el pbxha.
+10 Mzhxh jeuu ctlbm rb?	rtxahm	9
+11 Htlbm jhmq qb qzh rtxahm.
+12 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	9
+13 Htlbm qbbk qzh sbbqptuu qzhxh.
+14 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	9
+15 Cmqbemh veokha dv qzh tvvuh qzhxh.
+16 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	3
+17 Vtmm jhmq qb qzh keqozhm.
+18 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	1
+19 Vtmm veokha dv qzh yeuk qzhxh.
+20 Mzi aea itmm rhq qzh yeuk?	qzexlqi	1
+21 Odyeq cbdxmhiha qb qzh rtxahm.
+22 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	5
+1 Htlbm el pbxha.
+2 Mzhxh jeuu ctlbm rb?	rtxahm	1
+3 Vtmm el pbxha.
+4 Mzhxh jeuu itmm rb?	rtxahm	3
+5 Vtmm qxtnhuuha qb qzh rtxahm.
+6 Mzi aea itmm rb qb qzh rtxahm?	pbxha	3
+7 Cmqbemh el zdmrxi.
+8 Mzhxh jeuu tmqbemh rb?	keqozhm	7
+9 Htlbm qxtnhuuha qb qzh rtxahm.
+10 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	1
+11 Vtmm veokha dv qzh sbbqptuu qzhxh.
+12 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	3
+13 Odyeq el pbxha.
+14 Mzhxh jeuu ldyeq rb?	rtxahm	13
+15 Odyeq jhmq ptok qb qzh rtxahm.
+16 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	13
+17 Cmqbemh ybnha qb qzh keqozhm.
+18 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	7
+19 Cmqbemh qbbk qzh tvvuh qzhxh.
+20 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	7
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Cmqbemh el pbxha.
+4 Mzhxh jeuu tmqbemh rb?	rtxahm	3
+5 Odyeq el qzexlqi.
+6 Mzhxh jeuu ldyeq rb?	keqozhm	5
+7 Odyeq cbdxmhiha qb qzh keqozhm.
+8 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	5
+9 Vtmm ybnha qb qzh rtxahm.
+10 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+11 Htlbm el zdmrxi.
+12 Mzhxh jeuu ctlbm rb?	keqozhm	11
+13 Cmqbemh ybnha qb qzh rtxahm.
+14 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	3
+15 Odyeq veokha dv qzh yeuk qzhxh.
+16 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	5
+17 Htlbm qxtnhuuha qb qzh keqozhm.
+18 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	11
+19 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+20 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	3
+21 Htlbm rbq qzh tvvuh qzhxh.
+22 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	11
+1 Vtmm el qzexlqi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Odyeq el pbxha.
+6 Mzhxh jeuu ldyeq rb?	rtxahm	5
+7 Htlbm cbdxmhiha qb qzh rtxahm.
+8 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+9 Odyeq cbdxmhiha qb qzh rtxahm.
+10 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	5
+11 Cmqbemh el qexha.
+12 Mzhxh jeuu tmqbemh rb?	phaxbby	11
+13 Odyeq rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	5
+15 Cmqbemh cbdxmhiha qb qzh phaxbby.
+16 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	11
+17 Cmqbemh veokha dv qzh vtctytl qzhxh.
+18 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	11
+19 Vtmm cbdxmhiha qb qzh keqozhm.
+20 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	1
+21 Vtmm rbq qzh yeuk qzhxh.
+22 Mzi aea itmm rhq qzh yeuk?	qzexlqi	1
+1 Htlbm el zdmrxi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Cmqbemh el pbxha.
+6 Mzhxh jeuu tmqbemh rb?	rtxahm	5
+7 Odyeq el zdmrxi.
+8 Mzhxh jeuu ldyeq rb?	keqozhm	7
+9 Htlbm cbdxmhiha qb qzh keqozhm.
+10 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	1
+11 Vtmm qxtnhuuha qb qzh keqozhm.
+12 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+13 Odyeq cbdxmhiha qb qzh keqozhm.
+14 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	7
+15 Htlbm qbbk qzh tvvuh qzhxh.
+16 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	1
+17 Cmqbemh qxtnhuuha qb qzh rtxahm.
+18 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	5
+19 Cmqbemh rbq qzh sbbqptuu qzhxh.
+20 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	5
+1 Htlbm el zdmrxi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Vtmm el pbxha.
+4 Mzhxh jeuu itmm rb?	rtxahm	3
+5 Htlbm ybnha qb qzh keqozhm.
+6 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	1
+7 Odyeq el pbxha.
+8 Mzhxh jeuu ldyeq rb?	rtxahm	7
+9 Odyeq ybnha qb qzh rtxahm.
+10 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	7
+11 Cmqbemh el pbxha.
+12 Mzhxh jeuu tmqbemh rb?	rtxahm	11
+13 Odyeq rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	7
+15 Htlbm qbbk qzh tvvuh qzhxh.
+16 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	1
+17 Cmqbemh cbdxmhiha qb qzh rtxahm.
+18 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	11
+19 Vtmm jhmq ptok qb qzh rtxahm.
+20 Mzi aea itmm rb qb qzh rtxahm?	pbxha	3
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Vtmm el pbxha.
+4 Mzhxh jeuu itmm rb?	rtxahm	3
+5 Cmqbemh jhmq ptok qb qzh keqozhm.
+6 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+7 Odyeq el qzexlqi.
+8 Mzhxh jeuu ldyeq rb?	keqozhm	7
+9 Cmqbemh rxtppha qzh yeuk qzhxh.
+10 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+11 Htlbm el pbxha.
+12 Mzhxh jeuu ctlbm rb?	rtxahm	11
+13 Odyeq qxtnhuuha qb qzh keqozhm.
+14 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	7
+15 Htlbm jhmq ptok qb qzh rtxahm.
+16 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	11
+17 Vtmm ybnha qb qzh rtxahm.
+18 Mzi aea itmm rb qb qzh rtxahm?	pbxha	3
+19 Vtmm rxtppha qzh sbbqptuu qzhxh.
+20 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	3
+1 Cmqbemh el qexha.
+2 Mzhxh jeuu tmqbemh rb?	phaxbby	1
+3 Vtmm el qexha.
+4 Mzhxh jeuu itmm rb?	phaxbby	3
+5 Htlbm el zdmrxi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Odyeq el zdmrxi.
+8 Mzhxh jeuu ldyeq rb?	keqozhm	7
+9 Vtmm jhmq ptok qb qzh phaxbby.
+10 Mzi aea itmm rb qb qzh phaxbby?	qexha	3
+11 Odyeq ybnha qb qzh keqozhm.
+12 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	7
+13 Vtmm rxtppha qzh vtctytl qzhxh.
+14 Mzi aea itmm rhq qzh vtctytl?	qexha	3
+15 Odyeq qbbk qzh tvvuh qzhxh.
+16 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	7
+17 Cmqbemh ybnha qb qzh phaxbby.
+18 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	1
+19 Htlbm ybnha qb qzh keqozhm.
+20 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	5
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Cmqbemh cbdxmhiha qb qzh keqozhm.
+4 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+5 Odyeq el qexha.
+6 Mzhxh jeuu ldyeq rb?	phaxbby	5
+7 Cmqbemh qbbk qzh yeuk qzhxh.
+8 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+9 Odyeq jhmq ptok qb qzh phaxbby.
+10 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	5
+11 Odyeq qbbk qzh vtctytl qzhxh.
+12 Mzi aea ldyeq rhq qzh vtctytl?	qexha	5
+13 Htlbm el qzexlqi.
+14 Mzhxh jeuu ctlbm rb?	keqozhm	13
+15 Htlbm ybnha qb qzh keqozhm.
+16 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	13
+17 Vtmm el pbxha.
+18 Mzhxh jeuu itmm rb?	rtxahm	17
+19 Vtmm jhmq ptok qb qzh rtxahm.
+20 Mzi aea itmm rb qb qzh rtxahm?	pbxha	17
+21 Vtmm rbq qzh sbbqptuu qzhxh.
+22 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	17
+1 Htlbm el zdmrxi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Cmqbemh el qexha.
+6 Mzhxh jeuu tmqbemh rb?	phaxbby	5
+7 Htlbm cbdxmhiha qb qzh keqozhm.
+8 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	1
+9 Odyeq el qzexlqi.
+10 Mzhxh jeuu ldyeq rb?	keqozhm	9
+11 Htlbm qbbk qzh tvvuh qzhxh.
+12 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	1
+13 Cmqbemh ybnha qb qzh phaxbby.
+14 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	5
+15 Odyeq jhmq qb qzh keqozhm.
+16 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	9
+17 Vtmm ybnha qb qzh keqozhm.
+18 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+19 Cmqbemh veokha dv qzh vtctytl qzhxh.
+20 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	5
+21 Vtmm rxtppha qzh yeuk qzhxh.
+22 Mzi aea itmm rhq qzh yeuk?	qzexlqi	3
+1 Odyeq el zdmrxi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Vtmm ybnha qb qzh keqozhm.
+6 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+7 Odyeq qxtnhuuha qb qzh keqozhm.
+8 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	1
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Odyeq rbq qzh tvvuh qzhxh.
+12 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	1
+13 Cmqbemh el qexha.
+14 Mzhxh jeuu tmqbemh rb?	phaxbby	13
+15 Vtmm veokha dv qzh yeuk qzhxh.
+16 Mzi aea itmm rhq qzh yeuk?	qzexlqi	3
+17 Htlbm jhmq qb qzh keqozhm.
+18 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+19 Cmqbemh ybnha qb qzh phaxbby.
+20 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	13
+21 Cmqbemh veokha dv qzh vtctytl qzhxh.
+22 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	13
+1 Cmqbemh el zdmrxi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Vtmm el pbxha.
+4 Mzhxh jeuu itmm rb?	rtxahm	3
+5 Odyeq el pbxha.
+6 Mzhxh jeuu ldyeq rb?	rtxahm	5
+7 Htlbm el pbxha.
+8 Mzhxh jeuu ctlbm rb?	rtxahm	7
+9 Htlbm cbdxmhiha qb qzh rtxahm.
+10 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	7
+11 Cmqbemh ybnha qb qzh keqozhm.
+12 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	1
+13 Vtmm jhmq qb qzh rtxahm.
+14 Mzi aea itmm rb qb qzh rtxahm?	pbxha	3
+15 Odyeq cbdxmhiha qb qzh rtxahm.
+16 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	5
+17 Vtmm rxtppha qzh sbbqptuu qzhxh.
+18 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	3
+19 Cmqbemh rxtppha qzh tvvuh qzhxh.
+20 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	1
+1 Odyeq el pbxha.
+2 Mzhxh jeuu ldyeq rb?	rtxahm	1
+3 Cmqbemh el qexha.
+4 Mzhxh jeuu tmqbemh rb?	phaxbby	3
+5 Vtmm el pbxha.
+6 Mzhxh jeuu itmm rb?	rtxahm	5
+7 Vtmm jhmq ptok qb qzh rtxahm.
+8 Mzi aea itmm rb qb qzh rtxahm?	pbxha	5
+9 Odyeq ybnha qb qzh rtxahm.
+10 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	1
+11 Vtmm rbq qzh sbbqptuu qzhxh.
+12 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	5
+13 Cmqbemh qxtnhuuha qb qzh phaxbby.
+14 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	3
+15 Htlbm el pbxha.
+16 Mzhxh jeuu ctlbm rb?	rtxahm	15
+17 Htlbm jhmq qb qzh rtxahm.
+18 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	15
+19 Cmqbemh rbq qzh vtctytl qzhxh.
+20 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	3
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Odyeq el pbxha.
+4 Mzhxh jeuu ldyeq rb?	rtxahm	3
+5 Cmqbemh el qexha.
+6 Mzhxh jeuu tmqbemh rb?	phaxbby	5
+7 Htlbm el pbxha.
+8 Mzhxh jeuu ctlbm rb?	rtxahm	7
+9 Cmqbemh cbdxmhiha qb qzh phaxbby.
+10 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	5
+11 Odyeq jhmq ptok qb qzh rtxahm.
+12 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	3
+13 Odyeq rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	3
+15 Vtmm jhmq qb qzh phaxbby.
+16 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+17 Cmqbemh rbq qzh vtctytl qzhxh.
+18 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	5
+19 Htlbm ybnha qb qzh rtxahm.
+20 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	7
+1 Htlbm el qexha.
+2 Mzhxh jeuu ctlbm rb?	phaxbby	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Htlbm ybnha qb qzh phaxbby.
+6 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	1
+7 Vtmm cbdxmhiha qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+9 Vtmm rxtppha qzh tvvuh qzhxh.
+10 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	3
+11 Odyeq el qexha.
+12 Mzhxh jeuu ldyeq rb?	phaxbby	11
+13 Htlbm rxtppha qzh vtctytl qzhxh.
+14 Mzi aea ctlbm rhq qzh vtctytl?	qexha	1
+15 Odyeq ybnha qb qzh phaxbby.
+16 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	11
+17 Cmqbemh el qexha.
+18 Mzhxh jeuu tmqbemh rb?	phaxbby	17
+19 Cmqbemh ybnha qb qzh phaxbby.
+20 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	17
+1 Htlbm el pbxha.
+2 Mzhxh jeuu ctlbm rb?	rtxahm	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Odyeq jhmq qb qzh phaxbby.
+6 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+7 Cmqbemh el qexha.
+8 Mzhxh jeuu tmqbemh rb?	phaxbby	7
+9 Cmqbemh cbdxmhiha qb qzh phaxbby.
+10 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	7
+11 Cmqbemh qbbk qzh vtctytl qzhxh.
+12 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	7
+13 Vtmm el qzexlqi.
+14 Mzhxh jeuu itmm rb?	keqozhm	13
+15 Htlbm cbdxmhiha qb qzh rtxahm.
+16 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	1
+17 Htlbm rbq qzh sbbqptuu qzhxh.
+18 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	1
+19 Vtmm jhmq ptok qb qzh keqozhm.
+20 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	13
+21 Vtmm qbbk qzh yeuk qzhxh.
+22 Mzi aea itmm rhq qzh yeuk?	qzexlqi	13
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Odyeq ybnha qb qzh keqozhm.
+4 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+5 Cmqbemh el qexha.
+6 Mzhxh jeuu tmqbemh rb?	phaxbby	5
+7 Odyeq rxtppha qzh yeuk qzhxh.
+8 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	1
+9 Cmqbemh qxtnhuuha qb qzh phaxbby.
+10 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	5
+11 Cmqbemh qbbk qzh vtctytl qzhxh.
+12 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	5
+13 Htlbm el zdmrxi.
+14 Mzhxh jeuu ctlbm rb?	keqozhm	13
+15 Htlbm cbdxmhiha qb qzh keqozhm.
+16 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	13
+17 Htlbm rxtppha qzh tvvuh qzhxh.
+18 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	13
+19 Vtmm el qzexlqi.
+20 Mzhxh jeuu itmm rb?	keqozhm	19
+21 Vtmm ybnha qb qzh keqozhm.
+22 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	19
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Odyeq el qzexlqi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Vtmm jhmq qb qzh phaxbby.
+6 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+7 Htlbm el zdmrxi.
+8 Mzhxh jeuu ctlbm rb?	keqozhm	7
+9 Htlbm jhmq ptok qb qzh keqozhm.
+10 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	7
+11 Htlbm rbq qzh tvvuh qzhxh.
+12 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	7
+13 Vtmm rbq qzh vtctytl qzhxh.
+14 Mzi aea itmm rhq qzh vtctytl?	qexha	1
+15 Odyeq ybnha qb qzh keqozhm.
+16 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	3
+17 Cmqbemh el pbxha.
+18 Mzhxh jeuu tmqbemh rb?	rtxahm	17
+19 Odyeq rbq qzh yeuk qzhxh.
+20 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	3
+21 Cmqbemh jhmq qb qzh rtxahm.
+22 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	17
+23 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+24 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	17
+1 Htlbm el qzexlqi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Odyeq el zdmrxi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Cmqbemh el zdmrxi.
+6 Mzhxh jeuu tmqbemh rb?	keqozhm	5
+7 Vtmm el zdmrxi.
+8 Mzhxh jeuu itmm rb?	keqozhm	7
+9 Odyeq qxtnhuuha qb qzh keqozhm.
+10 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	3
+11 Odyeq qbbk qzh tvvuh qzhxh.
+12 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	3
+13 Htlbm ybnha qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	1
+15 Vtmm ybnha qb qzh keqozhm.
+16 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	7
+17 Htlbm veokha dv qzh yeuk qzhxh.
+18 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	1
+19 Cmqbemh cbdxmhiha qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	5
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Cmqbemh qxtnhuuha qb qzh keqozhm.
+4 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+5 Cmqbemh veokha dv qzh yeuk qzhxh.
+6 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+7 Vtmm el qexha.
+8 Mzhxh jeuu itmm rb?	phaxbby	7
+9 Odyeq el qexha.
+10 Mzhxh jeuu ldyeq rb?	phaxbby	9
+11 Htlbm el pbxha.
+12 Mzhxh jeuu ctlbm rb?	rtxahm	11
+13 Htlbm jhmq ptok qb qzh rtxahm.
+14 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	11
+15 Vtmm cbdxmhiha qb qzh phaxbby.
+16 Mzi aea itmm rb qb qzh phaxbby?	qexha	7
+17 Odyeq jhmq ptok qb qzh phaxbby.
+18 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	9
+19 Htlbm veokha dv qzh sbbqptuu qzhxh.
+20 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	11
+21 Vtmm qbbk qzh vtctytl qzhxh.
+22 Mzi aea itmm rhq qzh vtctytl?	qexha	7
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Odyeq el zdmrxi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Cmqbemh el qzexlqi.
+6 Mzhxh jeuu tmqbemh rb?	keqozhm	5
+7 Odyeq jhmq qb qzh keqozhm.
+8 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	3
+9 Odyeq rxtppha qzh tvvuh qzhxh.
+10 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	3
+11 Htlbm el qexha.
+12 Mzhxh jeuu ctlbm rb?	phaxbby	11
+13 Htlbm ybnha qb qzh phaxbby.
+14 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	11
+15 Cmqbemh jhmq ptok qb qzh keqozhm.
+16 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	5
+17 Cmqbemh rxtppha qzh yeuk qzhxh.
+18 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	5
+19 Htlbm rxtppha qzh vtctytl qzhxh.
+20 Mzi aea ctlbm rhq qzh vtctytl?	qexha	11
+21 Vtmm cbdxmhiha qb qzh keqozhm.
+22 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+1 Vtmm el qexha.
+2 Mzhxh jeuu itmm rb?	phaxbby	1
+3 Cmqbemh el pbxha.
+4 Mzhxh jeuu tmqbemh rb?	rtxahm	3
+5 Vtmm jhmq ptok qb qzh phaxbby.
+6 Mzi aea itmm rb qb qzh phaxbby?	qexha	1
+7 Odyeq el qexha.
+8 Mzhxh jeuu ldyeq rb?	phaxbby	7
+9 Cmqbemh qxtnhuuha qb qzh rtxahm.
+10 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	3
+11 Htlbm el qexha.
+12 Mzhxh jeuu ctlbm rb?	phaxbby	11
+13 Htlbm qxtnhuuha qb qzh phaxbby.
+14 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	11
+15 Odyeq qxtnhuuha qb qzh phaxbby.
+16 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	7
+17 Odyeq qbbk qzh vtctytl qzhxh.
+18 Mzi aea ldyeq rhq qzh vtctytl?	qexha	7
+19 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+20 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	3
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Htlbm el zdmrxi.
+4 Mzhxh jeuu ctlbm rb?	keqozhm	3
+5 Htlbm cbdxmhiha qb qzh keqozhm.
+6 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	3
+7 Cmqbemh qxtnhuuha qb qzh keqozhm.
+8 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+9 Vtmm el qzexlqi.
+10 Mzhxh jeuu itmm rb?	keqozhm	9
+11 Cmqbemh qbbk qzh yeuk qzhxh.
+12 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+13 Odyeq el qzexlqi.
+14 Mzhxh jeuu ldyeq rb?	keqozhm	13
+15 Odyeq qxtnhuuha qb qzh keqozhm.
+16 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	13
+17 Vtmm jhmq qb qzh keqozhm.
+18 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	9
+19 Htlbm veokha dv qzh tvvuh qzhxh.
+20 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	3
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Vtmm jhmq ptok qb qzh rtxahm.
+4 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+5 Vtmm qbbk qzh sbbqptuu qzhxh.
+6 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+7 Odyeq el pbxha.
+8 Mzhxh jeuu ldyeq rb?	rtxahm	7
+9 Htlbm el qzexlqi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Odyeq jhmq ptok qb qzh rtxahm.
+12 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	7
+13 Htlbm jhmq qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	9
+15 Htlbm qbbk qzh yeuk qzhxh.
+16 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	9
+17 Cmqbemh el zdmrxi.
+18 Mzhxh jeuu tmqbemh rb?	keqozhm	17
+19 Cmqbemh jhmq ptok qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	17
+21 Cmqbemh qbbk qzh tvvuh qzhxh.
+22 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	17
+1 Cmqbemh el zdmrxi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Htlbm el qexha.
+6 Mzhxh jeuu ctlbm rb?	phaxbby	5
+7 Odyeq cbdxmhiha qb qzh phaxbby.
+8 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+9 Odyeq veokha dv qzh vtctytl qzhxh.
+10 Mzi aea ldyeq rhq qzh vtctytl?	qexha	3
+11 Cmqbemh jhmq ptok qb qzh keqozhm.
+12 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	1
+13 Vtmm el qzexlqi.
+14 Mzhxh jeuu itmm rb?	keqozhm	13
+15 Htlbm jhmq qb qzh phaxbby.
+16 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	5
+17 Cmqbemh rbq qzh tvvuh qzhxh.
+18 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	1
+19 Vtmm qxtnhuuha qb qzh keqozhm.
+20 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	13
+21 Vtmm qbbk qzh yeuk qzhxh.
+22 Mzi aea itmm rhq qzh yeuk?	qzexlqi	13
+1 Odyeq el qexha.
+2 Mzhxh jeuu ldyeq rb?	phaxbby	1
+3 Vtmm el qexha.
+4 Mzhxh jeuu itmm rb?	phaxbby	3
+5 Odyeq jhmq ptok qb qzh phaxbby.
+6 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	1
+7 Odyeq qbbk qzh vtctytl qzhxh.
+8 Mzi aea ldyeq rhq qzh vtctytl?	qexha	1
+9 Cmqbemh el zdmrxi.
+10 Mzhxh jeuu tmqbemh rb?	keqozhm	9
+11 Htlbm el pbxha.
+12 Mzhxh jeuu ctlbm rb?	rtxahm	11
+13 Cmqbemh ybnha qb qzh keqozhm.
+14 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	9
+15 Vtmm cbdxmhiha qb qzh phaxbby.
+16 Mzi aea itmm rb qb qzh phaxbby?	qexha	3
+17 Cmqbemh rxtppha qzh tvvuh qzhxh.
+18 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	9
+19 Htlbm jhmq qb qzh rtxahm.
+20 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	11
+21 Htlbm qbbk qzh sbbqptuu qzhxh.
+22 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	11
+1 Cmqbemh el qexha.
+2 Mzhxh jeuu tmqbemh rb?	phaxbby	1
+3 Cmqbemh ybnha qb qzh phaxbby.
+4 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	1
+5 Cmqbemh qbbk qzh vtctytl qzhxh.
+6 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	1
+7 Htlbm el pbxha.
+8 Mzhxh jeuu ctlbm rb?	rtxahm	7
+9 Vtmm el zdmrxi.
+10 Mzhxh jeuu itmm rb?	keqozhm	9
+11 Vtmm ybnha qb qzh keqozhm.
+12 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	9
+13 Htlbm jhmq ptok qb qzh rtxahm.
+14 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	7
+15 Htlbm veokha dv qzh sbbqptuu qzhxh.
+16 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	7
+17 Vtmm rbq qzh tvvuh qzhxh.
+18 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	9
+19 Odyeq el qexha.
+20 Mzhxh jeuu ldyeq rb?	phaxbby	19
+21 Odyeq jhmq qb qzh phaxbby.
+22 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	19
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Vtmm el zdmrxi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Cmqbemh qxtnhuuha qb qzh keqozhm.
+6 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+7 Vtmm jhmq ptok qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	3
+9 Htlbm el qzexlqi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Vtmm rbq qzh tvvuh qzhxh.
+12 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	3
+13 Cmqbemh rbq qzh yeuk qzhxh.
+14 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+15 Odyeq el qexha.
+16 Mzhxh jeuu ldyeq rb?	phaxbby	15
+17 Odyeq cbdxmhiha qb qzh phaxbby.
+18 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	15
+19 Odyeq rxtppha qzh vtctytl qzhxh.
+20 Mzi aea ldyeq rhq qzh vtctytl?	qexha	15
+21 Htlbm cbdxmhiha qb qzh keqozhm.
+22 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	9
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Cmqbemh el zdmrxi.
+6 Mzhxh jeuu tmqbemh rb?	keqozhm	5
+7 Vtmm jhmq ptok qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+9 Vtmm veokha dv qzh tvvuh qzhxh.
+10 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	1
+11 Odyeq el qexha.
+12 Mzhxh jeuu ldyeq rb?	phaxbby	11
+13 Htlbm cbdxmhiha qb qzh rtxahm.
+14 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+15 Htlbm rbq qzh sbbqptuu qzhxh.
+16 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	3
+17 Odyeq cbdxmhiha qb qzh phaxbby.
+18 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	11
+19 Cmqbemh cbdxmhiha qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	5
+21 Odyeq rxtppha qzh vtctytl qzhxh.
+22 Mzi aea ldyeq rhq qzh vtctytl?	qexha	11
+1 Odyeq el zdmrxi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Vtmm qxtnhuuha qb qzh keqozhm.
+6 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+7 Htlbm el pbxha.
+8 Mzhxh jeuu ctlbm rb?	rtxahm	7
+9 Htlbm jhmq ptok qb qzh rtxahm.
+10 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	7
+11 Odyeq qxtnhuuha qb qzh keqozhm.
+12 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	1
+13 Odyeq rxtppha qzh tvvuh qzhxh.
+14 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	1
+15 Vtmm veokha dv qzh yeuk qzhxh.
+16 Mzi aea itmm rhq qzh yeuk?	qzexlqi	3
+17 Htlbm veokha dv qzh sbbqptuu qzhxh.
+18 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	7
+19 Cmqbemh el qexha.
+20 Mzhxh jeuu tmqbemh rb?	phaxbby	19
+21 Cmqbemh ybnha qb qzh phaxbby.
+22 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	19
+23 Cmqbemh rbq qzh vtctytl qzhxh.
+24 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	19
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Vtmm jhmq ptok qb qzh rtxahm.
+4 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+5 Htlbm el qzexlqi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Cmqbemh el zdmrxi.
+8 Mzhxh jeuu tmqbemh rb?	keqozhm	7
+9 Cmqbemh cbdxmhiha qb qzh keqozhm.
+10 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	7
+11 Htlbm ybnha qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	5
+13 Cmqbemh rbq qzh tvvuh qzhxh.
+14 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	7
+15 Vtmm veokha dv qzh sbbqptuu qzhxh.
+16 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+17 Htlbm rxtppha qzh yeuk qzhxh.
+18 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	5
+19 Odyeq el zdmrxi.
+20 Mzhxh jeuu ldyeq rb?	keqozhm	19
+21 Odyeq jhmq qb qzh keqozhm.
+22 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	19
+1 Htlbm el qexha.
+2 Mzhxh jeuu ctlbm rb?	phaxbby	1
+3 Htlbm qxtnhuuha qb qzh phaxbby.
+4 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	1
+5 Odyeq el zdmrxi.
+6 Mzhxh jeuu ldyeq rb?	keqozhm	5
+7 Vtmm el zdmrxi.
+8 Mzhxh jeuu itmm rb?	keqozhm	7
+9 Cmqbemh el qzexlqi.
+10 Mzhxh jeuu tmqbemh rb?	keqozhm	9
+11 Htlbm veokha dv qzh vtctytl qzhxh.
+12 Mzi aea ctlbm rhq qzh vtctytl?	qexha	1
+13 Cmqbemh qxtnhuuha qb qzh keqozhm.
+14 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	9
+15 Cmqbemh rxtppha qzh yeuk qzhxh.
+16 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	9
+17 Odyeq cbdxmhiha qb qzh keqozhm.
+18 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	5
+19 Odyeq rxtppha qzh tvvuh qzhxh.
+20 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	5
+21 Vtmm ybnha qb qzh keqozhm.
+22 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	7
+1 Cmqbemh el pbxha.
+2 Mzhxh jeuu tmqbemh rb?	rtxahm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Htlbm el pbxha.
+6 Mzhxh jeuu ctlbm rb?	rtxahm	5
+7 Vtmm cbdxmhiha qb qzh keqozhm.
+8 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+9 Htlbm jhmq qb qzh rtxahm.
+10 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	5
+11 Cmqbemh qxtnhuuha qb qzh rtxahm.
+12 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	1
+13 Vtmm rbq qzh yeuk qzhxh.
+14 Mzi aea itmm rhq qzh yeuk?	qzexlqi	3
+15 Htlbm rbq qzh sbbqptuu qzhxh.
+16 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	5
+17 Odyeq el pbxha.
+18 Mzhxh jeuu ldyeq rb?	rtxahm	17
+19 Odyeq cbdxmhiha qb qzh rtxahm.
+20 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	17
+1 Cmqbemh el qzexlqi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Odyeq el zdmrxi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Cmqbemh jhmq ptok qb qzh keqozhm.
+6 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	1
+7 Odyeq qxtnhuuha qb qzh keqozhm.
+8 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	3
+9 Cmqbemh rbq qzh yeuk qzhxh.
+10 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	1
+11 Htlbm el qexha.
+12 Mzhxh jeuu ctlbm rb?	phaxbby	11
+13 Odyeq qbbk qzh tvvuh qzhxh.
+14 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	3
+15 Htlbm qxtnhuuha qb qzh phaxbby.
+16 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	11
+17 Vtmm el qexha.
+18 Mzhxh jeuu itmm rb?	phaxbby	17
+19 Htlbm qbbk qzh vtctytl qzhxh.
+20 Mzi aea ctlbm rhq qzh vtctytl?	qexha	11
+21 Vtmm jhmq qb qzh phaxbby.
+22 Mzi aea itmm rb qb qzh phaxbby?	qexha	17
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Cmqbemh el qzexlqi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Vtmm el qzexlqi.
+6 Mzhxh jeuu itmm rb?	keqozhm	5
+7 Cmqbemh cbdxmhiha qb qzh keqozhm.
+8 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	3
+9 Cmqbemh rbq qzh yeuk qzhxh.
+10 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	3
+11 Htlbm el pbxha.
+12 Mzhxh jeuu ctlbm rb?	rtxahm	11
+13 Vtmm qxtnhuuha qb qzh keqozhm.
+14 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	5
+15 Odyeq qxtnhuuha qb qzh keqozhm.
+16 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+17 Htlbm jhmq ptok qb qzh rtxahm.
+18 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	11
+19 Htlbm rbq qzh sbbqptuu qzhxh.
+20 Mzi aea ctlbm rhq qzh sbbqptuu?	pbxha	11
+1 Htlbm el zdmrxi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Odyeq el qzexlqi.
+4 Mzhxh jeuu ldyeq rb?	keqozhm	3
+5 Odyeq jhmq qb qzh keqozhm.
+6 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	3
+7 Cmqbemh el pbxha.
+8 Mzhxh jeuu tmqbemh rb?	rtxahm	7
+9 Odyeq qbbk qzh yeuk qzhxh.
+10 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	3
+11 Htlbm jhmq ptok qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	1
+13 Cmqbemh jhmq qb qzh rtxahm.
+14 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	7
+15 Vtmm el zdmrxi.
+16 Mzhxh jeuu itmm rb?	keqozhm	15
+17 Vtmm cbdxmhiha qb qzh keqozhm.
+18 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	15
+19 Htlbm veokha dv qzh tvvuh qzhxh.
+20 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	1
+21 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+22 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	7
+1 Odyeq el qexha.
+2 Mzhxh jeuu ldyeq rb?	phaxbby	1
+3 Htlbm el qexha.
+4 Mzhxh jeuu ctlbm rb?	phaxbby	3
+5 Vtmm el zdmrxi.
+6 Mzhxh jeuu itmm rb?	keqozhm	5
+7 Cmqbemh el qexha.
+8 Mzhxh jeuu tmqbemh rb?	phaxbby	7
+9 Htlbm jhmq ptok qb qzh phaxbby.
+10 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	3
+11 Htlbm veokha dv qzh vtctytl qzhxh.
+12 Mzi aea ctlbm rhq qzh vtctytl?	qexha	3
+13 Vtmm cbdxmhiha qb qzh keqozhm.
+14 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	5
+15 Cmqbemh ybnha qb qzh phaxbby.
+16 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	7
+17 Odyeq jhmq ptok qb qzh phaxbby.
+18 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	1
+19 Vtmm rbq qzh tvvuh qzhxh.
+20 Mzi aea itmm rhq qzh tvvuh?	zdmrxi	5
+1 Htlbm el qzexlqi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Htlbm jhmq qb qzh keqozhm.
+4 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	1
+5 Odyeq el qzexlqi.
+6 Mzhxh jeuu ldyeq rb?	keqozhm	5
+7 Htlbm rxtppha qzh yeuk qzhxh.
+8 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	1
+9 Vtmm el qzexlqi.
+10 Mzhxh jeuu itmm rb?	keqozhm	9
+11 Vtmm qxtnhuuha qb qzh keqozhm.
+12 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	9
+13 Odyeq qxtnhuuha qb qzh keqozhm.
+14 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	5
+15 Cmqbemh el pbxha.
+16 Mzhxh jeuu tmqbemh rb?	rtxahm	15
+17 Cmqbemh jhmq qb qzh rtxahm.
+18 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	15
+19 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+20 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	15
+1 Htlbm el zdmrxi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Cmqbemh el qexha.
+6 Mzhxh jeuu tmqbemh rb?	phaxbby	5
+7 Htlbm jhmq qb qzh keqozhm.
+8 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	1
+9 Vtmm ybnha qb qzh keqozhm.
+10 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+11 Odyeq el qexha.
+12 Mzhxh jeuu ldyeq rb?	phaxbby	11
+13 Htlbm rbq qzh tvvuh qzhxh.
+14 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	1
+15 Cmqbemh cbdxmhiha qb qzh phaxbby.
+16 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	5
+17 Cmqbemh veokha dv qzh vtctytl qzhxh.
+18 Mzi aea tmqbemh rhq qzh vtctytl?	qexha	5
+19 Odyeq qxtnhuuha qb qzh phaxbby.
+20 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	11
+21 Vtmm veokha dv qzh yeuk qzhxh.
+22 Mzi aea itmm rhq qzh yeuk?	qzexlqi	3
+1 Htlbm el qexha.
+2 Mzhxh jeuu ctlbm rb?	phaxbby	1
+3 Vtmm el pbxha.
+4 Mzhxh jeuu itmm rb?	rtxahm	3
+5 Odyeq el pbxha.
+6 Mzhxh jeuu ldyeq rb?	rtxahm	5
+7 Odyeq ybnha qb qzh rtxahm.
+8 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	5
+9 Cmqbemh el zdmrxi.
+10 Mzhxh jeuu tmqbemh rb?	keqozhm	9
+11 Htlbm jhmq ptok qb qzh phaxbby.
+12 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	1
+13 Cmqbemh qxtnhuuha qb qzh keqozhm.
+14 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	9
+15 Odyeq veokha dv qzh sbbqptuu qzhxh.
+16 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	5
+17 Htlbm veokha dv qzh vtctytl qzhxh.
+18 Mzi aea ctlbm rhq qzh vtctytl?	qexha	1
+19 Cmqbemh rxtppha qzh tvvuh qzhxh.
+20 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	9
+21 Vtmm jhmq qb qzh rtxahm.
+22 Mzi aea itmm rb qb qzh rtxahm?	pbxha	3
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Cmqbemh el zdmrxi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Cmqbemh ybnha qb qzh keqozhm.
+6 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	3
+7 Cmqbemh veokha dv qzh tvvuh qzhxh.
+8 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	3
+9 Htlbm el zdmrxi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Htlbm cbdxmhiha qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	9
+13 Odyeq el pbxha.
+14 Mzhxh jeuu ldyeq rb?	rtxahm	13
+15 Vtmm ybnha qb qzh keqozhm.
+16 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+17 Odyeq jhmq ptok qb qzh rtxahm.
+18 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	13
+19 Odyeq qbbk qzh sbbqptuu qzhxh.
+20 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	13
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Vtmm qxtnhuuha qb qzh rtxahm.
+4 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+5 Cmqbemh el pbxha.
+6 Mzhxh jeuu tmqbemh rb?	rtxahm	5
+7 Htlbm el zdmrxi.
+8 Mzhxh jeuu ctlbm rb?	keqozhm	7
+9 Cmqbemh cbdxmhiha qb qzh rtxahm.
+10 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	5
+11 Odyeq el qexha.
+12 Mzhxh jeuu ldyeq rb?	phaxbby	11
+13 Vtmm qbbk qzh sbbqptuu qzhxh.
+14 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+15 Odyeq cbdxmhiha qb qzh phaxbby.
+16 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	11
+17 Odyeq rbq qzh vtctytl qzhxh.
+18 Mzi aea ldyeq rhq qzh vtctytl?	qexha	11
+19 Htlbm jhmq ptok qb qzh keqozhm.
+20 Mzi aea ctlbm rb qb qzh keqozhm?	zdmrxi	7
+21 Htlbm qbbk qzh tvvuh qzhxh.
+22 Mzi aea ctlbm rhq qzh tvvuh?	zdmrxi	7
+1 Htlbm el qexha.
+2 Mzhxh jeuu ctlbm rb?	phaxbby	1
+3 Htlbm jhmq ptok qb qzh phaxbby.
+4 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	1
+5 Htlbm qbbk qzh vtctytl qzhxh.
+6 Mzi aea ctlbm rhq qzh vtctytl?	qexha	1
+7 Vtmm el qexha.
+8 Mzhxh jeuu itmm rb?	phaxbby	7
+9 Vtmm ybnha qb qzh phaxbby.
+10 Mzi aea itmm rb qb qzh phaxbby?	qexha	7
+11 Odyeq el qexha.
+12 Mzhxh jeuu ldyeq rb?	phaxbby	11
+13 Cmqbemh el pbxha.
+14 Mzhxh jeuu tmqbemh rb?	rtxahm	13
+15 Cmqbemh cbdxmhiha qb qzh rtxahm.
+16 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	13
+17 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+18 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	13
+19 Odyeq cbdxmhiha qb qzh phaxbby.
+20 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	11
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Htlbm el qzexlqi.
+4 Mzhxh jeuu ctlbm rb?	keqozhm	3
+5 Htlbm jhmq qb qzh keqozhm.
+6 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	3
+7 Odyeq el zdmrxi.
+8 Mzhxh jeuu ldyeq rb?	keqozhm	7
+9 Odyeq ybnha qb qzh keqozhm.
+10 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	7
+11 Odyeq qbbk qzh tvvuh qzhxh.
+12 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	7
+13 Htlbm veokha dv qzh yeuk qzhxh.
+14 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	3
+15 Vtmm cbdxmhiha qb qzh keqozhm.
+16 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+17 Cmqbemh el pbxha.
+18 Mzhxh jeuu tmqbemh rb?	rtxahm	17
+19 Cmqbemh qxtnhuuha qb qzh rtxahm.
+20 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	17
+21 Cmqbemh veokha dv qzh sbbqptuu qzhxh.
+22 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	17
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Odyeq jhmq qb qzh phaxbby.
+6 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+7 Htlbm el qexha.
+8 Mzhxh jeuu ctlbm rb?	phaxbby	7
+9 Cmqbemh el qzexlqi.
+10 Mzhxh jeuu tmqbemh rb?	keqozhm	9
+11 Vtmm jhmq ptok qb qzh rtxahm.
+12 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+13 Cmqbemh jhmq ptok qb qzh keqozhm.
+14 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	9
+15 Htlbm qxtnhuuha qb qzh phaxbby.
+16 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	7
+17 Odyeq rbq qzh vtctytl qzhxh.
+18 Mzi aea ldyeq rhq qzh vtctytl?	qexha	3
+19 Cmqbemh rbq qzh yeuk qzhxh.
+20 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	9
+21 Vtmm veokha dv qzh sbbqptuu qzhxh.
+22 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+1 Odyeq el qzexlqi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Cmqbemh el qzexlqi.
+4 Mzhxh jeuu tmqbemh rb?	keqozhm	3
+5 Htlbm el qzexlqi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Vtmm el qexha.
+8 Mzhxh jeuu itmm rb?	phaxbby	7
+9 Vtmm cbdxmhiha qb qzh phaxbby.
+10 Mzi aea itmm rb qb qzh phaxbby?	qexha	7
+11 Cmqbemh qxtnhuuha qb qzh keqozhm.
+12 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	3
+13 Odyeq jhmq qb qzh keqozhm.
+14 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	1
+15 Cmqbemh qbbk qzh yeuk qzhxh.
+16 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	3
+17 Vtmm qbbk qzh vtctytl qzhxh.
+18 Mzi aea itmm rhq qzh vtctytl?	qexha	7
+19 Htlbm jhmq ptok qb qzh keqozhm.
+20 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	5
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Htlbm el qzexlqi.
+4 Mzhxh jeuu ctlbm rb?	keqozhm	3
+5 Odyeq el qexha.
+6 Mzhxh jeuu ldyeq rb?	phaxbby	5
+7 Cmqbemh el qexha.
+8 Mzhxh jeuu tmqbemh rb?	phaxbby	7
+9 Odyeq jhmq qb qzh phaxbby.
+10 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	5
+11 Vtmm cbdxmhiha qb qzh rtxahm.
+12 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+13 Htlbm cbdxmhiha qb qzh keqozhm.
+14 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	3
+15 Odyeq veokha dv qzh vtctytl qzhxh.
+16 Mzi aea ldyeq rhq qzh vtctytl?	qexha	5
+17 Cmqbemh qxtnhuuha qb qzh phaxbby.
+18 Mzi aea tmqbemh rb qb qzh phaxbby?	qexha	7
+19 Htlbm veokha dv qzh yeuk qzhxh.
+20 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	3
+21 Vtmm rxtppha qzh sbbqptuu qzhxh.
+22 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+1 Vtmm el zdmrxi.
+2 Mzhxh jeuu itmm rb?	keqozhm	1
+3 Htlbm el qzexlqi.
+4 Mzhxh jeuu ctlbm rb?	keqozhm	3
+5 Odyeq el zdmrxi.
+6 Mzhxh jeuu ldyeq rb?	keqozhm	5
+7 Cmqbemh el zdmrxi.
+8 Mzhxh jeuu tmqbemh rb?	keqozhm	7
+9 Htlbm jhmq qb qzh keqozhm.
+10 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	3
+11 Htlbm qbbk qzh yeuk qzhxh.
+12 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	3
+13 Cmqbemh qxtnhuuha qb qzh keqozhm.
+14 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	7
+15 Cmqbemh rxtppha qzh tvvuh qzhxh.
+16 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	7
+17 Vtmm jhmq ptok qb qzh keqozhm.
+18 Mzi aea itmm rb qb qzh keqozhm?	zdmrxi	1
+19 Odyeq jhmq ptok qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	5
+1 Odyeq el zdmrxi.
+2 Mzhxh jeuu ldyeq rb?	keqozhm	1
+3 Odyeq qxtnhuuha qb qzh keqozhm.
+4 Mzi aea ldyeq rb qb qzh keqozhm?	zdmrxi	1
+5 Odyeq qbbk qzh tvvuh qzhxh.
+6 Mzi aea ldyeq rhq qzh tvvuh?	zdmrxi	1
+7 Cmqbemh el qzexlqi.
+8 Mzhxh jeuu tmqbemh rb?	keqozhm	7
+9 Htlbm el qzexlqi.
+10 Mzhxh jeuu ctlbm rb?	keqozhm	9
+11 Vtmm el pbxha.
+12 Mzhxh jeuu itmm rb?	rtxahm	11
+13 Vtmm ybnha qb qzh rtxahm.
+14 Mzi aea itmm rb qb qzh rtxahm?	pbxha	11
+15 Vtmm rbq qzh sbbqptuu qzhxh.
+16 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	11
+17 Cmqbemh jhmq qb qzh keqozhm.
+18 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	7
+19 Htlbm jhmq qb qzh keqozhm.
+20 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	9
+21 Cmqbemh rxtppha qzh yeuk qzhxh.
+22 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	7
+1 Odyeq el pbxha.
+2 Mzhxh jeuu ldyeq rb?	rtxahm	1
+3 Htlbm el qexha.
+4 Mzhxh jeuu ctlbm rb?	phaxbby	3
+5 Htlbm qxtnhuuha qb qzh phaxbby.
+6 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	3
+7 Htlbm rbq qzh vtctytl qzhxh.
+8 Mzi aea ctlbm rhq qzh vtctytl?	qexha	3
+9 Odyeq cbdxmhiha qb qzh rtxahm.
+10 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	1
+11 Cmqbemh el qzexlqi.
+12 Mzhxh jeuu tmqbemh rb?	keqozhm	11
+13 Odyeq veokha dv qzh sbbqptuu qzhxh.
+14 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	1
+15 Vtmm el qexha.
+16 Mzhxh jeuu itmm rb?	phaxbby	15
+17 Cmqbemh ybnha qb qzh keqozhm.
+18 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	11
+19 Vtmm jhmq qb qzh phaxbby.
+20 Mzi aea itmm rb qb qzh phaxbby?	qexha	15
+21 Cmqbemh qbbk qzh yeuk qzhxh.
+22 Mzi aea tmqbemh rhq qzh yeuk?	qzexlqi	11
+1 Cmqbemh el zdmrxi.
+2 Mzhxh jeuu tmqbemh rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Htlbm el qzexlqi.
+6 Mzhxh jeuu ctlbm rb?	keqozhm	5
+7 Cmqbemh jhmq ptok qb qzh keqozhm.
+8 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	1
+9 Cmqbemh qbbk qzh tvvuh qzhxh.
+10 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	1
+11 Htlbm jhmq qb qzh keqozhm.
+12 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	5
+13 Odyeq el qzexlqi.
+14 Mzhxh jeuu ldyeq rb?	keqozhm	13
+15 Vtmm jhmq ptok qb qzh keqozhm.
+16 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+17 Vtmm qbbk qzh yeuk qzhxh.
+18 Mzi aea itmm rhq qzh yeuk?	qzexlqi	3
+19 Odyeq jhmq qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	13
+1 Vtmm el pbxha.
+2 Mzhxh jeuu itmm rb?	rtxahm	1
+3 Htlbm el pbxha.
+4 Mzhxh jeuu ctlbm rb?	rtxahm	3
+5 Cmqbemh el zdmrxi.
+6 Mzhxh jeuu tmqbemh rb?	keqozhm	5
+7 Htlbm jhmq ptok qb qzh rtxahm.
+8 Mzi aea ctlbm rb qb qzh rtxahm?	pbxha	3
+9 Odyeq el qzexlqi.
+10 Mzhxh jeuu ldyeq rb?	keqozhm	9
+11 Cmqbemh ybnha qb qzh keqozhm.
+12 Mzi aea tmqbemh rb qb qzh keqozhm?	zdmrxi	5
+13 Cmqbemh rxtppha qzh tvvuh qzhxh.
+14 Mzi aea tmqbemh rhq qzh tvvuh?	zdmrxi	5
+15 Vtmm qxtnhuuha qb qzh rtxahm.
+16 Mzi aea itmm rb qb qzh rtxahm?	pbxha	1
+17 Vtmm rbq qzh sbbqptuu qzhxh.
+18 Mzi aea itmm rhq qzh sbbqptuu?	pbxha	1
+19 Odyeq jhmq ptok qb qzh keqozhm.
+20 Mzi aea ldyeq rb qb qzh keqozhm?	qzexlqi	9
+21 Odyeq rxtppha qzh yeuk qzhxh.
+22 Mzi aea ldyeq rhq qzh yeuk?	qzexlqi	9
+1 Htlbm el qzexlqi.
+2 Mzhxh jeuu ctlbm rb?	keqozhm	1
+3 Vtmm el qzexlqi.
+4 Mzhxh jeuu itmm rb?	keqozhm	3
+5 Odyeq el pbxha.
+6 Mzhxh jeuu ldyeq rb?	rtxahm	5
+7 Htlbm ybnha qb qzh keqozhm.
+8 Mzi aea ctlbm rb qb qzh keqozhm?	qzexlqi	1
+9 Odyeq qxtnhuuha qb qzh rtxahm.
+10 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	5
+11 Vtmm ybnha qb qzh keqozhm.
+12 Mzi aea itmm rb qb qzh keqozhm?	qzexlqi	3
+13 Htlbm rxtppha qzh yeuk qzhxh.
+14 Mzi aea ctlbm rhq qzh yeuk?	qzexlqi	1
+15 Cmqbemh el qzexlqi.
+16 Mzhxh jeuu tmqbemh rb?	keqozhm	15
+17 Odyeq rxtppha qzh sbbqptuu qzhxh.
+18 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	5
+19 Cmqbemh cbdxmhiha qb qzh keqozhm.
+20 Mzi aea tmqbemh rb qb qzh keqozhm?	qzexlqi	15
+1 Htlbm el qexha.
+2 Mzhxh jeuu ctlbm rb?	phaxbby	1
+3 Odyeq el pbxha.
+4 Mzhxh jeuu ldyeq rb?	rtxahm	3
+5 Htlbm ybnha qb qzh phaxbby.
+6 Mzi aea ctlbm rb qb qzh phaxbby?	qexha	1
+7 Odyeq jhmq qb qzh rtxahm.
+8 Mzi aea ldyeq rb qb qzh rtxahm?	pbxha	3
+9 Cmqbemh el pbxha.
+10 Mzhxh jeuu tmqbemh rb?	rtxahm	9
+11 Htlbm veokha dv qzh vtctytl qzhxh.
+12 Mzi aea ctlbm rhq qzh vtctytl?	qexha	1
+13 Vtmm el qexha.
+14 Mzhxh jeuu itmm rb?	phaxbby	13
+15 Vtmm cbdxmhiha qb qzh phaxbby.
+16 Mzi aea itmm rb qb qzh phaxbby?	qexha	13
+17 Odyeq rxtppha qzh sbbqptuu qzhxh.
+18 Mzi aea ldyeq rhq qzh sbbqptuu?	pbxha	3
+19 Cmqbemh jhmq ptok qb qzh rtxahm.
+20 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	9
+1 Cmqbemh el pbxha.
+2 Mzhxh jeuu tmqbemh rb?	rtxahm	1
+3 Odyeq el qexha.
+4 Mzhxh jeuu ldyeq rb?	phaxbby	3
+5 Odyeq cbdxmhiha qb qzh phaxbby.
+6 Mzi aea ldyeq rb qb qzh phaxbby?	qexha	3
+7 Cmqbemh jhmq qb qzh rtxahm.
+8 Mzi aea tmqbemh rb qb qzh rtxahm?	pbxha	1
+9 Odyeq rbq qzh vtctytl qzhxh.
+10 Mzi aea ldyeq rhq qzh vtctytl?	qexha	3
+11 Vtmm el zdmrxi.
+12 Mzhxh jeuu itmm rb?	keqozhm	11
+13 Cmqbemh rxtppha qzh sbbqptuu qzhxh.
+14 Mzi aea tmqbemh rhq qzh sbbqptuu?	pbxha	1

@@ -1,0 +1,1250 @@
+1 The triangle is above the pink rectangle.
+2 The blue square is to the left of the triangle.
+3 Is the pink rectangle to the right of the blue square?	yes	1 2
+4 Is the blue square below the pink rectangle?	no	2 1
+5 Is the blue square to the right of the pink rectangle?	no	2 1
+6 Is the blue square below the pink rectangle?	no	2 1
+7 Is the blue square below the pink rectangle?	no	2 1
+8 Is the pink rectangle to the left of the blue square?	no	1 2
+9 Is the blue square to the left of the pink rectangle?	yes	2 1
+10 Is the pink rectangle to the right of the blue square?	yes	1 2
+1 The red sphere is to the left of the yellow square.
+2 The red sphere is below the pink rectangle.
+3 Is the pink rectangle to the right of the yellow square?	no	2 1
+4 Is the yellow square to the right of the pink rectangle?	yes	1 2
+5 Is the pink rectangle to the left of the yellow square?	yes	2 1
+6 Is the yellow square below the pink rectangle?	yes	1 2
+7 Is the yellow square above the pink rectangle?	no	1 2
+8 Is the yellow square to the right of the pink rectangle?	yes	1 2
+9 Is the yellow square below the pink rectangle?	yes	1 2
+10 Is the pink rectangle below the yellow square?	no	2 1
+1 The red sphere is above the pink rectangle.
+2 The red sphere is to the right of the red square.
+3 Is the red square above the pink rectangle?	yes	2 1
+4 Is the red square below the pink rectangle?	no	2 1
+5 Is the pink rectangle below the red square?	yes	1 2
+6 Is the pink rectangle above the red square?	no	1 2
+7 Is the pink rectangle to the left of the red square?	no	1 2
+8 Is the pink rectangle to the right of the red square?	yes	1 2
+9 Is the red square below the pink rectangle?	no	2 1
+10 Is the red square below the pink rectangle?	no	2 1
+1 The blue square is to the right of the triangle.
+2 The blue square is to the left of the red square.
+3 Is the red square above the triangle?	no	2 1
+4 Is the red square above the triangle?	no	2 1
+5 Is the triangle to the right of the red square?	no	1 2
+6 Is the triangle above the red square?	no	1 2
+7 Is the red square to the right of the triangle?	yes	2 1
+8 Is the triangle to the left of the red square?	yes	1 2
+9 Is the red square to the right of the triangle?	yes	2 1
+10 Is the red square to the right of the triangle?	yes	2 1
+1 The red sphere is below the yellow square.
+2 The red sphere is above the blue square.
+3 Is the blue square below the yellow square?	yes	2 1
+4 Is the yellow square above the blue square?	yes	1 2
+5 Is the yellow square above the blue square?	yes	1 2
+6 Is the yellow square above the blue square?	yes	1 2
+7 Is the yellow square below the blue square?	no	1 2
+8 Is the blue square to the right of the yellow square?	no	2 1
+9 Is the yellow square to the left of the blue square?	no	1 2
+10 Is the yellow square above the blue square?	yes	1 2
+1 The red square is to the right of the triangle.
+2 The red square is below the blue square.
+3 Is the blue square above the triangle?	yes	2 1
+4 Is the triangle below the blue square?	yes	1 2
+5 Is the triangle to the left of the blue square?	yes	1 2
+6 Is the blue square to the left of the triangle?	no	2 1
+7 Is the blue square above the triangle?	yes	2 1
+8 Is the triangle below the blue square?	yes	1 2
+9 Is the triangle to the right of the blue square?	no	1 2
+10 Is the blue square to the left of the triangle?	no	2 1
+1 The red square is above the pink rectangle.
+2 The red square is to the right of the triangle.
+3 Is the pink rectangle above the triangle?	no	1 2
+4 Is the pink rectangle to the right of the triangle?	yes	1 2
+5 Is the pink rectangle above the triangle?	no	1 2
+6 Is the pink rectangle below the triangle?	yes	1 2
+7 Is the pink rectangle below the triangle?	yes	1 2
+8 Is the triangle to the left of the pink rectangle?	yes	2 1
+9 Is the pink rectangle to the left of the triangle?	no	1 2
+10 Is the pink rectangle to the right of the triangle?	yes	1 2
+1 The red sphere is to the right of the red square.
+2 The red square is above the blue square.
+3 Is the red sphere to the left of the blue square?	no	1 2
+4 Is the red sphere to the left of the blue square?	no	1 2
+5 Is the blue square to the right of the red sphere?	no	2 1
+6 Is the blue square to the left of the red sphere?	yes	2 1
+7 Is the blue square above the red sphere?	no	2 1
+8 Is the blue square below the red sphere?	yes	2 1
+9 Is the red sphere to the left of the blue square?	no	1 2
+10 Is the blue square to the right of the red sphere?	no	2 1
+1 The triangle is below the blue square.
+2 The red sphere is to the right of the triangle.
+3 Is the blue square above the red sphere?	yes	1 2
+4 Is the blue square above the red sphere?	yes	1 2
+5 Is the red sphere below the blue square?	yes	2 1
+6 Is the blue square below the red sphere?	no	1 2
+7 Is the red sphere to the left of the blue square?	no	2 1
+8 Is the blue square to the right of the red sphere?	no	1 2
+9 Is the red sphere above the blue square?	no	2 1
+10 Is the blue square to the right of the red sphere?	no	1 2
+1 The red sphere is below the triangle.
+2 The red sphere is to the left of the pink rectangle.
+3 Is the triangle to the right of the pink rectangle?	no	1 2
+4 Is the pink rectangle above the triangle?	no	2 1
+5 Is the pink rectangle to the left of the triangle?	no	2 1
+6 Is the pink rectangle below the triangle?	yes	2 1
+7 Is the pink rectangle below the triangle?	yes	2 1
+8 Is the triangle below the pink rectangle?	no	1 2
+9 Is the pink rectangle to the left of the triangle?	no	2 1
+10 Is the triangle to the right of the pink rectangle?	no	1 2
+1 The blue square is to the right of the red sphere.
+2 The red sphere is to the right of the triangle.
+3 Is the triangle to the right of the blue square?	no	2 1
+4 Is the triangle below the blue square?	no	2 1
+5 Is the blue square above the triangle?	no	1 2
+6 Is the triangle to the left of the blue square?	yes	2 1
+7 Is the blue square to the right of the triangle?	yes	1 2
+8 Is the triangle below the blue square?	no	2 1
+9 Is the blue square to the right of the triangle?	yes	1 2
+10 Is the blue square to the left of the triangle?	no	1 2
+1 The blue square is below the red square.
+2 The blue square is above the triangle.
+3 Is the triangle above the red square?	no	2 1
+4 Is the triangle below the red square?	yes	2 1
+5 Is the triangle to the left of the red square?	no	2 1
+6 Is the triangle below the red square?	yes	2 1
+7 Is the red square above the triangle?	yes	1 2
+8 Is the red square above the triangle?	yes	1 2
+9 Is the triangle below the red square?	yes	2 1
+10 Is the triangle below the red square?	yes	2 1
+1 The red square is below the blue square.
+2 The blue square is below the pink rectangle.
+3 Is the red square to the left of the pink rectangle?	no	1 2
+4 Is the pink rectangle to the right of the red square?	no	2 1
+5 Is the red square below the pink rectangle?	yes	1 2
+6 Is the red square below the pink rectangle?	yes	1 2
+7 Is the red square to the right of the pink rectangle?	no	1 2
+8 Is the red square to the right of the pink rectangle?	no	1 2
+9 Is the pink rectangle below the red square?	no	2 1
+10 Is the red square above the pink rectangle?	no	1 2
+1 The blue square is below the pink rectangle.
+2 The blue square is above the red square.
+3 Is the red square below the pink rectangle?	yes	2 1
+4 Is the red square above the pink rectangle?	no	2 1
+5 Is the pink rectangle above the red square?	yes	1 2
+6 Is the red square below the pink rectangle?	yes	2 1
+7 Is the pink rectangle above the red square?	yes	1 2
+8 Is the red square above the pink rectangle?	no	2 1
+9 Is the red square above the pink rectangle?	no	2 1
+10 Is the pink rectangle above the red square?	yes	1 2
+1 The red sphere is to the right of the triangle.
+2 The yellow square is to the right of the red sphere.
+3 Is the triangle below the yellow square?	no	1 2
+4 Is the yellow square below the triangle?	no	2 1
+5 Is the triangle to the left of the yellow square?	yes	1 2
+6 Is the yellow square to the left of the triangle?	no	2 1
+7 Is the yellow square to the right of the triangle?	yes	2 1
+8 Is the yellow square to the right of the triangle?	yes	2 1
+9 Is the yellow square to the right of the triangle?	yes	2 1
+10 Is the triangle above the yellow square?	no	1 2
+1 The triangle is to the left of the pink rectangle.
+2 The blue square is below the triangle.
+3 Is the pink rectangle above the blue square?	yes	1 2
+4 Is the blue square to the left of the pink rectangle?	yes	2 1
+5 Is the pink rectangle above the blue square?	yes	1 2
+6 Is the blue square to the left of the pink rectangle?	yes	2 1
+7 Is the blue square to the right of the pink rectangle?	no	2 1
+8 Is the blue square to the left of the pink rectangle?	yes	2 1
+9 Is the blue square above the pink rectangle?	no	2 1
+10 Is the blue square above the pink rectangle?	no	2 1
+1 The triangle is below the red square.
+2 The triangle is to the left of the blue square.
+3 Is the red square to the right of the blue square?	no	1 2
+4 Is the blue square below the red square?	yes	2 1
+5 Is the red square below the blue square?	no	1 2
+6 Is the blue square above the red square?	no	2 1
+7 Is the red square to the right of the blue square?	no	1 2
+8 Is the red square to the right of the blue square?	no	1 2
+9 Is the red square to the left of the blue square?	yes	1 2
+10 Is the red square below the blue square?	no	1 2
+1 The yellow square is to the right of the blue square.
+2 The triangle is above the blue square.
+3 Is the yellow square below the triangle?	yes	1 2
+4 Is the triangle below the yellow square?	no	2 1
+5 Is the triangle below the yellow square?	no	2 1
+6 Is the triangle below the yellow square?	no	2 1
+7 Is the yellow square below the triangle?	yes	1 2
+8 Is the yellow square below the triangle?	yes	1 2
+9 Is the triangle above the yellow square?	yes	2 1
+10 Is the yellow square to the right of the triangle?	yes	1 2
+1 The red sphere is to the right of the blue square.
+2 The blue square is below the yellow square.
+3 Is the red sphere above the yellow square?	no	1 2
+4 Is the red sphere above the yellow square?	no	1 2
+5 Is the yellow square below the red sphere?	no	2 1
+6 Is the yellow square to the left of the red sphere?	yes	2 1
+7 Is the red sphere to the right of the yellow square?	yes	1 2
+8 Is the red sphere below the yellow square?	yes	1 2
+9 Is the red sphere above the yellow square?	no	1 2
+10 Is the red sphere below the yellow square?	yes	1 2
+1 The pink rectangle is above the yellow square.
+2 The pink rectangle is to the left of the red sphere.
+3 Is the red sphere below the yellow square?	no	2 1
+4 Is the red sphere to the right of the yellow square?	yes	2 1
+5 Is the yellow square to the right of the red sphere?	no	1 2
+6 Is the red sphere to the right of the yellow square?	yes	2 1
+7 Is the yellow square to the right of the red sphere?	no	1 2
+8 Is the yellow square below the red sphere?	yes	1 2
+9 Is the red sphere above the yellow square?	yes	2 1
+10 Is the yellow square above the red sphere?	no	1 2
+1 The yellow square is above the red sphere.
+2 The red sphere is to the right of the blue square.
+3 Is the yellow square above the blue square?	yes	1 2
+4 Is the yellow square to the left of the blue square?	no	1 2
+5 Is the blue square below the yellow square?	yes	2 1
+6 Is the yellow square to the right of the blue square?	yes	1 2
+7 Is the blue square below the yellow square?	yes	2 1
+8 Is the blue square to the left of the yellow square?	yes	2 1
+9 Is the blue square to the right of the yellow square?	no	2 1
+10 Is the blue square below the yellow square?	yes	2 1
+1 The yellow square is to the left of the red square.
+2 The yellow square is above the pink rectangle.
+3 Is the red square to the left of the pink rectangle?	no	1 2
+4 Is the pink rectangle to the right of the red square?	no	2 1
+5 Is the pink rectangle above the red square?	no	2 1
+6 Is the pink rectangle to the right of the red square?	no	2 1
+7 Is the pink rectangle to the left of the red square?	yes	2 1
+8 Is the red square to the left of the pink rectangle?	no	1 2
+9 Is the red square below the pink rectangle?	no	1 2
+10 Is the pink rectangle below the red square?	yes	2 1
+1 The pink rectangle is below the blue square.
+2 The triangle is to the right of the pink rectangle.
+3 Is the blue square below the triangle?	no	1 2
+4 Is the blue square below the triangle?	no	1 2
+5 Is the blue square to the right of the triangle?	no	1 2
+6 Is the triangle above the blue square?	no	2 1
+7 Is the triangle to the left of the blue square?	no	2 1
+8 Is the blue square below the triangle?	no	1 2
+9 Is the blue square below the triangle?	no	1 2
+10 Is the triangle to the right of the blue square?	yes	2 1
+1 The triangle is to the right of the yellow square.
+2 The pink rectangle is above the triangle.
+3 Is the yellow square to the left of the pink rectangle?	yes	1 2
+4 Is the pink rectangle above the yellow square?	yes	2 1
+5 Is the pink rectangle to the right of the yellow square?	yes	2 1
+6 Is the yellow square above the pink rectangle?	no	1 2
+7 Is the pink rectangle below the yellow square?	no	2 1
+8 Is the pink rectangle to the left of the yellow square?	no	2 1
+9 Is the yellow square below the pink rectangle?	yes	1 2
+10 Is the yellow square above the pink rectangle?	no	1 2
+1 The yellow square is to the right of the blue square.
+2 The yellow square is to the left of the pink rectangle.
+3 Is the pink rectangle to the right of the blue square?	yes	2 1
+4 Is the pink rectangle below the blue square?	no	2 1
+5 Is the pink rectangle to the right of the blue square?	yes	2 1
+6 Is the blue square below the pink rectangle?	no	1 2
+7 Is the pink rectangle below the blue square?	no	2 1
+8 Is the blue square above the pink rectangle?	no	1 2
+9 Is the pink rectangle to the right of the blue square?	yes	2 1
+10 Is the blue square above the pink rectangle?	no	1 2
+1 The yellow square is below the pink rectangle.
+2 The red sphere is below the yellow square.
+3 Is the red sphere below the pink rectangle?	yes	2 1
+4 Is the pink rectangle below the red sphere?	no	1 2
+5 Is the red sphere above the pink rectangle?	no	2 1
+6 Is the pink rectangle below the red sphere?	no	1 2
+7 Is the pink rectangle above the red sphere?	yes	1 2
+8 Is the pink rectangle above the red sphere?	yes	1 2
+9 Is the pink rectangle below the red sphere?	no	1 2
+10 Is the pink rectangle above the red sphere?	yes	1 2
+1 The pink rectangle is below the blue square.
+2 The blue square is to the right of the triangle.
+3 Is the triangle to the left of the pink rectangle?	yes	2 1
+4 Is the triangle below the pink rectangle?	no	2 1
+5 Is the triangle above the pink rectangle?	yes	2 1
+6 Is the pink rectangle below the triangle?	yes	1 2
+7 Is the pink rectangle to the left of the triangle?	no	1 2
+8 Is the triangle below the pink rectangle?	no	2 1
+9 Is the triangle to the left of the pink rectangle?	yes	2 1
+10 Is the pink rectangle to the right of the triangle?	yes	1 2
+1 The pink rectangle is below the blue square.
+2 The pink rectangle is above the triangle.
+3 Is the blue square to the right of the triangle?	no	1 2
+4 Is the triangle to the left of the blue square?	no	2 1
+5 Is the triangle below the blue square?	yes	2 1
+6 Is the triangle above the blue square?	no	2 1
+7 Is the triangle above the blue square?	no	2 1
+8 Is the triangle above the blue square?	no	2 1
+9 Is the blue square to the right of the triangle?	no	1 2
+10 Is the triangle to the left of the blue square?	no	2 1
+1 The blue square is above the pink rectangle.
+2 The blue square is to the left of the yellow square.
+3 Is the pink rectangle to the right of the yellow square?	no	1 2
+4 Is the yellow square to the left of the pink rectangle?	no	2 1
+5 Is the pink rectangle to the left of the yellow square?	yes	1 2
+6 Is the yellow square below the pink rectangle?	no	2 1
+7 Is the yellow square below the pink rectangle?	no	2 1
+8 Is the pink rectangle below the yellow square?	yes	1 2
+9 Is the yellow square below the pink rectangle?	no	2 1
+10 Is the pink rectangle above the yellow square?	no	1 2
+1 The pink rectangle is to the left of the triangle.
+2 The pink rectangle is to the right of the yellow square.
+3 Is the yellow square to the left of the triangle?	yes	2 1
+4 Is the triangle above the yellow square?	no	1 2
+5 Is the yellow square to the left of the triangle?	yes	2 1
+6 Is the triangle to the right of the yellow square?	yes	1 2
+7 Is the yellow square above the triangle?	no	2 1
+8 Is the triangle above the yellow square?	no	1 2
+9 Is the yellow square to the left of the triangle?	yes	2 1
+10 Is the triangle to the right of the yellow square?	yes	1 2
+1 The pink rectangle is to the left of the blue square.
+2 The blue square is to the left of the triangle.
+3 Is the pink rectangle to the right of the triangle?	no	1 2
+4 Is the triangle to the right of the pink rectangle?	yes	2 1
+5 Is the triangle to the right of the pink rectangle?	yes	2 1
+6 Is the triangle to the right of the pink rectangle?	yes	2 1
+7 Is the triangle to the right of the pink rectangle?	yes	2 1
+8 Is the triangle below the pink rectangle?	no	2 1
+9 Is the triangle below the pink rectangle?	no	2 1
+10 Is the pink rectangle below the triangle?	no	1 2
+1 The pink rectangle is above the red sphere.
+2 The red square is above the pink rectangle.
+3 Is the red square below the red sphere?	no	2 1
+4 Is the red sphere below the red square?	yes	1 2
+5 Is the red sphere above the red square?	no	1 2
+6 Is the red sphere below the red square?	yes	1 2
+7 Is the red square to the left of the red sphere?	no	2 1
+8 Is the red sphere below the red square?	yes	1 2
+9 Is the red sphere to the left of the red square?	no	1 2
+10 Is the red sphere to the left of the red square?	no	1 2
+1 The red sphere is to the right of the yellow square.
+2 The triangle is above the red sphere.
+3 Is the yellow square to the left of the triangle?	yes	1 2
+4 Is the yellow square to the left of the triangle?	yes	1 2
+5 Is the yellow square above the triangle?	no	1 2
+6 Is the yellow square to the left of the triangle?	yes	1 2
+7 Is the triangle to the left of the yellow square?	no	2 1
+8 Is the triangle to the left of the yellow square?	no	2 1
+9 Is the yellow square above the triangle?	no	1 2
+10 Is the triangle to the right of the yellow square?	yes	2 1
+1 The red sphere is to the left of the blue square.
+2 The yellow square is below the blue square.
+3 Is the red sphere below the yellow square?	no	1 2
+4 Is the yellow square below the red sphere?	yes	2 1
+5 Is the red sphere to the right of the yellow square?	no	1 2
+6 Is the red sphere above the yellow square?	yes	1 2
+7 Is the yellow square to the left of the red sphere?	no	2 1
+8 Is the yellow square to the right of the red sphere?	yes	2 1
+9 Is the red sphere above the yellow square?	yes	1 2
+10 Is the red sphere to the left of the yellow square?	yes	1 2
+1 The yellow square is to the right of the pink rectangle.
+2 The yellow square is below the triangle.
+3 Is the pink rectangle below the triangle?	yes	1 2
+4 Is the triangle to the right of the pink rectangle?	yes	2 1
+5 Is the triangle above the pink rectangle?	yes	2 1
+6 Is the triangle to the right of the pink rectangle?	yes	2 1
+7 Is the pink rectangle to the left of the triangle?	yes	1 2
+8 Is the triangle to the right of the pink rectangle?	yes	2 1
+9 Is the triangle to the left of the pink rectangle?	no	2 1
+10 Is the triangle to the left of the pink rectangle?	no	2 1
+1 The triangle is to the right of the pink rectangle.
+2 The pink rectangle is above the red sphere.
+3 Is the red sphere below the triangle?	yes	2 1
+4 Is the red sphere above the triangle?	no	2 1
+5 Is the red sphere above the triangle?	no	2 1
+6 Is the triangle above the red sphere?	yes	1 2
+7 Is the red sphere to the left of the triangle?	yes	2 1
+8 Is the red sphere to the right of the triangle?	no	2 1
+9 Is the red sphere to the right of the triangle?	no	2 1
+10 Is the triangle above the red sphere?	yes	1 2
+1 The red square is to the right of the triangle.
+2 The yellow square is below the red square.
+3 Is the yellow square to the left of the triangle?	no	2 1
+4 Is the yellow square to the right of the triangle?	yes	2 1
+5 Is the yellow square to the right of the triangle?	yes	2 1
+6 Is the yellow square to the left of the triangle?	no	2 1
+7 Is the triangle to the right of the yellow square?	no	1 2
+8 Is the triangle below the yellow square?	no	1 2
+9 Is the triangle to the right of the yellow square?	no	1 2
+10 Is the yellow square above the triangle?	no	2 1
+1 The triangle is above the red sphere.
+2 The pink rectangle is to the left of the red sphere.
+3 Is the triangle to the left of the pink rectangle?	no	1 2
+4 Is the pink rectangle below the triangle?	yes	2 1
+5 Is the triangle above the pink rectangle?	yes	1 2
+6 Is the pink rectangle to the left of the triangle?	yes	2 1
+7 Is the pink rectangle above the triangle?	no	2 1
+8 Is the pink rectangle above the triangle?	no	2 1
+9 Is the triangle above the pink rectangle?	yes	1 2
+10 Is the pink rectangle to the right of the triangle?	no	2 1
+1 The yellow square is above the blue square.
+2 The blue square is above the red sphere.
+3 Is the yellow square above the red sphere?	yes	1 2
+4 Is the red sphere below the yellow square?	yes	2 1
+5 Is the red sphere below the yellow square?	yes	2 1
+6 Is the yellow square above the red sphere?	yes	1 2
+7 Is the red sphere above the yellow square?	no	2 1
+8 Is the red sphere below the yellow square?	yes	2 1
+9 Is the red sphere to the right of the yellow square?	no	2 1
+10 Is the red sphere below the yellow square?	yes	2 1
+1 The blue square is above the red square.
+2 The pink rectangle is to the left of the red square.
+3 Is the pink rectangle to the right of the blue square?	no	2 1
+4 Is the blue square below the pink rectangle?	no	1 2
+5 Is the pink rectangle to the left of the blue square?	yes	2 1
+6 Is the blue square to the right of the pink rectangle?	yes	1 2
+7 Is the blue square to the left of the pink rectangle?	no	1 2
+8 Is the blue square to the left of the pink rectangle?	no	1 2
+9 Is the blue square below the pink rectangle?	no	1 2
+10 Is the pink rectangle below the blue square?	yes	2 1
+1 The red sphere is below the pink rectangle.
+2 The red sphere is to the left of the red square.
+3 Is the red square to the left of the pink rectangle?	no	2 1
+4 Is the pink rectangle above the red square?	yes	1 2
+5 Is the pink rectangle to the left of the red square?	yes	1 2
+6 Is the red square below the pink rectangle?	yes	2 1
+7 Is the pink rectangle to the left of the red square?	yes	1 2
+8 Is the red square to the right of the pink rectangle?	yes	2 1
+9 Is the pink rectangle above the red square?	yes	1 2
+10 Is the red square above the pink rectangle?	no	2 1
+1 The pink rectangle is to the right of the blue square.
+2 The red sphere is below the pink rectangle.
+3 Is the red sphere below the blue square?	yes	2 1
+4 Is the blue square to the right of the red sphere?	no	1 2
+5 Is the blue square below the red sphere?	no	1 2
+6 Is the red sphere above the blue square?	no	2 1
+7 Is the blue square below the red sphere?	no	1 2
+8 Is the blue square to the right of the red sphere?	no	1 2
+9 Is the red sphere to the left of the blue square?	no	2 1
+10 Is the blue square above the red sphere?	yes	1 2
+1 The red sphere is above the pink rectangle.
+2 The red sphere is to the right of the blue square.
+3 Is the pink rectangle to the left of the blue square?	no	1 2
+4 Is the pink rectangle below the blue square?	yes	1 2
+5 Is the blue square above the pink rectangle?	yes	2 1
+6 Is the blue square to the left of the pink rectangle?	yes	2 1
+7 Is the pink rectangle to the right of the blue square?	yes	1 2
+8 Is the pink rectangle below the blue square?	yes	1 2
+9 Is the blue square above the pink rectangle?	yes	2 1
+10 Is the blue square above the pink rectangle?	yes	2 1
+1 The red square is above the red sphere.
+2 The red square is to the left of the yellow square.
+3 Is the red sphere to the left of the yellow square?	yes	1 2
+4 Is the red sphere below the yellow square?	yes	1 2
+5 Is the red sphere below the yellow square?	yes	1 2
+6 Is the red sphere above the yellow square?	no	1 2
+7 Is the red sphere below the yellow square?	yes	1 2
+8 Is the yellow square above the red sphere?	yes	2 1
+9 Is the yellow square above the red sphere?	yes	2 1
+10 Is the red sphere to the left of the yellow square?	yes	1 2
+1 The red sphere is to the right of the blue square.
+2 The yellow square is to the right of the red sphere.
+3 Is the yellow square to the left of the blue square?	no	2 1
+4 Is the blue square to the left of the yellow square?	yes	1 2
+5 Is the blue square to the left of the yellow square?	yes	1 2
+6 Is the yellow square below the blue square?	no	2 1
+7 Is the blue square to the left of the yellow square?	yes	1 2
+8 Is the blue square above the yellow square?	no	1 2
+9 Is the yellow square to the right of the blue square?	yes	2 1
+10 Is the blue square to the left of the yellow square?	yes	1 2
+1 The yellow square is to the left of the blue square.
+2 The yellow square is below the red sphere.
+3 Is the red sphere to the left of the blue square?	yes	2 1
+4 Is the red sphere to the right of the blue square?	no	2 1
+5 Is the red sphere to the right of the blue square?	no	2 1
+6 Is the blue square below the red sphere?	yes	1 2
+7 Is the red sphere above the blue square?	yes	2 1
+8 Is the blue square to the right of the red sphere?	yes	1 2
+9 Is the blue square above the red sphere?	no	1 2
+10 Is the blue square to the right of the red sphere?	yes	1 2
+1 The pink rectangle is to the right of the yellow square.
+2 The yellow square is above the blue square.
+3 Is the blue square to the left of the pink rectangle?	yes	2 1
+4 Is the pink rectangle above the blue square?	yes	1 2
+5 Is the blue square below the pink rectangle?	yes	2 1
+6 Is the pink rectangle above the blue square?	yes	1 2
+7 Is the blue square below the pink rectangle?	yes	2 1
+8 Is the pink rectangle to the left of the blue square?	no	1 2
+9 Is the blue square below the pink rectangle?	yes	2 1
+10 Is the blue square below the pink rectangle?	yes	2 1
+1 The triangle is to the left of the pink rectangle.
+2 The blue square is to the left of the triangle.
+3 Is the pink rectangle to the right of the blue square?	yes	1 2
+4 Is the pink rectangle to the right of the blue square?	yes	1 2
+5 Is the pink rectangle to the right of the blue square?	yes	1 2
+6 Is the blue square to the left of the pink rectangle?	yes	2 1
+7 Is the pink rectangle to the left of the blue square?	no	1 2
+8 Is the blue square to the left of the pink rectangle?	yes	2 1
+9 Is the blue square below the pink rectangle?	no	2 1
+10 Is the pink rectangle to the right of the blue square?	yes	1 2
+1 The red square is to the right of the pink rectangle.
+2 The triangle is above the pink rectangle.
+3 Is the triangle above the red square?	yes	2 1
+4 Is the triangle below the red square?	no	2 1
+5 Is the triangle to the right of the red square?	no	2 1
+6 Is the red square above the triangle?	no	1 2
+7 Is the triangle above the red square?	yes	2 1
+8 Is the triangle above the red square?	yes	2 1
+9 Is the triangle above the red square?	yes	2 1
+10 Is the red square above the triangle?	no	1 2
+1 The red sphere is to the right of the blue square.
+2 The triangle is above the red sphere.
+3 Is the blue square above the triangle?	no	1 2
+4 Is the blue square to the left of the triangle?	yes	1 2
+5 Is the triangle to the left of the blue square?	no	2 1
+6 Is the blue square below the triangle?	yes	1 2
+7 Is the blue square above the triangle?	no	1 2
+8 Is the blue square to the right of the triangle?	no	1 2
+9 Is the triangle above the blue square?	yes	2 1
+10 Is the triangle above the blue square?	yes	2 1
+1 The red square is above the pink rectangle.
+2 The pink rectangle is to the right of the yellow square.
+3 Is the yellow square to the left of the red square?	yes	2 1
+4 Is the red square below the yellow square?	no	1 2
+5 Is the red square to the right of the yellow square?	yes	1 2
+6 Is the yellow square to the left of the red square?	yes	2 1
+7 Is the yellow square to the left of the red square?	yes	2 1
+8 Is the yellow square below the red square?	yes	2 1
+9 Is the red square to the right of the yellow square?	yes	1 2
+10 Is the yellow square below the red square?	yes	2 1
+1 The red square is below the red sphere.
+2 The red square is to the left of the blue square.
+3 Is the red sphere to the right of the blue square?	no	1 2
+4 Is the red sphere to the left of the blue square?	yes	1 2
+5 Is the red sphere below the blue square?	no	1 2
+6 Is the blue square to the left of the red sphere?	no	2 1
+7 Is the blue square to the left of the red sphere?	no	2 1
+8 Is the blue square below the red sphere?	yes	2 1
+9 Is the blue square below the red sphere?	yes	2 1
+10 Is the red sphere to the left of the blue square?	yes	1 2
+1 The blue square is to the left of the pink rectangle.
+2 The blue square is to the right of the red square.
+3 Is the red square to the left of the pink rectangle?	yes	2 1
+4 Is the red square below the pink rectangle?	no	2 1
+5 Is the red square below the pink rectangle?	no	2 1
+6 Is the red square below the pink rectangle?	no	2 1
+7 Is the red square to the left of the pink rectangle?	yes	2 1
+8 Is the pink rectangle to the right of the red square?	yes	1 2
+9 Is the pink rectangle below the red square?	no	1 2
+10 Is the pink rectangle to the left of the red square?	no	1 2
+1 The red sphere is below the triangle.
+2 The red sphere is above the blue square.
+3 Is the blue square below the triangle?	yes	2 1
+4 Is the blue square below the triangle?	yes	2 1
+5 Is the triangle above the blue square?	yes	1 2
+6 Is the blue square to the right of the triangle?	no	2 1
+7 Is the blue square to the right of the triangle?	no	2 1
+8 Is the blue square below the triangle?	yes	2 1
+9 Is the blue square to the left of the triangle?	no	2 1
+10 Is the blue square below the triangle?	yes	2 1
+1 The red square is above the yellow square.
+2 The red square is below the blue square.
+3 Is the yellow square below the blue square?	yes	1 2
+4 Is the blue square above the yellow square?	yes	2 1
+5 Is the blue square above the yellow square?	yes	2 1
+6 Is the yellow square to the right of the blue square?	no	1 2
+7 Is the blue square above the yellow square?	yes	2 1
+8 Is the blue square above the yellow square?	yes	2 1
+9 Is the blue square to the right of the yellow square?	no	2 1
+10 Is the yellow square below the blue square?	yes	1 2
+1 The yellow square is above the triangle.
+2 The yellow square is to the left of the pink rectangle.
+3 Is the triangle above the pink rectangle?	no	1 2
+4 Is the triangle below the pink rectangle?	yes	1 2
+5 Is the pink rectangle to the right of the triangle?	yes	2 1
+6 Is the triangle above the pink rectangle?	no	1 2
+7 Is the pink rectangle to the left of the triangle?	no	2 1
+8 Is the triangle to the right of the pink rectangle?	no	1 2
+9 Is the triangle to the left of the pink rectangle?	yes	1 2
+10 Is the triangle to the left of the pink rectangle?	yes	1 2
+1 The pink rectangle is below the yellow square.
+2 The triangle is to the right of the yellow square.
+3 Is the pink rectangle below the triangle?	yes	1 2
+4 Is the triangle above the pink rectangle?	yes	2 1
+5 Is the triangle to the right of the pink rectangle?	yes	2 1
+6 Is the pink rectangle above the triangle?	no	1 2
+7 Is the triangle to the left of the pink rectangle?	no	2 1
+8 Is the pink rectangle above the triangle?	no	1 2
+9 Is the pink rectangle below the triangle?	yes	1 2
+10 Is the triangle above the pink rectangle?	yes	2 1
+1 The triangle is to the left of the red sphere.
+2 The yellow square is to the left of the triangle.
+3 Is the red sphere to the right of the yellow square?	yes	1 2
+4 Is the yellow square above the red sphere?	no	2 1
+5 Is the yellow square below the red sphere?	no	2 1
+6 Is the yellow square to the left of the red sphere?	yes	2 1
+7 Is the yellow square to the left of the red sphere?	yes	2 1
+8 Is the red sphere to the right of the yellow square?	yes	1 2
+9 Is the yellow square to the left of the red sphere?	yes	2 1
+10 Is the red sphere above the yellow square?	no	1 2
+1 The red square is below the blue square.
+2 The blue square is to the right of the red sphere.
+3 Is the red sphere above the red square?	yes	2 1
+4 Is the red square above the red sphere?	no	1 2
+5 Is the red sphere above the red square?	yes	2 1
+6 Is the red sphere to the right of the red square?	no	2 1
+7 Is the red square above the red sphere?	no	1 2
+8 Is the red square above the red sphere?	no	1 2
+9 Is the red square to the right of the red sphere?	yes	1 2
+10 Is the red sphere below the red square?	no	2 1
+1 The blue square is to the right of the triangle.
+2 The blue square is above the red sphere.
+3 Is the red sphere below the triangle?	yes	2 1
+4 Is the triangle to the right of the red sphere?	no	1 2
+5 Is the triangle to the right of the red sphere?	no	1 2
+6 Is the red sphere to the right of the triangle?	yes	2 1
+7 Is the triangle to the left of the red sphere?	yes	1 2
+8 Is the triangle below the red sphere?	no	1 2
+9 Is the red sphere below the triangle?	yes	2 1
+10 Is the red sphere to the right of the triangle?	yes	2 1
+1 The yellow square is above the pink rectangle.
+2 The red square is to the right of the yellow square.
+3 Is the red square above the pink rectangle?	yes	2 1
+4 Is the red square above the pink rectangle?	yes	2 1
+5 Is the pink rectangle to the right of the red square?	no	1 2
+6 Is the red square below the pink rectangle?	no	2 1
+7 Is the pink rectangle above the red square?	no	1 2
+8 Is the pink rectangle to the left of the red square?	yes	1 2
+9 Is the pink rectangle above the red square?	no	1 2
+10 Is the pink rectangle below the red square?	yes	1 2
+1 The triangle is above the red square.
+2 The pink rectangle is above the triangle.
+3 Is the red square above the pink rectangle?	no	1 2
+4 Is the red square above the pink rectangle?	no	1 2
+5 Is the pink rectangle above the red square?	yes	2 1
+6 Is the pink rectangle above the red square?	yes	2 1
+7 Is the red square below the pink rectangle?	yes	1 2
+8 Is the pink rectangle above the red square?	yes	2 1
+9 Is the pink rectangle above the red square?	yes	2 1
+10 Is the red square above the pink rectangle?	no	1 2
+1 The triangle is above the yellow square.
+2 The blue square is to the left of the triangle.
+3 Is the blue square below the yellow square?	no	2 1
+4 Is the blue square below the yellow square?	no	2 1
+5 Is the yellow square above the blue square?	no	1 2
+6 Is the blue square to the left of the yellow square?	yes	2 1
+7 Is the blue square to the left of the yellow square?	yes	2 1
+8 Is the blue square to the left of the yellow square?	yes	2 1
+9 Is the blue square to the left of the yellow square?	yes	2 1
+10 Is the blue square above the yellow square?	yes	2 1
+1 The red square is below the yellow square.
+2 The blue square is to the right of the red square.
+3 Is the yellow square below the blue square?	no	1 2
+4 Is the blue square above the yellow square?	no	2 1
+5 Is the blue square to the right of the yellow square?	yes	2 1
+6 Is the yellow square above the blue square?	yes	1 2
+7 Is the blue square to the right of the yellow square?	yes	2 1
+8 Is the blue square above the yellow square?	no	2 1
+9 Is the yellow square to the left of the blue square?	yes	1 2
+10 Is the yellow square above the blue square?	yes	1 2
+1 The yellow square is above the blue square.
+2 The blue square is above the red square.
+3 Is the red square to the right of the yellow square?	no	2 1
+4 Is the red square to the left of the yellow square?	no	2 1
+5 Is the yellow square below the red square?	no	1 2
+6 Is the yellow square to the left of the red square?	no	1 2
+7 Is the yellow square above the red square?	yes	1 2
+8 Is the red square below the yellow square?	yes	2 1
+9 Is the yellow square above the red square?	yes	1 2
+10 Is the yellow square to the right of the red square?	no	1 2
+1 The red sphere is to the right of the red square.
+2 The pink rectangle is below the red square.
+3 Is the pink rectangle below the red sphere?	yes	2 1
+4 Is the pink rectangle to the right of the red sphere?	no	2 1
+5 Is the pink rectangle to the left of the red sphere?	yes	2 1
+6 Is the red sphere to the left of the pink rectangle?	no	1 2
+7 Is the pink rectangle to the left of the red sphere?	yes	2 1
+8 Is the red sphere above the pink rectangle?	yes	1 2
+9 Is the red sphere to the left of the pink rectangle?	no	1 2
+10 Is the red sphere above the pink rectangle?	yes	1 2
+1 The yellow square is above the red sphere.
+2 The yellow square is to the right of the pink rectangle.
+3 Is the red sphere to the right of the pink rectangle?	yes	1 2
+4 Is the pink rectangle to the right of the red sphere?	no	2 1
+5 Is the pink rectangle to the left of the red sphere?	yes	2 1
+6 Is the red sphere to the left of the pink rectangle?	no	1 2
+7 Is the pink rectangle to the right of the red sphere?	no	2 1
+8 Is the pink rectangle to the right of the red sphere?	no	2 1
+9 Is the pink rectangle below the red sphere?	no	2 1
+10 Is the pink rectangle to the right of the red sphere?	no	2 1
+1 The red square is to the left of the red sphere.
+2 The red square is above the pink rectangle.
+3 Is the red sphere to the right of the pink rectangle?	yes	1 2
+4 Is the red sphere below the pink rectangle?	no	1 2
+5 Is the red sphere to the right of the pink rectangle?	yes	1 2
+6 Is the pink rectangle to the left of the red sphere?	yes	2 1
+7 Is the red sphere below the pink rectangle?	no	1 2
+8 Is the pink rectangle to the left of the red sphere?	yes	2 1
+9 Is the pink rectangle to the left of the red sphere?	yes	2 1
+10 Is the red sphere above the pink rectangle?	yes	1 2
+1 The triangle is above the yellow square.
+2 The red sphere is above the triangle.
+3 Is the yellow square below the red sphere?	yes	1 2
+4 Is the yellow square to the right of the red sphere?	no	1 2
+5 Is the yellow square below the red sphere?	yes	1 2
+6 Is the yellow square to the right of the red sphere?	no	1 2
+7 Is the yellow square below the red sphere?	yes	1 2
+8 Is the yellow square below the red sphere?	yes	1 2
+9 Is the red sphere below the yellow square?	no	2 1
+10 Is the yellow square to the right of the red sphere?	no	1 2
+1 The yellow square is to the left of the pink rectangle.
+2 The red square is below the yellow square.
+3 Is the red square to the right of the pink rectangle?	no	2 1
+4 Is the red square below the pink rectangle?	yes	2 1
+5 Is the red square below the pink rectangle?	yes	2 1
+6 Is the red square to the right of the pink rectangle?	no	2 1
+7 Is the red square to the left of the pink rectangle?	yes	2 1
+8 Is the red square below the pink rectangle?	yes	2 1
+9 Is the red square below the pink rectangle?	yes	2 1
+10 Is the pink rectangle below the red square?	no	1 2
+1 The yellow square is below the triangle.
+2 The yellow square is above the blue square.
+3 Is the blue square below the triangle?	yes	2 1
+4 Is the blue square above the triangle?	no	2 1
+5 Is the triangle below the blue square?	no	1 2
+6 Is the triangle above the blue square?	yes	1 2
+7 Is the triangle above the blue square?	yes	1 2
+8 Is the triangle to the right of the blue square?	no	1 2
+9 Is the blue square below the triangle?	yes	2 1
+10 Is the triangle above the blue square?	yes	1 2
+1 The yellow square is below the red square.
+2 The triangle is above the red square.
+3 Is the triangle to the right of the yellow square?	no	2 1
+4 Is the yellow square below the triangle?	yes	1 2
+5 Is the triangle above the yellow square?	yes	2 1
+6 Is the triangle above the yellow square?	yes	2 1
+7 Is the triangle above the yellow square?	yes	2 1
+8 Is the triangle to the left of the yellow square?	no	2 1
+9 Is the triangle to the left of the yellow square?	no	2 1
+10 Is the yellow square below the triangle?	yes	1 2
+1 The yellow square is below the pink rectangle.
+2 The yellow square is above the blue square.
+3 Is the pink rectangle below the blue square?	no	1 2
+4 Is the pink rectangle below the blue square?	no	1 2
+5 Is the pink rectangle above the blue square?	yes	1 2
+6 Is the blue square above the pink rectangle?	no	2 1
+7 Is the blue square below the pink rectangle?	yes	2 1
+8 Is the blue square below the pink rectangle?	yes	2 1
+9 Is the pink rectangle below the blue square?	no	1 2
+10 Is the pink rectangle to the left of the blue square?	no	1 2
+1 The triangle is above the yellow square.
+2 The pink rectangle is to the right of the triangle.
+3 Is the yellow square below the pink rectangle?	yes	1 2
+4 Is the pink rectangle above the yellow square?	yes	2 1
+5 Is the yellow square to the left of the pink rectangle?	yes	1 2
+6 Is the yellow square below the pink rectangle?	yes	1 2
+7 Is the yellow square above the pink rectangle?	no	1 2
+8 Is the pink rectangle below the yellow square?	no	2 1
+9 Is the yellow square above the pink rectangle?	no	1 2
+10 Is the pink rectangle above the yellow square?	yes	2 1
+1 The red sphere is below the red square.
+2 The pink rectangle is to the right of the red sphere.
+3 Is the red square above the pink rectangle?	yes	1 2
+4 Is the red square to the right of the pink rectangle?	no	1 2
+5 Is the red square to the left of the pink rectangle?	yes	1 2
+6 Is the red square above the pink rectangle?	yes	1 2
+7 Is the red square to the right of the pink rectangle?	no	1 2
+8 Is the pink rectangle to the left of the red square?	no	2 1
+9 Is the red square below the pink rectangle?	no	1 2
+10 Is the pink rectangle above the red square?	no	2 1
+1 The red square is below the red sphere.
+2 The red square is to the left of the pink rectangle.
+3 Is the red sphere to the right of the pink rectangle?	no	1 2
+4 Is the pink rectangle above the red sphere?	no	2 1
+5 Is the red sphere below the pink rectangle?	no	1 2
+6 Is the red sphere above the pink rectangle?	yes	1 2
+7 Is the pink rectangle above the red sphere?	no	2 1
+8 Is the pink rectangle to the left of the red sphere?	no	2 1
+9 Is the pink rectangle below the red sphere?	yes	2 1
+10 Is the pink rectangle below the red sphere?	yes	2 1
+1 The red square is to the right of the blue square.
+2 The yellow square is to the right of the red square.
+3 Is the blue square to the left of the yellow square?	yes	1 2
+4 Is the yellow square to the right of the blue square?	yes	2 1
+5 Is the blue square below the yellow square?	no	1 2
+6 Is the yellow square to the right of the blue square?	yes	2 1
+7 Is the blue square to the left of the yellow square?	yes	1 2
+8 Is the yellow square above the blue square?	no	2 1
+9 Is the blue square above the yellow square?	no	1 2
+10 Is the blue square to the left of the yellow square?	yes	1 2
+1 The pink rectangle is to the right of the yellow square.
+2 The yellow square is below the red sphere.
+3 Is the pink rectangle above the red sphere?	no	1 2
+4 Is the pink rectangle to the left of the red sphere?	no	1 2
+5 Is the red sphere to the left of the pink rectangle?	yes	2 1
+6 Is the pink rectangle to the right of the red sphere?	yes	1 2
+7 Is the pink rectangle to the right of the red sphere?	yes	1 2
+8 Is the pink rectangle to the left of the red sphere?	no	1 2
+9 Is the red sphere to the right of the pink rectangle?	no	2 1
+10 Is the red sphere to the left of the pink rectangle?	yes	2 1
+1 The blue square is above the red square.
+2 The blue square is below the pink rectangle.
+3 Is the pink rectangle above the red square?	yes	2 1
+4 Is the red square below the pink rectangle?	yes	1 2
+5 Is the red square above the pink rectangle?	no	1 2
+6 Is the red square to the left of the pink rectangle?	no	1 2
+7 Is the pink rectangle above the red square?	yes	2 1
+8 Is the red square below the pink rectangle?	yes	1 2
+9 Is the pink rectangle above the red square?	yes	2 1
+10 Is the red square to the right of the pink rectangle?	no	1 2
+1 The red sphere is below the red square.
+2 The red sphere is to the right of the triangle.
+3 Is the triangle to the right of the red square?	no	2 1
+4 Is the triangle to the left of the red square?	yes	2 1
+5 Is the triangle to the left of the red square?	yes	2 1
+6 Is the red square above the triangle?	yes	1 2
+7 Is the triangle to the right of the red square?	no	2 1
+8 Is the triangle to the left of the red square?	yes	2 1
+9 Is the red square to the right of the triangle?	yes	1 2
+10 Is the red square below the triangle?	no	1 2
+1 The red sphere is to the left of the red square.
+2 The red square is below the blue square.
+3 Is the red sphere to the left of the blue square?	yes	1 2
+4 Is the red sphere to the left of the blue square?	yes	1 2
+5 Is the blue square above the red sphere?	yes	2 1
+6 Is the red sphere to the right of the blue square?	no	1 2
+7 Is the blue square to the right of the red sphere?	yes	2 1
+8 Is the blue square to the left of the red sphere?	no	2 1
+9 Is the red sphere to the left of the blue square?	yes	1 2
+10 Is the blue square to the left of the red sphere?	no	2 1
+1 The blue square is to the right of the yellow square.
+2 The blue square is to the left of the red square.
+3 Is the yellow square to the left of the red square?	yes	1 2
+4 Is the red square above the yellow square?	no	2 1
+5 Is the yellow square above the red square?	no	1 2
+6 Is the yellow square to the left of the red square?	yes	1 2
+7 Is the red square to the right of the yellow square?	yes	2 1
+8 Is the red square to the right of the yellow square?	yes	2 1
+9 Is the yellow square to the left of the red square?	yes	1 2
+10 Is the yellow square below the red square?	no	1 2
+1 The pink rectangle is above the blue square.
+2 The yellow square is above the pink rectangle.
+3 Is the yellow square to the left of the blue square?	no	2 1
+4 Is the blue square below the yellow square?	yes	1 2
+5 Is the blue square to the right of the yellow square?	no	1 2
+6 Is the yellow square to the right of the blue square?	no	2 1
+7 Is the blue square above the yellow square?	no	1 2
+8 Is the blue square to the left of the yellow square?	no	1 2
+9 Is the yellow square below the blue square?	no	2 1
+10 Is the blue square above the yellow square?	no	1 2
+1 The pink rectangle is below the yellow square.
+2 The pink rectangle is to the left of the red sphere.
+3 Is the red sphere to the right of the yellow square?	yes	2 1
+4 Is the yellow square above the red sphere?	yes	1 2
+5 Is the yellow square below the red sphere?	no	1 2
+6 Is the red sphere to the right of the yellow square?	yes	2 1
+7 Is the yellow square above the red sphere?	yes	1 2
+8 Is the yellow square below the red sphere?	no	1 2
+9 Is the red sphere above the yellow square?	no	2 1
+10 Is the red sphere above the yellow square?	no	2 1
+1 The triangle is above the red sphere.
+2 The triangle is to the left of the yellow square.
+3 Is the yellow square to the right of the red sphere?	yes	2 1
+4 Is the red sphere below the yellow square?	yes	1 2
+5 Is the yellow square below the red sphere?	no	2 1
+6 Is the red sphere below the yellow square?	yes	1 2
+7 Is the yellow square above the red sphere?	yes	2 1
+8 Is the red sphere below the yellow square?	yes	1 2
+9 Is the red sphere to the left of the yellow square?	yes	1 2
+10 Is the yellow square below the red sphere?	no	2 1
+1 The pink rectangle is to the right of the triangle.
+2 The triangle is above the blue square.
+3 Is the blue square to the right of the pink rectangle?	no	2 1
+4 Is the blue square above the pink rectangle?	no	2 1
+5 Is the blue square to the right of the pink rectangle?	no	2 1
+6 Is the blue square to the right of the pink rectangle?	no	2 1
+7 Is the pink rectangle above the blue square?	yes	1 2
+8 Is the pink rectangle to the right of the blue square?	yes	1 2
+9 Is the blue square above the pink rectangle?	no	2 1
+10 Is the pink rectangle above the blue square?	yes	1 2
+1 The blue square is above the red sphere.
+2 The red sphere is to the right of the red square.
+3 Is the red square below the blue square?	yes	2 1
+4 Is the red square below the blue square?	yes	2 1
+5 Is the red square to the right of the blue square?	no	2 1
+6 Is the red square above the blue square?	no	2 1
+7 Is the blue square below the red square?	no	1 2
+8 Is the blue square to the left of the red square?	no	1 2
+9 Is the red square below the blue square?	yes	2 1
+10 Is the blue square to the left of the red square?	no	1 2
+1 The triangle is to the left of the red square.
+2 The red sphere is below the triangle.
+3 Is the red sphere below the red square?	yes	2 1
+4 Is the red sphere below the red square?	yes	2 1
+5 Is the red sphere to the right of the red square?	no	2 1
+6 Is the red square to the left of the red sphere?	no	1 2
+7 Is the red square to the right of the red sphere?	yes	1 2
+8 Is the red sphere below the red square?	yes	2 1
+9 Is the red square to the left of the red sphere?	no	1 2
+10 Is the red sphere above the red square?	no	2 1
+1 The pink rectangle is below the red square.
+2 The red sphere is below the pink rectangle.
+3 Is the red square above the red sphere?	yes	1 2
+4 Is the red sphere below the red square?	yes	2 1
+5 Is the red square above the red sphere?	yes	1 2
+6 Is the red square below the red sphere?	no	1 2
+7 Is the red square above the red sphere?	yes	1 2
+8 Is the red square below the red sphere?	no	1 2
+9 Is the red square to the left of the red sphere?	no	1 2
+10 Is the red square above the red sphere?	yes	1 2
+1 The triangle is to the right of the pink rectangle.
+2 The pink rectangle is above the red square.
+3 Is the red square above the triangle?	no	2 1
+4 Is the red square above the triangle?	no	2 1
+5 Is the red square to the left of the triangle?	yes	2 1
+6 Is the triangle below the red square?	no	1 2
+7 Is the red square to the right of the triangle?	no	2 1
+8 Is the triangle above the red square?	yes	1 2
+9 Is the red square to the left of the triangle?	yes	2 1
+10 Is the red square to the left of the triangle?	yes	2 1
+1 The pink rectangle is to the left of the blue square.
+2 The pink rectangle is to the right of the yellow square.
+3 Is the yellow square below the blue square?	no	2 1
+4 Is the blue square to the left of the yellow square?	no	1 2
+5 Is the blue square to the right of the yellow square?	yes	1 2
+6 Is the yellow square to the left of the blue square?	yes	2 1
+7 Is the yellow square to the left of the blue square?	yes	2 1
+8 Is the yellow square to the right of the blue square?	no	2 1
+9 Is the yellow square to the left of the blue square?	yes	2 1
+10 Is the yellow square to the left of the blue square?	yes	2 1
+1 The blue square is to the right of the yellow square.
+2 The pink rectangle is above the blue square.
+3 Is the pink rectangle above the yellow square?	yes	2 1
+4 Is the yellow square above the pink rectangle?	no	1 2
+5 Is the pink rectangle to the left of the yellow square?	no	2 1
+6 Is the yellow square to the left of the pink rectangle?	yes	1 2
+7 Is the pink rectangle below the yellow square?	no	2 1
+8 Is the yellow square to the right of the pink rectangle?	no	1 2
+9 Is the pink rectangle below the yellow square?	no	2 1
+10 Is the pink rectangle to the left of the yellow square?	no	2 1
+1 The red sphere is to the right of the triangle.
+2 The pink rectangle is to the right of the red sphere.
+3 Is the triangle to the left of the pink rectangle?	yes	1 2
+4 Is the pink rectangle to the right of the triangle?	yes	2 1
+5 Is the triangle below the pink rectangle?	no	1 2
+6 Is the pink rectangle to the left of the triangle?	no	2 1
+7 Is the pink rectangle to the right of the triangle?	yes	2 1
+8 Is the pink rectangle above the triangle?	no	2 1
+9 Is the pink rectangle to the left of the triangle?	no	2 1
+10 Is the triangle to the right of the pink rectangle?	no	1 2
+1 The triangle is above the red sphere.
+2 The triangle is to the left of the red square.
+3 Is the red square to the right of the red sphere?	yes	2 1
+4 Is the red square above the red sphere?	yes	2 1
+5 Is the red square above the red sphere?	yes	2 1
+6 Is the red square to the right of the red sphere?	yes	2 1
+7 Is the red square above the red sphere?	yes	2 1
+8 Is the red square to the left of the red sphere?	no	2 1
+9 Is the red square to the left of the red sphere?	no	2 1
+10 Is the red sphere to the right of the red square?	no	1 2
+1 The triangle is below the yellow square.
+2 The yellow square is below the pink rectangle.
+3 Is the triangle below the pink rectangle?	yes	1 2
+4 Is the pink rectangle above the triangle?	yes	2 1
+5 Is the pink rectangle above the triangle?	yes	2 1
+6 Is the triangle above the pink rectangle?	no	1 2
+7 Is the pink rectangle to the left of the triangle?	no	2 1
+8 Is the triangle above the pink rectangle?	no	1 2
+9 Is the triangle to the left of the pink rectangle?	no	1 2
+10 Is the pink rectangle to the right of the triangle?	no	2 1
+1 The red square is to the left of the yellow square.
+2 The yellow square is to the left of the blue square.
+3 Is the red square below the blue square?	no	1 2
+4 Is the red square to the left of the blue square?	yes	1 2
+5 Is the blue square to the right of the red square?	yes	2 1
+6 Is the blue square to the right of the red square?	yes	2 1
+7 Is the red square below the blue square?	no	1 2
+8 Is the blue square to the left of the red square?	no	2 1
+9 Is the red square to the left of the blue square?	yes	1 2
+10 Is the blue square to the left of the red square?	no	2 1
+1 The red square is to the right of the triangle.
+2 The blue square is above the triangle.
+3 Is the red square above the blue square?	no	1 2
+4 Is the blue square to the right of the red square?	no	2 1
+5 Is the red square above the blue square?	no	1 2
+6 Is the red square below the blue square?	yes	1 2
+7 Is the red square below the blue square?	yes	1 2
+8 Is the blue square to the right of the red square?	no	2 1
+9 Is the red square below the blue square?	yes	1 2
+10 Is the red square above the blue square?	no	1 2
+1 The triangle is above the yellow square.
+2 The triangle is below the red sphere.
+3 Is the yellow square to the right of the red sphere?	no	1 2
+4 Is the red sphere to the right of the yellow square?	no	2 1
+5 Is the yellow square above the red sphere?	no	1 2
+6 Is the red sphere to the left of the yellow square?	no	2 1
+7 Is the red sphere above the yellow square?	yes	2 1
+8 Is the yellow square to the left of the red sphere?	no	1 2
+9 Is the yellow square below the red sphere?	yes	1 2
+10 Is the red sphere above the yellow square?	yes	2 1
+1 The triangle is to the right of the yellow square.
+2 The yellow square is above the red square.
+3 Is the red square to the left of the triangle?	yes	2 1
+4 Is the triangle below the red square?	no	1 2
+5 Is the red square to the left of the triangle?	yes	2 1
+6 Is the red square to the right of the triangle?	no	2 1
+7 Is the red square above the triangle?	no	2 1
+8 Is the triangle to the right of the red square?	yes	1 2
+9 Is the triangle to the left of the red square?	no	1 2
+10 Is the red square to the right of the triangle?	no	2 1
+1 The yellow square is above the pink rectangle.
+2 The yellow square is below the red square.
+3 Is the red square above the pink rectangle?	yes	2 1
+4 Is the pink rectangle above the red square?	no	1 2
+5 Is the pink rectangle above the red square?	no	1 2
+6 Is the red square above the pink rectangle?	yes	2 1
+7 Is the pink rectangle to the left of the red square?	no	1 2
+8 Is the red square below the pink rectangle?	no	2 1
+9 Is the red square to the right of the pink rectangle?	no	2 1
+10 Is the pink rectangle above the red square?	no	1 2
+1 The pink rectangle is below the red sphere.
+2 The pink rectangle is to the left of the yellow square.
+3 Is the red sphere to the right of the yellow square?	no	1 2
+4 Is the yellow square to the right of the red sphere?	yes	2 1
+5 Is the yellow square above the red sphere?	no	2 1
+6 Is the yellow square above the red sphere?	no	2 1
+7 Is the yellow square above the red sphere?	no	2 1
+8 Is the yellow square below the red sphere?	yes	2 1
+9 Is the red sphere above the yellow square?	yes	1 2
+10 Is the yellow square above the red sphere?	no	2 1
+1 The pink rectangle is to the left of the red square.
+2 The red sphere is above the red square.
+3 Is the pink rectangle to the left of the red sphere?	yes	1 2
+4 Is the pink rectangle to the left of the red sphere?	yes	1 2
+5 Is the red sphere to the left of the pink rectangle?	no	2 1
+6 Is the pink rectangle to the left of the red sphere?	yes	1 2
+7 Is the pink rectangle to the right of the red sphere?	no	1 2
+8 Is the pink rectangle above the red sphere?	no	1 2
+9 Is the pink rectangle to the right of the red sphere?	no	1 2
+10 Is the red sphere above the pink rectangle?	yes	2 1
+1 The red sphere is to the left of the pink rectangle.
+2 The red sphere is below the red square.
+3 Is the red square above the pink rectangle?	yes	2 1
+4 Is the pink rectangle below the red square?	yes	1 2
+5 Is the red square above the pink rectangle?	yes	2 1
+6 Is the pink rectangle to the left of the red square?	no	1 2
+7 Is the red square above the pink rectangle?	yes	2 1
+8 Is the red square above the pink rectangle?	yes	2 1
+9 Is the pink rectangle to the right of the red square?	yes	1 2
+10 Is the pink rectangle to the left of the red square?	no	1 2
+1 The blue square is below the red sphere.
+2 The blue square is to the left of the pink rectangle.
+3 Is the red sphere to the right of the pink rectangle?	no	1 2
+4 Is the red sphere above the pink rectangle?	yes	1 2
+5 Is the pink rectangle to the left of the red sphere?	no	2 1
+6 Is the pink rectangle to the right of the red sphere?	yes	2 1
+7 Is the red sphere to the left of the pink rectangle?	yes	1 2
+8 Is the pink rectangle above the red sphere?	no	2 1
+9 Is the red sphere to the right of the pink rectangle?	no	1 2
+10 Is the red sphere to the left of the pink rectangle?	yes	1 2
+1 The red square is to the left of the yellow square.
+2 The yellow square is to the left of the red sphere.
+3 Is the red sphere above the red square?	no	2 1
+4 Is the red sphere above the red square?	no	2 1
+5 Is the red sphere to the right of the red square?	yes	2 1
+6 Is the red square to the left of the red sphere?	yes	1 2
+7 Is the red sphere to the right of the red square?	yes	2 1
+8 Is the red sphere below the red square?	no	2 1
+9 Is the red square to the left of the red sphere?	yes	1 2
+10 Is the red square below the red sphere?	no	1 2
+1 The blue square is to the left of the red sphere.
+2 The red sphere is above the red square.
+3 Is the blue square to the left of the red square?	yes	1 2
+4 Is the blue square to the right of the red square?	no	1 2
+5 Is the blue square to the right of the red square?	no	1 2
+6 Is the red square to the left of the blue square?	no	2 1
+7 Is the blue square to the left of the red square?	yes	1 2
+8 Is the red square to the left of the blue square?	no	2 1
+9 Is the red square below the blue square?	yes	2 1
+10 Is the blue square below the red square?	no	1 2
+1 The red sphere is above the red square.
+2 The red sphere is below the yellow square.
+3 Is the red square to the right of the yellow square?	no	1 2
+4 Is the red square below the yellow square?	yes	1 2
+5 Is the yellow square below the red square?	no	2 1
+6 Is the yellow square to the left of the red square?	no	2 1
+7 Is the red square above the yellow square?	no	1 2
+8 Is the red square to the left of the yellow square?	no	1 2
+9 Is the yellow square above the red square?	yes	2 1
+10 Is the red square below the yellow square?	yes	1 2
+1 The triangle is to the right of the blue square.
+2 The blue square is to the right of the red square.
+3 Is the red square below the triangle?	no	2 1
+4 Is the red square to the left of the triangle?	yes	2 1
+5 Is the triangle to the left of the red square?	no	1 2
+6 Is the red square to the left of the triangle?	yes	2 1
+7 Is the triangle to the right of the red square?	yes	1 2
+8 Is the triangle to the left of the red square?	no	1 2
+9 Is the triangle to the right of the red square?	yes	1 2
+10 Is the triangle above the red square?	no	1 2
+1 The yellow square is below the triangle.
+2 The yellow square is above the red square.
+3 Is the red square above the triangle?	no	2 1
+4 Is the triangle above the red square?	yes	1 2
+5 Is the red square below the triangle?	yes	2 1
+6 Is the red square to the right of the triangle?	no	2 1
+7 Is the triangle below the red square?	no	1 2
+8 Is the triangle to the right of the red square?	no	1 2
+9 Is the red square below the triangle?	yes	2 1
+10 Is the triangle to the right of the red square?	no	1 2
+1 The triangle is above the red sphere.
+2 The triangle is below the red square.
+3 Is the red square to the right of the red sphere?	no	2 1
+4 Is the red square to the right of the red sphere?	no	2 1
+5 Is the red square to the left of the red sphere?	no	2 1
+6 Is the red square to the left of the red sphere?	no	2 1
+7 Is the red square above the red sphere?	yes	2 1
+8 Is the red sphere to the left of the red square?	no	1 2
+9 Is the red sphere below the red square?	yes	1 2
+10 Is the red square above the red sphere?	yes	2 1
+1 The red square is to the left of the yellow square.
+2 The triangle is above the red square.
+3 Is the triangle to the left of the yellow square?	yes	2 1
+4 Is the triangle below the yellow square?	no	2 1
+5 Is the triangle to the right of the yellow square?	no	2 1
+6 Is the yellow square to the left of the triangle?	no	1 2
+7 Is the yellow square below the triangle?	yes	1 2
+8 Is the yellow square to the left of the triangle?	no	1 2
+9 Is the yellow square below the triangle?	yes	1 2
+10 Is the triangle below the yellow square?	no	2 1
+1 The red sphere is above the yellow square.
+2 The blue square is below the yellow square.
+3 Is the blue square above the red sphere?	no	2 1
+4 Is the red sphere below the blue square?	no	1 2
+5 Is the blue square above the red sphere?	no	2 1
+6 Is the red sphere above the blue square?	yes	1 2
+7 Is the blue square below the red sphere?	yes	2 1
+8 Is the red sphere above the blue square?	yes	1 2
+9 Is the red sphere below the blue square?	no	1 2
+10 Is the red sphere above the blue square?	yes	1 2
+1 The red square is to the left of the yellow square.
+2 The red square is to the right of the red sphere.
+3 Is the red sphere to the left of the yellow square?	yes	2 1
+4 Is the red sphere to the right of the yellow square?	no	2 1
+5 Is the red sphere to the left of the yellow square?	yes	2 1
+6 Is the yellow square to the right of the red sphere?	yes	1 2
+7 Is the red sphere below the yellow square?	no	2 1
+8 Is the red sphere above the yellow square?	no	2 1
+9 Is the red sphere above the yellow square?	no	2 1
+10 Is the red sphere to the left of the yellow square?	yes	2 1
+1 The red square is to the left of the yellow square.
+2 The red square is above the triangle.
+3 Is the yellow square above the triangle?	yes	1 2
+4 Is the triangle to the right of the yellow square?	no	2 1
+5 Is the yellow square to the right of the triangle?	yes	1 2
+6 Is the triangle below the yellow square?	yes	2 1
+7 Is the yellow square above the triangle?	yes	1 2
+8 Is the triangle to the left of the yellow square?	yes	2 1
+9 Is the triangle to the right of the yellow square?	no	2 1
+10 Is the triangle to the right of the yellow square?	no	2 1
+1 The pink rectangle is to the right of the red square.
+2 The triangle is above the red square.
+3 Is the pink rectangle above the triangle?	no	1 2
+4 Is the pink rectangle below the triangle?	yes	1 2
+5 Is the pink rectangle to the right of the triangle?	yes	1 2
+6 Is the pink rectangle above the triangle?	no	1 2
+7 Is the triangle to the right of the pink rectangle?	no	2 1
+8 Is the pink rectangle to the left of the triangle?	no	1 2
+9 Is the triangle to the right of the pink rectangle?	no	2 1
+10 Is the pink rectangle to the right of the triangle?	yes	1 2
+1 The red square is to the left of the red sphere.
+2 The triangle is below the red square.
+3 Is the triangle to the right of the red sphere?	no	2 1
+4 Is the triangle to the right of the red sphere?	no	2 1
+5 Is the triangle above the red sphere?	no	2 1
+6 Is the red sphere to the right of the triangle?	yes	1 2
+7 Is the red sphere to the left of the triangle?	no	1 2
+8 Is the red sphere to the right of the triangle?	yes	1 2
+9 Is the triangle to the right of the red sphere?	no	2 1
+10 Is the red sphere below the triangle?	no	1 2
+1 The red square is to the right of the yellow square.
+2 The triangle is to the left of the yellow square.
+3 Is the triangle below the red square?	no	2 1
+4 Is the red square to the right of the triangle?	yes	1 2
+5 Is the red square to the right of the triangle?	yes	1 2
+6 Is the triangle to the left of the red square?	yes	2 1
+7 Is the triangle to the right of the red square?	no	2 1
+8 Is the red square to the right of the triangle?	yes	1 2
+9 Is the red square to the right of the triangle?	yes	1 2
+10 Is the triangle below the red square?	no	2 1
+1 The yellow square is above the triangle.
+2 The triangle is to the left of the red sphere.
+3 Is the red sphere below the yellow square?	yes	2 1
+4 Is the red sphere to the right of the yellow square?	yes	2 1
+5 Is the red sphere to the right of the yellow square?	yes	2 1
+6 Is the red sphere below the yellow square?	yes	2 1
+7 Is the yellow square to the left of the red sphere?	yes	1 2
+8 Is the red sphere below the yellow square?	yes	2 1
+9 Is the red sphere above the yellow square?	no	2 1
+10 Is the red sphere below the yellow square?	yes	2 1
+1 The blue square is above the pink rectangle.
+2 The yellow square is below the pink rectangle.
+3 Is the yellow square below the blue square?	yes	2 1
+4 Is the yellow square to the left of the blue square?	no	2 1
+5 Is the yellow square to the left of the blue square?	no	2 1
+6 Is the blue square to the left of the yellow square?	no	1 2
+7 Is the yellow square above the blue square?	no	2 1
+8 Is the yellow square below the blue square?	yes	2 1
+9 Is the blue square to the right of the yellow square?	no	1 2
+10 Is the blue square to the right of the yellow square?	no	1 2
+1 The yellow square is to the right of the blue square.
+2 The yellow square is below the red sphere.
+3 Is the red sphere below the blue square?	no	2 1
+4 Is the red sphere below the blue square?	no	2 1
+5 Is the red sphere to the left of the blue square?	no	2 1
+6 Is the red sphere to the right of the blue square?	yes	2 1
+7 Is the red sphere above the blue square?	yes	2 1
+8 Is the red sphere above the blue square?	yes	2 1
+9 Is the red sphere below the blue square?	no	2 1
+10 Is the blue square above the red sphere?	no	1 2
+1 The pink rectangle is to the right of the red sphere.
+2 The red square is to the right of the pink rectangle.
+3 Is the red sphere below the red square?	no	1 2
+4 Is the red sphere to the right of the red square?	no	1 2
+5 Is the red sphere to the left of the red square?	yes	1 2
+6 Is the red square to the right of the red sphere?	yes	2 1
+7 Is the red sphere to the left of the red square?	yes	1 2
+8 Is the red sphere to the left of the red square?	yes	1 2
+9 Is the red sphere to the right of the red square?	no	1 2
+10 Is the red square above the red sphere?	no	2 1
+1 The triangle is to the left of the yellow square.
+2 The triangle is to the right of the pink rectangle.
+3 Is the yellow square above the pink rectangle?	no	1 2
+4 Is the pink rectangle to the left of the yellow square?	yes	2 1
+5 Is the yellow square above the pink rectangle?	no	1 2
+6 Is the yellow square to the right of the pink rectangle?	yes	1 2
+7 Is the pink rectangle to the left of the yellow square?	yes	2 1
+8 Is the yellow square to the right of the pink rectangle?	yes	1 2
+9 Is the pink rectangle to the right of the yellow square?	no	2 1
+10 Is the yellow square to the left of the pink rectangle?	no	1 2
+1 The pink rectangle is below the red sphere.
+2 The pink rectangle is to the left of the blue square.
+3 Is the blue square below the red sphere?	yes	2 1
+4 Is the blue square to the left of the red sphere?	no	2 1
+5 Is the red sphere above the blue square?	yes	1 2
+6 Is the red sphere to the left of the blue square?	yes	1 2
+7 Is the red sphere to the right of the blue square?	no	1 2
+8 Is the blue square to the left of the red sphere?	no	2 1
+9 Is the red sphere below the blue square?	no	1 2
+10 Is the red sphere to the left of the blue square?	yes	1 2
+1 The blue square is to the left of the yellow square.
+2 The yellow square is above the triangle.
+3 Is the blue square to the right of the triangle?	no	1 2
+4 Is the blue square to the right of the triangle?	no	1 2
+5 Is the triangle above the blue square?	no	2 1
+6 Is the blue square below the triangle?	no	1 2
+7 Is the blue square to the left of the triangle?	yes	1 2
+8 Is the blue square to the left of the triangle?	yes	1 2
+9 Is the triangle above the blue square?	no	2 1
+10 Is the triangle to the right of the blue square?	yes	2 1
+1 The pink rectangle is to the left of the yellow square.
+2 The yellow square is above the blue square.
+3 Is the pink rectangle to the right of the blue square?	no	1 2
+4 Is the blue square to the left of the pink rectangle?	no	2 1
+5 Is the pink rectangle above the blue square?	yes	1 2
+6 Is the pink rectangle to the left of the blue square?	yes	1 2
+7 Is the blue square below the pink rectangle?	yes	2 1
+8 Is the pink rectangle to the left of the blue square?	yes	1 2
+9 Is the pink rectangle to the right of the blue square?	no	1 2
+10 Is the blue square to the left of the pink rectangle?	no	2 1

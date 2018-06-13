@@ -1,0 +1,2210 @@
+1 Rzh ldeqotlh seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+7 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+8 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+9 Rzh ozbobutqh seql emleah qzh ozhlq.
+10 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+11 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 1
+12 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 1
+13 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 1
+14 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 1
+15 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 1
+1 Rzh pbw seql emleah qzh ozhlq.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+6 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	2 1
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	2 1
+8 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 1
+9 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 2
+10 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	3 5
+1 Rzh pbw el perrhx qztm qzh ldeqotlh.
+2 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+4 Rzh obmqtemhx seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	ihl	4 2
+7 Ybhl qzh ldeqotlh seq em qzh ozhlq?	ihl	4 2
+8 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	ihl	4 2
+9 Ybhl qzh ldeqotlh seq em qzh ozhlq?	ihl	4 2
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+1 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 5
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 5
+8 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 4
+9 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 4
+10 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 5
+1 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+6 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 3
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	2 3
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	2 3
+9 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	3 2
+10 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 3
+1 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+2 Rzh ozhlq el perrhx qztm qzh pbw.
+3 Rzh pbw el perrhx qztm qzh obmqtemhx.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh obmqtemhx perrhx qztm qzh ozhlq?	mb	3 2
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	4 1
+8 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	3 2
+9 Ybhl qzh obmqtemhx seq em qzh ozhlq?	ihl	2 3
+10 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	5 1
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Rzh pbw el perrhx qztm qzh obmqtemhx.
+7 Rzh pbw el perrhx qztm qzh ozhlq.
+8 Rzh obmqtemhx seql emleah qzh pbw.
+9 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh ozhlq seql emleah qzh ldeqotlh.
+11 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	10 1
+12 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	1 7
+13 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	1 7
+14 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	7 1
+15 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	10 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+2 Rzh ozhlq el perrhx qztm qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	4 1
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	4 1
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	4 1
+10 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+1 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozbobutqh seql emleah qzh ozhlq.
+4 Rzh ozbobutqh seql emleah qzh pbw.
+5 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	1 5
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	5 1
+8 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	5 1
+9 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 5
+10 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 5
+1 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh obmqtemhx seql emleah qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+5 Rzh obmqtemhx seql emleah qzh pbw.
+6 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	5 1
+7 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	5 1
+8 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	1 2
+9 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	5 1
+10 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	5 1
+1 Rzh pbw seql emleah qzh ldeqotlh.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh ozhlq seql emleah qzh pbw.
+4 Rzh obmqtemhx seql emleah qzh pbw.
+5 Rzh ozhlq seql emleah qzh obmqtemhx.
+6 Ybhl qzh ozhlq seq em qzh ldeqotlh?	ihl	1 2
+7 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	mb	4 1
+8 Xl qzh obmqtemhx perrhx qztm qzh ldeqotlh?	mb	4 1
+9 Ybhl qzh ozhlq seq em qzh ldeqotlh?	ihl	1 2
+10 Ybhl qzh ldeqotlh seq em qzh ozhlq?	mb	3 1
+1 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozhlq seql emleah qzh pbw.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	1 2
+7 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 1
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 1
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 1
+1 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozhlq el perrhx qztm qzh pbw.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ldeqotlh seql emleah qzh ozhlq.
+5 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+6 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	2 3
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 2
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	2 3
+9 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 2
+10 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	2 3
+1 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+2 Rzh obmqtemhx seql emleah qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ldeqotlh seql emleah qzh pbw.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	1 5
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	5 1
+8 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	1 5
+9 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	5 1
+10 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	1 5
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Rzh ozbobutqh seql emleah qzh ozhlq.
+7 Rzh ozbobutqh seql emleah qzh pbw.
+8 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+9 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+10 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+11 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	6 9
+12 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	9 6
+13 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	6 9
+14 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	6 9
+15 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	9 6
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw.
+6 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	5 2
+7 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	5 2
+8 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	5 2
+9 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	5 2
+10 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	5 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh obmqtemhx seql emleah qzh ozhlq.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh pbw seql emleah qzh ozhlq.
+6 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 4
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	4 1
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 4
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	3 1
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 1
+7 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	1 3
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	1 3
+9 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	3 1
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	1 3
+1 Rzh pbw el perrhx qztm qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh pbw el perrhx qztm qzh obmqtemhx.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 1
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 1
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 1
+9 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 1
+10 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 1
+1 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+2 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw seql emleah qzh ldeqotlh.
+6 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 3
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	3 4
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 3
+9 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 3
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 4
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw seql emleah qzh ozhlq.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 1
+7 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	3 1
+8 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	1 3
+9 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	1 3
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh ozbobutqh seql emleah qzh pbw.
+5 Rzh obmqtemhx seql emleah qzh ozhlq.
+6 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	5 2
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 2
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 2
+9 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 2
+10 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	5 2
+1 Rzh ozhlq el perrhx qztm qzh pbw.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw.
+6 Xl qzh pbw perrhx qztm qzh ozhlq?	mb	5 4
+7 Ybhl qzh ozhlq seq em qzh pbw?	mb	5 4
+8 Xl qzh pbw perrhx qztm qzh ozhlq?	mb	5 4
+9 Xl qzh ozhlq perrhx qztm qzh pbw?	ihl	4 5
+10 Xl qzh ozhlq perrhx qztm qzh pbw?	ihl	4 5
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+5 Rzh ozbobutqh seql emleah qzh ozhlq.
+6 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+7 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+8 Rzh ozbobutqh seql emleah qzh pbw.
+9 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+10 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+11 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+12 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+13 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+14 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+15 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Rzh ldeqotlh seql emleah qzh ozhlq.
+7 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+8 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+9 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+10 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+11 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	9 1
+12 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+13 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+15 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+16 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+17 Rzh ldeqotlh seql emleah qzh pbw.
+18 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+19 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+20 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	18 6
+21 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	18 6
+22 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	15 1
+23 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+24 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	9 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh pbw el perrhx qztm qzh ozbobutqh.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+8 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+9 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+10 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+11 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 1
+12 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 1
+13 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 1
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+15 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	10 3
+1 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 2
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 2
+8 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	2 5
+9 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 5
+10 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	5 2
+1 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh seql emleah qzh pbw.
+5 Rzh pbw seql emleah qzh obmqtemhx.
+6 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 4
+7 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 4
+8 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	mb	4 5
+9 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	mb	4 5
+10 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 4
+1 Rzh pbw el perrhx qztm qzh ldeqotlh.
+2 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+3 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq seql emleah qzh obmqtemhx.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+7 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+8 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+9 Rzh ozbobutqh seql emleah qzh pbw.
+10 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+11 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	8 3
+12 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	10 1
+13 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	8 3
+14 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	10 1
+15 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	10 1
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 2
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 2
+9 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 2
+10 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 2
+1 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	2 4
+7 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	5 3
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 5
+9 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	2 4
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh obmqtemhx seql emleah qzh pbw.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	1 2
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	4 5
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	4 5
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	5 4
+10 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	1 2
+1 Rzh ozhlq el perrhx qztm qzh pbw.
+2 Rzh pbw seql emleah qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh pbw.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+6 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+7 Rzh pbw seql emleah qzh ozhlq.
+8 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+9 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+11 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	10 5
+12 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	5 10
+13 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	9 1
+14 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	10 5
+15 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	5 10
+1 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+2 Rzh pbw seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh seql emleah qzh ozhlq.
+4 Rzh obmqtemhx el perrhx qztm qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Xl qzh pbw perrhx qztm qzh ldeqotlh?	mb	4 1
+7 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	ihl	3 1
+8 Ybhl qzh ldeqotlh seq em qzh pbw?	mb	4 1
+9 Ybhl qzh obmqtemhx seq em qzh ozhlq?	ihl	3 1
+10 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	ihl	3 1
+1 Rzh pbw el perrhx qztm qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+5 Rzh obmqtemhx seql emleah qzh pbw.
+6 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh pbw el perrhx qztm qzh obmqtemhx.
+8 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+9 Rzh pbw el perrhx qztm qzh obmqtemhx.
+10 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+11 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	6 3
+12 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	6 3
+13 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	6 5
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 5
+15 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 5
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+3 Rzh obmqtemhx seql emleah qzh pbw.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	2 3
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 3
+8 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	3 2
+9 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+10 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+1 Rzh pbw el perrhx qztm qzh ldeqotlh.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 2
+7 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 1
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	5 1
+9 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 1
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	5 1
+1 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 1
+7 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	1 2
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	1 2
+9 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 1
+10 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	1 2
+1 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	5 3
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	5 3
+8 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	5 3
+9 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	5 3
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	5 3
+1 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 3
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 3
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 2
+9 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 2
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 3
+1 Rzh ozhlq el perrhx qztm qzh pbw.
+2 Rzh obmqtemhx seql emleah qzh pbw.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+5 Rzh ozhlq el perrhx qztm qzh pbw.
+6 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	2 1
+7 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	2 1
+8 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	ihl	1 2
+9 Ybhl qzh obmqtemhx seq em qzh ozhlq?	ihl	1 2
+10 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	2 1
+1 Rzh ldeqotlh seql emleah qzh pbw.
+2 Rzh ldeqotlh seql emleah qzh pbw.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+4 Rzh ozhlq seql emleah qzh pbw.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+8 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	5 1
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+10 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	5 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh obmqtemhx seql emleah qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ldeqotlh seql emleah qzh pbw.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 5
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	5 3
+8 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	5 3
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 5
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 5
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 1
+7 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 1
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 1
+9 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 1
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 1
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh ldeqotlh seql emleah qzh pbw.
+5 Rzh pbw el perrhx qztm qzh ldeqotlh.
+6 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	3 2
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	2 3
+8 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	2 3
+9 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	2 3
+10 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	3 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 2
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 2
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	4 2
+9 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 2
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 2
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw seql emleah qzh ldeqotlh.
+3 Rzh pbw seql emleah qzh ozhlq.
+4 Rzh pbw seql emleah qzh ldeqotlh.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+7 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+8 Rzh ldeqotlh el perrhx qztm qzh pbw.
+9 Rzh pbw seql emleah qzh ldeqotlh.
+10 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+11 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	6 5
+12 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	5 6
+13 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	5 6
+14 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	10 1
+15 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	6 5
+1 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+2 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+3 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+6 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 1
+7 Xl qzh obmqtemhx perrhx qztm qzh ldeqotlh?	ihl	5 1
+8 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 1
+9 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 1
+10 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh ldeqotlh seql emleah qzh ozhlq.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw.
+4 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	3 1
+7 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+8 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+9 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	3 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+6 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	5 2
+7 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	5 2
+8 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	5 2
+9 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	5 2
+10 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	5 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+3 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 2
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 2
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	1 2
+9 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	2 1
+10 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	1 2
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq el perrhx qztm qzh pbw.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh pbw seql emleah qzh ldeqotlh.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Xl qzh pbw perrhx qztm qzh obmqtemhx?	mb	2 3
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	5 2
+8 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	5 2
+9 Ybhl qzh obmqtemhx seq em qzh pbw?	mb	2 3
+10 Xl qzh pbw perrhx qztm qzh obmqtemhx?	mb	2 3
+1 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh ozhlq seql emleah qzh pbw.
+4 Rzh ozbobutqh seql emleah qzh ozhlq.
+5 Rzh pbw el perrhx qztm qzh ozhlq.
+6 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 4
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 3
+8 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	3 4
+9 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 3
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 3
+1 Rzh pbw seql emleah qzh ldeqotlh.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozbobutqh seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	1 3
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	1 3
+8 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 3
+9 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 3
+10 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	3 1
+1 Rzh pbw el perrhx qztm qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh obmqtemhx seql emleah qzh pbw.
+4 Rzh pbw el perrhx qztm qzh ozhlq.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Rzh ozhlq seql emleah qzh pbw.
+7 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+8 Rzh ldeqotlh seql emleah qzh pbw.
+9 Rzh pbw el perrhx qztm qzh ldeqotlh.
+10 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+11 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	7 4
+12 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	7 4
+13 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+14 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	7 4
+15 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 7
+1 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+4 Rzh pbw seql emleah qzh ozhlq.
+5 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+6 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 1
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	5 1
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	1 5
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	1 5
+10 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh obmqtemhx seql emleah qzh pbw.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh obmqtemhx seql emleah qzh pbw.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh pbw seq em qzh ozhlq?	mb	3 2
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	3 1
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	3 1
+9 Ybhl qzh pbw seq em qzh ozhlq?	mb	3 2
+10 Xl qzh ozhlq perrhx qztm qzh pbw?	mb	3 2
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozbobutqh seql emleah qzh ozhlq.
+5 Rzh obmqtemhx seql emleah qzh ozhlq.
+6 Ybhl qzh ozhlq seq em qzh ldeqotlh?	mb	2 5
+7 Ybhl qzh ozhlq seq em qzh ldeqotlh?	mb	2 5
+8 Ybhl qzh ozhlq seq em qzh ldeqotlh?	mb	2 5
+9 Ybhl qzh ozhlq seq em qzh ldeqotlh?	mb	2 5
+10 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	ihl	5 2
+1 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	5 1
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 1
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 1
+9 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	5 1
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 1
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 1
+8 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	1 2
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 1
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 1
+1 Rzh ldeqotlh el perrhx qztm qzh pbw.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh ozhlq.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 5
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	5 3
+8 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 5
+9 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 5
+10 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 5
+1 Rzh ozhlq seql emleah qzh ldeqotlh.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh ozhlq seql emleah qzh ldeqotlh.
+6 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+8 Rzh pbw seql emleah qzh ldeqotlh.
+9 Rzh pbw el perrhx qztm qzh ozbobutqh.
+10 Rzh ldeqotlh el perrhx qztm qzh pbw.
+11 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	6 1
+12 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	7 1
+13 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	7 1
+14 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	6 1
+15 Xl qzh ldeqotlh perrhx qztm qzh ozhlq?	ihl	10 2
+1 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+7 Rzh ozbobutqh seql emleah qzh pbw.
+8 Rzh pbw el perrhx qztm qzh ozhlq.
+9 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+10 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+11 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	8 2
+12 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	6 1
+13 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	9 2
+14 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	9 2
+15 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	9 2
+1 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh pbw seql emleah qzh ozhlq.
+4 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	2 3
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 2
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 2
+9 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 2
+10 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 3
+1 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq seql emleah qzh ldeqotlh.
+4 Rzh obmqtemhx seql emleah qzh pbw.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	mb	1 3
+7 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	ihl	3 1
+8 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	mb	1 3
+9 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	mb	1 3
+10 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	mb	1 3
+1 Rzh ldeqotlh seql emleah qzh ozhlq.
+2 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	5 3
+7 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	5 3
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	5 3
+9 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	5 3
+10 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	5 3
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw seql emleah qzh ldeqotlh.
+6 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+7 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+8 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+9 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+10 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+11 Ybhl qzh pbw seq em qzh obmqtemhx?	ihl	10 5
+12 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 7
+13 Xl qzh obmqtemhx perrhx qztm qzh pbw?	ihl	10 5
+14 Xl qzh obmqtemhx perrhx qztm qzh pbw?	ihl	10 5
+15 Ybhl qzh pbw seq em qzh obmqtemhx?	ihl	10 5
+1 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh pbw.
+4 Rzh pbw el perrhx qztm qzh ldeqotlh.
+5 Rzh pbw el perrhx qztm qzh ozhlq.
+6 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+7 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	mb	5 2
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+9 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	mb	5 2
+10 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	mb	4 2
+1 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw el perrhx qztm qzh obmqtemhx.
+5 Rzh pbw el perrhx qztm qzh obmqtemhx.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	5 1
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	5 1
+8 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 1
+9 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 1
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	5 1
+1 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+7 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	3 1
+8 Ybhl qzh ldeqotlh seq em qzh ozhlq?	mb	4 1
+9 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+1 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+2 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+3 Rzh ldeqotlh seql emleah qzh ozhlq.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+7 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+8 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+9 Rzh obmqtemhx seql emleah qzh ozhlq.
+10 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+11 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	9 8
+12 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	7 2
+13 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	7 2
+14 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	7 2
+15 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	9 8
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 2
+7 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 2
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 2
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	2 4
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 2
+1 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh pbw seql emleah qzh obmqtemhx.
+3 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+4 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 1
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 1
+8 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+9 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+10 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh obmqtemhx seql emleah qzh pbw.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 1
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	4 2
+8 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	3 1
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	1 3
+10 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 1
+1 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	1 3
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	1 3
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	3 1
+9 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 3
+10 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 3
+1 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	4 1
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 3
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 1
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 3
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 3
+1 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+2 Rzh ozhlq seql emleah qzh obmqtemhx.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	5 1
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	5 1
+8 Ybhl qzh ldeqotlh seq em qzh ozhlq?	mb	2 1
+9 Ybhl qzh ozhlq seq em qzh ldeqotlh?	ihl	1 2
+10 Xl qzh ldeqotlh perrhx qztm qzh ozhlq?	ihl	1 2
+1 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw el perrhx qztm qzh ldeqotlh.
+3 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	4 2
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	4 2
+8 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 4
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	4 2
+10 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 4
+1 Rzh ozhlq el perrhx qztm qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+4 Rzh pbw seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Rzh obmqtemhx el perrhx qztm qzh pbw.
+7 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+8 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+9 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+11 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	9 1
+12 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	8 3
+13 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	5 7
+14 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	8 3
+15 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	9 5
+1 Rzh pbw seql emleah qzh ozhlq.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+4 Rzh pbw seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	5 3
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 5
+8 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 5
+9 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	5 3
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	5 3
+1 Rzh ozbobutqh seql emleah qzh pbw.
+2 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw seql emleah qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+6 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 2
+7 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	1 3
+8 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 1
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 1
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	1 3
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+2 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ldeqotlh seql emleah qzh pbw.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+6 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	1 3
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	3 1
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	3 1
+10 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+1 Rzh pbw el perrhx qztm qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh ozbobutqh.
+3 Rzh ldeqotlh seql emleah qzh ozhlq.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ozhlq.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+7 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+9 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh ozhlq seql emleah qzh pbw.
+5 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+6 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+7 Rzh pbw el perrhx qztm qzh ozbobutqh.
+8 Rzh ozbobutqh seql emleah qzh ozhlq.
+9 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+10 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+11 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 6
+12 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	8 3
+13 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	6 10
+14 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	6 3
+15 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	6 10
+1 Rzh ozhlq seql emleah qzh ldeqotlh.
+2 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	1 4
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	4 1
+8 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	4 1
+9 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	1 4
+10 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	4 1
+1 Rzh pbw seql emleah qzh ozhlq.
+2 Rzh pbw seql emleah qzh ldeqotlh.
+3 Rzh ozbobutqh seql emleah qzh pbw.
+4 Rzh pbw seql emleah qzh obmqtemhx.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	5 1
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	5 1
+9 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 1
+1 Rzh ozhlq el perrhx qztm qzh pbw.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ldeqotlh seql emleah qzh ozhlq.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	4 1
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	4 1
+8 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 4
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	4 1
+10 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 4
+1 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh pbw.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+6 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	4 2
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	4 2
+8 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	2 4
+9 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	2 4
+10 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	4 2
+1 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+4 Rzh ozhlq seql emleah qzh ldeqotlh.
+5 Rzh ozhlq seql emleah qzh ldeqotlh.
+6 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	3 1
+7 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 2
+8 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	3 1
+9 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 1
+10 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	3 1
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw seql emleah qzh ozhlq.
+6 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	1 3
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	5 1
+8 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	1 3
+9 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	1 3
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	1 3
+1 Rzh ldeqotlh seql emleah qzh ozhlq.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+4 Rzh ldeqotlh seql emleah qzh ozhlq.
+5 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	2 3
+7 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	3 2
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 3
+9 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+10 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+1 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+4 Rzh pbw seql emleah qzh obmqtemhx.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+7 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+8 Rzh ozhlq seql emleah qzh pbw.
+9 Rzh ozbobutqh seql emleah qzh pbw.
+10 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+11 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	4 7
+12 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	9 4
+13 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 7
+14 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	7 5
+15 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	mb	8 4
+1 Rzh ozbobutqh seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh ozbobutqh seql emleah qzh ozhlq.
+4 Rzh ozhlq seql emleah qzh obmqtemhx.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 4
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 3
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 4
+9 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 4
+10 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 3
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh ldeqotlh seql emleah qzh ozhlq.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+6 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	4 3
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 3
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 3
+9 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 4
+10 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 4
+1 Rzh pbw seql emleah qzh ldeqotlh.
+2 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw.
+4 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw.
+6 Ybhl qzh ldeqotlh seq em qzh pbw?	mb	5 4
+7 Xl qzh pbw perrhx qztm qzh ldeqotlh?	mb	5 4
+8 Ybhl qzh ldeqotlh seq em qzh pbw?	mb	5 4
+9 Xl qzh pbw perrhx qztm qzh ldeqotlh?	mb	5 4
+10 Xl qzh ldeqotlh perrhx qztm qzh pbw?	ihl	4 5
+1 Rzh ldeqotlh seql emleah qzh pbw.
+2 Rzh obmqtemhx seql emleah qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+4 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+5 Rzh obmqtemhx seql emleah qzh ozhlq.
+6 Rzh ozbobutqh seql emleah qzh ozhlq.
+7 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+8 Rzh ozbobutqh seql emleah qzh ozhlq.
+9 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+10 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+11 Xl qzh obmqtemhx perrhx qztm qzh pbw?	mb	7 1
+12 Ybhl qzh pbw seq em qzh obmqtemhx?	mb	7 1
+13 Xl qzh obmqtemhx perrhx qztm qzh pbw?	mb	7 1
+14 Ybhl qzh pbw seq em qzh obmqtemhx?	mb	7 1
+15 Xl qzh obmqtemhx perrhx qztm qzh pbw?	mb	7 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw seql emleah qzh ozhlq.
+4 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+5 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+6 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	3 1
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+1 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh pbw seql emleah qzh ldeqotlh.
+6 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	1 2
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 1
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 1
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 1
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 1
+1 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw el perrhx qztm qzh ozhlq.
+4 Rzh obmqtemhx seql emleah qzh ozhlq.
+5 Rzh ldeqotlh seql emleah qzh ozhlq.
+6 Ybhl qzh pbw seq em qzh obmqtemhx?	mb	4 3
+7 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	5 3
+8 Xl qzh obmqtemhx perrhx qztm qzh pbw?	mb	4 3
+9 Ybhl qzh pbw seq em qzh obmqtemhx?	mb	4 3
+10 Ybhl qzh pbw seq em qzh obmqtemhx?	mb	4 3
+1 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 1
+7 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 1
+8 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 1
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	5 1
+10 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 1
+1 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Ybhl qzh ldeqotlh seq em qzh pbw?	ihl	2 1
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	3 4
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 3
+9 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	1 2
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 3
+1 Rzh ozhlq el perrhx qztm qzh pbw.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+4 Rzh ozbobutqh seql emleah qzh pbw.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	4 1
+7 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 4
+8 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	4 1
+9 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 4
+10 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	4 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+4 Rzh pbw seql emleah qzh ldeqotlh.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh ozbobutqh seql emleah qzh ozhlq.
+8 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+9 Rzh ozhlq seql emleah qzh ldeqotlh.
+10 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+11 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 6
+12 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	6 4
+13 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	10 3
+14 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	9 5
+15 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	6 4
+1 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+2 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+6 Rzh ozbobutqh seql emleah qzh pbw.
+7 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+8 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+9 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+10 Rzh pbw seql emleah qzh ldeqotlh.
+11 Ybhl qzh ozhlq seq em qzh pbw?	mb	10 4
+12 Xl qzh pbw perrhx qztm qzh ozhlq?	mb	10 4
+13 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	10 3
+14 Ybhl qzh ozhlq seq em qzh pbw?	mb	10 4
+15 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	10 3
+1 Rzh ozbobutqh seql emleah qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+4 Rzh ldeqotlh seql emleah qzh pbw.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+6 Rzh ozhlq seql emleah qzh pbw.
+7 Rzh ldeqotlh seql emleah qzh ozhlq.
+8 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+9 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+10 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+11 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	9 4
+12 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	9 4
+13 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 2
+14 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 2
+15 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 3
+1 Rzh obmqtemhx el perrhx qztm qzh pbw.
+2 Rzh ldeqotlh seql emleah qzh pbw.
+3 Rzh pbw el perrhx qztm qzh ldeqotlh.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	mb	2 1
+7 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	5 1
+8 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	mb	3 1
+9 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	1 2
+10 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	mb	3 1
+1 Rzh ozbobutqh seql emleah qzh pbw.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	2 1
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	2 1
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	1 2
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	2 1
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	2 1
+1 Rzh ldeqotlh el perrhx qztm qzh pbw.
+2 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw seql emleah qzh ozhlq.
+5 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+6 Xl qzh pbw perrhx qztm qzh obmqtemhx?	mb	1 2
+7 Xl qzh obmqtemhx perrhx qztm qzh pbw?	ihl	2 1
+8 Ybhl qzh pbw seq em qzh obmqtemhx?	ihl	2 1
+9 Xl qzh obmqtemhx perrhx qztm qzh pbw?	ihl	2 1
+10 Ybhl qzh pbw seq em qzh obmqtemhx?	ihl	2 1
+1 Rzh ozbobutqh seql emleah qzh ozhlq.
+2 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+4 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 3
+7 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	3 4
+8 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 3
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 3
+10 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 3
+1 Rzh ozhlq seql emleah qzh obmqtemhx.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+5 Rzh pbw seql emleah qzh ldeqotlh.
+6 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	mb	2 5
+7 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	mb	2 5
+8 Xl qzh ldeqotlh perrhx qztm qzh ozhlq?	ihl	5 2
+9 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	mb	2 5
+10 Ybhl qzh ozhlq seq em qzh ldeqotlh?	ihl	5 2
+1 Rzh ozhlq seql emleah qzh ldeqotlh.
+2 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	1 4
+7 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	1 4
+8 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	4 1
+9 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	4 1
+10 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	1 4
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh ldeqotlh seql emleah qzh pbw.
+4 Rzh ozbobutqh seql emleah qzh ozhlq.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 5
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 5
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 5
+9 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	2 5
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 5
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw el perrhx qztm qzh ldeqotlh.
+6 Rzh pbw seql emleah qzh obmqtemhx.
+7 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+8 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+9 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+11 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	6 4
+12 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	6 4
+13 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	6 4
+14 Rzh pbw el perrhx qztm qzh ozbobutqh.
+15 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+16 Rzh pbw el perrhx qztm qzh ozbobutqh.
+17 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+18 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+19 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	6 4
+20 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	17 3
+21 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	17 3
+22 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	17 3
+23 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	6 4
+1 Rzh ozhlq seql emleah qzh ldeqotlh.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozbobutqh seql emleah qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 2
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 3
+8 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 2
+9 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 3
+10 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 3
+1 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+2 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 3
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 4
+8 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 3
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	4 3
+10 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 4
+1 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozhlq seql emleah qzh obmqtemhx.
+6 Ybhl qzh obmqtemhx seq em qzh pbw?	mb	2 1
+7 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	3 1
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	3 1
+9 Xl qzh obmqtemhx perrhx qztm qzh pbw?	ihl	1 2
+10 Xl qzh pbw perrhx qztm qzh obmqtemhx?	mb	2 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+6 Rzh pbw el perrhx qztm qzh ozhlq.
+7 Rzh obmqtemhx seql emleah qzh pbw.
+8 Rzh ozhlq seql emleah qzh pbw.
+9 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+10 Rzh pbw el perrhx qztm qzh ozhlq.
+11 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+12 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 6
+13 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	8 5
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 6
+15 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	10 5
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+4 Rzh pbw seql emleah qzh obmqtemhx.
+5 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+6 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	1 3
+7 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	3 1
+8 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	1 3
+9 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	1 3
+10 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	1 3
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw el perrhx qztm qzh ozhlq.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh ozhlq seql emleah qzh ldeqotlh.
+6 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+7 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+8 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+9 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+10 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+11 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	9 1
+12 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+13 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	9 1
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	9 1
+15 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	6 3
+1 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+4 Rzh pbw seql emleah qzh ldeqotlh.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	ihl	4 2
+7 Xl qzh obmqtemhx perrhx qztm qzh ldeqotlh?	mb	2 4
+8 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	mb	2 4
+9 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	ihl	4 2
+10 Xl qzh obmqtemhx perrhx qztm qzh ldeqotlh?	mb	2 4
+1 Rzh ozbobutqh seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	3 4
+7 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	3 4
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	4 3
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	3 4
+10 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 3
+1 Rzh obmqtemhx seql emleah qzh pbw.
+2 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 5
+7 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	5 2
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	5 2
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	2 5
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	2 5
+1 Rzh ldeqotlh seql emleah qzh ozhlq.
+2 Rzh obmqtemhx seql emleah qzh pbw.
+3 Rzh pbw el perrhx qztm qzh ldeqotlh.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	2 4
+7 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 2
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	5 1
+9 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	2 4
+10 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	2 4
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	4 1
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	1 4
+8 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	4 1
+9 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 4
+10 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	4 1
+1 Rzh ldeqotlh seql emleah qzh pbw.
+2 Rzh pbw el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+5 Rzh pbw el perrhx qztm qzh obmqtemhx.
+6 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh ozbobutqh seql emleah qzh ozhlq.
+8 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+9 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh ozhlq seql emleah qzh pbw.
+11 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	6 4
+12 Ybhl qzh obmqtemhx seq em qzh pbw?	ihl	10 4
+13 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	9 1
+14 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	9 1
+15 Xl qzh pbw perrhx qztm qzh obmqtemhx?	ihl	10 4
+1 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh pbw el perrhx qztm qzh obmqtemhx.
+6 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+7 Rzh obmqtemhx seql emleah qzh pbw.
+8 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+9 Rzh ldeqotlh el perrhx qztm qzh pbw.
+10 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+11 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	8 5
+12 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	10 2
+13 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	9 4
+14 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	10 2
+15 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	9 4
+1 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 2
+7 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 3
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 2
+9 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	3 2
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 3
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+3 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh ozhlq.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 1
+7 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 1
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	3 1
+1 Rzh ldeqotlh el perrhx qztm qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh ldeqotlh seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Ybhl qzh pbw seq em qzh ozhlq?	ihl	4 1
+7 Ybhl qzh pbw seq em qzh ozhlq?	ihl	4 1
+8 Ybhl qzh pbw seq em qzh ozhlq?	ihl	4 1
+9 Xl qzh ozhlq perrhx qztm qzh pbw?	ihl	4 1
+10 Ybhl qzh pbw seq em qzh ozhlq?	ihl	4 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh obmqtemhx seql emleah qzh pbw.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+6 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	5 2
+7 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	5 2
+8 Xl qzh pbw perrhx qztm qzh ldeqotlh?	ihl	2 5
+9 Xl qzh ldeqotlh perrhx qztm qzh pbw?	mb	5 2
+10 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	5 2
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+3 Rzh pbw seql emleah qzh ozhlq.
+4 Rzh pbw seql emleah qzh ldeqotlh.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	1 3
+7 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 1
+8 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	1 3
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+1 Rzh pbw el perrhx qztm qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq seql emleah qzh ldeqotlh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 5
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	1 5
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	1 5
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	1 5
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	2 5
+1 Rzh obmqtemhx seql emleah qzh pbw.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+7 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+8 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+9 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+10 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+11 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	10 1
+12 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 2
+13 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	8 2
+14 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	8 2
+15 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	10 1
+1 Rzh obmqtemhx seql emleah qzh pbw.
+2 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+3 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+7 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+8 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+9 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+10 Rzh pbw el perrhx qztm qzh ozhlq.
+11 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	9 2
+12 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	9 3
+13 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	9 2
+14 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	9 3
+15 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	9 2
+1 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+3 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+7 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+8 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+9 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+10 Rzh obmqtemhx el perrhx qztm qzh pbw.
+11 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	1 6
+12 Ybhl qzh obmqtemhx seq em qzh ozhlq?	mb	9 2
+13 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	10 4
+14 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	9 1
+15 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	9 1
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	3 4
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 3
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 3
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 3
+10 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 3
+1 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+6 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	5 1
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 1
+8 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	5 1
+9 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 1
+10 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	5 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+3 Rzh ozbobutqh seql emleah qzh ozhlq.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+8 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+9 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+10 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+1 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+2 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+3 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	4 1
+7 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	4 1
+8 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	4 1
+9 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	4 1
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	4 1
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw seql emleah qzh obmqtemhx.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 1
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	5 1
+8 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	3 1
+9 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 3
+10 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	3 1
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+7 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+8 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+9 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+10 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+11 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	8 1
+12 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	9 2
+13 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	7 2
+14 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	7 2
+15 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	9 2
+1 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh ozhlq el perrhx qztm qzh pbw.
+4 Rzh pbw seql emleah qzh ozhlq.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Xl qzh obmqtemhx perrhx qztm qzh ozhlq?	mb	2 1
+7 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	2 1
+8 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	ihl	1 2
+9 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	2 1
+10 Ybhl qzh obmqtemhx seq em qzh ozhlq?	ihl	1 2
+1 Rzh ldeqotlh seql emleah qzh pbw.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh pbw.
+4 Rzh pbw el perrhx qztm qzh obmqtemhx.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 1
+7 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	1 5
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	1 5
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	1 5
+10 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 1
+1 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh pbw seql emleah qzh ozhlq.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+7 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+8 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+9 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+11 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	6 5
+12 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	7 2
+13 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	7 2
+14 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	7 2
+15 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	7 2
+1 Rzh pbw seql emleah qzh obmqtemhx.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	3 1
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	1 3
+8 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	1 3
+9 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	1 3
+10 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	1 3
+1 Rzh ozbobutqh seql emleah qzh ozhlq.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw el perrhx qztm qzh obmqtemhx.
+4 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ldeqotlh seql emleah qzh ozhlq.
+6 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 2
+7 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	4 3
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	4 2
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	4 3
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	3 4
+1 Rzh ozbobutqh seql emleah qzh ozhlq.
+2 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+3 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+6 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	4 2
+7 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 2
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 2
+9 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	4 2
+10 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 2
+1 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+2 Rzh ozhlq seql emleah qzh obmqtemhx.
+3 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	4 1
+7 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	4 1
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	4 1
+9 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	4 1
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	4 1
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh ozbobutqh seql emleah qzh pbw.
+4 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh ozbobutqh seql emleah qzh pbw.
+8 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+9 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+10 Rzh obmqtemhx el perrhx qztm qzh pbw.
+11 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	10 1
+12 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	10 1
+13 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	10 1
+14 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	10 1
+15 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	10 1
+1 Rzh pbw el perrhx qztm qzh ozhlq.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+6 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 2
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	2 5
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	2 5
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	5 2
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	2 5
+1 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+2 Rzh ozhlq el perrhx qztm qzh pbw.
+3 Rzh pbw el perrhx qztm qzh obmqtemhx.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw.
+6 Ybhl qzh obmqtemhx seq em qzh ozhlq?	ihl	2 3
+7 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	ihl	2 3
+8 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	4 1
+9 Xl qzh ozhlq perrhx qztm qzh obmqtemhx?	ihl	2 3
+10 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	3 2
+1 Rzh pbw seql emleah qzh obmqtemhx.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+3 Rzh ozhlq seql emleah qzh ldeqotlh.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	4 3
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	5 3
+8 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	4 3
+9 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	5 3
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	3 4
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+5 Rzh ldeqotlh seql emleah qzh ozhlq.
+6 Ybhl qzh obmqtemhx seq em qzh pbw?	ihl	2 4
+7 Xl qzh obmqtemhx perrhx qztm qzh pbw?	mb	4 2
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 1
+9 Xl qzh pbw perrhx qztm qzh obmqtemhx?	ihl	2 4
+10 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	4 1
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 2
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 2
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	5 2
+10 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	5 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw.
+3 Rzh ozhlq seql emleah qzh ldeqotlh.
+4 Rzh obmqtemhx el perrhx qztm qzh pbw.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	1 5
+7 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 5
+8 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	1 3
+9 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	5 1
+10 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	1 3
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh ozhlq seql emleah qzh pbw.
+3 Rzh ozhlq seql emleah qzh pbw.
+4 Rzh ozhlq seql emleah qzh pbw.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 2
+7 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 2
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh pbw?	mb	5 2
+9 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 2
+10 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	5 2
+1 Rzh pbw seql emleah qzh obmqtemhx.
+2 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+3 Rzh pbw seql emleah qzh obmqtemhx.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 5
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 5
+8 Xl qzh obmqtemhx perrhx qztm qzh pbw bs ozbobutqhl?	ihl	2 5
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 5
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 5
+1 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	3 1
+7 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	4 2
+8 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 3
+9 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 3
+10 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	3 1
+1 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	5 3
+7 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	5 3
+8 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	5 3
+9 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	5 3
+10 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	5 3
+1 Rzh ozhlq seql emleah qzh obmqtemhx.
+2 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh ozhlq.
+4 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw.
+6 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 1
+7 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 1
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	3 1
+9 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+2 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Rzh pbw el perrhx qztm qzh ldeqotlh.
+7 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+8 Rzh obmqtemhx seql emleah qzh pbw.
+9 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+10 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+11 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 6
+12 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	8 1
+13 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	8 1
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 6
+15 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	2 6
+1 Rzh obmqtemhx seql emleah qzh pbw.
+2 Rzh ldeqotlh seql emleah qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+5 Rzh obmqtemhx seql emleah qzh pbw.
+6 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	4 1
+7 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	4 1
+8 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	4 1
+9 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	4 1
+10 Ybhl qzh pbw seq em qzh ldeqotlh?	mb	4 1
+1 Rzh ozhlq seql emleah qzh pbw.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw.
+5 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozhlq seq em qzh ldeqotlh?	ihl	4 1
+7 Xl qzh ldeqotlh perrhx qztm qzh ozhlq?	ihl	4 1
+8 Ybhl qzh ozhlq seq em qzh ldeqotlh?	ihl	4 1
+9 Xl qzh ldeqotlh perrhx qztm qzh ozhlq?	ihl	4 1
+10 Xl qzh ldeqotlh perrhx qztm qzh ozhlq?	ihl	4 1
+1 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+2 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+3 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh ozbobutqh seql emleah qzh pbw.
+5 Rzh pbw seql emleah qzh obmqtemhx.
+6 Ybhl qzh ldeqotlh seq em qzh pbw?	mb	5 2
+7 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	5 4
+8 Ybhl qzh ldeqotlh seq em qzh pbw?	mb	5 2
+9 Ybhl qzh pbw seq em qzh ldeqotlh?	ihl	2 5
+10 Ybhl qzh pbw seq em qzh ldeqotlh?	ihl	2 5
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh pbw el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ozbobutqh seql emleah qzh ozhlq.
+6 Rzh pbw el perrhx qztm qzh ldeqotlh.
+7 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+8 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+9 Rzh pbw el perrhx qztm qzh ldeqotlh.
+10 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+11 Rzh pbw el perrhx qztm qzh ozhlq.
+12 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+13 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+14 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+15 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+16 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	11 3
+17 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	11 3
+18 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	11 3
+19 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	11 3
+20 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	11 3
+1 Rzh pbw el perrhx qztm qzh ldeqotlh.
+2 Rzh pbw seql emleah qzh obmqtemhx.
+3 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh pbw.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw.
+6 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	5 1
+7 Xl qzh obmqtemhx perrhx qztm qzh ldeqotlh?	ihl	2 1
+8 Xl qzh obmqtemhx perrhx qztm qzh ldeqotlh?	ihl	2 1
+9 Ybhl qzh ldeqotlh seq em qzh obmqtemhx?	ihl	2 1
+10 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	mb	1 2
+1 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+2 Rzh pbw seql emleah qzh obmqtemhx.
+3 Rzh pbw el perrhx qztm qzh ozbobutqh.
+4 Rzh ozbobutqh seql emleah qzh ozhlq.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+7 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 2
+9 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	1 4
+10 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+1 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+2 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+3 Rzh ldeqotlh seql emleah qzh ozhlq.
+4 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+5 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 5
+7 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 5
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 5
+9 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	4 5
+10 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	4 5
+1 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+4 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+5 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+6 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh pbw el perrhx qztm qzh ldeqotlh.
+8 Rzh pbw el perrhx qztm qzh ozbobutqh.
+9 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+10 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+11 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	7 1
+12 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	7 1
+13 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	7 1
+14 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	7 1
+15 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	7 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw.
+6 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	ihl	5 2
+7 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	ihl	5 2
+8 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	ihl	5 2
+9 Xl qzh ldeqotlh perrhx qztm qzh obmqtemhx?	ihl	5 2
+10 Ybhl qzh obmqtemhx seq em qzh ldeqotlh?	ihl	5 2
+1 Rzh obmqtemhx seql emleah qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+3 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+4 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+5 Rzh ozhlq seql emleah qzh obmqtemhx.
+6 Xl qzh ozhlq perrhx qztm qzh pbw?	mb	5 1
+7 Ybhl qzh pbw seq em qzh ozhlq?	mb	5 1
+8 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 3
+9 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 3
+10 Ybhl qzh pbw seq em qzh ozhlq?	mb	5 1
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh ozhlq seql emleah qzh ldeqotlh.
+4 Rzh obmqtemhx seql emleah qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	4 1
+7 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	4 1
+8 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	1 2
+9 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 2
+10 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	1 2
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq seql emleah qzh ldeqotlh.
+5 Rzh ozbobutqh seql emleah qzh pbw.
+6 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	4 2
+7 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	4 2
+8 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+9 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	2 4
+10 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	2 4
+1 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+3 Rzh ldeqotlh seql emleah qzh pbw.
+4 Rzh pbw el perrhx qztm qzh ozbobutqh.
+5 Rzh ozhlq seql emleah qzh pbw.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	1 3
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 1
+8 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 2
+9 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	1 3
+10 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 2
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh pbw el perrhx qztm qzh obmqtemhx.
+3 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+4 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+6 Xl qzh ozhlq perrhx qztm qzh pbw?	mb	3 2
+7 Ybhl qzh ozhlq seq em qzh pbw?	ihl	2 3
+8 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	4 2
+9 Ybhl qzh pbw seq em qzh ozhlq?	mb	3 2
+10 Ybhl qzh pbw seq em qzh ozhlq?	mb	3 2
+1 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+6 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	2 5
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	5 2
+8 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	2 3
+9 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	2 5
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	2 5
+1 Rzh ozbobutqh seql emleah qzh ozhlq.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh ozhlq el perrhx qztm qzh pbw.
+4 Rzh obmqtemhx el perrhx qztm qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 3
+7 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 3
+8 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 3
+9 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	2 3
+10 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	3 2
+1 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+2 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh pbw.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+7 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+8 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+9 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 1
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	1 3
+1 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+2 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+3 Rzh obmqtemhx seql emleah qzh ozhlq.
+4 Rzh ldeqotlh seql emleah qzh pbw.
+5 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+6 Xl qzh ozhlq perrhx qztm qzh ldeqotlh?	ihl	3 1
+7 Ybhl qzh ldeqotlh seq em qzh ozhlq?	ihl	3 1
+8 Ybhl qzh ozhlq seq em qzh ldeqotlh?	mb	1 3
+9 Ybhl qzh ldeqotlh seq em qzh ozhlq?	ihl	3 1
+10 Ybhl qzh ozhlq seq em qzh ldeqotlh?	mb	1 3
+1 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+3 Rzh ozbobutqh seql emleah qzh ozhlq.
+4 Rzh ozhlq seql emleah qzh ldeqotlh.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	4 3
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 4
+8 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	4 3
+9 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	3 4
+10 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 4
+1 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	2 3
+7 Ybhl qzh ldeqotlh seq em qzh pbw bs ozbobutqhl?	mb	3 2
+8 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	1 3
+9 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	3 1
+10 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	1 3
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+3 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq seql emleah qzh obmqtemhx.
+5 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	3 1
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	1 2
+8 Ybhl qzh ozbobutqh seq em qzh ozhlq?	ihl	1 3
+9 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 1
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	2 1
+1 Rzh pbw el perrhx qztm qzh ozhlq.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+5 Rzh ozhlq el perrhx qztm qzh obmqtemhx.
+6 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	5 2
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	5 2
+8 Ybhl qzh pbw seq em qzh pbw bs ozbobutqhl?	mb	4 1
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	5 2
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh ozhlq?	ihl	5 2
+1 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw.
+3 Rzh ldeqotlh el perrhx qztm qzh pbw.
+4 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+5 Rzh ldeqotlh el perrhx qztm qzh pbw.
+6 Rzh pbw seql emleah qzh ldeqotlh.
+7 Rzh ozbobutqh seql emleah qzh pbw.
+8 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+9 Rzh ozhlq seql emleah qzh ldeqotlh.
+10 Rzh pbw seql emleah qzh obmqtemhx.
+11 Ybhl qzh ldeqotlh seq em qzh pbw?	mb	10 1
+12 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	8 2
+13 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	7 2
+14 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ldeqotlh?	mb	8 2
+15 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	7 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+2 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+3 Rzh ozbobutqh seql emleah qzh pbw.
+4 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh ldeqotlh seql emleah qzh pbw.
+6 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 1
+7 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	5 1
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	5 1
+9 Ybhl qzh pbw bs ozbobutqhl seq em qzh pbw?	ihl	5 1
+10 Xl qzh pbw perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 1
+1 Rzh obmqtemhx seql emleah qzh ozhlq.
+2 Rzh pbw seql emleah qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+4 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+5 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+6 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 3
+7 Xl qzh ozbobutqh perrhx qztm qzh ozhlq?	mb	3 1
+8 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 3
+9 Ybhl qzh ozhlq seq em qzh ozbobutqh?	mb	3 1
+10 Xl qzh ozhlq perrhx qztm qzh ozbobutqh?	ihl	1 3
+1 Rzh pbw el perrhx qztm qzh ldeqotlh.
+2 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+3 Rzh ozbobutqh seql emleah qzh pbw bs ozbobutqhl.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh ldeqotlh seql emleah qzh ozhlq.
+6 Ybhl qzh obmqtemhx seq em qzh pbw?	ihl	1 2
+7 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 4
+8 Xl qzh pbw perrhx qztm qzh obmqtemhx?	ihl	1 2
+9 Ybhl qzh obmqtemhx seq em qzh pbw?	ihl	1 2
+10 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	4 3
+1 Rzh ozbobutqh seql emleah qzh ozhlq.
+2 Rzh ozbobutqh seql emleah qzh pbw.
+3 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+4 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Rzh pbw el perrhx qztm qzh ozbobutqh.
+7 Rzh ldeqotlh seql emleah qzh obmqtemhx.
+8 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+9 Rzh ozbobutqh seql emleah qzh ozhlq.
+10 Rzh ozhlq seql emleah qzh pbw.
+11 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	3 7
+12 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	10 1
+13 Ybhl qzh ozbobutqh seq em qzh obmqtemhx?	ihl	7 3
+14 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	10 1
+15 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	10 1
+1 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ozhlq el perrhx qztm qzh pbw.
+4 Rzh pbw bs ozbobutqhl seql emleah qzh obmqtemhx.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+7 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+8 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+9 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+10 Rzh ozhlq el perrhx qztm qzh pbw.
+11 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	8 3
+12 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	8 3
+13 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	3 8
+14 Ybhl qzh ozhlq seq em qzh pbw bs ozbobutqhl?	mb	8 3
+15 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	8 3
+1 Rzh obmqtemhx el perrhx qztm qzh ldeqotlh.
+2 Rzh ozhlq el perrhx qztm qzh pbw.
+3 Rzh ozhlq el perrhx qztm qzh ldeqotlh.
+4 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+5 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+6 Ybhl qzh pbw seq em qzh obmqtemhx?	ihl	5 2
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	4 1
+8 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	4 1
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	4 1
+10 Ybhl qzh obmqtemhx seq em qzh pbw bs ozbobutqhl?	mb	4 1
+1 Rzh pbw el perrhx qztm qzh ldeqotlh.
+2 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh pbw el perrhx qztm qzh ozhlq.
+5 Rzh pbw el perrhx qztm qzh ozbobutqh.
+6 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	2 3
+7 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+8 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+9 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+10 Ybhl qzh ozbobutqh seq em qzh pbw?	ihl	3 2
+1 Rzh ldeqotlh el perrhx qztm qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh ozbobutqh.
+3 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+4 Rzh ozhlq seql emleah qzh obmqtemhx.
+5 Rzh ozhlq seql emleah qzh pbw.
+6 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	3 1
+7 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+9 Xl qzh ldeqotlh perrhx qztm qzh ozbobutqh?	ihl	1 3
+10 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	1 3
+1 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+2 Rzh pbw el perrhx qztm qzh ozhlq.
+3 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+4 Rzh pbw el perrhx qztm qzh ozhlq.
+5 Rzh ozhlq seql emleah qzh pbw.
+6 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+7 Rzh pbw bs ozbobutqhl el perrhx qztm qzh ozbobutqh.
+8 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+9 Rzh ldeqotlh el perrhx qztm qzh ozbobutqh.
+10 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+11 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	6 7
+12 Ybhl qzh pbw seq em qzh ozbobutqh?	mb	7 6
+13 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	7 6
+14 Xl qzh ozbobutqh perrhx qztm qzh pbw?	mb	7 6
+15 Xl qzh pbw perrhx qztm qzh ozbobutqh?	ihl	6 7
+1 Rzh obmqtemhx el perrhx qztm qzh pbw.
+2 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+3 Rzh pbw el perrhx qztm qzh pbw bs ozbobutqhl.
+4 Rzh obmqtemhx el perrhx qztm qzh ozbobutqh.
+5 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+6 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 1
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 1
+8 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	1 3
+9 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 1
+10 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	3 1
+1 Rzh pbw bs ozbobutqhl seql emleah qzh ozhlq.
+2 Rzh ldeqotlh el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozhlq seql emleah qzh obmqtemhx.
+4 Rzh obmqtemhx el perrhx qztm qzh ozhlq.
+5 Rzh ldeqotlh seql emleah qzh ozhlq.
+6 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 2
+7 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh ozhlq?	mb	2 5
+8 Xl qzh pbw bs ozbobutqhl perrhx qztm qzh obmqtemhx?	mb	1 3
+9 Xl qzh ozhlq perrhx qztm qzh pbw bs ozbobutqhl?	ihl	5 2
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh obmqtemhx?	ihl	3 1
+1 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+2 Rzh ozbobutqh seql emleah qzh ozhlq.
+3 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+4 Rzh ldeqotlh seql emleah qzh pbw.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Ybhl qzh obmqtemhx seq em qzh pbw?	ihl	4 1
+7 Xl qzh pbw perrhx qztm qzh obmqtemhx?	ihl	4 1
+8 Xl qzh pbw perrhx qztm qzh obmqtemhx?	ihl	4 1
+9 Ybhl qzh pbw seq em qzh obmqtemhx?	mb	1 4
+10 Xl qzh obmqtemhx perrhx qztm qzh pbw?	mb	1 4
+1 Rzh obmqtemhx seql emleah qzh ldeqotlh.
+2 Rzh ozhlq el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh ozbobutqh seql emleah qzh obmqtemhx.
+4 Rzh ozhlq el perrhx qztm qzh ozbobutqh.
+5 Rzh ozbobutqh seql emleah qzh ldeqotlh.
+6 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+7 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+8 Xl qzh ozbobutqh perrhx qztm qzh ldeqotlh?	mb	3 1
+9 Ybhl qzh ozbobutqh seq em qzh ldeqotlh?	ihl	1 3
+10 Ybhl qzh ldeqotlh seq em qzh ozbobutqh?	mb	3 1
+1 Rzh pbw el perrhx qztm qzh ozbobutqh.
+2 Rzh obmqtemhx el perrhx qztm qzh pbw bs ozbobutqhl.
+3 Rzh obmqtemhx el perrhx qztm qzh pbw.
+4 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+5 Rzh pbw bs ozbobutqhl seql emleah qzh ldeqotlh.
+6 Ybhl qzh obmqtemhx seq em qzh ozbobutqh?	mb	1 3
+7 Xl qzh ldeqotlh perrhx qztm qzh pbw bs ozbobutqhl?	ihl	4 2
+8 Xl qzh ozbobutqh perrhx qztm qzh obmqtemhx?	mb	1 3
+9 Xl qzh obmqtemhx perrhx qztm qzh ozbobutqh?	ihl	3 1
+10 Ybhl qzh pbw bs ozbobutqhl seq em qzh ldeqotlh?	ihl	4 2
+1 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+2 Rzh pbw bs ozbobutqhl seql emleah qzh pbw.
+3 Rzh obmqtemhx seql emleah qzh pbw.
+4 Rzh ldeqotlh el perrhx qztm qzh obmqtemhx.
+5 Rzh ldeqotlh seql emleah qzh ozhlq.
+6 Ybhl qzh obmqtemhx seq em qzh ozhlq?	ihl	5 4
+7 Xl qzh obmqtemhx perrhx qztm qzh ozhlq?	mb	4 5
+8 Ybhl qzh ozhlq seq em qzh obmqtemhx?	mb	4 5
