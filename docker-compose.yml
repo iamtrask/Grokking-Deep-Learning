@@ -1,0 +1,29 @@
+#
+# Run the Jupyter notebooks in a container using Docker Compose
+#
+# Start container:
+# docker-compose up -d
+#
+# Open http://localhost:8888/ in browser and run the samples
+#
+# Stop the container:
+# docker-compose stop
+#
+# Stop and remove container, network, etc.:
+# docker-compose down
+#
+
+version: '2'
+services:
+  jupyter:
+    image: jupyter/tensorflow-notebook
+    container_name: jupyter
+    environment:
+      JUPYTER_ENABLE_LAB: 1
+    volumes:
+      - .:/home/jovyan/work
+    ports:
+      - "8888:8888"
+    entrypoint:
+      - start-notebook.sh
+      - --NotebookApp.token=''
