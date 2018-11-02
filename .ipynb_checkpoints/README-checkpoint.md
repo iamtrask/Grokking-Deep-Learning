@@ -1,2 +1,0 @@
-# Grokking-Deep-Learning
-This repository accompanies my forthcoming book "Grokking Deep Learning", [available here](https://manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258 "Grokking Deep Learning").
